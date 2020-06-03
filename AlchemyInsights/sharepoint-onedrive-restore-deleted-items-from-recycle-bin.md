@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a3e3fa3cbaf3ab3c1fcf42e8a564d2b7cd8428eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692843"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511226"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>OneDrive 또는 SharePoint에서 누락 된 파일 또는 폴더 문제 해결
 
@@ -35,7 +35,7 @@ OneDrive 또는 SharePoint 파일의 수가 너무 많이 삭제, 덮어쓰기, 
 
 **감사 로깅 또는 파일 활동 창을 사용 하 여 파일 기록을 확인 합니다.**
 
-[Check the audit reports](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)</a> [여기](https://protection.office.com/#/unifiedauditlog) 로 탐색 하 여 감사 보고서 확인
+[감사 보고서 확인](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) </a> [여기](https://protection.office.com/#/unifiedauditlog) 로 이동 하 여
 
 파일 [활동](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) 창을 사용 하 여 파일의 기록을 확인 합니다.
 

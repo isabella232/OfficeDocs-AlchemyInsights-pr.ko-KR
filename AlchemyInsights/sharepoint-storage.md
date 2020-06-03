@@ -12,12 +12,12 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 37cdc6943b28dc6823044957691767351d4ac246
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cfe6091baec784a0b726ccc6e1b97a3ce1d00c8d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051035"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512632"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>SharePoint Online 저장소 관리
 
@@ -29,9 +29,9 @@ ms.locfileid: "40051035"
 
 [개별 사이트 모음 저장 용량 제한을 관리](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)하는 방법에 대해 알아봅니다.
 
-사이트의 공간이 부족 하거나, 공간을 활용 하는 라이브러리나 목록을 알아보려면 **사이트 설정** > **저장소 메트릭으로** 이동 합니다 (사이트 모음 관리자 권한이 필요 함).
+사이트의 공간이 부족 하거나, 공간을 활용 하는 라이브러리나 목록을 알아보려면 **사이트 설정**  >  **저장소 메트릭으로** 이동 합니다 (사이트 모음 관리자 권한이 필요 함).
 
 [PowerShell을 사용 하 여 사이트 저장 용량 제한을 모니터링](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)하는 방법을 알아봅니다.
 
-[추가 저장소를 구입](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space)하는 방법을 알아보세요. 
+[추가 저장소를 구입](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)하는 방법을 알아보세요. 
   

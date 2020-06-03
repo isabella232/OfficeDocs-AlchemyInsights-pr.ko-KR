@@ -10,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: c781e9fd492ff97bc80667956e6609b3d40b28b4
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010620"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508634"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>터미널 서버에 Office 설치
 
@@ -30,9 +30,9 @@ Microsoft 365 관리 센터에서 RDS에 Microsoft 365 앱을 설치 하려면 *
 > [!TIP]
 > [Microsoft 지원 및 복구 도우미](https://aka.ms/SaRA_OfficeSCA_M365Portal) 를 다운로드 하 고 실행 하 여 공유 컴퓨터 활성화 모드에서 Microsoft 365 Apps For enterprise office를 설치할 수도 있습니다.
   
-1. 보유 하 고 있는 Microsoft 365 구독을 확인 합니다. [방법 알아보기](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. 보유 하 고 있는 Microsoft 365 구독을 확인 합니다. [방법 알아보기](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
-2. 필요한 경우 다른 Microsoft 365 구독으로 전환 합니다. [방법 알아보기](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. 필요한 경우 다른 Microsoft 365 구독으로 전환 합니다. [방법 알아보기](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 3. 다른 Microsoft 365 구독을 사용 하 여 Office가 RDS 서버에 이미 설치 되어 있는 경우 제거 합니다. 예를 들어 제어판으로 이동 하 여 \> 프로그램을 제거 합니다. 문제가 발생 하는 경우 [Microsoft 지원 및 복구 도우미를](https://aka.ms/SARA-OfficeUninstall-Alchemy) 사용 하 여 제거 합니다.
 

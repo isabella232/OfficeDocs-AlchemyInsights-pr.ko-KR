@@ -9,15 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 4000320e83c6a6d7857103a940d5c97c48e702a4
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: a988656beee1da0cc763b36de001777b18842956
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768659"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510254"
 ---
 # <a name="outlook-on-the-web-account-hacked"></a>해킹 당한 웹 계정의 Outlook 계정
 
-계정이 해킹 당한 경우 [의심 스러운 Microsoft 365 계정 및 사서함으로 전자 메일 기능을 보호 하 고 복원 하는 방법](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox)에 대 한 지침을 따르세요.
+계정이 해킹 당한 경우 [의심 스러운 Microsoft 365 계정 및 사서함으로 전자 메일 기능을 보호 하 고 복원 하는 방법](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)에 대 한 지침을 따르세요.
 
-계정이 손상 되는 것을 방지 하기 위해 취할 수 있는 추가 단계에 대 한 자세한 내용은 [Microsoft 365에서 손상 된 전자 메일 계정에 응답](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)을 참조 하세요.
+계정이 손상 되는 것을 방지 하기 위해 취할 수 있는 추가 단계에 대 한 자세한 내용은 [Microsoft 365에서 손상 된 전자 메일 계정에 응답](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)을 참조 하세요.

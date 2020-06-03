@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788672"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507032"
 ---
 # <a name="enable-an-archive-mailbox"></a>보관 사서함 사용
 
@@ -27,7 +27,7 @@ Microsoft 365의 보관 사서함 ( *온라인 보관* 또는 원본 *위치 보
 
 2. 관리자 계정을 사용 하 여 Microsoft 365에 로그인 합니다.
 
-3. 보안 &amp; 및 준수 센터의 왼쪽 창에서 **정보 거 버 넌 스** \> **보관**함을 선택 합니다.
+3. 보안 및 준수 센터의 왼쪽 창에서 &amp; **정보 거 버 넌 스** \> **보관**함을 선택 합니다.
 
 4. 보관 사서함을 사용 하도록 설정 하려는 사용자를 선택 합니다.
 
@@ -43,7 +43,7 @@ Microsoft 365의 보관 사서함 ( *온라인 보관* 또는 원본 *위치 보
 
 1. [Exchange 관리 센터로](https://outlook.office365.com/ecp) 이동 하 여 관리자 계정을 사용 하 여 로그인 합니다.
 
-2. **공유**되는 **받는 사람** > 으로 이동 합니다.
+2. 공유 되는 **받는 사람**으로 이동  >  **Shared**합니다.
 
 3. 공유 사서함을 선택 합니다.
 
@@ -51,6 +51,6 @@ Microsoft 365의 보관 사서함 ( *온라인 보관* 또는 원본 *위치 보
 
 자세한 내용은 다음을 참조하세요.
   
-- [보관 사서함 사용](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [보관 사서함 사용](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [보관 및 삭제 정책 설정](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

@@ -12,12 +12,12 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4f0cba480fcc05114abd8f370b84e9a37e5f2804
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720258"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510758"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>복구 가능한 항목 폴더가 꽉 참
 
@@ -33,12 +33,12 @@ Exchange Online 사서함의 경우 복구 가능한 항목 폴더에 대 한 �
 
 - 사서함 감사 로깅이 사용 하도록 설정 된 사서함의 경우 복구 가능한 항목 폴더의 감사 하위 폴더에는 사서함 감사 로그 항목을 저장할 수 없습니다.
 
-보류 중인 사서함의 경우 관리자는 Exchange Online PowerShell의 `Search-Mailbox -SearchDumpsterOnly -DeleteContent` 명령을 사용 하 여 복구 가능한 항목 폴더의 항목을 삭제할 수 있습니다. 자세한 내용은 다음 항목을 참조하세요.
+보류 중인 사서함의 경우 관리자는 `Search-Mailbox -SearchDumpsterOnly -DeleteContent` Exchange Online PowerShell의 명령을 사용 하 여 복구 가능한 항목 폴더의 항목을 삭제할 수 있습니다. 자세한 내용은 다음 항목을 참조하세요.
 
-- [메시지 검색 및 삭제](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
+- [메시지 검색 및 삭제](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
 - [검색 사서함](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-보류 중인 사서함의 경우 관리자는 복구 가능한 항목 폴더에서 항목을 삭제 하기 전에 보류를 제거 해야 합니다. 자세한 내용은 [보류 중인 클라우드 기반 사서함의 복구 가능한 항목 폴더에서 항목 삭제](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)를 참조 하세요.
+보류 중인 사서함의 경우 관리자는 복구 가능한 항목 폴더에서 항목을 삭제 하기 전에 보류를 제거 해야 합니다. 자세한 내용은 [보류 중인 클라우드 기반 사서함의 복구 가능한 항목 폴더에서 항목 삭제](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)를 참조 하세요.
 
-복구 가능한 항목 폴더가 가득 차지 않도록 하기 위해 관리자는 보류 중인 사서함에 대 한 복구 가능한 항목 폴더의 저장 제한을 증가 시켜 복구 가능한 항목 폴더에서 사용자의 보관 사서함으로 항목을 이동 하는 사서함 보존 정책을 설정할 수 있습니다. [보류 중인 사서함에 대 한 복구 가능한 항목 할당량 증가를](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold)참조 하세요.
+복구 가능한 항목 폴더가 가득 차지 않도록 하기 위해 관리자는 보류 중인 사서함에 대 한 복구 가능한 항목 폴더의 저장 제한을 증가 시켜 복구 가능한 항목 폴더에서 사용자의 보관 사서함으로 항목을 이동 하는 사서함 보존 정책을 설정할 수 있습니다. [보류 중인 사서함에 대 한 복구 가능한 항목 할당량 증가를](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)참조 하세요.

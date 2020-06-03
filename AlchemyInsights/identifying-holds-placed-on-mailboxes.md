@@ -12,12 +12,12 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 13eb97b9278ac3327425bbb6f03ebeb2e3a24ea2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724782"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508886"
 ---
 # <a name="identify-holds-placed-on-mailboxes"></a>사서함에 저장 되어 있는 보류 확인
 
@@ -37,4 +37,4 @@ ms.locfileid: "43724782"
 
 - Microsoft 365 레이블
 
-사용자의 사서함에 적용 되는 보류 유형을 확인 하려면 [How To Exchange Online mailbox의 보류 유형을 식별](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)하는 방법을 참조 하십시오.
+사용자의 사서함에 적용 되는 보류 유형을 확인 하려면 [How To Exchange Online mailbox의 보류 유형을 식별](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)하는 방법을 참조 하십시오.

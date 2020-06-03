@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 009c7f3848a7ab911a250c6b761c195d2fa37ba2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761307"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510974"
 ---
 # <a name="more-info-about-retention-policies"></a>보존 정책에 대 한 추가 정보
 
@@ -27,15 +27,15 @@ ms.locfileid: "43761307"
 ## <a name="a-from-security-and-compliance-center"></a>A) 보안 및 준수 센터에서
 
 - 보안 및 규정 준수 > 데이터 거 버 넌 스 > 보존으로 이동
-  - [이](https://docs.microsoft.com/office365/securitycompliance/retention-policies) 문서 참조
+  - [이](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) 문서 참조
 
 - 보안 및 규정 준수 > eDiscovery> Advanced eDiscovery로 이동 합니다. 
-  - [이](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) 문서 참조
+  - [이](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) 문서 참조
 
 - 보안 및 규정 준수 > 분류 > 보존으로 이동
   - 다음 문서 참조
-    - [민감도 레이블](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [레이블 개요](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [민감도 레이블](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [레이블 개요](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>B) 레거시 eDiscovery 정책
 

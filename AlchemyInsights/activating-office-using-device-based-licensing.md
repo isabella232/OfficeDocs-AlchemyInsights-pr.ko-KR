@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: 0e5b5c698e588dad4e1759422ab7b9b1f24737ad
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: d0ebc7901efb19a433a0c8d6e8f22e5ff969d336
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010323"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504449"
 ---
 # <a name="activating-office-using-device-based-licensing"></a>장치 기반 라이선싱을 사용 하 여 Office 활성화
 
@@ -29,6 +29,6 @@ ms.locfileid: "44010323"
 설정에 대 한 자세한 내용은 다음을 참조 하십시오.
 
 - [Microsoft 365 Apps for enterprise 기반 라이선싱을 구성 하는 단계](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [장치에 대 한 라이선스 관리](https://docs.microsoft.com/Office365/Admin/misc/manage-licenses-for-devices)
+- [장치에 대 한 라이선스 관리](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
 
 문제 해결 지침은 [Microsoft 365 for Enterprise 앱에 대 한 장치 기반 라이선싱 문제 해결](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)을 참조 하세요.

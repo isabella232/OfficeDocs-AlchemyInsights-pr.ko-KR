@@ -12,12 +12,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d1c7e79b0ba00db87ac0fc3cecd54a6b12721325
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064235"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508742"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>사서함 크기를 늘리도록 구독 전환
 
@@ -35,6 +35,6 @@ ms.locfileid: "44064235"
 
 5. 필요한 라이선스 수를 입력 하 고 매달 지불할 지, 아니면 전체를 지불 하도록 선택 하 고, **체크 아웃**을 선택 합니다.
 
-자세한 내용은 [다른 요금제로 업그레이드를](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)참조 하세요.
+자세한 내용은 [다른 요금제로 업그레이드를](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)참조 하세요.
 
-원본 [위치 보관 함을 지 원하는 구독이](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)있는 경우 보관 사서함을 사용 하도록 설정 하 여 추가 전자 메일 저장소를 받을 수도 있습니다. 보관 사서함은 추가 저장소를 제공 하며, 기본 및 보관 사서함 모두에서 메시지를 이동, 복사 및 검색할 수 있도록 합니다. 보관 사서함을 사용 하도록 설정 하는 방법에 대 한 단계는 [enable a archive mailbox](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)을 참조 하십시오.
+원본 [위치 보관 함을 지 원하는 구독이](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)있는 경우 보관 사서함을 사용 하도록 설정 하 여 추가 전자 메일 저장소를 받을 수도 있습니다. 보관 사서함은 추가 저장소를 제공 하며, 기본 및 보관 사서함 모두에서 메시지를 이동, 복사 및 검색할 수 있도록 합니다. 보관 사서함을 사용 하도록 설정 하는 방법에 대 한 단계는 [enable a archive mailbox](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)을 참조 하십시오.

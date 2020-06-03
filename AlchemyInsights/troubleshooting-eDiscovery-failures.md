@@ -13,12 +13,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759590"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512560"
 ---
 # <a name="troubleshoot-content-search-errors"></a>콘텐츠 검색 오류 문제 해결
 
@@ -34,4 +34,4 @@ ms.locfileid: "43759590"
 
 또는 10만 사서함을 초과 하는 많은 수의 사서함에서 결과를 검색 하거나 내보낼 때 내보내기 오류가 발생 합니까?
 
-이러한 유형의 오류가 발생 하는 경우 실패 한 콘텐츠 위치에 대 한 검색을 다시 시도 합니다. 자세한 내용은 [이 문서](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) 를 참조 하세요.
+이러한 유형의 오류가 발생 하는 경우 실패 한 콘텐츠 위치에 대 한 검색을 다시 시도 합니다. 자세한 내용은 [이 문서](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) 를 참조 하세요.

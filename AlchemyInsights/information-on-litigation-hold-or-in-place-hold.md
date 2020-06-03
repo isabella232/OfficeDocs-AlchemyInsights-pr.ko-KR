@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 63b28edc5d2eb7c8d904e004c06c5682768411a7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711025"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508706"
 ---
 # <a name="about-litigation-holds-and-in-place-holds"></a>소송 보존 및 원본 위치 유지 정보
 
@@ -22,11 +22,11 @@ ms.locfileid: "43711025"
     
 - 단일 사용자에 대해 **소송 보존을 사용 하도록 설정 하려면** [여기](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)에 나와 있는 단계를 수행 합니다. 소송 보존을 사용 하도록 설정 하면 사서함의 모든 콘텐츠가 보존 됩니다.
     
-- **단일 사용자에 대해 원본 위치 유지** 또는 **전체 조직의 모든 사서함**에 대 한 보류를 적용 하려면 [여기](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )에 설명 된 단계에 따라 Microsoft 365 보안 및 준수 센터에서 보존 정책을 사용할 수 있습니다.
+- **단일 사용자에 대해 원본 위치 유지** 또는 **전체 조직의 모든 사서함**에 대 한 보류를 적용 하려면 [여기]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies)에 설명 된 단계에 따라 Microsoft 365 보안 및 준수 센터에서 보존 정책을 사용할 수 있습니다.
     
     > [!NOTE]
     > 조직 전체 보존 정책의 경우 새 사용자가 보류에 자동으로 추가 됩니다. 
   
-- 보류 된 사서함 콘텐츠를 보거나 검색 하려면 **EDiscovery 검색 및 내보내기를**사용 합니다. **EDiscovery 검색 및 내보내기를**사용 하는 방법에 대 한 자세한 내용은 [여기](https://docs.microsoft.com/office365/securitycompliance/export-search-results)에 나와 있는 단계를 따르세요.
+- 보류 된 사서함 콘텐츠를 보거나 검색 하려면 **EDiscovery 검색 및 내보내기를**사용 합니다. **EDiscovery 검색 및 내보내기를**사용 하는 방법에 대 한 자세한 내용은 [여기](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)에 나와 있는 단계를 따르세요.
     
 

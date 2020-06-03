@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 4e07b178fa41015bb942d939c08c534c2bfac30e
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912264"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505133"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>관련 정보를 찾기 위한 콘텐츠 검색 도구
 
 보안 & 준수 센터의 콘텐츠 검색 도구를 사용 하 여 비즈니스용 Skype의 Exchange 사서함, SharePoint 사이트 및 OneDrive 위치에 있는 문서 및 인스턴트 메시징 대화에서 신속 하 게 전자 메일을 찾을 수 있습니다. 콘텐츠 검색 도구를 사용 하 여 microsoft 팀 및 Microsoft 365 그룹과 같은 Microsoft 365 공동 작업 도구에서 전자 메일, 문서 및 인스턴트 메시징 대화를 검색할 수 있습니다.
 
 
-[보안 & 준수 센터](https://sip.protection.office.com/homepage)에서 [콘텐츠 검색](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) 을 사용 하기 전에 [사용 권한 구성](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [다운로드 속도 설정](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) 및 [내보내기 설정을](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results)비롯 한 구성 설정을 완료 해야 합니다.
+[보안 & 준수 센터](https://sip.protection.office.com/homepage)에서 [콘텐츠 검색](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) 을 사용 하기 전에 [사용 권한 구성](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search), [다운로드 속도 설정](https://docs.microsoft.com/microsoft-365/compliance/increase-download-speeds-when-exporting-ediscovery-results) 및 [내보내기 설정을](https://docs.microsoft.com/microsoft-365/compliance/disable-reports-when-you-export-content-search-results)비롯 한 구성 설정을 완료 해야 합니다.
 
-[요구 사항 및 제한을](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search)검토 하 여 콘텐츠 검색에 대해 자세히 알아보고, [부분적으로 인덱싱된 항목](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) 및 기타 결과를 확인 합니다.
+[요구 사항 및 제한을](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)검토 하 여 콘텐츠 검색에 대해 자세히 알아보고, [부분적으로 인덱싱된 항목](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) 및 기타 결과를 확인 합니다.
 
-콘텐츠 검색의 구성 설정 및 제한을 검토 한 후 [콘텐츠 검색</a> 을 사용 하 여 조직의 전자 메일, 문서 및 인스턴트 메시징 대화와 같은 원본 위치 항목 검색](https://docs.microsoft.com/office365/securitycompliance/content-search)을 참조 하세요.
+콘텐츠 검색의 구성 설정 및 제한을 검토 한 후 [콘텐츠 검색을 사용 하 여 </a> 조직의 전자 메일, 문서 및 인스턴트 메시징 대화와 같은 원본 위치 항목 검색](https://docs.microsoft.com/microsoft-365/compliance/content-search)을 참조 하세요.
 
-전체 콘텐츠 검색 단계별 진행에 대 한 자세한 내용은 [Microsoft 365에서 콘텐츠 검색](https://docs.microsoft.com/office365/securitycompliance/search-for-content) 을 참조 하십시오.
+전체 콘텐츠 검색 단계별 진행에 대 한 자세한 내용은 [Microsoft 365에서 콘텐츠 검색](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) 을 참조 하십시오.

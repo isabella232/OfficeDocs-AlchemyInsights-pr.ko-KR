@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758453"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511658"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>민감도 레이블 표시 안 함
 
-민감도 레이블을 사용 하면 중요 한 콘텐츠를 분류 하 고 보호할 수 있습니다. 분류 > 민감도 레이블의 microsoft 365 보안 센터 또는 microsoft 365 보안 & 준수 센터 365에서 만들 수 있습니다. 이 기능에 대해 자세히 알아보려면 [민감도 레이블 개요](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)를 참조 하세요.
+민감도 레이블을 사용 하면 중요 한 콘텐츠를 분류 하 고 보호할 수 있습니다. 분류 > 민감도 레이블의 microsoft 365 보안 센터 또는 microsoft 365 보안 & 준수 센터 365에서 만들 수 있습니다. 이 기능에 대해 자세히 알아보려면 [민감도 레이블 개요](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)를 참조 하세요.
 
 민감도 레이블이 구성 되었지만 Office 앱에 나타나지 않는 경우 다음을 확인 하세요.
 
-- 민감도 레이블이 원하는 사용자 및 그룹에 [게시](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) 되었는지 확인 합니다.
+- 민감도 레이블이 원하는 사용자 및 그룹에 [게시](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) 되었는지 확인 합니다.
 
 - 사용자가 민감도 레이블을 지 원하는 앱을 사용 하 고 있는지 확인 하 고, [문서의 민감도 레이블을](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable)참조 하세요.
 

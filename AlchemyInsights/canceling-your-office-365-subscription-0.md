@@ -13,12 +13,12 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: abe3f6950fa9e35eb3154832ebdaffd42bd5dc50
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d506cec4af65d88eb3cb3458af9dc3d00bde5f43
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44059083"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508274"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Microsoft 365 구독을 취소 하 시겠습니까?
 
@@ -30,4 +30,4 @@ ms.locfileid: "44059083"
 
 **참고**: 취소 옵션이 표시 되지 않으면 구독을 클릭 하 여 세부 정보를 확인 하 고 **설정 & 작업**에서 **구독 취소** 옵션을 표시 해야 합니다. 
 
-자세한 내용은 [구독 취소](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)를 참조 하세요. 
+자세한 내용은 [구독 취소](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)를 참조 하세요. 

@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713472"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506744"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Microsoft 365의 공격 시뮬레이터
 
 - 공격 시뮬레이터가 누락 되었습니까? 공격 시뮬레이터에는 **office 365 Advanced Threat Protection 계획 2 (ATP 요금제 2)** 또는 **Office 365 Enterprise E5**가 필요 합니다. Attack 시뮬레이터는 Office 365 Advanced Threat Protection 계획 1 (ATP 계획 1), Office 365 Enterprise E3 또는 기타 Microsoft 365 앱 구독에 포함 **되지** 않습니다.
 
-- 시뮬레이트된 공격을 시작 하는 데 사용 하는 계정에는 전역 관리자 또는 보안 관리자 권한 및 MFA (multi-factor authentication)가 필요 합니다. 공격 시뮬레이터 요구 사항에 대 한 자세한 내용은 [이 항목](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin)을 참조 하십시오.
+- 시뮬레이트된 공격을 시작 하는 데 사용 하는 계정에는 전역 관리자 또는 보안 관리자 권한 및 MFA (multi-factor authentication)가 필요 합니다. 공격 시뮬레이터 요구 사항에 대 한 자세한 내용은 [이 항목](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)을 참조 하십시오.
 
 - **무작위 암호** 공격 시뮬레이션에 대해 알아야 할 중요 한 사항은 다음과 같습니다.
 

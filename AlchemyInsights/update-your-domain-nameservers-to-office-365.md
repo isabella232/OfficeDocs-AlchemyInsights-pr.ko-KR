@@ -11,12 +11,12 @@ ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: b49ca9422f582f906fc6c108c85cc26150474548
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9dd52c60b2d15d66c1c3f2a96c9db08ea2a010c6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719999"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510290"
 ---
 # <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Microsoft를 가리키도록 도메인 이름 서버 업데이트
 
@@ -34,5 +34,5 @@ Microsoft에서 도메인을 설정 하려면 등록자에서 이름 서버를 �
 
 3. 변경 내용을 저장합니다.
 
-또한이 문서에서 [이름 서버를 변경 하 여 도메인 등록 기관으로 Microsoft 365을 설정 하](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar) 는 방법에 대 한 자세한 지침을 확인할 수 있습니다.
+또한이 문서에서 [이름 서버를 변경 하 여 도메인 등록 기관으로 Microsoft 365을 설정 하](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar) 는 방법에 대 한 자세한 지침을 확인할 수 있습니다.
   

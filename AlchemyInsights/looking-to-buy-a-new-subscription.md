@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 9200f436bae0e10a15b3edeed1e4bec3c1b698b6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709449"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505549"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>새 구독을 구입 하 시겠습니까?
 
@@ -32,8 +32,8 @@ Microsoft 365 for business 구독이 이미 있고 조직의 다른 구독을 �
 
  **추가 리소스:**
   
-- [비즈니스를 위해 Microsoft 365의 사용자에 게 라이선스 할당](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [비즈니스를 위해 Microsoft 365의 사용자에 게 라이선스 할당](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [구독 취소](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [구독 취소](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- 구독 전환에 관심이 있는 경우 [다른 Microsoft 365 for business 요금제로 전환을](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan) 참조 하십시오.
+- 구독 전환에 관심이 있는 경우 [다른 Microsoft 365 for business 요금제로 전환을](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan) 참조 하십시오.

@@ -11,16 +11,16 @@ ms.custom:
 - "913"
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: f525cd085d3691c100df6ed6c3c1a06685fcc6b9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 71f6df27d6cecc08286562b14e4e219b99df289d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765167"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509534"
 ---
 # <a name="install-office"></a>Office 설치
 
-Office를 설치 하려면 데스크톱 응용 프로그램 및 [할당 된 라이선스](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)를 포함 하는 [Microsoft 365 for business 제품](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) 을 사용자에 게 제공 해야 합니다.
+Office를 설치 하려면 데스크톱 응용 프로그램 및 [할당 된 라이선스](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)를 포함 하는 [Microsoft 365 for business 제품](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) 을 사용자에 게 제공 해야 합니다.
   
 아래 단계에 따라 Office를 설치할 수 있습니다.
   

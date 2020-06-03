@@ -11,12 +11,12 @@ ms.collection: Admin_O365
 ms.custom:
 - "9000293"
 - "1901"
-ms.openlocfilehash: 48e479de381dc5bd969002a6257416fdd5b3cac4
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 244630d2e9cd619ff8802be5c653ec7b2c40486e
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054636"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510938"
 ---
 # <a name="onedrive-common-issues-and-resolutions"></a>OneDrive 일반적인 문제 및 해결 방법
 
@@ -27,4 +27,4 @@ ms.locfileid: "40054636"
 - **Onedrive 동기화 문제 해결**: onedrive에서 원하는 방식으로 파일을 동기화 하지 않는 경우 Windows에 대 한 [OneDrive 동기화 문제를 해결할](https://go.microsoft.com/fwlink/?linkid=866431) 수 있습니다. Mac 사용 또한 [동기화 문제를 해결할](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756) 수도 있습니다.
 - **Onedrive 제한**: onedrive와 동기화 할 때 파일 이름 및 파일 형식에 적용 되는 [제한 사항 및 제한 사항](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) 에 대해 알아봅니다.
 - **OneDrive 저장소**: [특정 사용자의 onedrive 저장소 공간을 변경](https://docs.microsoft.com/onedrive/change-user-storage) 하거나 [비즈니스용 onedrive 저장소를 관리](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68)하는 방법을 참조 하세요.
-- **감사 로그**: [감사 로그 검색을 사용](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) 하 여 파일 (s), 폴더, 사용자 또는 사용 권한의 활동을 확인할 수 있는 방법을 참조 하세요. 
+- **감사 로그**: [감사 로그 검색을 사용](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) 하 여 파일 (s), 폴더, 사용자 또는 사용 권한의 활동을 확인할 수 있는 방법을 참조 하세요. 

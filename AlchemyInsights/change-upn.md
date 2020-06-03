@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 4ea3c9e8cd2e90aa8dc5a3ec00b19245627398c3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1bc503732b8aba2b509dc48e97434c2d4bc55c65
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706453"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506017"
 ---
 # <a name="change-a-users-email-address"></a>사용자의 전자 메일 주소 변경
 
@@ -38,6 +38,6 @@ ms.locfileid: "43706453"
     
 6. **저장**을 선택 하 고 **닫기를**선택한 다음 완료 되었습니다.
     
-쉽지 않습니까? 스크린샷에 대 한 자세한 내용 및 단계는이 문서를 참조 하세요. [사용자 이름 및 전자 메일 주소 변경](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+쉽지 않습니까? 스크린샷에 대 한 자세한 내용 및 단계는이 문서를 참조 하세요. [사용자 이름 및 전자 메일 주소 변경](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 

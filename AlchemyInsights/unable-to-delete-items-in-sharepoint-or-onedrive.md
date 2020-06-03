@@ -11,16 +11,16 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: abfcb91c6040aeed759d697ca63546ccea8ede97
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 8647b65c52a782ca48ca58bb2700556db528796b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571270"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511982"
 ---
 # <a name="unable-to-delete-items"></a>항목을 삭제할 수 없음
 
-보존 정책에 의해이 문제가 발생 하는 해당 보류를 사용 하지 않도록 설정 하거나 제외 해야 합니다. 보존 정책이 제거 된 후에는 변경 내용이 적용 되는 데 최대 24 시간이 걸릴 수 있습니다. 해당 항목에 대 한 [보존 정책](https://docs.microsoft.com/office365/securitycompliance/retention-policies) 설정이 없는지 확인 합니다.
+보존 정책에 의해이 문제가 발생 하는 해당 보류를 사용 하지 않도록 설정 하거나 제외 해야 합니다. 보존 정책이 제거 된 후에는 변경 내용이 적용 되는 데 최대 24 시간이 걸릴 수 있습니다. 해당 항목에 대 한 [보존 정책](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) 설정이 없는지 확인 합니다.
 
 사이트의 저장 한도를 초과 하 여 사이트 [할당량](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) 을 높이 거 나 항목을 삭제 했을 수 있습니다.
 

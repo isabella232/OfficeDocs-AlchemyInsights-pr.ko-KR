@@ -15,22 +15,22 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6cd6d3c36b8c9c50b5ea98aafa2145c502960f89
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767579"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512488"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Outlook 모바일 앱에서 전자 메일 설정
 
-1. 모바일 앱에서 전자 메일을 처음 설정할 때 **시작 하기** 를 선택 합니다. 그렇지 않으면 **메뉴** 를 누른 다음 **설정** \> **추가 계정** \> 추가 **전자 메일 계정을**누릅니다.
+1. 모바일 앱에서 전자 메일을 처음 설정할 때 **시작 하기** 를 선택 합니다. 그렇지 않으면 **메뉴** 를 누른 다음 **설정** \> **추가 계정** 추가 \> **전자 메일 계정을**누릅니다.
 
 2. 전체 전자 메일 주소를 입력 하 고 **계속** 을 누르거나 **계정 추가**를 탭 합니다.
 
 3. 전자 메일 계정 암호를 입력 하 고 **로그인** 또는 **다음**을 탭 합니다.
 
-4. [다단계 인증](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) 을 사용 하는 경우 설정 하는 방법 (6 자리 코드, 전화 통화 또는 Microsoft 인증자 앱)을 사용 하 여 확인 합니다.
+4. [다단계 인증](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) 을 사용 하는 경우 설정 하는 방법 (6 자리 코드, 전화 통화 또는 Microsoft 인증자 앱)을 사용 하 여 확인 합니다.
 
 5. 추가 IT 관리 정책이 있으면 **활성화** 를 탭 하 여 사용 하도록 설정 합니다.
 

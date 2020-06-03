@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eae0ffdadf9f43b70c35992a03fce764b9299300
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063551"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509210"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Microsoft 365 구매를 설정 하는 방법
 
@@ -27,7 +27,7 @@ ms.locfileid: "44063551"
 
 - 라이선스를 추가로 구입 하려면 제품 **대금 청구** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** 페이지로 이동 합니다. 라이선스를 추가할 구독을 선택한 다음 **라이선스 추가/제거**를 선택 합니다.
   
-자세한 내용은 [비즈니스용 마이크로소프트 365에 대 한 라이선스 구입](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)을 참조 하세요.
+자세한 내용은 [비즈니스용 마이크로소프트 365에 대 한 라이선스 구입](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)을 참조 하세요.
 
 **문제 해결**
 
@@ -35,6 +35,6 @@ ms.locfileid: "44063551"
 
 **추가 리소스**
   
-- [비즈니스를 위해 Microsoft 365의 사용자에 게 라이선스 할당](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [비즈니스를 위해 Microsoft 365의 사용자에 게 라이선스 할당](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- [Microsoft 365 for Business 취소](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Microsoft 365 for Business 취소](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

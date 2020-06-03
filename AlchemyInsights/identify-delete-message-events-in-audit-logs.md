@@ -12,12 +12,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 641c0216491186aeb423a13854c6b39ee005e5df
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716502"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508994"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>삭제 된 전자 메일 메시지에 대 한 감사 로그
 
@@ -33,6 +33,6 @@ ms.locfileid: "43716502"
 
 결과에서 감사 레코드를 선택 합니다. 세부 정보 플라이 아웃에서 **추가 정보**를 클릭 합니다. 삭제 된 항목에 대 한 추가 정보 (예: 제목 줄 및 삭제 시 항목의 위치)가 **AffectedItems** 필드에 표시 됩니다. **Clientinfostring** 속성은 outlook, 웹에서 outlook (이전의 Outlook web App) 또는 다른 모든 장치에서 삭제를 수행 했는지 여부를 표시 합니다.
 
-자세한 내용은 [사서함에 대 한 전자 메일 전달을 설정한 사용자 결정](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items)를 참조 하세요.
+자세한 내용은 [사서함에 대 한 전자 메일 전달을 설정한 사용자 결정](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)를 참조 하세요.
 
 **참고**: 감사 로그 기능을 사용 하 여 삭제 된 항목을 검색할 수는 없습니다. 웹용 Outlook에서 삭제 된 메시지를 검색 하려면 [Outlook Web App에서 삭제 된 항목 복구](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)를 참조 하세요.

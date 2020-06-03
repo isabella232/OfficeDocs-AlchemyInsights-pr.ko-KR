@@ -13,12 +13,12 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: b83bb77383e2ae7e78c31f35c972182c54487c60
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1ec8959a479f1a8f7bfcffb55f440e8c4ab435fb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704495"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507520"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP에 사용자 지정 형식이 필요할 수 있음
 
@@ -32,12 +32,12 @@ DLP (데이터 손실 방지) 정책을 사용 하 여 조직에서 중요 한 �
   
  **기본 제공 중요한 정보 유형 사용자 지정**
   
-기본 제공 중요 한 정보 유형이 몇 가지 수단 만으로 요구 사항을 충족 하는 경우 [에는 기본 제공 중요 한 정보 유형을 사용자 지정할](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type)수 있습니다. 예를 들어 키워드를 추가 또는 제거 하거나, 날짜나 주소와 같은 지원 증거를 추가 하거나 제거할 수 있습니다.
+기본 제공 중요 한 정보 유형이 몇 가지 수단 만으로 요구 사항을 충족 하는 경우 [에는 기본 제공 중요 한 정보 유형을 사용자 지정할](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type)수 있습니다. 예를 들어 키워드를 추가 또는 제거 하거나, 날짜나 주소와 같은 지원 증거를 추가 하거나 제거할 수 있습니다.
   
  **사용자 지정 중요한 정보 유형 만들기**
   
-그러나 서로 다른 유형의 중요 한 정보를 식별 하 고 보호 해야 하는 경우에는 보안 & 준수 센터의 UI에서 [사용자 지정 중요 한 정보 유형을 만들](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) 수 있습니다.
+그러나 서로 다른 유형의 중요 한 정보를 식별 하 고 보호 해야 하는 경우에는 보안 & 준수 센터의 UI에서 [사용자 지정 중요 한 정보 유형을 만들](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) 수 있습니다.
   
 **보안 및 준수 센터 PowerShell에서 사용자 지정 중요한 정보 유형 만들기**
 
-마지막으로 UI가 필요한 모든 옵션을 제공 하지 않는 경우 [보안 & 준수 센터 PowerShell에서 사용자 지정 중요 한 정보 유형을 만들](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell)수 있습니다. XML 파일을 시작 하 여 사용 가능한 모든 옵션을 사용할 수 있습니다.
+마지막으로 UI가 필요한 모든 옵션을 제공 하지 않는 경우 [보안 & 준수 센터 PowerShell에서 사용자 지정 중요 한 정보 유형을 만들](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell)수 있습니다. XML 파일을 시작 하 여 사용 가능한 모든 옵션을 사용할 수 있습니다.

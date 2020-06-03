@@ -13,12 +13,12 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 63cdc58d6c0474c66295cc5c4547dd04b0f50ad7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5ee6de184726a5aab29004a901f0aa13c1657392
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706531"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508058"
 ---
 # <a name="change-the-alternate-email-address-for-billing-notification"></a>청구 알림에 대한 대체 전자 메일 주소 변경
 
@@ -32,5 +32,5 @@ ms.locfileid: "43706531"
 
 4. **저장** 을 선택 하 여 작업을 완료 합니다.
 
-화면 촬영에 대 한 자세한 내용 및 단계는 [청구 주소 변경을](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses)참조 하세요.
+화면 촬영에 대 한 자세한 내용 및 단계는 [청구 주소 변경을](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)참조 하세요.
   

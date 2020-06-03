@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: bbdfdf34ecb24189b233ceded917a03a2d07d7db
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: 5d2ae0d21ab43814235feee8cc2b60290a17ad51
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343158"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511010"
 ---
 # <a name="onedrive-retention-and-deletion"></a>OneDrive 보존 및 삭제
 
@@ -32,5 +32,5 @@ ms.locfileid: "44343158"
 - OneDrive의 휴지통에서 항목을 복원 하는 방법에 대 한 자세한 내용은 [삭제 된 파일 또는 폴더 복원을](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)참조 하세요.
 
 - 보안 및 준수 센터 보존 및 유지에 관심이 있으십니까?
-    - [OneDrive 및 SharePoint 사이트에 대 한 보존 정책](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [OneDrive 및 SharePoint 사이트에 대 한 보존 정책](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     - [OneDrive 및 SharePoint 사이트에 대 한 eDiscovery 보존](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 9730bd66afd494385db3de605f5fe68d0f274ed3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 01ccc6bc28148f397fb6cd2b7a0eaaeb5b51973f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051719"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511550"
 ---
 # <a name="sharepoint-designer-connection-issues"></a>SharePoint Designer 연결 문제 
 
@@ -37,7 +37,7 @@ SharePoint Designer에 SharePoint 사이트에 대 한 연결 문제가 발생 �
 
 3. SharePoint Designer 2013를 열고 계정을 다시 입력 하 여 작동 하는지 확인 합니다.
 
-3 단계: [Windows 장치에서 Office 2013에 대 한 최신 인증을 사용 하도록 설정](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide)합니다.
+3 단계: [Windows 장치에서 Office 2013에 대 한 최신 인증을 사용 하도록 설정](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)합니다.
 
 4 단계: 관리자는 sharepoint 관리 센터 설정에서 **사용자 지정 스크립트를 허용** 하 여이 연결을 허용 해야 합니다. 자세한 내용은 [사용자 지정 스크립트 허용 또는 금지](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) 를 참조 하세요.
 

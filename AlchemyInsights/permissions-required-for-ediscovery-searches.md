@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 57e312d1313e4abb7e556542286126561b836226
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758914"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510146"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>EDiscovery 검색에 필요한 사용 권한
 
@@ -26,7 +26,7 @@ EAC (Exchange 관리 센터)에서 원본 위치 eDiscovery 검색을 수행 하
 
 EDiscovery 권한에 대 한 자세한 내용은 다음 항목을 참조 하십시오. 
 
-- [보안 & 준수 센터에서 eDiscovery 권한 할당](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [보안 & 준수 센터에서 eDiscovery 권한 할당](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 - [Exchange eDiscovery 사용 권한 할당](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 

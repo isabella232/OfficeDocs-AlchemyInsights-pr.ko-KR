@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765995"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508670"
 ---
 # <a name="install-visio"></a>Visio 설치
 
@@ -25,7 +25,7 @@ Visio가 독립 실행형 응용 프로그램으로 판매 되므로 아직 설�
 
 **참고**: Visio Online 계획 1은 데스크톱 버전의 visio를 포함 하지 않으므로 설치할 수 없습니다.
 
-Visio Online 계획 2에 대 한 구독이 있는 경우 사용자에 게 [라이선스를 할당](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) 하거나 [내 계정 포털](https://portal.office.com/account#installs)의 **내 설치** 에서 Visio를 설치할 수 있는 옵션을 사용 하지 않도록 해야 합니다. 
+Visio Online 계획 2에 대 한 구독이 있는 경우 사용자에 게 [라이선스를 할당](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) 하거나 [내 계정 포털](https://portal.office.com/account#installs)의 **내 설치** 에서 Visio를 설치할 수 있는 옵션을 사용 하지 않도록 해야 합니다. 
 
 비 볼륨 라이선스 버전의 Visio Standard 또는 Visio Professional은 Microsoft 계정과 연결 되어 있으며 관리 센터에서 관리할 수 없습니다. 이러한 버전을 설치 하려면 사용자가이 버전의 Visio와 연결 된 Microsoft 계정을 사용 하 여 [account.microsoft.com](https://account.microsoft.com) 에 로그인 해야 합니다.
 

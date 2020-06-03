@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: d812b8ba6f80b61f48502df53c67a17c102d22b1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f1305fd8af3289f3543d2a596937089195e2495c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712392"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508454"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>민감도 레이블 자동 적용
 
@@ -36,5 +36,5 @@ ms.locfileid: "43712392"
 
 민감도 레이블에 대 한 자세한 내용과 콘텐츠에 자동으로 적용 하는 방법에 대 한 자세한 내용은 다음을 참조 하세요.
 
-- [민감도 레이블 개요](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [민감도 레이블 개요](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 - [민감도 레이블을 콘텐츠에 자동으로 적용](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

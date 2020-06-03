@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010260"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507592"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>RDS, 터미널 서버 또는 VDI에서 공유 하기 위한 Microsoft 365 Apps for enterprise 배포
 
@@ -38,9 +38,9 @@ Office 배포 도구를 사용 하 여 필수 구성 요소, 설치 지침 및 �
 
 ***기본 설치 설정을 사용 하는***microsoft 365 관리 센터에서 RDS에 Microsoft 365 Apps for enterprise를 설치 하려면 다음 단계를 수행 합니다.
 
-1.    보유 하 고 있는 구독을 확인 합니다. [방법을 알아보세요](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.    필요한 경우 다른 구독으로 전환 합니다. [방법을 알아보세요](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.    다른 Microsoft 구독을 사용 하 여 Office가 이미 RDS 서버에 설치 되어 있는 경우 제거 합니다. 예를 들어 **제어판** > 으로 이동 하 여**프로그램을 제거**합니다. 문제가 발생 하는 경우 [Microsoft 지원 및 복구 도우미를](https://aka.ms/SARA-OfficeUninstall-Alchemy) 사용 하 여 제거 합니다.
+1.    보유 하 고 있는 구독을 확인 합니다. [방법을 알아보세요](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+2.    필요한 경우 다른 구독으로 전환 합니다. [방법을 알아보세요](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+3.    다른 Microsoft 구독을 사용 하 여 Office가 이미 RDS 서버에 설치 되어 있는 경우 제거 합니다. 예를 들어 **제어판**으로 이동 하 여  >  **프로그램을 제거**합니다. 문제가 발생 하는 경우 [Microsoft 지원 및 복구 도우미를](https://aka.ms/SARA-OfficeUninstall-Alchemy) 사용 하 여 제거 합니다.
 4.    RDS 서버에서 관리자 계정으로 Microsoft 365 관리 센터에 로그인 하 고 [microsoft 365 앱 for enterprise를 설치](https://portal.office.com/OLS/MySoftware.aspx)합니다.
 5.    Office를 설치한 후에는 열거나 Office 응용 프로그램에 ***로그인 하지 마세요*** .
 6.    RDS 서버에서 다음 단계를 수행 하 여 레지스트리를 편집 하 여 공유 컴퓨터 활성화를 사용 하도록 설정 합니다.

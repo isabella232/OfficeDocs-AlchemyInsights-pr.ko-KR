@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a14b6b935c5cc123e16812ef217588903abae831
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: af5a9aed35297f334295a784603027d66ed8e898
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742811"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511622"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>SharePoint 또는 OneDrive의 랜 섬 웨어 공격
 
@@ -36,12 +36,12 @@ ms.locfileid: "43742811"
 - [문서 라이브러리 복원](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
 ATP (Advanced Threat Protection)에 대 한 자세한 내용은 다음을 참조 하십시오.
-- [SharePoint, OneDrive 및 팀에 대 한 ATP](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [위협 탐색기 보기](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [SharePoint, OneDrive 및 팀에 대 한 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [위협 탐색기 보기](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
 
 추가 정보:
 
-- [SPO의 바이러스 검색](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [ODB 및 SPO의 데이터 암호화](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [SPO의 바이러스 검색](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [ODB 및 SPO의 데이터 암호화](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
 - [랜 섬 웨어 검색 및 파일 복구](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [위협 탐색기 및 실시간 검색](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [위협 탐색기 및 실시간 검색](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)

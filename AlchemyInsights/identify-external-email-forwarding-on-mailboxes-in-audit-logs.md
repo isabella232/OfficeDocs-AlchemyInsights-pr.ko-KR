@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716466"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508958"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>사서함에 대해 외부 전자 메일 전달이 구성 된 시기 식별
 
@@ -25,7 +25,7 @@ Microsoft 365 사용자가 사서함에 대해 외부 전자 메일 전달을 �
 
 1. [Microsoft 365 보안 & 준수 센터](https://protection.office.com/)에 로그인 합니다.
 
-2. **검색** > **감사 로그 검색** 페이지로 이동 합니다.
+2. **검색**  >  **감사 로그 검색** 페이지로 이동 합니다.
 
 3. **시작 날짜** 및 **끝 날짜** 필드에서 날짜 범위를 선택 합니다. 사용자 이름을 지정할 필요는 없습니다. **모든 활동에 대 한 결과를 표시**하도록 **작업** 필드가 설정 되어 있는지 확인 합니다.
 
@@ -39,4 +39,4 @@ Microsoft 365 사용자가 사서함에 대해 외부 전자 메일 전달을 �
 
 - **UserId**: **ObjectId** 필드의 사서함에 대 한 전자 메일 전달을 구성한 사용자입니다.
 
-자세한 내용은 [사서함에 대 한 전자 메일 전달을 설정한 사용자 결정](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox)를 참조 하세요.
+자세한 내용은 [사서함에 대 한 전자 메일 전달을 설정한 사용자 결정](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)를 참조 하세요.

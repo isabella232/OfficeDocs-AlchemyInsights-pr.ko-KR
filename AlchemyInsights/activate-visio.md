@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e82793bb993aeba66eab0cca5c8b1d18d7f9103
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682298"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504881"
 ---
 # <a name="activate-visio"></a>Visio 정품 인증
 
-사용자가 Visio Online 계획 2에 포함 된 데스크톱 Visio 데스크톱 앱을 설치 및 활성화 하기 전에 사용자에 게 [visio 라이선스가](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)할당 되어 있어야 합니다.
+사용자가 Visio Online 계획 2에 포함 된 데스크톱 Visio 데스크톱 앱을 설치 및 활성화 하기 전에 사용자에 게 [visio 라이선스가](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)할당 되어 있어야 합니다.
 
 **참고 사항** Visio Online 계획 1에는 데스크톱 버전의 Visio가 포함 되어 있지 않습니다.
 
@@ -34,6 +34,6 @@ Visio를 정품 인증 하려면
 
 자세한 내용은 다음을 참조 하세요.<br>
 [PC에서 Office 정품 인증](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Microsoft 응용 프로그램을 열 때 알림 메시지가 표시 되는 경우](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Office 오류 "사용자의 계정에서 찾은 제품을 사용 하 여 정품 인증 <app>을 받을 수 없습니다."](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Microsoft 애플리케이션을 열면 구독 알림이 나타남](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Office 오류 "사용자의 계정에서 찾은 제품을 사용 하 여 정품 인증을 받을 수 없습니다. <app> "](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
 [사용 허가되지 않은 제품 및 Office 정품 인증 오류](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
