@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002870"
 - "5407"
-ms.openlocfilehash: e57815e9e1e751dc8a53699bbc5d7e07f455288b
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 90534a403eee1232bfe7eab92472ea60cb2b0371
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912085"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511838"
 ---
 # <a name="microsoft-365-e1-subscription-and-license-management-faq"></a>Microsoft 365 E1 구독 및 라이선스 관리 FAQ
 
@@ -25,7 +25,7 @@ ms.locfileid: "43912085"
 - **요금제를 바꾸려면** [비즈니스용 Microsoft 365 요금제 수동 전환](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide)을 참조하세요.
 - 사용자에게 E1 라이선스를 **할당**하려면 **청구 > [라이선스](https://go.microsoft.com/fwlink/p/?linkid=842264)로 이동합니다**. 자세한 내용은 [라이선스 할당](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)을 참조하세요.
 - E1 라이선스를 **추가/제거**하려면 **청구 > [제품 및 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054)** 로 이동하여 **라이선스 추가/제거**를 클릭합니다. 자세한 내용은 [라이선스 추가/제거](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)를 참조하세요. 
-- E1 라이선스를 **취소**하려면 **청구 > [제품 및 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054)** 로 이동하여 **설정 및 작업**을 클릭한 다음 **구독 취소**를 클릭합니다. 자세한 내용은 [구독 취소](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)를 참조하세요.
+- E1 라이선스를 **취소**하려면 **청구 > [제품 및 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054)** 로 이동하여 **설정 및 작업**을 클릭한 다음 **구독 취소**를 클릭합니다. 자세한 내용은 [구독 취소](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)를 참조하세요.
 - E1 구독을 **활성화**하려면 [구독 활성화](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription)를 참조하세요.
 - E1 구독을 **다시 활성화**하려면 [구독 다시 활성화](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)를 참조하세요.
 - E1 평가판을 연장하려면 [평가판 연장](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business)을 참조하세요.

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 11321789ee6bd7568fda0d530b9b60eb382c83b9
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799057"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508598"
 ---
 # <a name="unlocking-an-account"></a>계정 잠금 해제
 
@@ -40,4 +40,4 @@ ms.locfileid: "43799057"
 
 셀프 서비스 암호 재설정을 비롯한 더 많은 암호 재설정 시나리오는 [온라인 결제 수단으로 청구할 수 있는 다양한 시도를 위한Microsoft 365 Business 암호 재설정](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide)을 참조하세요.
 
-이 서비스는 손상된 계정 및/또는 스팸 발신의 증거를 감지하여 사용자가 전자 메일을 보내지 못하도록 합니다. 예방 조치로 사용자를 위해 [Microsoft 365에서 손상된 전자 메일 계정에 응답](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)의 단계를 따릅니다.
+이 서비스는 손상된 계정 및/또는 스팸 발신의 증거를 감지하여 사용자가 전자 메일을 보내지 못하도록 합니다. 예방 조치로 사용자를 위해 [Microsoft 365에서 손상된 전자 메일 계정에 응답](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)의 단계를 따릅니다.

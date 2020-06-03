@@ -10,12 +10,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: 423
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: 6727557131c36d6cbd33f27d59a9f6bc1b1b0f61
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e045b6845263cfd7f00b409a2bdbc46eb1237a17
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713004"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510542"
 ---
 # <a name="compromised-email-accounts"></a>손상된 전자 메일 계정
 
@@ -27,4 +27,4 @@ ms.locfileid: "43713004"
 
 - **사서함 감사 로깅 사용** 사서함 감사 로깅을 사용하면 사용자 계정이 손상될 때 발생한 문제를 쉽게 추적할 수 있습니다.
 
-자세한 내용은 [Microsoft 365 보안 로드맵](https://docs.microsoft.com/office365/securitycompliance/security-roadmap)을 참조하세요.
+자세한 내용은 [Microsoft 365 보안 로드맵](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap)을 참조하세요.

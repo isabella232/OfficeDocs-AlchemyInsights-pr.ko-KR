@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4488"
-ms.openlocfilehash: 892ad3fc88da16833bce5bb6679b5d9e60a5302f
-ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
+ms.openlocfilehash: ecdfe282d910dcfc077e0276e46a5e7e43c4108d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43116512"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510002"
 ---
 # <a name="office-activation-errors-on-mac"></a>Mac의 Office 정품 인증 오류
 
 MAC에서 Office 앱 활성화 오류를 해결하려면 다음 단계를 시도해보세요.
 
-- 클라이언트 라이선스를 허용하는 구독이 있는지 확인하고 [사용자에게 라이선스가 할당되어 있는지 확인](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)합니다.
+- 클라이언트 라이선스를 허용하는 구독이 있는지 확인하고 [사용자에게 라이선스가 할당되어 있는지 확인](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)합니다.
 
 - [라이선스 제거 도구](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193) 다운로드 및 실행
 

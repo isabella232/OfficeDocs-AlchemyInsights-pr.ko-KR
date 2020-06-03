@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5105"
-ms.openlocfilehash: c61963920f703c3c9e25291bdcb4e6e64b928060
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: db451e46b8b908c4497d459d963905f597cf57f2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991050"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512416"
 ---
 # <a name="project-license-management"></a>Project 라이선스 관리
 
@@ -27,6 +27,6 @@ Project 라이선스 관리는 **Microsoft 365 관리 센터**에서 완료할 �
 - **요금제를 바꾸려면** [비즈니스용 Microsoft 365 요금제 수동 전환](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide)을 참조하세요.
 - Project 라이선스를 **할당**하려면 **청구 > [라이선스](https://go.microsoft.com/fwlink/p/?linkid=842264)** 로 이동하세요. 자세한 내용은 [라이선스 할당하기](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)를 참조하세요.
 - Project의 라이선스를 **추가/제거**하려면 **청구 > [서비스 구입](https://go.microsoft.com/fwlink/p/?linkid=868433)** 으로 이동하세요. 자세한 내용은 [라이선스 추가/제거](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)를 참조하세요.
-- 라이선스를 **취소**하려면 **청구 > [제품 및 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054)** 로 이동하여 **설정 및 작업**을 선택한 다음 **구독 취소**를 클릭하세요. 자세한 내용은 [구독 취소하기](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)를 참조하세요.
+- 라이선스를 **취소**하려면 **청구 > [제품 및 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054)** 로 이동하여 **설정 및 작업**을 선택한 다음 **구독 취소**를 클릭하세요. 자세한 내용은 [구독 취소하기](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)를 참조하세요.
 
 자세한 내용은 [구독 라이선스 관리](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)를 참조하세요.

@@ -11,12 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "5747"
-ms.openlocfilehash: 324cd20560925587d9c9187a0cf50579d99304e6
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+- "5200004"
+- "5767"
+ms.openlocfilehash: 1c724a131d42aa2e217b7018ed6b414cb3440a99
+ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474672"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44515635"
 ---
 # <a name="connect-a-sharepoint-site-to-a-group"></a>그룹에 SharePoint 사이트 연결
 
