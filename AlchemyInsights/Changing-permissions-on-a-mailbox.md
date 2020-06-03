@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e0dbe74a3b8dd25005f1eb82870efe9c4f7ccfc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692519"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502577"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>사서함에 대 한 사용 권한 변경
 
 사용자가 자신이 아닌 사서함에 액세스 해야 하는 경우 해당 사서함에 대 한 작업을 수행 하기 위한 권한을 부여 받아야 합니다. 이러한 사용 권한을 할당 하는 방법은 사서함 유형에 따라 다릅니다. 사용자에 게 액세스 권한이 필요한 경우 다음을 수행 합니다.
   
-- 다른 사용자의 사서함- [다른 사용자에 게 사서함 사용 권한 부여를](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user)참조 하세요.
+- 다른 사용자의 사서함- [다른 사용자에 게 사서함 사용 권한 부여를](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user)참조 하세요.
     
 - 공유 사서함- [공유 사서함에서 구성원 추가 또는 제거](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7)를 참조 하세요.
     

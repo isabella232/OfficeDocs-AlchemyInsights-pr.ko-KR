@@ -12,10 +12,10 @@ ms.custom:
 - "9000755"
 - "2695"
 ms.openlocfilehash: 703aa6ba1c8175b76e445a261a4081bbf0103478
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44064055"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>OneNote의 일반적인 문제 및 해결 방법

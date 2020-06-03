@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 09edadb004fefd1bda92a5242886aa0414f87752
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2ed387ad8506cfa33f63690d8034ff3df855a07d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708525"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44503009"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>사용자에 대 한 전자 메일 별칭 만들기 또는 추가
 
@@ -34,6 +34,6 @@ ms.locfileid: "43708525"
     
     새 별칭이 적용 되려면 약 30 분 정도 걸립니다.
     
-    **자세한 내용은이 문서:** [사용자에 대 한 다른 전자 메일 별칭 추가](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user) 를 참조 하세요.
+    **자세한 내용은이 문서:** [사용자에 대 한 다른 전자 메일 별칭 추가](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user) 를 참조 하세요.
     
 

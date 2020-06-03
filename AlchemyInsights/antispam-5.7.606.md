@@ -12,10 +12,10 @@ ms.custom:
 - "3155"
 - "9001195"
 ms.openlocfilehash: bc554215f0fd50c8b0a1788715bcb44c17ee51ab
-ms.sourcegitcommit: 1697031e86a07e44b8937ffaca809229ba2be754
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/14/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44232335"
 ---
 # <a name="banned-sending-ip"></a>금지 보내기 IP

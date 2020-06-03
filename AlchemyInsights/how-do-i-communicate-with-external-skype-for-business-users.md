@@ -12,18 +12,18 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3bdd3fc028e0cd3cd6ec5692e11c303dcd7ace6b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265094"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496281"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>비즈니스용 Skype와의 외부 통신 허용 
 
 비즈니스용 Skype 사용자가 조직 외부의 사용자에 게 연락할 수 있도록 허용 하 시겠습니까? [사용자가 외부 비즈니스용 Skype 사용자와 연락 하도록 허용을](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)참조 하세요.
 
-외부 통신이 제대로 작동 하려면 DNS 레코드가 올바르게 설정 되어 있어야 합니다. 공급자를 사용 하 여 DNS 레코드를 설정 하는 방법에 대 한 특정 지침이 있는지 확인 하려면 [여기](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) 를 선택 합니다. 
+외부 통신이 제대로 작동 하려면 DNS 레코드가 올바르게 설정 되어 있어야 합니다. 공급자를 사용 하 여 DNS 레코드를 설정 하는 방법에 대 한 특정 지침이 있는지 확인 하려면 [여기](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) 를 선택 합니다. 
 
 비즈니스용 Skype 사용자만 Skype 소비자 사용자에 게 연락할 수 있도록 설정 하는 것이 좋습니다. 자세한 내용은 다음을 참조하세요.
 

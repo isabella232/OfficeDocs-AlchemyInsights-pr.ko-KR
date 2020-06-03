@@ -12,12 +12,12 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 0362ef42344aba57eca276a9fafb5e847dd9996f
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d50a6a0834fb26f2fd25e7defe2d4a125f7a62fa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063911"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496101"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Microsoft 365 비즈니스용 앱 구독에 대 한 라이선스를 구입 하는 방법
 
@@ -29,4 +29,4 @@ ms.locfileid: "44063911"
 
 3. **총 라이선스** 상자에이 구독에 필요한 총 라이선스 수를 입력 한 다음 **변경 제출을**선택 합니다. 예를 들어 100개의 라이선스가 있는데 5개를 더 추가해야 하는 경우 105를 입력합니다.
 
-자세한 내용은 [비즈니스용 마이크로소프트 365 앱 비즈니스 에디션 구독 라이선스 구입](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)을 참조 하세요.
+자세한 내용은 [비즈니스용 마이크로소프트 365 앱 비즈니스 에디션 구독 라이선스 구입](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)을 참조 하세요.

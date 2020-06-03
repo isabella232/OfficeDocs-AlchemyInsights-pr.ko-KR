@@ -13,12 +13,12 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: af4f0e274cce71b9a432066096763abc1fa464bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710089"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44498977"
 ---
 # <a name="help-understanding-your-bill"></a>청구서 이해 지원
 
@@ -32,4 +32,4 @@ ms.locfileid: "43710089"
 
 - 구독이 변경된 새 기간 및 라이선스 가격으로 갱신되었습니다.
 
-송장에 대 한 자세한 내용은: [청구서 이해](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice) 를 참조 하세요.
+송장에 대 한 자세한 내용은: [청구서 이해](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2) 를 참조 하세요.
