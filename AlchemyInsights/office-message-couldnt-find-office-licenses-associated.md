@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: ead72a182c65999258ac628b92d14a958c849bc4
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183124"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505097"
 ---
 # <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Office 앱 메시지 - 연결된 Office 라이선스를 찾을 수 없음
 
 이 오류를 해결하려면 다음 단계를 수행하십시오.
 
-- 알림 표시된 사용자의 [Office 라이선스를 제거했다 다시 할당](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users?view=o365-worldwide)합니다.
+- 알림 표시된 사용자의 [Office 라이선스를 제거했다 다시 할당](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)합니다.
 
 - Office 앱을 열고 기존 사용자 계정을 [로그아웃](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071)합니다.
 
@@ -44,4 +44,4 @@ ms.locfileid: "43183124"
 
 [사용 허가되지 않은 제품 및 Office 정품 인증 오류](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Office 365 URL 및 IP 주소 범위](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Microsoft 365 URL 및 IP 주소 범위](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
