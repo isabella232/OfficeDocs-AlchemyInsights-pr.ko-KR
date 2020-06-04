@@ -11,12 +11,12 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 4fdcae9dbe524f5e552c8b4c8736d6795c394348
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1bd2fae31757ab4d890e1732b004edf594e3e724
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509923"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "36745475"
 ---
 # <a name="dynamics-server-side-sync-recommended-solutions"></a>Dynamics Server 쪽 동기화 권장 솔루션
 
@@ -26,7 +26,7 @@ ms.locfileid: "36509923"
 
 * [포털에 대 한 서버 쪽 캐시를 지우는 방법](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Dynamics 365 포털의 대상 그룹 및 유형을 변경 하는 방법](https://support.microsoft.com/en-us/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Dynamics 365 포털의 대상 그룹 및 유형을 변경 하는 방법](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
 * [포털의 기본 URL을 변경 하는 방법](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 

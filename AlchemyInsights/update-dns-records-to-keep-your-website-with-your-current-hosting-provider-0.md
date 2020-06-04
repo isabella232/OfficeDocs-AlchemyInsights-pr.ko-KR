@@ -14,15 +14,15 @@ ms.custom:
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
 ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665766"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>DNS 레코드를 업데이트하여 현재 호스팅 공급자에 웹 사이트 유지
 
-1. Microsoft 365 관리 센터에서 **설치** > [도메인](https://portal.office.com/adminportal/home#/Domains) 페이지로 이동 하 여 도메인 목록에서 웹 사이트에 사용 중인 도메인을 선택 합니다.
+1. Microsoft 365 관리 센터에서 **설치**  >  [도메인](https://portal.office.com/adminportal/home#/Domains) 페이지로 이동 하 여 도메인 목록에서 웹 사이트에 사용 중인 도메인을 선택 합니다.
 
 2. **+ 새 사용자 지정 레코드** 를 선택하고 다음을 입력합니다.
 
