@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002246"
 - "4369"
-ms.openlocfilehash: 2b0f9151401044a4f3ce50111dc1f5c7c0754e12
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 2568ce2eb911b75915fde69ca97ca1c09fb051aa
+ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932128"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44534771"
 ---
 # <a name="controlling-read-receipts-in-teams"></a>Teams에서 읽음 확인 제어하기
 
 Teams에서 메시징 정책을 사용하여 조직의 조직에 대한 **읽음 확인**을 제어할 수 있습니다.
+
+앱에서 개별 사용자의 읽음 확인 설정을 업데이트하려면 Teams 앱 창의 우측 상단에 있는 프로필을 클릭하고 **설정** > **개인 정보**를 클릭한 다음 **읽음 확인** 토글을 사용합니다.
 
 - 메시지 정책을 사용하여 조직 수준에서 읽음 확인을 설정하거나 해제할 수 있습니다. [메시징 정책 설정](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings)에서 "읽음 확인"을 참조하세요.
 
