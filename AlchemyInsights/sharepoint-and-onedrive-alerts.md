@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: fb7ab6e8139c46d89b1cae1ee0ab9b9a601c8b64
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7f1033cec3abec782d1eee3b32128c4c60778913
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742007"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563516"
 ---
 # <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>SharePoint 및 OneDrive 알림 받기의 지연
 
 - 먼저 전자 메일에서 정크 또는 스팸 폴더를 확인 합니다.
 - **여러 파일 또는 라이브러리의 모든 알림이 지연 된**경우 [서비스 상태 대시보드](https://portal.office.com/adminportal/home?ref=/servicehealth) 를 방문 하 여 SharePoint 또는 Exchange에서 발생할 수 있는 모든 권고/사고를 확인 합니다. 이 문제는 Exchange를 통한 전자 메일의 SharePoint 알림 기능 또는 지연에 있을 수 있습니다. 또한 다른 전자 메일이 배달 되는지 여부도 확인 합니다 (그렇지 않은 경우 Exchange 지연에 문제가 있을 수 있음).
-- **특정 파일이 나 라이브러리의 개별 알림이 배달 되지**않으면 삭제 하 고 다시 만듭니다. 경고를 다시 만들려면 [SharePoint 알림 관리, 보기 또는 삭제](https://support.microsoft.com/office/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) 를 참조 하세요.
+- **특정 파일이 나 라이브러리의 개별 알림이 배달 되지**않으면 삭제 하 고 다시 만듭니다. 경고를 다시 만들려면 [SharePoint 알림 관리, 보기 또는 삭제](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) 를 참조 하세요.
 
 > [!NOTE]
 > - 메일 그룹에 알림을 보낼 수 없습니다. 보안 및 O365 그룹만 지원 됩니다.
