@@ -1,5 +1,5 @@
 ---
-title: Office 앱 아이콘/바로 가기 흰색, 공백 또는 중복
+title: Microsoft 365 apps 아이콘/바로 가기 흰색, 공백 또는 중복
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2530"
 - "9000572"
-ms.openlocfilehash: 90f9a5ac522f7ec76ed5d52da7f8b11672e8f8b7
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 817cedde2aa6bcd5f6bc2609d150a782ba085771
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886534"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581129"
 ---
-# <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a><span data-ttu-id="36818-102">Office 앱 아이콘 또는 바로 가기가 흰색이 되거나 비어 있거나 중복 됨</span><span class="sxs-lookup"><span data-stu-id="36818-102">Office app icons or shortcuts are white, blank, or duplicate</span></span>
+# <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a><span data-ttu-id="376ae-102">Office 앱 아이콘 또는 바로 가기가 흰색이 되거나 비어 있거나 중복 됨</span><span class="sxs-lookup"><span data-stu-id="376ae-102">Office app icons or shortcuts are white, blank, or duplicate</span></span>
 
-<span data-ttu-id="36818-103">Office 앱 아이콘이 비어 있거나 흰색으로 표시 되 면 [office 응용 프로그램을 복구](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)해 보세요.</span><span class="sxs-lookup"><span data-stu-id="36818-103">If Office app icons appear blank or white, try [Repair an Office application](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span> <span data-ttu-id="36818-104">중복 Office 앱 아이콘을 제거 하려면 office [바로 가기가 office 제거 후 유지](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565)됩니다 .를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="36818-104">To remove duplicate Office app icons, see [Office shortcuts remain after Office uninstall](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span></span>
+<span data-ttu-id="376ae-103">Office 앱 아이콘이 비어 있거나 흰색으로 표시 되 면 [office 응용 프로그램을 복구](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)해 보세요.</span><span class="sxs-lookup"><span data-stu-id="376ae-103">If Office app icons appear blank or white, try [Repair an Office application](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span> <span data-ttu-id="376ae-104">중복 Office 앱 아이콘을 제거 하려면 office [바로 가기가 office 제거 후 유지](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565)됩니다 .를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="376ae-104">To remove duplicate Office app icons, see [Office shortcuts remain after Office uninstall](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span></span>
 
-<span data-ttu-id="36818-105">자세한 내용은 [Microsoft Store에서 office를 설치한 후에 office 아이콘 비어 있는 것](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59)을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="36818-105">For more information, see [Office icons are blank after installing Office from the Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span></span>
+<span data-ttu-id="376ae-105">자세한 내용은 [Microsoft Store에서 office를 설치한 후에 office 아이콘 비어 있는 것](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59)을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="376ae-105">For more information, see [Office icons are blank after installing Office from the Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span></span>
