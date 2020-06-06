@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: c3165ccf5aee9edbb147a5e34f2680a4f0ed04b1
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: eb3d4c632029993611bc0720dba64e7f86807223
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911658"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580375"
 ---
-# <a name="create-an-microsoft-365-group-connected-team-site"></a>Microsoft 365 그룹에 연결 된 팀 사이트 만들기
+# <a name="create-a-microsoft-365-group-connected-team-site"></a>Microsoft 365 그룹에 연결 된 팀 사이트 만들기
 
 1. 왼쪽 위 모서리에 있는 앱 시작 관리자를 클릭 하 고 **SharePoint**를 선택 합니다. SharePoint 타일이 표시 되지 않으면 **모든 앱**을 클릭 합니다.
     

@@ -1,5 +1,5 @@
 ---
-title: 'Office 앱 오류: 응용 프로그램을 제대로 시작할 수 없습니다.'
+title: 'Microsoft 365 apps 오류: 응용 프로그램을 제대로 시작할 수 없습니다.'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2533"
 - "9000572"
-ms.openlocfilehash: a096fbb25daf341a3a66294782c33e20d29d8322
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: bc860a2e5debed1de33b7269e699ccd034181602
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886532"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581165"
 ---
-# <a name="office-apps-error-the-application-was-unable-to-start-correctly"></a>Office 앱 오류: 응용 프로그램을 제대로 시작할 수 없습니다.
+# <a name="microsoft-365-apps-error-the-application-was-unable-to-start-correctly"></a>Microsoft 365 apps 오류: 응용 프로그램을 제대로 시작할 수 없습니다.
 
 이 오류를 해결 하려면 다음 옵션을 사용해 보십시오.
 
@@ -30,6 +30,6 @@ ms.locfileid: "40886532"
 
 자세한 내용은 다음을 참조하세요. 
 
-- [Microsoft Office 앱을 여는 동안 오류 발생](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [Microsoft Microsoft 365 앱을 여는 동안 오류 발생](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [PC에서 Office 응용 프로그램을 시작 하면 "작동 중지 되었습니다." 오류가 표시 됨](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Office 앱을 시작 하거나 사용할 때 발생 하는 문제 해결](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [Microsoft 365 앱을 시작 하거나 사용할 때 발생 하는 문제 해결](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

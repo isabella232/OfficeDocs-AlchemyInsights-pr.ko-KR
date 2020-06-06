@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 52078e59d893706cc56f29145913ecea3574f135
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d1ad81a01c858d2df4d2ee6e952376956e133497
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507916"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580627"
 ---
 # <a name="change-the-domain-for-microsoft-365-group"></a>Microsoft 365 그룹의 도메인 변경
 

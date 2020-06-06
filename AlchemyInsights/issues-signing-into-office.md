@@ -1,5 +1,5 @@
 ---
-title: Office 앱에 로그인 하는 문제
+title: Microsoft 365 앱에 로그인 하는 문제
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: bb2e5218f9dc2b6bbdcdad6a6c63fde08c8ea098
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e1fc48f367691b2f722b69d631d880c18f3504cb
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509642"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579835"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Microsoft 365 앱에 로그인 하는 문제
 

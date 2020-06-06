@@ -3,7 +3,7 @@ title: 8000003 웹용 Outlook에서 메일 및 사용자 검색
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1565"
 - "8000003"
-ms.openlocfilehash: 1b4cde0ccfce5c1607c57a5fab4253c7923b6b0f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 09a7db3224011f3268a655d6b56a7dfe699dd34f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556175"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581953"
 ---
 # <a name="search-mail-and-people-on-outlook-on-the-web"></a>웹용 Outlook에서 메일 및 사용자 검색
 

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 077d1d69f0c317d958163dcf07239cbdf35edcdb
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912900"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579439"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>SharePoint 및 OneDrive의 사용자 사용 권한
 

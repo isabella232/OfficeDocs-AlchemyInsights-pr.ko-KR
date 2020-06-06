@@ -1,5 +1,5 @@
 ---
-title: 'Office 앱 오류: 앱에 오류가 발생 하 여 제대로 작동 하지 않습니다.'
+title: 'Microsoft 365 apps 오류: 앱이 제대로 작동 하지 않는 오류를 실행 했습니다.'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 136dc4285d7aaa12289c2af0e515e0feab0466e9
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 42d499b584f896a73cd94f3a3eaa60a1220ea420
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886533"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576818"
 ---
-# <a name="office-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Office 앱 오류: 앱에 오류가 발생 하 여 제대로 작동 하지 않습니다.
+# <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Microsoft 365 apps 오류: 앱이 제대로 작동 하지 않는 오류를 실행 했습니다.
 
 이 오류를 해결 하려면 다음 옵션을 사용해 보십시오.
 
@@ -31,6 +31,6 @@ ms.locfileid: "40886533"
 
 자세한 내용은 다음을 참조하세요. 
 
-- [Microsoft Office 앱을 여는 동안 오류 발생](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [Microsoft Microsoft 365 앱을 여는 동안 오류 발생](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [PC에서 Office 응용 프로그램을 시작 하면 "작동 중지 되었습니다." 오류가 표시 됨](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Office 앱을 시작 하거나 사용할 때 발생 하는 문제 해결](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [Microsoft 365 앱을 시작 하거나 사용할 때 발생 하는 문제 해결](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

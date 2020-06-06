@@ -11,12 +11,12 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: fa4a5a26b12348a7f62f06e0860b8bf34f689651
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 2079d43667f5368a77cba40a6b8a93cd2f6dafd9
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912445"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579763"
 ---
 # <a name="manage-a-group-without-an-exchange-license"></a>Exchange 라이선스 없이 그룹 관리
 

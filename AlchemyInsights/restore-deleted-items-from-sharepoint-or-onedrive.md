@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 1a1c72078f6357332f48d369e482ab20cb82f868
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 37788c31f4068792956cfff9b89d48c3e9c2f253
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912553"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582529"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>SharePoint 또는 OneDrive에서 삭제 된 항목 복원
 

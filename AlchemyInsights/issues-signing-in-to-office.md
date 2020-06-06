@@ -1,5 +1,5 @@
 ---
-title: Office 앱에 로그인 하는 문제
+title: Microsoft 365 앱에 로그인 하는 문제
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2556"
-ms.openlocfilehash: 08bb0a94066f071f2ba0e9c54378f0d479191496
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4658b4df8a48072b4cc9d72bf503d7911bb5126b
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938263"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579907"
 ---
-# <a name="blank-sign-in-screen-in-office-apps"></a>Office 앱의 빈 로그인 화면
+# <a name="blank-sign-in-screen-in-microsoft-365-apps"></a>Microsoft 365 앱의 빈 로그인 화면
 
 이 문제를 해결 하려면 다음을 시도 합니다.
 - [Windows](https://support.microsoft.com/help/4027667/windows-10-update) 및 [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5)용 최신 업데이트를 설치 합니다.
-- Internet explorer 옵션 다시 설정: **도구** > **인터넷 옵션** > **고급** > **재설정 internet explorer 설정** (사용자 지정 설정이 손실 됨)을 확인 한 후 다시 Office에 로그인을 시도 합니다.
+- Internet explorer 옵션 다시 설정: **도구**  >  **인터넷 옵션**  >  **고급**  >  **재설정 internet explorer 설정** (사용자 지정 설정이 손실 됨)을 확인 한 후 다시 Office에 로그인을 시도 합니다.
 - Windows Defender Application Guard (WDAG) 또는 이와 유사한 모든 방화벽 또는 바이러스 백신 프로그램을 사용 하지 않도록 설정 합니다.
     1. 제어판에서 **프로그램**으로 이동한 다음 **Windows 기능 사용 또는 해제**를 선택 합니다.
     2. Windows Defender Application Guard를 사용 하도록 설정 된 경우 사용 하지 않도록 설정 해 봅니다.<br/>

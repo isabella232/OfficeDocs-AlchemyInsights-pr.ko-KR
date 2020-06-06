@@ -3,7 +3,7 @@ title: 2609-보존-또는-ediscovery-보류
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: 3e60f0fc53cd78c9cc816a658a9df05e9075e26e
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 4d2b36fb78390f32d68f1cdd11ca1af8013424a2
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571330"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576890"
 ---
 # <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>SharePoint Online 또는 비즈니스용 OneDrive에서 항목을 삭제할 수 없음
 

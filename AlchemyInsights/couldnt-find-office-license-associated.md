@@ -1,5 +1,5 @@
 ---
-title: Office 앱을 수정 하면 office 라이선스 연결 된 메시지를 찾을 수 없음
+title: Microsoft 365 앱을 수정 하면 office 라이선스 관련 메시지를 찾을 수 없음
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 887be4bee2bd1562bdc3b29783e9deafe47d8d57
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 65ffae1a784f841cb08a5df52b02671a4526d9d4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505873"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580447"
 ---
-# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Office 앱 "연결 된 office 라이선스를 찾을 수 없습니다." 메시지를 수정 합니다.
+# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>Microsoft 365 앱 "연결 된 office 라이선스를 찾을 수 없음" 메시지를 수정 합니다.
 
 이 메시지가 표시 되 면 다음을 시도해 보세요.
 
-1. 방화벽, 바이러스 백신 소프트웨어 및 프록시 설정을 확인 하 여 Office 앱에 대 한 인터넷 액세스를 차단 하 고 있지 않은지 확인 합니다. [Microsoft 365 url 및 IP 주소 범위](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)를 참조 하세요.
+1. 방화벽, 바이러스 백신 소프트웨어 및 프록시 설정을 검사 하 여 Microsoft 365 앱에 대 한 인터넷 액세스를 차단 하 고 있지 않은지 확인 합니다. [Microsoft 365 url 및 IP 주소 범위](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)를 참조 하세요.
 2. 영향을 받는 사용자의 Office 라이선스를 제거 하 고 [다시 할당](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) 합니다. 
 3. Office 앱을 열고 기존 사용자 계정에서 [로그 아웃](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) 합니다.
 4. Windows 설정 > **계정**  >  **전자 메일 & 계정**으로 이동 하 여 영향을 받는 계정을 제외한 모든 작업 계정을 제거 합니다.

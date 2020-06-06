@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 975609294a4fd564c99594269bb4c348ad1d4191
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912409"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579727"
 ---
 # <a name="manage-access-requests"></a>액세스 요청 관리
 

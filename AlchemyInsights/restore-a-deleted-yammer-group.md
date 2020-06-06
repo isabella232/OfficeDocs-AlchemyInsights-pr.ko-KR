@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: a4ab594effadf9a761b2f5849c3ba93ff3e7d080
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3aa0a883d0822f260cff5f68590ecac278b7af0b
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511406"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582205"
 ---
 # <a name="restore-a-deleted-yammer-group"></a>삭제 된 Yammer 그룹 복원
 

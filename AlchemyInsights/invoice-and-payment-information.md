@@ -12,12 +12,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "485"
 - "1500018"
-ms.openlocfilehash: 5031c6218f8eee9e06e08fc902270ce299f12ed6
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 650a74eef9e2e2051c99e78b8ec1c7e8a35d3048
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43783833"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579979"
 ---
 # <a name="invoice-and-payment-information"></a>송장 및 지불 정보
 

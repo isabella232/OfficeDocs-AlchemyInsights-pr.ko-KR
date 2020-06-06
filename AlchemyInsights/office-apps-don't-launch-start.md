@@ -1,5 +1,5 @@
 ---
-title: Office 앱이 시작 되지 않았거나 시작 되지 않음
+title: Microsoft 365 앱이 실행 되지 않거나 시작 되지 않음
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2531"
 - "9000572"
-ms.openlocfilehash: bed29ce271df96afe229275a079b9769591924a1
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: d30030995bbc495c21537620c9b4a3d5b8c34804
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908785"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576854"
 ---
-# <a name="office-apps-crash-stop-responding-or-dont-launch"></a>Office 앱 충돌, 응답 중지 또는 시작 안 함
+# <a name="microsoft-365-apps-crash-stop-responding-or-dont-launch"></a>Microsoft 365 앱 충돌, 응답 중지 또는 시작 안 함
 
-Office 앱이 작동 중지 되거나 충돌을 해결 하려면 다음 옵션을 사용해 보세요.
+Microsoft 365 앱이 작동 중지 되거나 충돌 문제를 해결 하려면 다음 옵션을 사용해 보세요.
 
 - Office에 설치 된 [추가 기능에서 발생할 수 있는 문제 조사](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d#bkmk_addins)
-- [바이러스 백신 소프트웨어가](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d?ocmsassetID#bkmk_conflict) Office 앱과 충돌 하는지 확인
+- [바이러스 백신 소프트웨어가](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d?ocmsassetID#bkmk_conflict) Microsoft 365 앱과 충돌 하는지 확인
 - [최신 Office 업데이트](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5) 확인 또는 설치
 - 제어판을 사용 하 여 [Office 복구](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 - Office [제거](https://support.office.com/article/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8) 및 다시 설치

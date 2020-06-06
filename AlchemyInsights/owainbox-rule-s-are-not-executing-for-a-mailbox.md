@@ -3,7 +3,7 @@ title: 1332 OWA-사서함에 대 한 받은 편지함 규칙이 실행 되 고 �
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "1332"
 - "3700002"
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
-ms.openlocfilehash: 901237d4dc7b99695097142c61a4bfef7c09750d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9abdcdcb33d39b8b9fe2df80f0c15a8b55e465fd
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555779"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576566"
 ---
 # <a name="an-inbox-rule-doesnt-work-as-expected"></a>받은 편지함 규칙이 예상 대로 작동 하지 않음
 
@@ -32,6 +32,6 @@ ms.locfileid: "36555779"
 이전 문제가 적용 되지 않으면 Microsoft 지원으로 문제를 에스컬레이션 하기 전에 받은 편지함 규칙 진단 보고서를 실행 합니다.
 
 1. 웹용 Outlook에서 사서함을 열고 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- **설정** > **모든 Outlook 설정** > **메일** > **규칙**을 표시 합니다.
+ **설정**  >  **모든 Outlook 설정 보기**  >  **메일**  >  **규칙**입니다.
 
 2. 페이지 맨 아래에서 **규칙이 작동 하지 않으면 여기를 클릭 하 여 진단 보고서를 생성**합니다.

@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: d9ce4e7061ed01a5c1309367504e1a532f8f72e8
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4f1c457f4f8f83da0b5146fd7189654428aa5ec4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510110"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576962"
 ---
-# <a name="fixing-the-office-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Office 앱 "계정에서 Mac의 편집을 허용 하지 않습니다." 메시지 수정
+# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Microsoft 365 앱 "계정을 사용 하 여 Mac에서 편집을 허용 하지 않습니다." 라는 메시지가 해결 되었습니다.
 
 이 메시지가 표시 되 면 다음을 시도해 보세요.
 

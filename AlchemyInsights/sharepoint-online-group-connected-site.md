@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: b54457427ffa563b6a6323d85e1c8800191eca11
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 5dab9fce935936898927afd55f8f6e9260249157
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064399"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582817"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>SharePoint에서 그룹 연결 된 사이트를 만들 때의 문제
 

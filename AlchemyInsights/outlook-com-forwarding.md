@@ -3,7 +3,7 @@ title: 9000239 Outlook.com 전달
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1824"
 - "9000239"
-ms.openlocfilehash: bae54d14b18f5028c2ac8c87f4b4880ea0add72b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 076495158637543eebced2a11cfb0e8468626450
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536621"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581093"
 ---
 # <a name="forwarding-email-in-outlookcom"></a>Outlook.com에서 전자 메일 전달
 

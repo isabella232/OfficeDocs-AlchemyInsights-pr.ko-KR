@@ -12,12 +12,12 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: faa1ac2ceeef9af86d8961e6a19b09ceef968a57
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 71a7b0ad6c19d9a93a2beb955ebf86f2663ac47f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512524"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580985"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>사서함에 대 한 전자 메일 전달 설정 확인
 

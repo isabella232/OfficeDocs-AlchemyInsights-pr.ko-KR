@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: b886dca3123bc2c437f4235c8d8ced7a5cc36a40
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 802cd3a2492141ebe4fcf7318abb6756c88753b5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912792"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582133"
 ---
 # <a name="modernize-your-sharepoint-sites"></a>SharePoint 사이트 Modernize
 
