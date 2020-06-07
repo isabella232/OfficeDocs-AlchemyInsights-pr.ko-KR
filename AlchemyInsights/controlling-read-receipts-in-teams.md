@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002246"
 - "4369"
-ms.openlocfilehash: 2568ce2eb911b75915fde69ca97ca1c09fb051aa
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: d03a9aa5eae0c6e8e7f279442e0dd53b3e9d2700
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44534771"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563406"
 ---
 # <a name="controlling-read-receipts-in-teams"></a>Teams에서 읽음 확인 제어하기
 
@@ -28,4 +28,4 @@ Teams에서 메시징 정책을 사용하여 조직의 조직에 대한 **읽음
 
 - 사용자가 자신의 읽음 확인 설정을 제어할 수 있도록 허용하는 경우, [여기에서 사용자가 설정을 수정하는 방법을 확인할 수 있습니다](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings). 
 
-**참고**: 사용자가 수정할 수 있도록 관리자가 읽음 확인을 설정해야 합니다.
+**참고**: 사용자가 수정할 수 있도록 관리자가 읽음 확인을 설정해야 합니다. 이 설정을 확인 하거나 수정 하려면 **Teams 관리 센터**> **메시지 정책** > **영수증 읽기**로 이동하세요.
