@@ -12,11 +12,11 @@ ms.custom:
 - "2605"
 - "9000701"
 ms.openlocfilehash: 48f26a50c7819dd225d9e9eed28f59db42236faf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509151"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582673"
 ---
 # <a name="new-to-microsoft-teams"></a>Microsoft Teams를 처음 사용하는 분
 
