@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: ffa91eaf333792af149feda25f9a377ed591b597
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 5ec5277a758fc5171c846266787c2fbcf751f21c
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010224"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617901"
 ---
 # <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>독립 실행형 또는 기존 Office 설치를 사용 하 여 팀 배포
 
 Microsoft 팀은 이제 엔터프라이즈 용 Microsoft 365 앱, Microsoft 365 Apps 및 Mac 용 Office의 ***새 설치*** 과정에 포함 됩니다. 자세한 내용은 [Microsoft 팀이 Office의 새 설치에 포함 될 때 시작 되는 시기](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps) 를 참조 하세요.
 
-또한 월별 채널에서 버전 1906 부터는 기존 설치를 최신 버전으로 업데이트할 때 Windows를 실행 하는 장치에 대 한 Microsoft 365 앱 (Microsoft 365 앱)의 ***기존 설치에*** 팀이 추가 됩니다. 자세한 내용은 [Office의 기존 설치에 대 한](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps) 자세한 내용을 참조 하세요.
+또한 현재 채널의 버전 1906 부터는 기존 설치를 최신 버전으로 업데이트할 때 Windows를 실행 하는 장치에 대 한 Microsoft 365 앱 (Microsoft 365 앱)의 ***기존 설치에*** 팀이 추가 됩니다. 자세한 내용은 [Office의 기존 설치에 대 한](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps) 자세한 내용을 참조 하세요.
 
 > [!NOTE]
-> 이 롤아웃 일정을 기다리지 않으려면 [다음 지침](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) 을 수행 하 여 사용자에 대 한 독립 실행형으로 팀을 배포 하거나 사용자가 직접 팀을 설치 하도록 할 수 있습니다 [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).
+> 이 롤아웃 일정을 기다리지 않으려면 [다음 지침을 수행](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)하 여 사용자에 대 한 독립 실행형으로 팀을 배포   하거나 사용자가 직접 팀을 설치 하도록 할 수 있습니다  [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) .
 
 조직이 팀을 배포할 준비가 되지 않은 경우 [신규](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) 또는 [기존](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) Office 설치에서 ***팀을 제외*** 하기 위해 수행할 수 있는 단계를 제공 합니다. 팀을 설치 하려고 하지만 사용자가 설치 된 후에 자동으로 시작 되지 않도록 하려면 [설치 후에 Microsoft 팀이 자동으로 시작 되지 못하도록](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)합니다 .를 참조 하세요.
 
