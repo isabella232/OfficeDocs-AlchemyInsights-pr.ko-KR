@@ -1,5 +1,5 @@
 ---
-title: Office 앱 구독 만료됨 알림
+title: Microsoft 365 앱의 구독 만료됨 알림
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: be5fece97854e4967133f74cfb51728dab853b5f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789272"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576710"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>Office 앱 "구독 만료됨" 알림
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Microsoft 365 앱의 “구독 만료됨” 알림
 
 - [서비스 상태 페이지](https://docs.microsoft.com/office365/enterprise/view-service-health)를 확인하고 서비스에 알려진 문제가 있는지 확인합니다.
 
@@ -30,7 +30,7 @@ ms.locfileid: "43789272"
 
 - [정품 인증 문제 해결사](https://aka.ms/SARA-OfficeActivation-Alchemy)를 실행하고 컴퓨터를 다시 시작합니다.
 
-- 영향을 받는 컴퓨터에서 [Office 정품 인증을 다시 설정](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632)합니다.
+- 영향을 받는 컴퓨터에서 [Office 정품 인증을 다시 설정](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)합니다.
 
 자세한 내용은 다음을 참조하십시오. 
 

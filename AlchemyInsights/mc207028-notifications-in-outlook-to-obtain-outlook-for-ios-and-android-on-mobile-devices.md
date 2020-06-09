@@ -13,12 +13,12 @@ ms.custom:
 - "4992"
 - "9002628"
 - "5047"
-ms.openlocfilehash: 3312b7f1829c8a7036a3a871193fe1e5d83c0b3c
-ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
+ms.openlocfilehash: 0df2aad0123e9f7c23a6391a2f7dfaedb09d3ab6
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43812627"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579691"
 ---
 # <a name="mc207028---notifications-in-outlook-to-obtain-outlook-for-ios-and-android-on-mobile-devices"></a>MC207028 - 모바일 장치에서 iOS 및 Android용 Outlook을 다운로드하라는 Outlook 알림
 
@@ -26,6 +26,6 @@ ms.locfileid: "43812627"
 
 요청은 7일 이내에 적용됩니다. 요청이 처리되었음을 알리는 알림을 보내지 않습니다. 양식을 제출하고 7일이 지난 후에도 제품 내에서 권장 사항이 계속 표시되는 경우 고객 지원에 문의하세요.
 
-OneDrive, Teams 및 Office 앱 전반에서 심도 깊게 통합되므로 Outlook은 모바일 장치에서 Office 365를 경험할 수 있는 최선의 방법입니다. 많은 고객들이 Office 365 및 Microsoft 365 서비스의 일부로 추가 비용 없이 추가 기능 및 Outlook 모바일에 대한 상업적 사용 권한을 얻을 수 있다는 사실을 알지 못합니다.
+OneDrive, Teams 및 Microsoft 365 앱 전반에서 완벽하게 통합되므로 Outlook은 모바일 장치에서 Office 365를 경험할 수 있는 최상의 방법입니다. 많은 고객들이 Office 365 및 Microsoft 365 서비스의 일부로 추가 비용 없이 추가 기능 및 Outlook 모바일에 대한 상업적 사용 권한을 얻을 수 있다는 사실을 알지 못합니다.
 
 회사 또는 학교 계정으로 Outlook을 사용하지만 Outlook 모바일을 사용하지 않는 사용자라면 휴대폰에 Outlook을 다운로드할 수 있다는 알림이 곧 표시될 수 있습니다. 알림을 해제하거나 Outlook 모바일을 사용하기 시작하면 알림이 다시 나타나지 않습니다. 선택한 모바일 장치에 앱을 간단히 다운로드할 수 있는 빠른 링크가 제공됩니다.

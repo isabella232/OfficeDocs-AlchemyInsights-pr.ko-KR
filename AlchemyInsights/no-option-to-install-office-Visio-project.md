@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: e071894314c349ac574d00c6c13a39b23a4fce16
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010152"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576998"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Office, Visio 또는 Project를 설치하는 옵션 없음
 
@@ -24,7 +24,7 @@ Office 클라이언트 앱을 설치하려면 [Office 클라이언트 앱을 포
 
 **참고**: [Office Home and Business](https://products.office.com/home-and-business)는 [가정용 Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) 제품이며 비즈니스 구독의 일부가 아닙니다. Project Online Essentials는 데스크톱 버전의 Project를 포함하지 않기에 설치가 필요하지 않습니다. 요금제에 Visio 데스크톱 앱이 포함되어 있지 않으므로 Visio Plan 1 사용자는 웹용 Visio에 액세스할 수 있습니다. Mac에서는 Project 및 Visio 데스크톱 앱을 사용할 수 없음
 
-Office 앱을 포함하는 서비스를 구독하는 경우 [할당된 라이선스](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home)가 없으면 설치 옵션이 표시되지 않습니다. 라이선스 할당에 대한 책임이 있는 Office 365의 관리자인 경우 [사용자에게 라이선스 할당](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home)을 참조합니다.
+Microsoft 365 앱을 포함하는 서비스를 구독하는 경우 [할당된 라이선스](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home)가 없으면 설치 옵션이 표시되지 않습니다. 라이선스 할당에 대한 책임이 있는 Office 365의 관리자인 경우 [사용자에게 라이선스 할당](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home)을 참조합니다.
 
 
 각 사용자가 다음을 수행하도록 합니다.
