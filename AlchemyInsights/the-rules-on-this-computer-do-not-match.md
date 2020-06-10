@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44618019"
+ms.locfileid: "44664252"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>오류:이 컴퓨터의 규칙이 일치 하지 않습니다.
 
@@ -28,3 +28,4 @@ Outlook 팀은 12928.10000 빌드에 수정 사항을 구현 했습니다. 수�
 **해결 방법**: 최근 보고서에서는 Outlook 데스크톱에서 생성 된 클라이언트 규칙만 있는 문제에 대해 문제가 발생 했습니다. 계속 해 서 문제가 발생 하면 규칙을 삭제 한 다음이 문제가 해결 될 때까지 OWA (Outlook Web App)에서 규칙을 만들고 편집 하는 것이 좋습니다.
 
 규칙을 수동으로 삭제할 수 없으면 outlook을 시작할 때 outlook.exe/cleanrules를 실행 하 여 Outlook 명령을 실행할 수 있습니다. 이렇게 하면 클라이언트 및 서버 규칙이 모두 삭제 됩니다. Outlook 프로필의 모든 계정에 대 한 모든 규칙이 삭제 됩니다. 이 명령은 명령줄 스위치 문서에 자세히 설명 되어 있습니다.
+

@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: 9aea00b8239ed126cd56385cc6265fc15466db30
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d8cd49eae557536d67a7d3a0798984b35c5be40e
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911873"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581733"
 ---
 # <a name="microsoft-365-groups-showing-sensitivity-label"></a>민감도 레이블을 표시하는 Microsoft 365 그룹
 
 Microsoft 365 그룹에서는 다음 문제가 확인될 수 있습니다.
 
-- OWA에서 "분류 필드를 비워 둘 수 없습니다." 오류가 표시되면서 Microsoft 365 그룹을 만들 수 없습니다.
+- "분류 필드를 비워 둘 수 없습니다." 오류가 발생하여 OWA에서 Microsoft 365 그룹을 만들 수 없습니다.
 
 - 기능을 사용하도록 설정하지 않은 경우에도 Microsoft 365 그룹에 대한 민감도 레이블이 보입니다.
 

@@ -1,5 +1,5 @@
 ---
-title: Office 앱 정품 인증
+title: Microsoft 365 앱 정품 인증
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 192153f10d7f2267dc8ce86a6f455dc3bca55402
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 757366de236d84ad67cbef892abb241dd48aa2c5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682533"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581417"
 ---
-# <a name="activating-office-apps"></a>Office 앱 정품 인증
+# <a name="activating-microsoft-365-apps"></a>Microsoft 365 앱 정품 인증
 
 Office 정품 인증을 받으려면 다음을 참조하세요.
 
@@ -28,11 +28,12 @@ Office 정품 인증을 받으려면 다음을 참조하세요.
 
 Office 정품 인증 문제를 해결하려면 다음을 참조하세요.
 
+- [정품 인증 문제 해결사](https://aka.ms/SARA-OfficeActivation-Alchemy)를 실행하고 컴퓨터를 다시 시작합니다.
 - [사용 허가되지 않은 제품 및 Office 정품 인증 오류](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [Mac용 Office를 설치하거나 정품 인증할 수 없는 경우](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-최근에 계정 또는 Office 구독을 전환한 경우 아래 단계에 따라 정품 인증 문제를 해결합니다.
+Microsoft 365 앱에 로그인 할 수 없는 경우 아래의 단계를 따릅니다.
 
 1. Office 앱을 열고 기존 사용자 계정을 [로그아웃](https://go.microsoft.com/fwlink/?linkid=2114082)합니다.
 

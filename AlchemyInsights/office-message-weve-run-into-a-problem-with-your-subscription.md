@@ -1,5 +1,5 @@
 ---
-title: Office 앱 메시지 - 구독에 문제 발생
+title: Microsoft 365 앱 메시지 - 구독에 문제 발생
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 6b370dd647bbe93c435b2c1853c16906c4c910f0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 23617d5ad336f3811022b007a78bb4bb7db74cf5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512452"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581561"
 ---
-# <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Office 앱 메시지 - 구독에 문제 발생
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Microsoft 365 앱 메시지 - 구독에 문제 발생
 
 - 최근 다른 구독/플랜으로 전환한 경우 [요금제 전환 후 Office에서 "계정 알림"이 나타남](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d)의 단계에 따라 Office를 다시 설치하거나 업데이트합니다.
 
@@ -30,7 +30,7 @@ ms.locfileid: "44512452"
 
 - [정품 인증 문제 해결사](https://aka.ms/SARA-OfficeActivation-Alchemy)를 실행하고 컴퓨터를 다시 시작합니다.
 
-- 영향을 받는 컴퓨터에서 [Office 정품 인증을 다시 설정](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632)합니다.
+- 영향을 받는 컴퓨터에서 [Office 정품 인증을 다시 설정](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)합니다.
 
 자세한 내용은 다음을 참조하십시오. 
 

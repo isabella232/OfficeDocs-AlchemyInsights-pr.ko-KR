@@ -1,5 +1,5 @@
 ---
-title: Office 앱 메시지 - 연결된 Office 라이선스를 찾을 수 없음
+title: Microsoft 365 앱 메시지 - 연결된 Office 라이선스를 찾을 수 없음
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505097"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581657"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Office 앱 메시지 - 연결된 Office 라이선스를 찾을 수 없음
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 앱 메시지 - 연결된 Office 라이선스를 찾을 수 없음
 
 이 오류를 해결하려면 다음 단계를 수행하십시오.
 
@@ -38,7 +38,7 @@ ms.locfileid: "44505097"
 
 - Office 정품 인증 다시 설정 [엔터프라이즈용 Microsoft 365 앱 정품 인증 다시 설정](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)을 참조하세요.
 
-- 방화벽, 바이러스 백신 소프트웨어 및 프록시 설정이 Office 앱의 인터넷 액세스를 차단하고 있지 않은지 확인합니다. 
+- 방화벽, 백신 소프트웨어 및 프록시 설정이 Microsoft 365 앱의 인터넷 액세스를 차단하고 있지 않은지 확인합니다. 
 
 추가적인 문제 해결 솔루션을 보려면 다음을 참조하세요.
 
