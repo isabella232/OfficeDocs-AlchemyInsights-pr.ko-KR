@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021504"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702212"
 ---
 # <a name="teams-outlook-add-in"></a>팀 Outlook 추가 기능
 
-여러 요인으로 인해 팀 추가 기능이 표시 되지 않으며 [여기](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)에 모두 나열 됩니다.
+누락 된 팀 Outlook 추가 기능의 문제를 해결 하려면 먼저 관리자 포털에서 서비스 진단을 실행 해야 합니다.  서비스 진단에서 문제가 표시 되지 않으면 영향을 받는 사용자 컴퓨터에서 [Microsoft 지원 및 복구 도우미](https://aka.ms/SaRA-TeamsAddInScenario) **팀 Outlook 추가 기능 시나리오** 를 계속 해 서 다운로드 하 고 실행 하 여 클라이언트 문제를 진단 하 고 수정 합니다.
 
-**먼저 추가 기능이 사용 하지 않도록 설정 되어 있는지 확인 하는 것이 좋습니다.**
-
-- Outlook에서 **파일** 및 **옵션**을 클릭 합니다.
-- **Outlook 옵션** 대화 상자의 **추가** 기능 탭을 선택 합니다.
-- **Microsoft Office 용 Microsoft 팀 추가** 기능이 **활성 응용 프로그램 추가 기능** 목록에 표시 되는지 확인 합니다.
-- 팀 모임 추가 기능이 **비활성 응용 프로그램 추가 기능** 목록에 표시 되 면 **관리** 에서 **COM 추가 기능** 을 선택 하 고 **이동을** 클릭 합니다.
-- Microsoft **Office 용 팀 모임 추가 기능**옆에 있는 확인란을 선택 합니다.
-- 모든 대화 상자에서 **확인을** 클릭 하 고 Outlook을 다시 시작 합니다.
+문제를 수동으로 해결 하려면 팀 추가 기능이 [여기](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)에 표시 되지 않도록 하는 잠재적 요인 목록을 검토 하십시오.
