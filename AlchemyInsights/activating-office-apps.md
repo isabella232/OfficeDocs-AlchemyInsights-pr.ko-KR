@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 757366de236d84ad67cbef892abb241dd48aa2c5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
+ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581417"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "44735218"
 ---
 # <a name="activating-microsoft-365-apps"></a>Microsoft 365 앱 정품 인증
 
@@ -25,6 +25,8 @@ Office 정품 인증을 받으려면 다음을 참조하세요.
 - [PC에서 Office 정품 인증](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) 
 
 - [Mac에서 Office 정품 인증](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
+
+**참고:** [Office 클라이언트 앱을 포함](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)하는 Office 365 또는 Microsoft 365 구독(예: Microsoft 365 Business Standard, 비즈니스용 Microsoft 365 앱 또는 엔터프라이즈용 Microsoft 365 앱)이 있어야 합니다. 또한 Office 앱에 로그인하는 데 사용 하는 사용자 계정에[할당된 라이선스](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)가 있는지 확인합니다.
 
 Office 정품 인증 문제를 해결하려면 다음을 참조하세요.
 
