@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bd2901580acdb1dc17f3e14a7a9356b07e70f910
+ms.sourcegitcommit: bf6a0e80d09aebae19b9e993c2552b88e49177c9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676539"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "44750976"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>필수 Alchemy 헤더 H1, H2's이 작동 하지 않습니다.
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"필수 Alchemy 헤더 H1, H2's이 작동 하지 않음"
 Alchemy 작성을 위한 모범 사례 및 지침:
 
 1. **Alchemy Insights를 폴더에 중첩 하지 마세요**-url 구조가 손상 됩니다. 여기서는이 문제를 해결 하 고 있습니다.
