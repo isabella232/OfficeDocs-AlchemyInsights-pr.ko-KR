@@ -13,14 +13,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: a2c6194c515244782eb2111f827a3ea5ed7f7284
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 94143cf349479c5b2e6be87b3a5a11614e0bdfc9
+ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732372"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44850796"
 ---
-# <a name="outlook-categories"></a><span data-ttu-id="c2baf-102">Outlook 범주</span><span class="sxs-lookup"><span data-stu-id="c2baf-102">Outlook categories</span></span>
+# <a name="outlook-categories"></a><span data-ttu-id="587e7-102">Outlook 범주</span><span class="sxs-lookup"><span data-stu-id="587e7-102">Outlook categories</span></span>
 
-<span data-ttu-id="c2baf-103">색 범주를 사용 하면 Microsoft Outlook에서 관련 항목을 쉽게 식별 하 고 그룹화 할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="c2baf-103">Color categories allow you to easily identify and group associated items in Microsoft Outlook.</span></span> <span data-ttu-id="c2baf-104">자세한 내용은 [색 범주 만들기 및 할당](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="c2baf-104">For more information, see [Create and assign color categories](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span></span>
-  
+<span data-ttu-id="587e7-103">범주는 일정의 항목에만 적용 됩니다.</span><span class="sxs-lookup"><span data-stu-id="587e7-103">Categories only apply to items in your calendar.</span></span> <span data-ttu-id="587e7-104">모임 요청이 나 다른 사용자 로부터 받은 모임에 색 범주를 적용 하면 해당 색 범주가 일정에만 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="587e7-104">If you apply a color category to a meeting request or a meeting you've received from another person, that color category will only show in your calendar.</span></span>  <span data-ttu-id="587e7-105">공유 사서함에 색 범주를 적용 하는 경우에는 사서함, 그룹 사서함, 대화방 사서함 등이 범주에 영향을 줍니다.</span><span class="sxs-lookup"><span data-stu-id="587e7-105">If you apply a color category on a shared mailbox, delegate mailbox, group mailbox, room mailbox, etc. the color category only affects your view.</span></span>
+
+<span data-ttu-id="587e7-106">자세한 내용은 [일정 약속, 모임 또는 이벤트에 색 범주 할당을 지정](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527) 합니다.</span><span class="sxs-lookup"><span data-stu-id="587e7-106">For more information: [Assign a color category to a calendar appointment, meeting, or event](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)</span></span>
