@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506161"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840927"
 ---
-# <a name="calendar-publishing-information"></a>일정 게시 정보
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Microsoft 365 관리 센터를 사용 하 여 일정 공유를 사용 하도록 설정
 
-- Microsoft 365 관리자는 조직에 대해 일정 게시 및 일정 공유를 사용 하거나 사용 하지 않도록 설정할 수 있습니다. 자세한 내용은 사용자가 정보를 공유 하 고 [외부 사용자와 일정을 공유할](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users) [수 있도록 일정 게시 끄기를](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) 참조 하세요.
+1. 관리 센터에서 **설정**   >   **조직 설정**으로 이동 합니다.
+2. **서비스** 탭에서 **일정**을 선택 합니다.
+3. 열리는 **일정** 페이지에서 사용자가 Microsoft 365 또는 Exchange를 사용 하는 조직 외부의 사용자와 일정을 공유할 수 있도록 할지 여부를 선택 합니다.
+4. 익명 사용자 (로그온 자격 증명이 없는 사용자)에 게 전자 메일 초대를 통해 일정에 액세스 하도록 허용할지 여부를 선택 합니다.
+5. 사용자에 게 제공할 일정 정보 유형을 선택 합니다. 모든 정보를 허용 하거나 시간, 제목 및 위치만으로 제한할 수 있습니다.
 
-- Outlook 사용자는 자신의 일정을 공유할 수 있습니다. 자세한 내용은 [다른 사람과 Outlook 일정 공유](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)를 참조 하세요.
+추가 정보: [외부 사용자와 일정 공유](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)
