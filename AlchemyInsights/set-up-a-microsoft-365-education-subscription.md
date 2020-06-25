@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 1759240afe18342bd5af205eb36d747803808134
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
+ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915133"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44841005"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Microsoft 365 Education 구독 설정
 
@@ -24,6 +24,5 @@ ms.locfileid: "43915133"
 
 **더욱 우수한 리소스**
 
-- 개요는 [Office 365 Education 테넌트 설정](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant)을 참조하세요.
-- IT 관리자, 개발자 및 파트너를 위한 [Microsoft 365 교육 시작](https://docs.microsoft.com/education/)을 참조하세요. 
-- [Microsoft 스토어 계정을 Intune for Education과 연결](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education) 
+- 개요를 보려면 [Office 365 테넌트 계정 만들기](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)를 참조하세요.
+- IT 관리자, 개발자 및 파트너를 위한 [Microsoft 365 교육 시작](https://docs.microsoft.com/education/)을 참조하세요.
