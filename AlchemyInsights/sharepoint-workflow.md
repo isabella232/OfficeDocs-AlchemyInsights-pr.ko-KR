@@ -14,12 +14,12 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 16ca9e18db31ddc2418c629e34f47f4ea0784feb
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 1bf991112d05652bcb8a8b292374f7a5e2885103
+ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162982"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138977"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>SharePoint의 워크플로 문제 해결
 
@@ -30,3 +30,5 @@ ms.locfileid: "42162982"
 **전원 자동화**
 
 단지 워크플로를 시작 하는 경우에는 클래식 SharePoint 워크플로 솔루션 대신 [전원 자동화](https://docs.microsoft.com/power-automate/modern-approvals) 를 사용 하는 것이 좋습니다.
+
+자세한 내용은 [SharePoint 워크플로 중지](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)를 참조 하세요.
