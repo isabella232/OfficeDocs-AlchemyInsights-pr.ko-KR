@@ -2,7 +2,7 @@
 title: 결제 방법 변경
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "277"
 - "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: a0bbc046c28ec246090dbc275f6acb3ccbce8622
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: cf12baf7a9b40b56549f0d3c63f7a6be8d8a7cb9
+ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44221951"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45154524"
 ---
 # <a name="change-payment-method"></a>결제 방법 변경
 
@@ -34,4 +34,6 @@ ms.locfileid: "44221951"
 6. **결제 방법 추가** 창에서 계정 정보를 입력 한 다음 **저장**을 선택 합니다. 테 넌 트와 동일한 국가의 결제 방법을 사용 해야 합니다.
 7. 드롭다운 목록에서 새 결제 방법이 이미 선택 되어 있습니다. **바꾸기를**선택 합니다.
 
-자세한 내용은 [결제 방법 관리](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)를 참조 하세요.
+자세한 내용은 [결제 방법 관리하기](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)를 참조하세요.
+
+신용 카드로 지불을 통해 송장 지불로 변경 하는 방법에 대 한 자세한 내용은 [신용 카드 또는 은행 계좌에서 송장으로 변경을](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice)참조 하세요.
