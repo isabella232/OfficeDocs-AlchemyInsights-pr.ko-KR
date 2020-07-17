@@ -28,7 +28,7 @@ ms.locfileid: "44854046"
 6. **공유 규칙**에서 다음 옵션 중 하나를 선택하여 공유할 도메인을 지정합니다.
     - **모든 도메인과 공유**
     - **특정 도메인과 공유**
-8. If you select **Sharing with a specific domain**, type the name of the domain you want to share with. If you need to enter more than one domain for this sharing policy, save the settings for the first domain, then edit the sharing rules to add more domains.
+8. **특정 도메인과 공유**를 선택하면 공유할 도메인의 이름을 입력합니다. 이 공유 정책에 대해 도메인을 두 개 이상 입력해야 하는 경우 첫 번째 도메인의 설정을 저장한 다음 공유 규칙을 편집하여 도메인을 더 추가합니다.
 9. 공유할 수 있는 정보를 지정하려면 **일정 폴더 공유** 확인란을 선택하고 다음 옵션 중 하나를 선택합니다.
     - **약속 있음/없음 일정 정보와 시간만**
     - **약속 있음/없음 일정 정보와 시간, 제목, 위치**

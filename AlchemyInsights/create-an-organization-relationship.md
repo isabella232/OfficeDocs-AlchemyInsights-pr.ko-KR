@@ -25,7 +25,7 @@ ms.locfileid: "44854043"
 3. **조직 공유**에서 **새로 만들기**를 클릭합니다.
 4. **새 조직 관계**의 **관계 이름** 상자에 조직 관계의 이름을 입력합니다.
 5. **공유할 도메인** 상자에 일정을 보도록 허용할 외부 Office 365 또는 Exchange 온-프레미스 조직의 도메인을 입력합니다. 도메인을 두 개 이상 입력하려면 도메인 이름을 쉼표로 구분합니다. 예: contoso.com, service.contoso.com
-6. Select the **Enable calendar free/busy information sharing** check box to turn on calendar sharing with the domains you listed. Set the sharing level for calendar free/busy information and set which users can share calendar free/busy information.  
+6. **약속 있음/없음 일정 정보 공유 사용** 확인란을 선택하여 목록에 포함한 도메인에 대해 일정 공유를 설정합니다. 약속 있음/없음 일정 정보의 공유 수준과 약속 있음/없음 일정 정보를 공유할 수 있는 사용자를 설정합니다.  
 
 약속 있음/없음 액세스 수준을 설정하려면 다음 중 하나를 선택합니다.
 
