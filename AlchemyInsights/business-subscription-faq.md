@@ -19,16 +19,14 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 391ec22f692fd0264750ea3151fbc0da8f4269bd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5ceadd44976b61f3570d9f15dbf724aed0b44e38
+ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506305"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45169714"
 ---
 # <a name="business-subscription-faq"></a>비즈니스 구독 FAQ
-
-비즈니스 구독 및 라이선스 관리 FAQ:
 
 - 비즈니스용 Microsoft 365 옵션을 보려면 [비즈니스 요금제 비교](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2)를 참조 하세요. 자세한 내용은 영업 1-855-270-0615에 문의하세요.
 - 요금제를 **구입**하려면, **청구 > [서비스 구매](https://go.microsoft.com/fwlink/p/?linkid=868433)** 로 이동합니다. 요금제 및 사용자 수를 선택합니다. 자세한 내용은 [구독 구입](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide)을 참조하세요.
