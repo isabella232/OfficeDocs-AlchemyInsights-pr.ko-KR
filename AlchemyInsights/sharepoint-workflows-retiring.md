@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: a1b792bcb2a73ed89f8cfe74c0b56461dfa465ce
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: ce4c6319de89ef0fa5cae4cf37f4552db7508ddb
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45139070"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45146597"
 ---
 # <a name="sharepoint-workflows-retiring"></a>SharePoint 워크플로 사용 중단
 
-SharePoint 2010과 2013 워크플로 사용이 중단됩니다. [Power Automate](https://docs.microsoft.com/power-automate/getting-started) 또는 지원되는 다른 솔루션으로 마이그레이션하는 것이 좋습니다. 
+SharePoint 2010 워크플로 사용이 중단됩니다. [Power Automate](https://docs.microsoft.com/power-automate/getting-started) 또는 지원되는 다른 솔루션으로 마이그레이션하는 것이 좋습니다. 
 
 주요 날짜:
 
