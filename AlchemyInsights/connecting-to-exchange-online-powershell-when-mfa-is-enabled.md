@@ -13,15 +13,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705811"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205309"
 ---
 # <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>MFA를 사용 하는 경우 Exchange Online PowerShell에 연결
 
-계정에 MFA (다단계 인증)가 사용 되도록 설정 된 경우에는 이러한 지침을 따라 Exchange Online PowerShell에 연결 하 고 [다단계 인증을 사용 하 여 Exchange Online powershell에 연결](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)해야 합니다.
-
-**참고**: [일반 연결 지침](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)을 사용 하 여 이전에 Exchange Online PowerShell에 연결한 경우라도, 계정에 대해 mfa를 사용 하도록 설정한 후에 mfa 연결 지침을 사용 해야 합니다.
+계정에 MFA (다단계 인증)를 사용 하는 경우 다음 지침을 따라 Exchange Online PowerShell에 연결 해야 합니다. Exchange Online PowerShell을 사용 하 여 [최신 인증과 V2 module](https://aka.ms/exops-docs) 해당 페이지에서 MFA/다단계 인증 지침을 검색 하세요.
