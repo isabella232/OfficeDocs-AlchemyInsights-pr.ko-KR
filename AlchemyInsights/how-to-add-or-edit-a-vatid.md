@@ -12,12 +12,12 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 855f2ae66fe8a882dbc69e1bc1b546fe6eabb712
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 814420999d926e79bef7cfd956b0d949e6a82da0
+ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495957"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46505155"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>VatID를 추가 하거나 편집 하는 방법
 
@@ -35,7 +35,7 @@ ms.locfileid: "44495957"
 
     완료 되 면 VAT는 다음 청구서에 청구 되지 않습니다.
 
-자세한 내용은 [What a 있습니까? Microsoft 365에 대 한 요금이 부과 되는 세금은 무엇입니까?]https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)
+자세한 내용은 [어떤 세금에서 Microsoft 365에 대 한 비용이 부과 됩니까?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)를 참조 하세요.
 
 **추가 리소스**
 
