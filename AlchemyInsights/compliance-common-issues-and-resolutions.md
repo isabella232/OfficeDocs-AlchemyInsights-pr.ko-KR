@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: f3e8fc56e0eaf47e946ecf039aa49467689fd8e0
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
+ms.openlocfilehash: 0f64207ac9ea2c25106f0339ed2b8080361e8ce4
+ms.sourcegitcommit: 5af184ed3c0f9491e7fcf927e9c78e366f26b540
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231669"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46514980"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>규정 준수 일반적인 문제 및 해결 방법
 
@@ -31,5 +31,7 @@ ms.locfileid: "43231669"
 - O365에서 감사: [O365에서 감사 로그를 검색를 .
 
 - DLP(데이터 손실 방지): 자세한 내용은 [DLP(데이터 손실 방지) 개요](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide)를 참조하세요.
+ 
+- 민감도 레이블: 자세한 내용은 [민감도 레이블과 해당 정책 만들기 및 구성](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)을 참조하세요.
 
 **참고**: 규정 준수 문제에 대한 보다 구체적인 답변을 보려면 질문을 간단히 바꾸고 현재 표시되는 오류나 사용 중인 기능을 포함하세요.

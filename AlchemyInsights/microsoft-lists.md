@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: 2485374a9cd7082698245af913d0e2463b03b809
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: 682b437962b2192ef57cf48d4eae775bf2a4fcc7
+ms.sourcegitcommit: e90b918f02102cd9764881c2d8c914567c6b070e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45139077"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46509018"
 ---
 # <a name="microsoft-lists"></a>Microsoft Lists
 
@@ -25,7 +25,7 @@ Microsoft는 Microsoft Lists의 첫 번째 단계인 Microsoft 365 앱을 출시
   
 **출시 시기**  
 
-- 2020년 7월 말에 사용 가능한 조직을 대상으로 출시됩니다.
+- 대상 지정된 릴리스를 사용하는 조직에 대한 롤아웃이 시작되었습니다.
 - 2020년 10월 중반까지 모든 조직에 릴리스됩니다.
 
 SharePoint 라이선스가 있는 사용자라면 누구나 Lists 아이콘이 표시되어 Microsoft Lists 사용을 시작할 수 있습니다. 현재는 관리자가 해당 기능을 해제할 수 없습니다.
