@@ -12,14 +12,16 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 9af8a4d3ce72fd901ff2f3a1aae0654c7213dd7e
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511046"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522777"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>보관 사서함으로 전자 메일 이동
+
+아래에 설명 된 설정에 대해 자동 검사를 실행 하려면이 페이지 맨 위에 있는 뒤로 단추 <를 선택 하 고 전자 메일을 보관 사서함으로 이동 하는 데 문제가 있는 사용자의 전자 메일 주소를 입력 합니다.
 
 1. **보관 사서함** 이 사용 하도록 설정 되었는지 확인 합니다. 그렇지 않으면 [이 문서의](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) 단계를 사용 하 여 보관 사서함을 사용 하도록 설정 합니다.
 

@@ -10,14 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507032"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522741"
 ---
 # <a name="enable-an-archive-mailbox"></a>보관 사서함 사용
+
+자동 검사를 실행 하 여 보관 사서함을 구성할 수 있도록 하려면이 페이지 맨 위에 있는 뒤로 단추 <----해당 계정의 전자 메일 주소를 입력 합니다.
 
 Microsoft 365의 보관 사서함 ( *온라인 보관* 또는 원본 *위치 보관*이 라고도 함)은 사용자에 게 추가 전자 메일 저장소를 제공 합니다. 사용자는 보관 사서함으로 항목을 이동 하거나 복사할 수 있으며, 관리자는 항목을 보관 사서함으로 자동으로 이동 하는 보관 정책을 만들 수 있습니다.
   

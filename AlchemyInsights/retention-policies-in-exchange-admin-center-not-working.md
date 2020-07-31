@@ -12,14 +12,16 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 3040365b9d686bcbcce60977ee9bdbbaffc70b24
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4d3ca121c8d22a0900f136f7f2a754dfb5b435f5
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502613"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522813"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Exchange 관리 센터의 보존 정책
+
+아래에 설명 된 설정에 대해 자동 검사를 실행 하려면이 페이지 맨 위에 있는 뒤로 단추 <를 선택 하 고 보존 정책에 문제가 있는 사용자의 전자 메일 주소를 입력 합니다.
 
  **문제:** Exchange 관리 센터에서 새로 만들어지거나 업데이트 된 보존 정책이 사서함 이나 항목에 적용 되지 않으면 보관 사서함으로 이동 되거나 삭제 되지 않습니다. 
   

@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508814"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522849"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>보관 사서함 크기 늘리기
+
+
+아래에 설명 된 설정에 대해 자동 검사를 실행 하려면이 페이지 맨 위에 있는 뒤로 단추 <를 선택 하 고 보관 사서함 크기를 늘려야 하는 사용자의 전자 메일 주소를 입력 합니다.
 
 Microsoft 365은 사용자 계정에 할당 된 라이선스를 기반으로 보관 사서함의 크기를 [제한](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) 합니다. 보관 사서함이 허용 되는 크기의 90%에 도달 하면 사용자에 게 전자 메일 알림이 수신 됩니다. 보관 사서함의 크기 제한에 도달 하면 사용자는 보관 사서함으로 항목을 더 이상 이동할 수 없습니다. 크기 제한에 도달 하면 Microsoft 365에서 보관 사서함의 크기를 늘리지 않습니다. 대신 사용자는 다음 작업을 수행 하 여 보관 사서함의 공간을 늘릴 수 있습니다.
 
