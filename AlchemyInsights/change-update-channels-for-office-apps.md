@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 4939682a6ca95c4f5475ee6aedea48c9ce83df7f
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: fb69bce40ab56b162c715af6a0647c8219c5564f
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431652"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665468"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Office 앱에 대한 업데이트 채널 변경
 
@@ -30,9 +30,9 @@ ms.locfileid: "45431652"
 1. [Microsoft 다운로드 센터](https://go.microsoft.com/fwlink/p/?LinkID=626065)에서 Office 배포 도구(setup.exe)의 최신 버전을 다운로드합니다.
 2. 전환하려는 채널의 이름을 식별합니다. 자세한 내용은 [Office 배포 도구에 대한 구성 옵션](https://docs.microsoft.com/DeployOffice/configuration-options-for-the-office-2016-deployment-tool#channel-attribute-part-of-add-element)을 참조하세요.
 3. 적절한 채널 이름(예: update.exe)을 지정하여 구성 XML 파일을 만듭니다.  
-    a. <Configuration>  
-    b. <업데이터 **Channel="Monthly"** />  
-    c. </Configuration>
+    `<Configuration> 
+    <Updates **Channel="Monthly"** />  
+    </Configuration>`
 4. 관리자 권한으로 실행한 명령 프롬프트에서 setup.exe가 있는 폴더 위치로 전환하고 다음 명령을 실행합니다.  
     a. setup.exe /configure update.xml
 5. Excel과 같은 Office 응용 프로그램을 시작한 다음 **파일** > **계정**을 선택합니다. 제품 정보 섹션에서 **업데이트 옵션** > **지금 업데이트**를 선택합니다.
