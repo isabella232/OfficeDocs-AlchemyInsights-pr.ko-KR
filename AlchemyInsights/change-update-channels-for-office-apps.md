@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 3e1042a38d2289b9ef2396e8300d32f20ddaa703
-ms.sourcegitcommit: b5e5f560bf6ef92b4475bd3d91b7df38b5a4b036
+ms.openlocfilehash: 43a3cdefe5a9bc1726984a3195dce7aaea08d892
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "46739833"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786859"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Office 앱에 대한 업데이트 채널 변경
 
@@ -32,7 +32,7 @@ ms.locfileid: "46739833"
 3. 적절한 채널 이름(예: update.exe)을 지정하여 구성 XML 파일을 만듭니다.  
 
 `<Configuration>`<br>
-`<Updates Channel="Monthly"/>`<br>
+`<Updates Channel="Current"/>`<br>
 `</Configuration>`<br>
 
 4. 관리자 권한으로 실행한 명령 프롬프트에서 setup.exe가 있는 폴더 위치로 전환하고 다음 명령을 실행합니다.  
