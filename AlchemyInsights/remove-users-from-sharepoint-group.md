@@ -1,7 +1,7 @@
 ---
 title: SharePoint 그룹에서 사용자 제거
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: c22bbf8ae5c6ff1dfdf729454330ebe498090581
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d2f1ead4de04bbecb55c805a9b085bc81029a2ae
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510686"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787363"
 ---
 # <a name="remove-users-from-a-sharepoint-group"></a>SharePoint 그룹에서 사용자 제거
 

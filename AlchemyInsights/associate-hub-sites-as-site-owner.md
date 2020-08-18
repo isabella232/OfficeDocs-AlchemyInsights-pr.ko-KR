@@ -1,7 +1,7 @@
 ---
 title: 사이트 소유자로 허브 사이트 연결
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000717"
 - "2638"
-ms.openlocfilehash: fa9813ad8dd99777fb9c3c33b1bf83217f3e1c64
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8866629f73d31cafd33bee712bbb9ba7adce844c
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712500"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786679"
 ---
 # <a name="associate-hub-sites-as-site-owner"></a>사이트 소유자로 허브 사이트 연결
 
 [메시지 센터 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) 공유 SharePoint 허브에 가입 하는 방법을 사이트 소유자가 수행할 수 있는 방법을 설명 합니다. 조직에서 허브에 연결할 수 있는 특정 사용자를 관리 하려는 경우 다음 단계를 수행 합니다. 
 
-1. 관리자 권한으로 ([https://portal.office.com](https://portal.office.com))에 로그인 합니다.
+1. [https://portal.office.com](https://portal.office.com)관리자 권한으로 ()에 로그인 합니다.
 2. 화면 왼쪽 위에 있는 **앱 시작 관리자** (9 개의 사각형이 있는 아이콘)를 선택 하 고 **관리자**를 선택 합니다.
 3. 화면 왼쪽의 메뉴에서 **관리 센터** 를 선택 하 고 **SharePoint**를 선택 합니다.
 4. 화면 맨 위에 있는 파란색 배너에서 **지금 앱 시작** 을 선택 하 여 새 Sharepoint 관리 센터를 표시 합니다.

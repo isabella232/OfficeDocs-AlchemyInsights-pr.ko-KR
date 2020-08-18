@@ -1,5 +1,5 @@
 ---
-title: 사이트에 대한 외부 공유 설정 또는 해제
+title: SharePoint 사이트에 대해 외부 공유 설정 또는 해제
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: 733f470e606bb6bf4b4efbfa863b1258699fc311
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 501f41d458a863dc542520ccfbb7322913d4fdfc
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912936"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785743"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>SharePoint 사이트에 대해 외부 공유 설정 또는 해제
 

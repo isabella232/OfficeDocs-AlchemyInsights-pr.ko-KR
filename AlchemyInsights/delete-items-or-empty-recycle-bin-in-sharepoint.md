@@ -1,7 +1,7 @@
 ---
 title: SharePoint 사이트의 휴지통 항목 삭제 또는 비우기
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3175"
-ms.openlocfilehash: f035104d3a9c2a3d5c82d9753497fa5f4c9e6319
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3f0202e2ccab6dda22b451c6633ed59ea61df3ed
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704875"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786031"
 ---
 # <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>SharePoint 사이트의 휴지통 항목 삭제 또는 비우기 
 

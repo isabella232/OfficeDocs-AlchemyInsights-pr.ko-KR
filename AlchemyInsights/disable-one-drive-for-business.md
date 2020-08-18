@@ -1,7 +1,7 @@
 ---
 title: 비즈니스용 OneDrive를 사용 하지 않도록 설정 하는 방법
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 7cdd58f2e6e20fc2db0eac25b92e129493fc3401
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4c898bf8c16e7e51c3f64f350b16a458d187b163
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715202"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786067"
 ---
 # <a name="disable-onedrive-for-business"></a>비즈니스용 OneDrive 사용 안 함
 

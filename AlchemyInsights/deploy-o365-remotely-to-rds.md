@@ -1,7 +1,7 @@
 ---
 title: RDS, 터미널 서버 또는 VDI에서 공유 하기 위한 Microsoft 365 Apps for enterprise 배포
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bd30d99221e3ddd0b07db0db78009f346babd2d0
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507592"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786283"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>RDS, 터미널 서버 또는 VDI에서 공유 하기 위한 Microsoft 365 Apps for enterprise 배포
 
@@ -34,7 +34,7 @@ Office 배포 도구를 사용 하 여 필수 구성 요소, 설치 지침 및 �
 
 공유 컴퓨터 활성화와 관련 된 오류를 해결 하려면
 - [엔터프라이즈에 대 한 Microsoft 365 앱에 대 한 공유 컴퓨터 정품 인증과 관련 된 문제 해결을](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)참조 하세요.
-- [엔터프라이즈용 Microsoft 365 앱 정품 인증 다시 설정](https://go.microsoft.com/fwlink/?linkid=2109218)을 참조하세요.
+- [엔터프라이즈용 Microsoft 365 앱 정품인증 재설정](https://go.microsoft.com/fwlink/?linkid=2109218)을 참고하세요.
 
 ***기본 설치 설정을 사용 하는***microsoft 365 관리 센터에서 RDS에 Microsoft 365 Apps for enterprise를 설치 하려면 다음 단계를 수행 합니다.
 
