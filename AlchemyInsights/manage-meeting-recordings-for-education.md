@@ -12,14 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: d7b56237cb287f619643303fb31c627e258c332d
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: 3ec340b6a2ee1a3671f72f64b17e46d991d8e0a1
+ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46545716"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46844566"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>교육용 모임 녹음 관리
+
+**2020년 8월 20일**(A1 Plus 포함)부터 A1 라이선스를 보유한 사용자가 Teams 모임 기록을 시작하면 21일 동안 녹화가 가능합니다.
+
+모임을 다른 위치에 저장하는 방법 등 자세한 내용은 [Microsoft Teams 모임 기록 업로드](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording)를 참조하시기 바랍니다.
 
 교육 기관 관리자는 학생 및 교육자 안전을 위해 정책 패키지를 사용하는 것을 고려할 것을 권장합니다. 자세한 내용은 다음을 참조하시기 바랍니다.
 
