@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650574"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902626"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>레거시 eDiscovery 도구 만료
 
@@ -40,9 +40,9 @@ Microsoft 365 준수 센터에서 새롭게 향상 된 eDiscovery 기능을 사�
 - [Advanced eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **만료 시간**:
-- 2020 년 4 월 1 일: 새 검색 및 보류를 만들 수는 없지만 기존 검색을 계속 실행 하 고 편집 하 고 삭제할 수는 없습니다. Microsoft 지원에서는 EAC에서 원본 위치 eDiscovery &가 더 이상 지원 되지 않습니다.
-
-- 2020 년 7 월 1 일: EAC의 원본 위치 eDiscovery &은 읽기 전용 모드로 설정 됩니다. 즉, 기존 검색 및 보류만 제거할 수 있습니다.
+- **2020 년 7 월 1 일** 더 이상 새 검색 및 보류를 만들 수 없지만 기존 검색을 실행, 편집 및 삭제 하는 것은 위험 합니다. Microsoft Support는 EAC에서 원본 위치 eDiscovery & 보류를 더 이상 지원 하지 않습니다.
+    
+- **2020 년 10 월 1 일** 원본 위치 eDiscovery & EAC에서 유지 되는 기능은 읽기 전용 모드로 설정 되므로 기존 검색 및 보류만 제거할 수 있습니다.
 
 **자세한 내용은 다음 항목을 참조**하십시오.
 
