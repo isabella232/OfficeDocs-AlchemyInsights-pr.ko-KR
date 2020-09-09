@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 062dd51724ec6c36775f7f962241bac5807dd660
-ms.sourcegitcommit: ad8b990f0eb9274e68ef599e857ac6c452d3919a
+ms.openlocfilehash: 96562996569a75353a7d4c37b3c16c66d8d65489
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "41277929"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406440"
 ---
 # <a name="microsoft-threat-protection"></a>Microsoft 위협 방지
 
@@ -24,4 +24,4 @@ ms.locfileid: "41277929"
 - [MTP를 사용 하도록 설정 하는 방법](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
 - [MTP 문제 해결](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-라이선스를 확인 하는 방법: 라이선스를 보려면 Azure AD의 청구 관리자 또는 전역 독자 역할을 할당 받아야 합니다. [관리 센터로](https://admin.microsoft.com/) 이동 하 여 **청구** > **라이선스로** 이동 하 여 기존 라이선스를 확인 합니다.
+라이선스를 확인 하는 방법: 라이선스를 보려면 Azure AD의 청구 관리자 또는 전역 독자 역할을 할당 받아야 합니다. [관리 센터로](https://admin.microsoft.com/) 이동 하 여 **청구**  >  **라이선스로** 이동 하 여 기존 라이선스를 확인 합니다.

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5ecc849d78559bc392e83d2c6c3a866bcaa86944
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766679"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406296"
 ---
 # <a name="troubleshooting-intune-policy-and-profiles"></a>Intune 정책 및 프로필 문제 해결
 
 기존 정책을 확인 하 고 충돌을 해결 하 고 로그 데이터를 검토 하며 일반적인 질문과 문제를 확인 하려면 다음 가이드를 참조 하세요.
 
-- [Intune에서 정책 및 프로필 문제 해결](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Intune에서 정책 및 프로필 문제 해결](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
 - [Intune의 장치 정책 및 프로필에 대 한 일반적인 질문, 문제 및 해결 방법](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
