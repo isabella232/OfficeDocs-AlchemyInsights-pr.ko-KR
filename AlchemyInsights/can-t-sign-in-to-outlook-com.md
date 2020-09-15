@@ -6,6 +6,7 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -14,12 +15,12 @@ ms.custom:
 - "842"
 - "8000050"
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
-ms.openlocfilehash: 7b6fbc3e7667b8827c444b0b824ecb7f92bd75a8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c2406119592ea295f793570db4e95c43058e107e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711601"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683804"
 ---
 # <a name="i-cant-sign-in-or-forgot-my-password"></a>로그인 할 수 없거나 암호를 잊어버린 경우
 

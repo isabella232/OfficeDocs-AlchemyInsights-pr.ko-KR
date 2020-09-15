@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5078"
-ms.openlocfilehash: e5395fd4f87d4a2fd9e55d8bc31737489236a667
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 9d9b9439e5232a8b31b81c7b52df28d9a6c9b26a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933326"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683156"
 ---
 # <a name="cancel-subscription-from-partner"></a>파트너 구독 취소
 

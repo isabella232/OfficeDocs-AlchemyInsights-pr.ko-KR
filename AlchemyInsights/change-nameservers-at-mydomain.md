@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5862"
 - "14"
-ms.openlocfilehash: 61c49004b1ce08c2eb4e28e47d8f503e50932e1c
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: f3c2750f77b88b94d2eeadfe3740d325c3d39e23
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44716543"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682274"
 ---
 # <a name="change-nameservers-at-mydomain"></a>MyDomain에서 이름 서버 변경
 

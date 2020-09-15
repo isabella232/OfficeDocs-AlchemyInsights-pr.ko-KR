@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: a42d23edd663523f8da1392eaf57290ee1fc900b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 445f1edcae5a2581cf340898c823257e9e857ae7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706646"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681819"
 ---
 # <a name="change-permissions-for-a-sharepoint-list-or-library"></a>SharePoint 목록 또는 라이브러리에 대 한 사용 권한 변경
 

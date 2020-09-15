@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: cf8535c82b6d1e6c16d1f2002836bb032cde2dc3
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: 8487ba5c0e3c00df9e25101c8086fbf34994480f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469272"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681014"
 ---
 # <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>SharePoint Online에서 회사 이름 추출 변경
 

@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9002502"
 - "4869"
 - "4870"
-ms.openlocfilehash: e7873d2d0bdde96556d7852811dfdfd6aafebbc6
-ms.sourcegitcommit: bcd6df19adeb5e3a04e518a05621dd6c68da93f2
+ms.openlocfilehash: 44dd76383b2ca6b071c9f7cbbc9166509ff808fe
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43955796"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681914"
 ---
 # <a name="change-site-logo"></a>사이트 로고 변경
 

@@ -6,6 +6,7 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,12 +15,12 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: cc5827975eff10a119281541622224d0e37f08a7
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
+ms.openlocfilehash: d2511183d068330cdcfb4e08b08df4f18625c822
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44373005"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684236"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>일정을 공유할 때의 정책 오류
 
@@ -32,7 +33,7 @@ ms.locfileid: "44373005"
     Get-Mailbox User1 | fl *sharing*
     `
 
-3. 사용자에 대 한 공유 정책을 업데이트 합니다. 이렇게 하려면 다음 단계를 따르세요.
+3. 사용자에 대 한 공유 정책을 업데이트 합니다. 이렇게 하려면 다음과 같이 하십시오.
     - Exchange 관리 센터를 엽니다.
     - **조직을**클릭 한 다음 **개별 공유**에서 사용자에 게 할당 된 정책을 두 번 클릭 합니다. 이 정책은 2 단계에서 반환 된 정책입니다.
     - 공유 규칙 페이지에서 **공유 하려는 정보 지정**에서 허용할 일정 공유 수준을 선택 합니다. **저장**을 클릭 합니다.
