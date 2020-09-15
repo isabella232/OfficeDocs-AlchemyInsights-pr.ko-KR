@@ -5,17 +5,18 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 53aeac4c-00cb-4395-9d9b-b344cc5ada6f
-ms.openlocfilehash: f347b36de5a2c05fa7d6c54a3858e1b5b4b7c275
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3d85ba64091c7e244cb00a274884a096aacefd9e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505081"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696879"
 ---
 # <a name="become-an-admin"></a>관리자 되기
 

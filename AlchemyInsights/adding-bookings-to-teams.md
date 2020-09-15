@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "5041"
 - "9002238"
 - "4344"
-ms.openlocfilehash: 89d57ff01873ae18db8046588df731d8923bbf78
-ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
+ms.openlocfilehash: a189e8d74efb869b1068accbe6e065a0aebd0b1c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43812662"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697095"
 ---
 # <a name="adding-bookings-to-teams"></a>Teams에 Microsoft Bookings 추가
 

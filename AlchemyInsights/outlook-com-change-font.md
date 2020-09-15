@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,12 +15,12 @@ ms.custom:
 - "1919"
 - "8000013"
 ms.assetid: 824035f6-90d3-4ea2-a92b-6b73b4ec0076
-ms.openlocfilehash: 9b7106b78435e71d9e23662e7b5b71e8099e3d41
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 24827f7f6bc3db41b7e8dc6d22797cfaffc28960
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760742"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47768901"
 ---
 # <a name="change-font-or-font-size"></a>글꼴 또는 글꼴 크기 변경
 

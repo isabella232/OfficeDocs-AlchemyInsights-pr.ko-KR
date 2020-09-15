@@ -5,18 +5,19 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: 07f98f96958e4897a3e14cef424cb0d7bd491dcc
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: a571261ffcb327da50832bc5cb7169b769c2122c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765923"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695799"
 ---
 # <a name="ios-provisioning-profiles"></a>iOS 프로 비전 프로필
 

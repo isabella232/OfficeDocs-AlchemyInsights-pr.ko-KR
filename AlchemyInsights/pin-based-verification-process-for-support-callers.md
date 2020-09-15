@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/25/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6218"
 - "9003321"
-ms.openlocfilehash: 17a1cbbff87433037b64be81f6987e2b8807088e
-ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
+ms.openlocfilehash: 2ffb254f914d738dff09976d5c574b6c3036f793
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46903594"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721323"
 ---
 # <a name="pin-based-verification-process-for-support-callers"></a>지원 호출자를 위한 PIN 기반 검증 프로세스
 

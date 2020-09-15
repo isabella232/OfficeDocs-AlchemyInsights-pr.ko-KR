@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: d1808be3aeb672973046840ced7832830d490d0a
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: 50143ea86f07412f34830e84df5c7ce2a050f5d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100537"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696087"
 ---
 # <a name="investigate-a-billing-charge-from-microsoft-or-msbill-dot-info"></a>Microsoft 또는 MSbill.info에서 청구 요금 조사하기
 

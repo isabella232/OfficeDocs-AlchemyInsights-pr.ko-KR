@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "9002239"
 - "4348"
 ms.assetid: ''
-ms.openlocfilehash: 023d67ab0a055f97ed0e0f15cb4f9325aabcafba
-ms.sourcegitcommit: 018aadd53eac92248bc6d5ad63b739216103090a
+ms.openlocfilehash: 13478e3b991f9abe38a39f9c5cf93a45379a53ff
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42940336"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736726"
 ---
 # <a name="teams-emergency-calling"></a>Teams 긴급 전화
 

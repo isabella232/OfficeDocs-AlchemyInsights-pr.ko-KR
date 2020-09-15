@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 7ffbd796979d8e63682bcc9f5ec5e21e16f777b7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4b309039dc920089d966e3bbe45dcea874668597
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765815"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695511"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Office 설치 시 발생하는 문제에 대한 해결 방법
 

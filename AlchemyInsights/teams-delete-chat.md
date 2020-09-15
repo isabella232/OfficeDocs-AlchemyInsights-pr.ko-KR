@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000743"
 - "2680"
-ms.openlocfilehash: a9c02dcf00fff4d89b720668e287c1a76b4b68ea
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: d22877d1777df432a1c9b5420c4fce73d291c994
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37027030"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736798"
 ---
 # <a name="delete-a-chat-in-microsoft-teams"></a>Microsoft 팀에서 채팅 삭제
 

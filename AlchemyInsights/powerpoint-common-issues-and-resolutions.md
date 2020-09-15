@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "3776"
-ms.openlocfilehash: 6562dfcbbf41014cdf1ae93424616d8ab1288082
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0fb5912194d7f07615b62e9dce979fa775cef1a7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "43955531"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721156"
 ---
 # <a name="powerpoint-common-issues-and-resolutions"></a>PowerPoint 일반적인 문제 및 해결 방법
 

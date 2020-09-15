@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 34593fbe80f11c9b4e1d10d3e1dbe5ff79602299
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: 9a09800fcc36876629c7d59182f20b5b16393ef8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44617974"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736510"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Office 업데이트와 함께 설치 되는 Microsoft 팀
 

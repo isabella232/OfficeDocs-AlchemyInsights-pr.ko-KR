@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d06ef83adcae1342173a6fe75f79525c7e1797ce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508958"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696303"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>사서함에 대해 외부 전자 메일 전달이 구성 된 시기 식별
 

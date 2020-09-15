@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -15,12 +16,12 @@ ms.custom:
 - "5057"
 - "9000701"
 - "5067"
-ms.openlocfilehash: 676f6a2a93d1cff67729b94e7ecddcbdb04dacfc
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
+ms.openlocfilehash: 0c4bd0b7a5999b81d0dc48209cbc738a0f1d77df
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43914913"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696843"
 ---
 # <a name="admins-unable-to-perform-certain-functions-in-the-teams-admin-center"></a>관리자가 Teams 관리 센터의 특정 기능을 수행할 수 없습니다.
 

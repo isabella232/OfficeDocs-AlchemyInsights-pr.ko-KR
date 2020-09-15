@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "485"
 - "1500018"
-ms.openlocfilehash: c9716c4da16f085aabe5124a6ea36bd812fe7e6b
-ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
+ms.openlocfilehash: 4328ced877e65de542226232e3335dd7c8046d1c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364773"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696051"
 ---
 # <a name="invoice-and-payment-information"></a>송장 및 지불 정보
 

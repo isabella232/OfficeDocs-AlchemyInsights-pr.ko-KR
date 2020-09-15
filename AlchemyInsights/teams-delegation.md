@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6181"
 - "9003115"
-ms.openlocfilehash: e55f4fec0a9ba6e2d08c8e9763d832ac8e8e4e80
-ms.sourcegitcommit: 7ddd7bdbe9334f37dea850fb0d9ecb956825f3cf
+ms.openlocfilehash: a127d46edd669fa9c34b42b930f3d631ecff9f37
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "47291224"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736851"
 ---
 # <a name="teams-delegation"></a>Teams 위임
 

@@ -5,19 +5,19 @@ author: janellem
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: c7c5e924255f9ed1f39690e5dc0da7857bac68eb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9047f30109428c5d94ff5d69c17ed57562175fef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703252"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709277"
 ---
 # <a name="error-0-1036-when-installing-office"></a>Office 설치 시 오류 0-1036
 

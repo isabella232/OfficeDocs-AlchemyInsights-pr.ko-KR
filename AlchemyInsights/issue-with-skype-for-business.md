@@ -1,21 +1,22 @@
 ---
 title: 비즈니스용 Skype에 문제가 있나요?
-ms.author: v-crytho
+ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 320879e2654062e66e44481946869350bc6454eb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: dc12b16364ea157c5862d3e2c9ba9fd9438f1c84
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509498"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695691"
 ---
 # <a name="issue-with-skype-for-business"></a>비즈니스용 Skype에 문제가 있나요?
 

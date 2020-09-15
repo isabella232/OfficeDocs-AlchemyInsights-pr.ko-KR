@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 3e703bfb7ac8a1932231e9a6f7bcd942c13cc2e0
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 893b954ef6c1333f52dac645902236984a209599
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642006"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769441"
 ---
 # <a name="organization-policy-settings-for-external-users"></a>외부 사용자에 대 한 조직 정책 설정
 

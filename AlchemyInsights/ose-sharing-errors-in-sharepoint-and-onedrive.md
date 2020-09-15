@@ -4,17 +4,18 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: d3da42ff51b6f2fdd7df66f18fd902eee68aa2f7
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: ff3b802c91afd762e33c488258fe365fb8584882
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43641790"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769297"
 ---
 # <a name="ose-sharing-errors"></a>OSE 공유 오류
 

@@ -5,6 +5,7 @@ author: chrisda
 manager: dansimp
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: e14042fa80be802e646db4e30cd3d5b69b81a1d3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: aa1e831eac829f3bd35f34e2fbe34923c5af0d3a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765537"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802027"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>SaRA를 사용하여 Outlook 인증 문제 진단 및 해결
 
