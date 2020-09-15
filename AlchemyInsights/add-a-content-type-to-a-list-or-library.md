@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003050"
 - "5791"
-ms.openlocfilehash: dd8b783e9cbd3a1725803e5a038b38c0636947a5
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 2f3a4983ef43fd2157170c895da814a3d5294627
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44542138"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697383"
 ---
 # <a name="add-a-content-type-to-a-list-or-library"></a>목록 또는 라이브러리에 콘텐츠 형식 추가
 
@@ -26,4 +27,4 @@ ms.locfileid: "44542138"
 4. 사용 가능한 사이트 콘텐츠 형식 목록에서 원하는 콘텐츠 형식의 이름을 선택 하 고 선택한 콘텐츠 형식을 추가할 콘텐츠 형식 목록으로 이동 하려면 추가를 선택 합니다.
 5. 추가 콘텐츠 형식에 대 한 단계를 반복 합니다.
 
-자세한 내용은 [목록 또는 라이브러리에 콘텐츠 형식 추가](https://support.microsoft.com/en-us/office/add-a-content-type-to-a-list-or-library-917366ae-f7a2-47ad-87a5-9689a1884e60)를 참조 하세요.
+자세한 내용은  [목록 또는 라이브러리에 콘텐츠 형식 추가](https://support.microsoft.com/en-us/office/add-a-content-type-to-a-list-or-library-917366ae-f7a2-47ad-87a5-9689a1884e60)를 참조 하세요.

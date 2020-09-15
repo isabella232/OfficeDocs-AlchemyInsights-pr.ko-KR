@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3182"
 - "6500001"
-ms.openlocfilehash: 2872054c710112337853747e1b82f9829d878348
-ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
+ms.openlocfilehash: f5b70a2a1d462e87ee485da1da417f79dfa95f30
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40910345"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697311"
 ---
 # <a name="add-a-guest-to-microsoft-teams"></a>Microsoft 팀에 게스트 추가
 

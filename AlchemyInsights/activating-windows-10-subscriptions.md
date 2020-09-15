@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002307"
 - "4480"
-ms.openlocfilehash: 3e825efb1c8d2c334f5e095d9aab2f929e3952a4
-ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
+ms.openlocfilehash: 6259b1a7a87e62ca3ce7b3bf4d26fe7832fb99d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43116485"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697923"
 ---
 # <a name="activating-windows-10-subscriptions"></a>Windows 10 구독 활성화
 

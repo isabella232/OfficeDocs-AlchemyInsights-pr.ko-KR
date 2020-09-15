@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: d0ebc7901efb19a433a0c8d6e8f22e5ff969d336
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44504449"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697887"
 ---
 # <a name="activating-office-using-device-based-licensing"></a>장치 기반 라이선싱을 사용 하 여 Office 활성화
 

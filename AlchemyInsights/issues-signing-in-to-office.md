@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2556"
-ms.openlocfilehash: 4658b4df8a48072b4cc9d72bf503d7911bb5126b
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 3c016b198ad43f35c8149dde71c28a2f7fc3bd38
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579907"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695293"
 ---
 # <a name="blank-sign-in-screen-in-microsoft-365-apps"></a>Microsoft 365 앱의 빈 로그인 화면
 

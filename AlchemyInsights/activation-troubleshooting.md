@@ -1,27 +1,27 @@
 ---
 title: 정품 인증 문제 해결
-ms.author: jillz
-author: jillz
+ms.author: pebaum
+author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5adce77d75b78ffe56e397690a4e1d888b65b505
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676431"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697491"
 ---
 # <a name="activation-troubleshooting"></a>정품 인증 문제 해결
 
-**제어판** \> 의 **프로그램 및 기능**에서 Office를 검색 합니다. 비즈니스용 Microsoft 365 앱 또는 Microsoft 365 앱이 있는지 확인 해야 합니다. 둘 이상의 Office 버전이 표시되면 사용하지 않는 버전을 제거하세요.
+**제어판** 의 \> **프로그램 및 기능**에서 Office를 검색 합니다. 비즈니스용 Microsoft 365 앱 또는 Microsoft 365 앱이 있는지 확인 해야 합니다. 둘 이상의 Office 버전이 표시되면 사용하지 않는 버전을 제거하세요.
   
 제어판을 사용 하 여 성공적으로 제거할 수 없는 경우 [지원 및 복구 도우미](https://aka.ms/SARA-OfficeUninstall-Alchemy) 를 사용 하 여 사용 하지 않는 버전을 제거 합니다.
   
