@@ -1,10 +1,11 @@
 ---
 title: 전자 메일 배달 문제가 있나요?
-ms.author: v-crytho
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 51fea2ad-81d4-4b65-9d24-e2f953aa814a
@@ -13,12 +14,12 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: e95d25ad0d5d0c839692b1335173e8835d58bbc2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ee479f673328eb69268feef7110ee40343c52d5a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44499157"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705809"
 ---
 # <a name="having-email-delivery-issues"></a>전자 메일 배달 문제가 있나요?
 

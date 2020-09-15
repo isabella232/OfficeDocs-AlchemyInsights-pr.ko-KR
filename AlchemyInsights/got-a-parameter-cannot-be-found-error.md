@@ -5,18 +5,19 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "683"
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 645da241b7bc33edd9087befd1a4fa9b19034874
-ms.sourcegitcommit: 5eb4fad2edc1d15b961ec1e46ef78b39175dffed
+ms.openlocfilehash: 82279e0b369d06277d83e0af686a46e1107dbabe
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45167675"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706169"
 ---
 # <a name="migrating-email-from-imap-email-system-to-microsoft-365"></a>IMAP 전자 메일 시스템에서 Microsoft 365으로 전자 메일 마이그레이션
 

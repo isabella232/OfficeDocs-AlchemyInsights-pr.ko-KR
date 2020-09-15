@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: dcd169fdf9a9aef155c909af4e60752cbfebdf7a
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
+ms.openlocfilehash: c57040a7e7f3b083088ea82af261e61579b5a759
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44331473"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705989"
 ---
 # <a name="handle-sharepoint-online-throttling-by-using-exponential-back-off"></a>지수 백오프를 사용하여 SharePoint Online 제한을 처리
 

@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6253"
 - "9003349"
-ms.openlocfilehash: 51eca705a24a0b74953a51119886d88510f84084
-ms.sourcegitcommit: 7ddd7bdbe9334f37dea850fb0d9ecb956825f3cf
+ms.openlocfilehash: 4d4bee18d5ce8ff7ee56af00783c128566295a79
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "47291223"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704959"
 ---
 # <a name="help-with-presence-in-microsoft-teams"></a>Microsoft Teams의 현재 상태에 대한 도움말
 

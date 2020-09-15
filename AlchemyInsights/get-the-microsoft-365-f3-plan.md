@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002873"
 - "5465"
-ms.openlocfilehash: 69b5916bd054dcd949f68c3256f4beb9fb9acc6e
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 984dfa90d6cb65199afea78563d4f97e994baa68
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944302"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706925"
 ---
 # <a name="get-the-microsoft-365-f3-plan"></a>Microsoft 365 F3 플랜 구독하기
 
