@@ -5,6 +5,7 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,16 +13,16 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 61016010133bf07fa321be1a5bdef1674bcc2550
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7db0963bd43115fbd6b793751219ab93640b8310
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054131"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700749"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>SharePoint에서 삭제 된 항목 복원
 
-SharePoint에서 항목 또는 사이트를 삭제 하면 즉시 제거 되지 않습니다. 삭제 된 항목은 일정 기간 동안 휴지통으로 이동 합니다. 이 시간 동안 삭제 한 항목을 원래 위치로 복원할 수 있습니다. 자세한 내용을 보려면 아래 링크를 방문 하세요.
+SharePoint에서 항목이나 사이트를 삭제 하는 경우 바로 제거 되지 않습니다. 삭제된 항목은 일정 기간 동안 휴지통으로 이동합니다. 해당 기간 동안 삭제한 항목을 원래 위치로 복원할 수 있습니다. 자세한 내용을 보려면 아래 링크를 방문 하세요.
 
 - [SharePoint 사이트의 휴지통에서 항목 복원](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000210"
 - "4836"
-ms.openlocfilehash: 7377309ce2ce51eb453fc95b0b24639793f5b2d9
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 352977a82fea6628bf3de0d81e75a8ccc3fb1628
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182900"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701109"
 ---
 # <a name="restore-deleted-sites"></a>삭제된 사이트 복원
 

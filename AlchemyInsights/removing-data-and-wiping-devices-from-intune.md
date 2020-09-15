@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1279"
 - "6700008"
-ms.openlocfilehash: efaf111f694ab57d0435b141a6d4baad58658ed2
-ms.sourcegitcommit: e34bb95fb93250f1dc7aec6a13578bb3bb355935
+ms.openlocfilehash: 24330dffb38be14dd369960ff86d4650d60c55ec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45434633"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701289"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Intune에서 데이터 삭제하고 장치 초기화
 

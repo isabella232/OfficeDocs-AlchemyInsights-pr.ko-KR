@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: d2f1ead4de04bbecb55c805a9b085bc81029a2ae
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: eaa93ec5d87abe3e6c5db69e895ade5fbd39c952
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46787363"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701577"
 ---
 # <a name="remove-users-from-a-sharepoint-group"></a>SharePoint 그룹에서 사용자 제거
 
