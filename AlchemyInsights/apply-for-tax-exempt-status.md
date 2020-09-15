@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 91b34fb686206bd3b5e215bb5ed7cb7847028929
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 0e84de8568adca684e4d2497438f54c9d31ea49e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286756"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716791"
 ---
 # <a name="apply-for-tax-exempt-status"></a>면세 자격 신청
 
-다음 문서를 준비하세요. 면세 자격을 가지려면 [서비스 요청을 시작](https://docs.microsoft.com/office365/admin/contact-support-for-business-products)해야 합니다.
+다음 문서를 준비하세요. 면세 자격을 가지려면 [서비스 요청을 시작](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)해야 합니다.
 
 - **미국** - **판매세 면제 인증서**를 준비하세요.
 
@@ -32,4 +33,4 @@ ms.locfileid: "43286756"
 
 - **푸에르토리코** - **Certificado de Compras Exentas**를 준비하세요.
 
-자세한 정보는 [세금 정보](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide)를 참조하세요.
+자세한 정보는 [세금 정보](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)를 참조하세요.

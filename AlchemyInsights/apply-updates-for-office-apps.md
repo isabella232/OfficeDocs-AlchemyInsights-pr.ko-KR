@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1747"
 - "9000140"
-ms.openlocfilehash: b5952feaac7ac51faed2a3399c68a87a4227b165
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 8306d1acafe48f8779a8c02db8e3fe2f5d5f0e95
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431695"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716755"
 ---
 # <a name="apply-updates-for-office-apps"></a>Office 앱 업데이트 적용
 

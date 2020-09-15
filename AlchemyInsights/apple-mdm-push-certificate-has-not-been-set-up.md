@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2634"
 - "9000770"
-ms.openlocfilehash: 5888eeb9b1dfde0b1ac5e7569f00d812e3d9d1bb
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 5f95c9bee29db44a4153e0de0b8f6fb49b274920
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431647"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716863"
 ---
 # <a name="apple-mdm-push-certificate-has-not-been-set-up"></a>Apple MDM Push 인증서가 설정되지 않음
 

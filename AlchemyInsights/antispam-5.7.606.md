@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: bc554215f0fd50c8b0a1788715bcb44c17ee51ab
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7b3a322c8241f24d30d36cfd1a4440737466b58f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44232335"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717295"
 ---
 # <a name="banned-sending-ip"></a>금지 보내기 IP
 
