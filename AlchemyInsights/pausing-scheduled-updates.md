@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/30/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1129"
 - "6700007"
-ms.openlocfilehash: 9dc0f387cf63557e2a1f81ca8f3c3ca9998170ca
-ms.sourcegitcommit: d1c51266e2890f61662f77dceea2ad0c88210015
+ms.openlocfilehash: 13abc7c9201b1897a9c766add4d105ef12f0d66f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46530591"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721561"
 ---
 # <a name="pausing-scheduled-updates"></a>예약된 업데이트를 일시 중지하고 있습니다.
 

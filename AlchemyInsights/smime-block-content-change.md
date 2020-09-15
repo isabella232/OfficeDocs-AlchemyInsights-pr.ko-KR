@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1275"
 - "1800028"
-ms.openlocfilehash: 8060dcb58cfb11592a0e367fcb71a23861fbc2a7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f337e48f12e3900bcf5ed37a1905835c096ecb33
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712752"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770269"
 ---
 # <a name="outlook-will-now-default-block-external-content-in-smime"></a>Outlook은 이제 S/MIME의 외부 콘텐츠를 기본적으로 차단 합니다.
 
