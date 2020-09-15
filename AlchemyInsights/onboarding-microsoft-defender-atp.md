@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: 3b07ef940b225b9c8d382292f3ac1aba0c1ebb22
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: 5b5fd0d976934de21f338bb88f96d4a9429f1d82
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45139062"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673431"
 ---
 # <a name="onboarding-microsoft-defender-atp"></a>Microsoft Defender ATP 온보딩
 

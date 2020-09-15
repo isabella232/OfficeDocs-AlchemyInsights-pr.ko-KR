@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 9fee9e3c63b9448f63b3dc98d98b3b28e03a7300
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763151"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677176"
 ---
 # <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Sharepoint 또는 OneDrive 사이트로 이동 하는 동안 내부 서버 오류가 발생 했습니다.
 

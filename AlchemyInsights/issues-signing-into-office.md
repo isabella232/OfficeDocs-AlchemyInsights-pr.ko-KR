@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: e1fc48f367691b2f722b69d631d880c18f3504cb
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579835"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676996"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Microsoft 365 앱에 로그인 하는 문제
 
-Microsoft 365 앱의 로그인 문제를 해결 하려면 영향을 받는 컴퓨터에서 다음 옵션을 사용해 보세요.  
+Microsoft 365 앱 관련 로그인 문제를 해결하려면 문제가 발생하는 컴퓨터에서 다음 옵션을 시도해 보세요.  
 
 - Windows의 경우 [일반적인 로그인 문제 해결에 대 한 권장 사항을](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues) 참조 하세요.
 - Mac의 경우 [Office 2016 For mac app에 로그인 할 수 없음](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail) 을 참조 하세요.
 
-**참고:** 로그인 또는 정품 인증 문제를 해결 하기 위해 ADAL (최신 인증) 또는 WAM (웹 계정 관리)를 사용 하지 않도록 설정 **하지 않는 것이 좋습니다**. Office 2013을 사용 하 여 Microsoft 365에 연결 하는 동안 오류가 발생 하는 경우 Office 클라이언트에 대 한 [최신 인증을 사용 하도록 설정](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) 했는지 확인 합니다.
+**참고:** 로그인 또는 정품 인증 문제를 해결 하기 위해 ADAL (최신 인증) 또는 WAM (웹 계정 관리)를 사용 하지 않도록 설정  **하지 않는 것이 좋습니다**. Office 2013을 사용 하 여 Microsoft 365에 연결 하는 동안 오류가 발생 하는 경우 Office 클라이언트에 대 한 [최신 인증을 사용 하도록 설정](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  했는지 확인 합니다.
 
 문제 해결 작업에 대 한 자세한 내용은 다음을 참조 하십시오.
 

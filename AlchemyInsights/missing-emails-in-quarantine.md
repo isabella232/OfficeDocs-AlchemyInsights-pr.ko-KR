@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 61a926c363c62bc7acb5efefe42b834f33c78eb6
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 55ed9a92675939c05477fbf6d12bbedd6eb931d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44542207"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673720"
 ---
 # <a name="missing-emails-in-quarantine"></a>격리 된 전자 메일 누락 "
 

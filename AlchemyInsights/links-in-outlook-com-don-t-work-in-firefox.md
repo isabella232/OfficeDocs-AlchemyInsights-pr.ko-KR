@@ -6,18 +6,19 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "813"
 - "8000048"
 ms.assetid: e6c75434-efea-46ba-b8c6-383f7cddbc28
-ms.openlocfilehash: 8ae65175bdb2e9d9bc4b624c3bfc7ab6f1eda803
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 68266d51be07f48ea896cf83b147bdeaaf73574d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709485"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675664"
 ---
 # <a name="links-in-outlookcom-dont-work-in-firefox"></a>Outlook.com의 링크가 Firefox에서 작동 하지 않음
 

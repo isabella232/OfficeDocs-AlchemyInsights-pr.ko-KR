@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: a1420596c2859fe163e991a9db1fe88039b01f36
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: baa2401888ab3dac8f32fd2d209c3cf3cf5ce426
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579655"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674116"
 ---
 # <a name="minecraft-edition-with-office-365-education-for-free"></a>무료 Office 365 교육을 제공 하는 Minecraft Edition
 

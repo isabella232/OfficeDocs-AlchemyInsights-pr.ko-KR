@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "4781"
 - "9002277"
-ms.openlocfilehash: 655770684f491337fe92bf742c0ba573949d8439
-ms.sourcegitcommit: 1dada930649a2625eb6d15910b2bfd5e1e00e5b6
+ms.openlocfilehash: 2ef8535c66dabe75418df0b5ae53f27ffd6caca1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46543767"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663267"
 ---
 # <a name="aip-client-advanced-configuration"></a>AIP 클라이언트 고급 구성
 

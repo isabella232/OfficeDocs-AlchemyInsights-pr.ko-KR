@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7ad6b96485d098be76b98c1bb53c67c885978fce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505549"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675188"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>새 구독을 구입 하 시겠습니까?
 

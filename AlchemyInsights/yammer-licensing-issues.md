@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: 6d9b2126dc1ed90968738ddb2e249dce9857f1db
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: f0a7625c7b77860e5ba0e29f2df47101749aace3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45146809"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657282"
 ---
 # <a name="yammer-licensing-issues"></a>Yammer 라이선스 문제
 

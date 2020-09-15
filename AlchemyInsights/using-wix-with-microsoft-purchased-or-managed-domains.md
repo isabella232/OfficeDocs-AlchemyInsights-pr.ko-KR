@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/05/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: d0684393b089ff37eb88649a04be77dd53bdb629
-ms.sourcegitcommit: dc77de3f18f942101a623be82b51ebd4d815daba
+ms.openlocfilehash: bef0943c8621043218088abf0deebddf6c19ef50
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47420810"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664752"
 ---
 # <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Microsoft에서 구입했거나 관리되는 도메인으로 Wix 웹 사이트 사용
 

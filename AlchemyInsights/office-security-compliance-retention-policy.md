@@ -6,6 +6,7 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
+ms.service: o365-administration
 ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
@@ -13,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 009c7f3848a7ab911a250c6b761c195d2fa37ba2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 06d7ef59d8ce31e0b22635e68638219bc491ff98
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510974"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673684"
 ---
 # <a name="more-info-about-retention-policies"></a>보존 정책에 대 한 추가 정보
 
