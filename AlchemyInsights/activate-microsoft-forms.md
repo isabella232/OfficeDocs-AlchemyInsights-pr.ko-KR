@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2544"
 - "9000672"
-ms.openlocfilehash: 0a6c2e57e24cb57231ccaa2c7a3e329b3a555b79
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a93ba91178ac35c7ff73ee6a820b4e5d22fc5d50
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903980"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698563"
 ---
 # <a name="activate-microsoft-forms-for-an-organization"></a>조직에 대 한 Microsoft 양식 활성화
 

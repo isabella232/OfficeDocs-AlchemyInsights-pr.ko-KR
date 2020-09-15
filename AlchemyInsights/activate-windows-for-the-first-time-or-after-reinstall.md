@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3485"
 - "9001418"
-ms.openlocfilehash: 23c01d7ff929495914b18c5218adf8669f76d7ea
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 981583abd210c3263bfe09e4c3147870a1ae0c7c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796215"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698175"
 ---
 # <a name="activate-windows-10"></a>Windows 10 정품 인증
 
@@ -24,7 +25,7 @@ ms.locfileid: "40796215"
 
 - Windows 10의 정품 인증 된 복사본을 갖고 있지 않은 장치에서 Windows 10 정품 인증을 받으려면 유효한 제품 키를 사용 해야 합니다.
 - 장치에서 이전에 활성화 되지 않은 Windows 10 버전을 설치 하는 경우에는 유효한 제품 키도 필요 합니다. 예를 들어 windows 10 Home이 설치 된 장치에 Windows 10 Pro를 설치 하 고 정품 인증을 받으려면 유효한 Windows 10 Pro 제품 키가 필요 합니다.
-- 설치 하는 동안 유효한 제품 키를 입력 하 라는 메시지가 표시 됩니다. 설치가 완료 되 면 Windows 10이 자동으로 온라인으로 정품 인증 됩니다. Windows 10에서 정품 인증 상태를 확인 하려면 **시작**> **설정** > **업데이트 & 보안** > **정품 인증**을 선택 합니다.
+- 설치 하는 동안 유효한 제품 키를 입력 하 라는 메시지가 표시 됩니다. 설치가 완료 되 면 Windows 10이 자동으로 온라인으로 정품 인증 됩니다. Windows 10에서 정품 인증 상태를 확인 하려면 **시작** >  **설정**  >  **업데이트 & 보안**  >  **정품 인증**을 선택 합니다.
 
 **Windows 10을 다시 설치한 후 정품 인증을 받으려면:**
 

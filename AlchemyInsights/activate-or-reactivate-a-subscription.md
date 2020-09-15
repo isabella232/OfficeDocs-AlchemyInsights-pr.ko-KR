@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: 0f42c1d96b8c1299148226729d71dc02ad5a1038
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 1f2bd2d602ac499358940a3ee5c788d725a8db5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44418042"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698355"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>구독 활성화 또는 다시 활성화
 

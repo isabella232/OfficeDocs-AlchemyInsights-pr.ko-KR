@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 73c8a56623bb55926d7df995bad43ff734bfceef
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: aa46285e2439ef6c645c0ae83db6bbd3a2350bda
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062038"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698103"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Microsoft 볼륨 라이선스 구독 활성화
 
