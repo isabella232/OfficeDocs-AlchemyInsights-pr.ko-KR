@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: 2598111005c219c398b63ca374e8e99348efc02c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 604dc770c5c14ded6a8de1cec9e311b03b69f094
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762107"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667092"
 ---
 # <a name="missing-workflow-failed-to-activate"></a>누락 된 워크플로를 활성화 하지 못함
 
@@ -35,9 +36,9 @@ Microsoft SharePoint 사이트 모음에서는 목록 또는 라이브러리에 
   
 3. 웹 브라우저에서 사이트 모음의 루트 웹 사이트를 찾은 다음 **사이트 설정** \> **사이트 모음 기능**에 액세스 합니다. 그런 다음 **워크플로** 기능을 설정/해제 합니다. 
   
-· 기능이 *활성화* 되 면 **비활성화를** 클릭 한 다음 **활성화**를 클릭 합니다. 
+· 기능이  *활성화*  되 면 **비활성화를** 클릭 한 다음 **활성화**를 클릭 합니다. 
   
-· 기능이 *비활성화* 되어 있으면 **활성화**를 클릭 합니다. 
+· 기능이  *비활성화*  되어 있으면 **활성화**를 클릭 합니다. 
   
 자세한 내용은 다음 [문서](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)를 참조 하세요.
   

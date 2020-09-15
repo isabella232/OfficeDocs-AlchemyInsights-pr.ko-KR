@@ -6,15 +6,16 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: f06176a4695d46bf3f8386be1a77705abf187112
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 235e84dc70aff078aa5413dd3e1ef38c86e17d60
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768191"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665832"
 ---
 # <a name="what-is-my-email-address-in-outlook-on-the-web"></a>웹용 Outlook의 내 전자 메일 주소
 

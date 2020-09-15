@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 9e920cc7a873d01cfc9a4625a6b6ef018636e814
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 543972a81a8958951e31d63a632283d07c06de4c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43913044"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668893"
 ---
 # <a name="manage-microsoft-365-groups-in-yammer"></a>Yammer에서 Microsoft 365 그룹 관리
 

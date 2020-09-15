@@ -5,18 +5,19 @@ author: v-miegge
 manager: v-cojank
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: e727f40b725cefa8a09c15fe2d65ab3307d4e3e1
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 16da500b8b7e97b9085c8e954fbf75d8c1b90c8a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600570"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666732"
 ---
 # <a name="modernize-the-classic-home-page"></a>클래식 홈 페이지 Modernize
 

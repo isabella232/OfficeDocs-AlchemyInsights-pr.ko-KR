@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2501"
-ms.openlocfilehash: 6e2a115302661de939c57bc39d4461df3046416e
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 7a7e70de2ec1ef5158d8149b635ce7f90814c6b1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800451"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667200"
 ---
 # <a name="missing-notes-in-notebook"></a>전자 필기장에 메모 없음
 

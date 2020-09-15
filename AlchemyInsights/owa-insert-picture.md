@@ -6,15 +6,16 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: fa3608b19a2393bd8fa0b587d291e88270b3f6ad
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1b1e0b1c0eebad6c207c3c213456dd7a5ae5bd9b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742883"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666264"
 ---
 # <a name="insert-a-picture-in-outlook-on-the-web"></a>웹용 Outlook에 그림 삽입
 
