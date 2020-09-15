@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5778"
-ms.openlocfilehash: aecb0d71d09c0c82e53f3d91e1ade801ffb3cc1f
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: cb2454108a4a2b5ebe053f69c8be78e0166167ff
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44664413"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716179"
 ---
 # <a name="assign-advanced-threat-protection-licenses"></a>Advanced Threat Protection 라이선스 할당
 

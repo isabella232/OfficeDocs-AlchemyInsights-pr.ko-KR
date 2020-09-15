@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5103"
-ms.openlocfilehash: 9816f1af0447587fa84c0430da15926c78bd93b1
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
+ms.openlocfilehash: 3d5526bfb3da1237cf4ffcdde791a56b30bed5a9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947919"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715891"
 ---
 # <a name="assign-project-to-users"></a>사용자에게 Project 할당하기
 

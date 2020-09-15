@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1285"
 - "6700008"
-ms.openlocfilehash: 874ee290c59df3b5de1421369484a1a5a0ff7be4
-ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
+ms.openlocfilehash: 49a15132253c59189e343aeaa1c11d450b344896
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46505204"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715027"
 ---
 # <a name="automatic-cleanup-of-stale-devices-in-intune"></a>Intune에서 오래 된 장치 자동 정리
 

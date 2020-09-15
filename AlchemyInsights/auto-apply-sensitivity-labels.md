@@ -6,18 +6,18 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: f1305fd8af3289f3543d2a596937089195e2495c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508454"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715171"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>민감도 레이블 자동 적용
 

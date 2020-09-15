@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/22/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1903"
 - "3100008"
-ms.openlocfilehash: f9422e9a86ce1d589a301828f8dc2885cf641933
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
+ms.openlocfilehash: 57a72758e4b00a6822e834b2b8dfda2d079eebf5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45266462"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716395"
 ---
 # <a name="archive-folder-in-outlook-and-owa"></a>Outlook 및 OWA의 아카이브 폴더
 

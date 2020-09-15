@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4964"
-ms.openlocfilehash: 08bd1e338850cfa5bbfa763cd9d586620737833d
-ms.sourcegitcommit: 090a2ae17f18daa00da16e384d843370a0f6985d
+ms.openlocfilehash: b12657bd21fbcd78010aba4647158e3bf54f66e8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43806939"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715999"
 ---
 # <a name="assign-power-bi-to-users"></a>사용자에게 Power BI 할당
 
