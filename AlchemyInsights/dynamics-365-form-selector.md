@@ -4,17 +4,18 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1469"
 - "6200014"
-ms.openlocfilehash: f74eb8d366b86878620ae6f038a09feb0128c32e
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d8160ba67ea87e112c377fcd1501a2fda44815fa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36528962"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712010"
 ---
 # <a name="dynamics-365-form-selector"></a>Dynamics 365 폼 선택기
 

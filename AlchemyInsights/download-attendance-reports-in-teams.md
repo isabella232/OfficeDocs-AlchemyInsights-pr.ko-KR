@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: d11f8114595b8201cfdd1bdf6c925097aee185cb
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: cf2f1852112fa28d209e2929bda23318e9b545af
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44515994"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712118"
 ---
 # <a name="download-attendance-reports-in-teams"></a>Teams에서 참석 보고서 다운로드
 

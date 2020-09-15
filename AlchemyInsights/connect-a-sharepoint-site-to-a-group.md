@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 1c724a131d42aa2e217b7018ed6b414cb3440a99
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: f2276ad3dcdc0426bbd255b7d07f2b9a74927bec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44515635"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713316"
 ---
 # <a name="connect-a-sharepoint-site-to-a-group"></a>그룹에 SharePoint 사이트 연결
 

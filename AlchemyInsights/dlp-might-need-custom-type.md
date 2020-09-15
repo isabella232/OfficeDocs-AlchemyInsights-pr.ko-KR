@@ -6,19 +6,19 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 1ec8959a479f1a8f7bfcffb55f440e8c4ab435fb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 72b16d437f97de27cbdc364f022c3e2059b31ef0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507520"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712190"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP에 사용자 지정 형식이 필요할 수 있음
 

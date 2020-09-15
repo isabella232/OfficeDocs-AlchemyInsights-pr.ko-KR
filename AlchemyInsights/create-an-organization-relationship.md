@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 2c6cd6a178c6e012bfe1c8d769b037168ffa3254
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
+ms.openlocfilehash: a7ec7b4a8020cfe9a24d1f18af89b02400e6d45e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44854043"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712739"
 ---
 # <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>사용자가 다른 조직과 공동 작업할 수 있도록 조직 관계 만들기
 

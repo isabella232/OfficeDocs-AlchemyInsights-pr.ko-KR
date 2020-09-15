@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002483"
 - "4824"
-ms.openlocfilehash: 4e8ae32ea2d7fb9eba023e9d10e9f0f77cda71d1
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 5d6dadbaf86d20467b262106996333e81a12786a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580519"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713929"
 ---
 # <a name="common-issues-and-resolutions-with-microsoft-365-apps"></a>Microsoft 365 앱에 대한 일반적인 문제 및 해결 방법
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001213"
 - "3187"
-ms.openlocfilehash: a2199bfa7cf419fccb2951c0471c84e2a6683aa0
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 58c7e52d9e81d3e7e98479d868b8c6bcdd0f7ed7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183023"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713749"
 ---
 # <a name="como-pagar-com-boleto"></a>Como pagar com boleto
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 35f31c1662547d57c2fc9978ffb495ac29abcc01
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 262d2c6a7181d94094f3d840c4ba3ebd07000cf4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286198"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712992"
 ---
 # <a name="create-an-email-catch-all"></a>모든 전자 메일 catch 만들기
 

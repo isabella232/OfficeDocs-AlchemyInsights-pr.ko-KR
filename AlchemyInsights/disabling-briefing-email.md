@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6178"
 - "9003284"
-ms.openlocfilehash: bb37f97a9d2fbc20b774498cc0a1cc770409d957
-ms.sourcegitcommit: 1d45333a0a448c15bf8430a4fea75c50f9b7464e
+ms.openlocfilehash: eefbbcf0038c1308445bace51841db5ede50758e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "46756698"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712514"
 ---
 # <a name="disabling-briefing-email"></a>브리핑 전자 메일 사용 안 함
 

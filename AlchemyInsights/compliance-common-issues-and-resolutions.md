@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 0f64207ac9ea2c25106f0339ed2b8080361e8ce4
-ms.sourcegitcommit: 5af184ed3c0f9491e7fcf927e9c78e366f26b540
+ms.openlocfilehash: 4979375f098f65c703bad813feebcb5df6bd59ad
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46514980"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713605"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>규정 준수 일반적인 문제 및 해결 방법
 

@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/25/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "634"
 - "3500007"
-ms.openlocfilehash: bec11baa2de7154481ec175df2466eb601b0e243
-ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
+ms.openlocfilehash: d8b28d373db21da42b90aeef75139affd802a5d2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46903595"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712645"
 ---
 # <a name="create-and-share-public-folder-calendars-in-exchange-online"></a>Exchange Online에서 공용 폴더 캘린더를 만들고 공유합니다.
 

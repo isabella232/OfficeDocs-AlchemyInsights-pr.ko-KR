@@ -4,18 +4,19 @@ ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 1e6ad5908b56f76fa41cf9fbdfad0f50c1a6f552
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 3dd6c0179e7858713026baf6539f09b3cf1ad95b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417394"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712154"
 ---
 # <a name="port-existing-numbers-to-teams"></a>기존 전화번호를 Teams에 포팅하기
 

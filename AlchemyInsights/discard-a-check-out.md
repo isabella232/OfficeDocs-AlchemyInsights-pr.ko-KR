@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 543cbd51120bc87675d82597673a681bc5fc53b3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 51835611492b70627ef8f563f98b2922ee1454f3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715120"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712334"
 ---
 # <a name="discard-a-check-out-from-a-document-library"></a>문서 라이브러리에서 체크 아웃 취소
 

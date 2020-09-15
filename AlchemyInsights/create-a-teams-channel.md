@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002512"
 - "5039"
-ms.openlocfilehash: 9dcd44a665446df46f88ffe63bfd3f9ed53e80a0
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: e8717530e95d3efedc8de0592444fc07a3c320dc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553458"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713028"
 ---
 # <a name="create-a-teams-channel"></a>Teams 채널 만들기
 

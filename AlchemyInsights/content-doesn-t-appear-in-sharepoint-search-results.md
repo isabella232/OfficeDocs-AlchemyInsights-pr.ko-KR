@@ -5,18 +5,19 @@ author: tklarsen
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: a21e0047b41390f740f9e13d31cba32b13990151
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a57711434d653f5d5667776916c9251bba2370e6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705667"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713136"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>콘텐츠가 SharePoint 검색 결과에 표시 되지 않음
 
