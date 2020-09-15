@@ -5,6 +5,7 @@ author: chrisda
 manager: dansimp
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "718"
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: 57f8b5859a5a91b9ce83d7ca8da5330ac73413f9
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e9860a3c061b17a8b2fc87caa40ede0dd5277346
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766645"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663483"
 ---
 # <a name="add-external-email-addresses-to-a-distribution-group"></a>메일 그룹에 외부 전자 메일 주소 추가
 

@@ -6,16 +6,17 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 7391b3c126d55213881f6b71cb6b5fc72bc68d0f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512596"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658920"
 ---
 # <a name="troubleshooting-office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection 문제 해결
 
@@ -23,7 +24,7 @@ ms.locfileid: "44512596"
 
 - 가양성 또는 거짓 네거티브를 Microsoft에 보고 하 고 싶으십니까? 이 [링크](https://www.microsoft.com/wdsi/filesubmission/) 를 사용 하 여 분석을 위해 파일을 제출 합니다.
 
-- 조직 내의 받는 사람 간에 전송 되는 내부 전자 메일에 대해 안전한 링크 보호를 사용 하도록 설정할 수 있는지 확인 해야 합니다. 다음 단계를 따릅니다:
+- 조직 내의 받는 사람 간에 전송 되는 내부 전자 메일에 대해 안전한 링크 보호를 사용 하도록 설정할 수 있는지 확인 해야 합니다. 아래 단계를 수행하세요.
 
   1. 로 이동 하 [https://protection.office.com](https://protection.office.com) 고 전역 관리자 또는 보안 관리자 계정으로 로그인 합니다.
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: 598c2262da908d8b836662ccc1e4d05e6d2a2a88
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: e2685734657cb9e9e8c43cd19ac024b795dcd49b
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182740"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653402"
 ---
 # <a name="sharepoint-permissions-errors"></a>SharePoint 사용 권한 오류
 

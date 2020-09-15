@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2653"
 - "9000727"
-ms.openlocfilehash: 04a0bcff06c9a52db4bc7ff55799a1cef8fd1eca
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 95b83d6658fc77ac6e5eeac58c198f5c4adbb674
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37681712"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657390"
 ---
 # <a name="using-planner-with-microsoft-teams"></a>Microsoft 팀과 함께 Planner 사용
 

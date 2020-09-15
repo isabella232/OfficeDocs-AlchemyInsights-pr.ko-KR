@@ -6,15 +6,16 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: bb84363ae7d3c91750d5de789c091c7cebbbedc2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 578e2690061286bde74ee0b4b74a197630716f59
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502325"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663996"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Outlook 전자 메일 메시지 회수 또는 교체
 

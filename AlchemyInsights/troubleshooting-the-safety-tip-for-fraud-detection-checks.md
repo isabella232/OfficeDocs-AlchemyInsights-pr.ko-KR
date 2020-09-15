@@ -6,19 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 74913492a086de688067d588e95dd87e6946743b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e42b498070bf5d9bfc36110667da8cc0fd431524
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44504989"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658416"
 ---
 # <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>사기 감지 확인을 위한 보안 팁 문제 해결
 

@@ -4,19 +4,19 @@ ms.author: janellem
 author: janellem
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "913"
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: 71f6df27d6cecc08286562b14e4e219b99df289d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 38eb63760ecb16480b140e026565c7323473e8cb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509534"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664608"
 ---
 # <a name="install-office"></a>Office 설치
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: b6613733e743e08a9b18b1ada70fde164b0d5dc3
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 22d69db749671afdfe7a809d1bc598e2ad1891d8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010305"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658227"
 ---
 # <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>새 또는 기존 Office 설치에서 팀을 제거 하거나 제외 합니다.
 

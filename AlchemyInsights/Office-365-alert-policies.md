@@ -5,6 +5,7 @@ author: markjjo
 manager: lauraw
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 05c58bded5ba45aef8ae3bc1d33491e6e0365c18
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8821a2ee1ae2207de5d1604762badf43808373c8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502433"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664032"
 ---
 # <a name="alert-policies"></a>알림 정책
 
@@ -36,7 +37,7 @@ Microsoft 365 보안 & 준수 센터는 Office 365 Enterprise 또는 Office 365 
 
 [의심 스러운 받은 편지함 규칙을 제거](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)하는 등 경고에 대해 작업을 수행할 수 있습니다. 또는 알림 플라이 아웃 페이지에서 **해결** 을 클릭 하 여 알림을 닫아야 합니다.
 
-경고 정책을 구성 및 관리 하는 방법에 대 한 자세한 내용은 [이 문서](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)를 참조 하십시오.
+경고 정책을 구성 및 관리 하는 방법에 대 한 자세한 내용은  [이 문서](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)를 참조 하십시오.
 
 **중요**: Microsoft의 알림 전자 메일 알림에는 다음 작업을 수행 하 라는 메시지가 표시 되지 않습니다.
 

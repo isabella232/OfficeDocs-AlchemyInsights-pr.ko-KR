@@ -6,6 +6,7 @@ manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
@@ -13,12 +14,12 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3e332ecb76e76b7e56437cc0fef0254b9dca4438
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765095"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664500"
 ---
 # <a name="why-cant-i-edit-files"></a>파일을 편집할 수 없는 이유는 무엇 인가요?
 

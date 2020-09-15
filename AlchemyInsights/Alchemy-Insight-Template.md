@@ -6,17 +6,18 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: bd2901580acdb1dc17f3e14a7a9356b07e70f910
-ms.sourcegitcommit: bf6a0e80d09aebae19b9e993c2552b88e49177c9
+ms.openlocfilehash: 113d01e0fc92cc9845e585919ab05f386d6892bb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/16/2020
-ms.locfileid: "44750976"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664140"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>"필수 Alchemy 헤더 H1, H2's이 작동 하지 않음"
 Alchemy 작성을 위한 모범 사례 및 지침:

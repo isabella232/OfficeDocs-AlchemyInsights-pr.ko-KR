@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5748"
 - "9003042"
-ms.openlocfilehash: de3cda74a06d49f81259b2594f1131fcabb675c5
-ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
+ms.openlocfilehash: bc7370b4b6f47c9bbf532e23b0439b8204c24b70
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/08/2020
-ms.locfileid: "47406589"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653425"
 ---
 # <a name="we-cant-get-your-files"></a>파일을 가져올 수 없습니다.
 

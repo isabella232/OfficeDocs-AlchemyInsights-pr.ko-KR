@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: b58aa242786fd09c83993e8ecc28c6a2d744dfcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d1f34740e93a666d72b691d0d16ca2a40a28c5a9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762539"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662907"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>SharePoint 또는 OneDrive 저장소 관리
 

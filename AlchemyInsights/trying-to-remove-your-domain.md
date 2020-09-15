@@ -1,22 +1,23 @@
 ---
 title: 도메인을 제거하려고 하시나요?
-ms.author: v-crytho
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "28"
 - "9"
-ms.openlocfilehash: 01d347bc6d2fc08321baf32e75f615eb49b34c23
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: dbdcb538a94567f32dee8b135822900ea50f94c8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44504953"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658344"
 ---
 # <a name="trying-to-remove-your-domain"></a>도메인을 제거하려고 하시나요?
 

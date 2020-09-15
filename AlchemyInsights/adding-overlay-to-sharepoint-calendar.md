@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 08b3cc8539e36f1babaa9c6949ac9b71fdae0591
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: 62db9568f228d0a14413c1678b47cfb09a3d25c4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46786823"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663375"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>SharePoint 달력에 오버레이 추가
 

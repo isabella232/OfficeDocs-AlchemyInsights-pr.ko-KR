@@ -6,6 +6,7 @@ manager: jecon
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,12 +15,12 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: 4b063c5524fdf36e4fa7eb6e774773ed701a8526
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1ef60f663a04045e4cd00463e59dcbf1f2f92122
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722780"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662475"
 ---
 # <a name="repeated-login-to-open-_vti_rpc"></a>_Vti_rpc 열기 위해 반복적인 로그인
 

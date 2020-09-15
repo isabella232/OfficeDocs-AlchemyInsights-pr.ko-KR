@@ -6,6 +6,7 @@ manager: v-cojank
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "5200004"
 - "3177"
 ms.assetid: ''
-ms.openlocfilehash: eecc92a4851fa7164b5b509c08ab300acef27c25
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 25e40924d1cabc7d2d83e42b39710df4a4174cd5
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676827"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653330"
 ---
 # <a name="how-to-create-a-team-site-in-sharepoint"></a>SharePoint에서 팀 사이트를 만드는 방법
 

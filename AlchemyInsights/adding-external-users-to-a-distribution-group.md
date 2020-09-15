@@ -4,15 +4,16 @@ ms.author: chrisda
 author: chrisda
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: 7dbc69bced9ca800d3f95081b77dda5e49662579
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 03cfd2c576cb03cbefd524a4ab6f04e2ef1eebec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43910938"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663519"
 ---
 # <a name="add-external-users-to-a-distribution-group"></a>메일 그룹에 외부 사용자 추가
 
@@ -20,7 +21,7 @@ DG (메일 그룹)에 외부 연락처를 추가 하는 과정은 두 단계로 
   
 1. 외부 사용자에 대 한 메일 연락처를 만듭니다.
     
-    1. 관리 센터에서 **사용자** > [연락처](https://admin.microsoft.com/adminportal/home#/Contact) 페이지로 이동 합니다. 
+    1. 관리 센터에서 **사용자**  >  [연락처](https://admin.microsoft.com/adminportal/home#/Contact) 페이지로 이동 합니다. 
     
     2. **연락처 추가를**선택 합니다.
     
@@ -28,7 +29,7 @@ DG (메일 그룹)에 외부 연락처를 추가 하는 과정은 두 단계로 
     
 2. DG에 메일 연락처를 추가 합니다.
     
-    1. 관리 센터에서 **그룹** > [그룹](https://admin.microsoft.com/adminportal/home#/groups) 페이지로 이동 합니다. 
+    1. 관리 센터에서 **그룹**  >  [그룹](https://admin.microsoft.com/adminportal/home#/groups) 페이지로 이동 합니다. 
     
     2. 외부 사용자를 추가할 DG를 찾아서 선택 하 여 편집 대화 상자를 엽니다.
     

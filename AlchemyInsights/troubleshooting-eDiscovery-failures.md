@@ -6,6 +6,7 @@ manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512560"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658956"
 ---
 # <a name="troubleshoot-content-search-errors"></a>콘텐츠 검색 오류 문제 해결
 
@@ -34,4 +35,4 @@ ms.locfileid: "44512560"
 
 또는 10만 사서함을 초과 하는 많은 수의 사서함에서 결과를 검색 하거나 내보낼 때 내보내기 오류가 발생 합니까?
 
-이러한 유형의 오류가 발생 하는 경우 실패 한 콘텐츠 위치에 대 한 검색을 다시 시도 합니다. 자세한 내용은 [이 문서](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) 를 참조 하세요.
+이러한 유형의 오류가 발생 하는 경우 실패 한 콘텐츠 위치에 대 한 검색을 다시 시도 합니다. 자세한 내용은  [이 문서](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) 를 참조 하세요.

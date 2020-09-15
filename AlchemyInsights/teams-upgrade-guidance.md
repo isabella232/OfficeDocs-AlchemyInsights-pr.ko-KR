@@ -4,19 +4,19 @@ ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d79518434904a8c26ae0e15fd1c23177b68a05af
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44254755"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653555"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft 팀 업그레이드
 
