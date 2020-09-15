@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002579"
 - "4995"
-ms.openlocfilehash: ada62b017df0c743071fe67077aadd966cf5e651
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 0607f9cea693e0d0775326d60e76bd867ac60c6a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530208"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664536"
 ---
 # <a name="why-dont-i-get-new-message-notifications"></a>새 메시지 알림을 받지 못하는 이유는 무엇인가요?
 

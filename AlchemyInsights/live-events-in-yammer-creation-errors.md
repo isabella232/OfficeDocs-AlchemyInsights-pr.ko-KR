@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002495"
 - "5112"
-ms.openlocfilehash: 35cddfee1a78fd6e1e502871bd5b56d786bf300a
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
+ms.openlocfilehash: 1b342b17e4b91804a75c46352f3ef7d7814bfcee
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947893"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675448"
 ---
 # <a name="live-events-in-yammer-creation-errors"></a>Yammer 라이브 이벤트 만들기 오류
 

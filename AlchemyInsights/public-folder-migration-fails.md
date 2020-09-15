@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/25/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "639"
 - "3500007"
-ms.openlocfilehash: c1c4210baf93f0071a12f1902fb5f6fbf7bd0716
-ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
+ms.openlocfilehash: b22dce778b4507e0a3337a59a55531ce248b59c4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47341387"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662424"
 ---
 # <a name="public-folder-migration-fails-at-95"></a>95%에서 공용 폴더 마이그레이션이 실패함
 

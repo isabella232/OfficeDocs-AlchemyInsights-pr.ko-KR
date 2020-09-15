@@ -5,15 +5,16 @@ author: tomresing
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
-ms.openlocfilehash: dc77375a46c3a0973193e2d055fd7ab5ce125500
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d27c95b5cfae5f73aeb9027f4440b7ad1ea7f3f7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702816"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677970"
 ---
 # <a name="file-upload-limits-in-sharepoint-online"></a>SharePoint Online의 파일 업로드 제한
 

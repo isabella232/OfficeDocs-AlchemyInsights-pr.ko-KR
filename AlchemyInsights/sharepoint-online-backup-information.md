@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000277"
 - "4838"
-ms.openlocfilehash: 03f4f934997f9bf1088be9fe8ca8469a138ac9b3
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 677d13c4522e11778e0eb35ffd16d9d4ce3b7515
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182772"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665472"
 ---
 # <a name="sharepoint-online-backup-information"></a>SharePoint Online 백업 정보
 

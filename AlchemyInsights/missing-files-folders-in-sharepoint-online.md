@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002302"
 - "4465"
-ms.openlocfilehash: d852aa703e85f9578bacf22d98702ae1a274c9bc
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 22dc27acae4297dc67620e2ab3977cf2ea2e592a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762035"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667416"
 ---
 # <a name="missing-filesfolders-in-sharepoint-online"></a>SharePoint Online에 파일/폴더 누락
 

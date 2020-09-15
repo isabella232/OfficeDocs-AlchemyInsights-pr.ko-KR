@@ -6,18 +6,19 @@ manager: laurawims
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507448"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679591"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP 정책 팁 문제
 

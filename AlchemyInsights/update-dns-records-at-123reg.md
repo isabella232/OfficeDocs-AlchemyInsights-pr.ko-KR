@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5812"
-ms.openlocfilehash: bc62bdbe83844fca700a5e7b20a2367cb244e45e
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: 4afb11bb77436c1a3e39972b63573995f3d88e01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44608248"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657795"
 ---
 # <a name="update-dns-records-at-123-reg"></a>123-reg에서 DNS 레코드 업데이트
 

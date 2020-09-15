@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4855"
-ms.openlocfilehash: 3fa3f5c97ee1d3e96a5b7f6070d794916200907d
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 98c6050c03fa86fd04ab1d04dabc45e8fd1afec6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530416"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674008"
 ---
 # <a name="missing-clutter-folder"></a>우선 순위가 낮은 메일 폴더 누락
 

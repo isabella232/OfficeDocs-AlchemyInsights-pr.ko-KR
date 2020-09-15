@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "9002250"
 - "4355"
 ms.assetid: ''
-ms.openlocfilehash: c887c7889f7abc92ccf6603d51d71b454eff068a
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 554f7275dd881e9dce6377ecf0dcd3d190483cd9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788744"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680249"
 ---
 # <a name="delete-microsoft-365-tenant"></a>Microsoft 365 테넌트 삭제
 

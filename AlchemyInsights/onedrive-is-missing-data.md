@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002302"
 - "4464"
-ms.openlocfilehash: 3fb710a23e213b622f8f36fe0efea9ed7cc28c9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: c9e2ed9668fbbe447d20855e280efe6912179fa6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761496"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672926"
 ---
 # <a name="onedrive-is-missing-data"></a>OneDrive에 데이터가 누락됨
 

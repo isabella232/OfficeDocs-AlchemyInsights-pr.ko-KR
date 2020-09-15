@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/10/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6173"
 - "9003233"
-ms.openlocfilehash: 74bd424f71a59b80a91b960b815363668bee7036
-ms.sourcegitcommit: 1361b2b37fd0201502a1a3547084961de284a3fc
+ms.openlocfilehash: 1e5f6d66386398ad8600f9383f9f7a1dcf0ce69f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46617104"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670334"
 ---
 # <a name="teams-add-in-for-mac"></a>Mac용 Teams 추가 기능
 

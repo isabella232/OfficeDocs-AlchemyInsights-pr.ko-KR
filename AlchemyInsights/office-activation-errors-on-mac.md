@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4488"
-ms.openlocfilehash: ecdfe282d910dcfc077e0276e46a5e7e43c4108d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 65d4a6d3bb55c648b3d019bf82b5c38a152bfbac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510002"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666516"
 ---
 # <a name="office-activation-errors-on-mac"></a>Mac의 Office 정품 인증 오류
 

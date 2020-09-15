@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1283"
 - "6700008"
-ms.openlocfilehash: faaea65c7edc345bb676d2fb266e20f85ba2cbe5
-ms.sourcegitcommit: e34bb95fb93250f1dc7aec6a13578bb3bb355935
+ms.openlocfilehash: 70f12328813a312631c67cd72cc75559ed2eca1b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45434596"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675173"
 ---
 # <a name="locating-lost-ios-devices-with-intune"></a>Intune을 사용하여 분실된 iOS 장치 찾기
 

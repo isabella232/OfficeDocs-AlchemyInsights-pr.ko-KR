@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1128"
 - "6700007"
-ms.openlocfilehash: 880ff7be68ecb55549582c601aade9d47a5ccaf1
-ms.sourcegitcommit: 07e56267dedfc4cec1143072c791670cbf81186b
+ms.openlocfilehash: 233354386eb319860f25b3929b6be528438cc865
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45397757"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680429"
 ---
 # <a name="defer-windows-10-updates"></a>Windows 10 업데이트 연기
 

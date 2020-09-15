@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/15/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6039"
 - "9003111"
-ms.openlocfilehash: 2c4c2c836d18d2ab45e2368e778c793277b18aa0
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: f417117acac4c3040932fc0a35e5d0b1c3709cd5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45146808"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664176"
 ---
 # <a name="about-identity-in-yammer"></a>Yammer의 ID 정보
 

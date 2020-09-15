@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "9002263"
 - "4364"
 ms.assetid: ''
-ms.openlocfilehash: 06aeb98d507119e1d7da49cb13b194d9b8672599
-ms.sourcegitcommit: 018aadd53eac92248bc6d5ad63b739216103090a
+ms.openlocfilehash: 088c1cc7b1951bc9b67ffa5b511eec68b7938409
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42940400"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664824"
 ---
 # <a name="troubleshoot-skype-for-business-call-quality"></a>비즈니스용 Skype 통화 품질 문제 해결
 

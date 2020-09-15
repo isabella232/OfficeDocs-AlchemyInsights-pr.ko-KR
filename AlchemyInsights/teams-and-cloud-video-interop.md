@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002894"
 - "5540"
-ms.openlocfilehash: 6b52aff0edc0439695e4923bc727ede4e87c899f
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: 9cd5e06b96ee3a4d1d6ccf151c6ec5d59589d06a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021680"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670118"
 ---
 # <a name="teams-and-cloud-video-interop-cvi"></a>Teams 및 CVI(클라우드 비디오 상호 운용성)
 

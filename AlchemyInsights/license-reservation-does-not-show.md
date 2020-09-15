@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002575"
 - "5030"
-ms.openlocfilehash: 6b6b75c464b793c251f80cbb757a347446c187b1
-ms.sourcegitcommit: 090a2ae17f18daa00da16e384d843370a0f6985d
+ms.openlocfilehash: e938d3a7bb6bc95f1946db14c3e36a9fb690ad8d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43806918"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675988"
 ---
 # <a name="license-reservation-does-not-show"></a>라이선스 예약에서 표시되지 않음
 

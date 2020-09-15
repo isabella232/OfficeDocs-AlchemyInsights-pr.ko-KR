@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: b04e09f5110266d59db82e25cfda1835779fd4b7
-ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
+ms.openlocfilehash: 4ef62fe8c9cc438c48ed8897a8b3385b15669cdc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/08/2020
-ms.locfileid: "47406591"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680488"
 ---
 # <a name="control-access-to-public-folders-using-outlook"></a>Outlook을 사용하여 공용 폴더에 대한 액세스 제어하기
 

@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 2116bb837e4378ea29d7882df1d3010b3a4e0b1c
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 9590f780cffeaf644733752c763e04d748b1b39e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44716654"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665724"
 ---
 # <a name="owner-cannot-create-sub-folder-using-outlook"></a>소유자는 Outlook을 사용하여 하위 폴더를 만들 수 없습니다.
 

@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: d9d92e9284f34c7c1edba6af56f02ac88d3cd956
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45083985"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669217"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>보안 및 규정 준수 센터 통합 보존 정책
 

@@ -4,18 +4,19 @@ ms.author: matteva
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
 ms.custom:
 - "824"
 - "5800003"
-ms.openlocfilehash: b33e51e2f8c542afb8e37f88e7fe877e7feb78e5
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: fe47bff126ebb339888cf9145650d125af51cfc9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44840969"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677754"
 ---
 # <a name="fix-onedrive-sync-problems"></a>OneDrive 동기화 문제 해결
 

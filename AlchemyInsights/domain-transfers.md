@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: f021f5981fdaf1e99c98fa109f1a6030badb1870
-ms.sourcegitcommit: cbed17334557c1dfa471623f8d5e735f72e697da
+ms.openlocfilehash: 551517b99f8f725f7034efdc73e866e296dec8b6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300662"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678762"
 ---
 # <a name="domain-transfers"></a>도메인 이동
 

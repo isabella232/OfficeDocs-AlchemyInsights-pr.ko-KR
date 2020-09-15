@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/22/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1702"
 - "5300025"
-ms.openlocfilehash: bb862521cab85a9c7213a4069e9eb6219fe6927e
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
+ms.openlocfilehash: 569c31f91ec65584ec4382dc2dacfa6e1d927387
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45266478"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678942"
 ---
 # <a name="document-versioning"></a>문서 버전 관리
 

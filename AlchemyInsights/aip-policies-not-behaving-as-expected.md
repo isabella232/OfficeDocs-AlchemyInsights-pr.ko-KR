@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 91308850c06485bdd11e81bd130770aefb247118
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 0dfaae776ec551fe12919e8a8e69f2e7a58d67d0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580771"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663195"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>AIP: 정책이 예상대로 작동하지 않음
 

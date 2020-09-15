@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000171"
 - "1712"
-ms.openlocfilehash: e07c6b128a39f1fb1c998d051aafe72205d8cbee
-ms.sourcegitcommit: 82155846ce771c18050e6113d6c199b34a1504ff
+ms.openlocfilehash: 498c2ec78bc9f4a7bc7d77d12b488be2cf0bf79a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43810489"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666984"
 ---
 # <a name="mitigate-the-application-was-not-detected-error"></a>"응용 프로그램이 검색되지 않았습니다" 오류 완화
 

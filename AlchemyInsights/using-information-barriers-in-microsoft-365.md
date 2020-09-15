@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002423"
 - "4701"
-ms.openlocfilehash: aaf03f9bc9b09e9b27847296a8c87ab1603f8fff
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: 79a338e278702bdcc752773c076452c062bdeff4
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43601451"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653627"
 ---
 # <a name="using-information-barriers-in-microsoft-365"></a>Microsoft 365에서 정보 장벽 사용하기
 

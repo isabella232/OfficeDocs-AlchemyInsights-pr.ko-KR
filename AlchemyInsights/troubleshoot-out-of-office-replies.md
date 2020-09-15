@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 761ce82515eb264ea3266ccf20948a5ca470a1ec
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 3aa48fdc9c7b1ca227e32d229ce4ce2102944f58
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44664401"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664968"
 ---
 # <a name="troubleshooting-out-of-office-automatic-replies"></a>부재 중 자동 회신의 문제 해결
 

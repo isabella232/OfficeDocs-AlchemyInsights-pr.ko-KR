@@ -5,18 +5,18 @@ author: pebaum
 manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: 62f0eeb4c058285158d012be3c1d54d09a7b8482
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: eafa52e81bfffbd9082ec3aee738d313736c3a72
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507556"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679735"
 ---
 # <a name="information-about-dlp-issues"></a>DLP 문제에 대 한 정보
 
@@ -28,7 +28,7 @@ DLP 정책을 사용 하면 Microsoft 365에서 중요 한 정보를 식별, 모
 
 자세한 내용은 다음 링크를 참조 하세요.
 
-- [데이터 손실 방지의 개요](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
+- [데이터 손실 방지 개요](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
 - [중요한 정보 유형이 찾는 항목](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 - [사용자 지정 중요한 정보 유형 만들기](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
 - [전자 메일 알림 보내기 및 정책 팁 표시](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)

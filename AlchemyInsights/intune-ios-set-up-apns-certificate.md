@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "3543"
-ms.openlocfilehash: 027e1e0fa3b625fa0f619bc6d74844f6ec5be769
-ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
+ms.openlocfilehash: f58405de018c916e08672022bb4f66292524b736
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43211296"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667452"
 ---
 # <a name="intune-ios-set-up-apns-certificate"></a>Intune iOS에서 APNS 인증서 설정
 

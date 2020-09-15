@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5475"
 - "9002494"
-ms.openlocfilehash: 6868d7cdbbcc7d73e7e65fa0b0c954b4cba619ff
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
+ms.openlocfilehash: d8b4043bb2889429a18c477505e7eca662943051
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45157341"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664356"
 ---
 # <a name="yammer-web-parts-in-sharepoint"></a>SharePoint의 Yammer 웹 파트
 
