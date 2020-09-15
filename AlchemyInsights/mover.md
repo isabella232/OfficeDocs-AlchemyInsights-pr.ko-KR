@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
-ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
+ms.openlocfilehash: 9a50525540d7b591c9272bc39714105cd1aa121f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/08/2020
-ms.locfileid: "47406332"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702765"
 ---
 # <a name="mover"></a>Mover
 

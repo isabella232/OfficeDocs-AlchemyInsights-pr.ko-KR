@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001088"
 - "5694"
-ms.openlocfilehash: e0b22710e4a6924deacea4a624ffeb3188d0629f
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
+ms.openlocfilehash: c6d3818171d010f6cc3f0870b8390e42974aea86
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44331465"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702405"
 ---
 # <a name="multi-geo-capabilities-in-onedrive-and-sharepoint-online"></a>OneDrive 및 SharePoint Online의 Multi-Geo 기능
 

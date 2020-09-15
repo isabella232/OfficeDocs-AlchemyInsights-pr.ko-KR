@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002569"
 - "5025"
-ms.openlocfilehash: d78441c332bfabfe36091a1b3d5a0903ccf0c612
-ms.sourcegitcommit: 82155846ce771c18050e6113d6c199b34a1504ff
+ms.openlocfilehash: bfa37ce3ddd7e72b772026383008415e7db8e83f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43810559"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701901"
 ---
 # <a name="project-and-planner-integration"></a>Project 및 Planner 통합
 

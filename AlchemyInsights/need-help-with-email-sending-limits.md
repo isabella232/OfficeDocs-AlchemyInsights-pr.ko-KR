@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002938"
 - "5630"
-ms.openlocfilehash: 7f563df313c869d18c3e4240d271c649a74914af
-ms.sourcegitcommit: 88d2918aa51f4ba10771527380c3e0db0f5a9147
+ms.openlocfilehash: 66ff82afd7b44ef5fd4943bfc794c2fa35bbfa9e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44328793"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702369"
 ---
 # <a name="need-help-with-email-sending-limits"></a>전자 메일 전송 제한 사항에 대한 도움이 필요한가요?
 

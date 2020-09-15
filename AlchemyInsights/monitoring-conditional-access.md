@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6083fc427e3791fdb0907198b525337a0c987c4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713724"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702909"
 ---
 # <a name="monitoring-conditional-access-for-exchange"></a>Exchange에 대 한 조건부 액세스 모니터링
 
@@ -21,9 +22,9 @@ ms.locfileid: "43713724"
   
 - 디바이스가 등록 된 것으로 보이면 사용자에 게 회사 포털 앱으로 이동 하 여 회사 포털에 표시 되는지 확인 하도록 권고 합니다. 그렇지 않으면 사용자가 장치를 등록 해야 합니다.
     
-- Azure portal에서 ** \> Intune 장치 준수**로 이동 합니다. **모니터** 에서 **장치 준수**를 클릭 합니다. 장치 준수 보고서를 확인 하 여 사용자의 장치가 호환 되는 것으로 표시 되어 있는지 확인 합니다. 
+- Azure portal에서 **Intune \> 장치 준수**로 이동 합니다. **모니터** 에서 **장치 준수**를 클릭 합니다. 장치 준수 보고서를 확인 하 여 사용자의 장치가 호환 되는 것으로 표시 되어 있는지 확인 합니다. 
     
-- Azure portal에서 ** \> Intune 장치 준수**로 이동 합니다. **관리**에서 **정책을**클릭 합니다. 준수 정책 목록에서 사용자의 장치에 프로필이 할당 되었는지 확인 합니다. 프로필이 할당 되지 않은 경우 Intune에서 장치의 준수 상태를 확인할 수 없습니다. 
+- Azure portal에서 **Intune \> 장치 준수**로 이동 합니다. **관리**에서 **정책을**클릭 합니다. 준수 정책 목록에서 사용자의 장치에 프로필이 할당 되었는지 확인 합니다. 프로필이 할당 되지 않은 경우 Intune에서 장치의 준수 상태를 확인할 수 없습니다. 
     
 - 사용자의 조건부 액세스 할당을 편집 합니다.
     
