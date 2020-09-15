@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1750"
 - "9000076"
-ms.openlocfilehash: 1dca00b98749868a417d22f6fcb5d99652f89a6f
-ms.sourcegitcommit: e90b918f02102cd9764881c2d8c914567c6b070e
+ms.openlocfilehash: 720dc31dc4db98714e5f8aa7a6ce95d83b6b0229
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46509066"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664896"
 ---
 # <a name="troubleshoot-resource-access-issues"></a>리소스 액세스 문제 해결
 

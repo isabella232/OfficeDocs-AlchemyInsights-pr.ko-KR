@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002418"
 - "4695"
-ms.openlocfilehash: eb32c0d13d62202b13547cf9a00591bda5546358
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 43d2ef88503c5c0f3d8a82bccb9d401fada0b961
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758480"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691473"
 ---
 # <a name="solutions-for-aad-synchronization-problems"></a>AAD 동기화 문제에 해결 방법
 

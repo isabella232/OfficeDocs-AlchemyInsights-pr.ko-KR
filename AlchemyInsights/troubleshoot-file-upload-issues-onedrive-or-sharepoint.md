@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5200007"
 - "3422"
-ms.openlocfilehash: 74c048ff5172579074dfdff5aaf23caf9240698e
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: d7fe379826445f0412b37ff80bdca35c12a9c5fe
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46787327"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690609"
 ---
 # <a name="troubleshoot-onedrive-or-sharepoint-file-upload-issues"></a>OneDrive 또는 SharePoint 파일 업로드 문제 해결
 

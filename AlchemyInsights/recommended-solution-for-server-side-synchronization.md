@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1457"
 - "6200010"
-ms.openlocfilehash: a36d108d375df1249eac116f0e4a7a10da880e8a
-ms.sourcegitcommit: ebb3595422b581eca98a05533f8d82239daec09a
+ms.openlocfilehash: 5325296fbcd89f016b0bcec0083ef8588e2ea301
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45207376"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693093"
 ---
 # <a name="recommended-solution-for-server-side-synchronization"></a>서버 쪽 동기화에 권장되는 솔루션
 

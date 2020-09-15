@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4363"
-ms.openlocfilehash: 6626a811f0ff216f0f719a6988c2c5760f3e7803
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: c45d46f14ca519ea57d585f9e8893402e6e3ee13
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417970"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687980"
 ---
 # <a name="add-phone-number"></a>전화번호 추가
 

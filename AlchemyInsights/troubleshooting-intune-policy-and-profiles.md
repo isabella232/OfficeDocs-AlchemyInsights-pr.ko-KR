@@ -6,18 +6,19 @@ manager: dougeby
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 5ecc849d78559bc392e83d2c6c3a866bcaa86944
-ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
+ms.openlocfilehash: 71cbb52d73261d59732f42789997d0ee55e71906
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/08/2020
-ms.locfileid: "47406296"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689852"
 ---
 # <a name="troubleshooting-intune-policy-and-profiles"></a>Intune 정책 및 프로필 문제 해결
 

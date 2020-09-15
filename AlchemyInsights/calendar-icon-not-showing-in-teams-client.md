@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001219"
 - "4375"
-ms.openlocfilehash: 21692639fb746b2e5aab3dfc8894293d5dc890ac
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: f30cd5bda62756cf6b912ed150b4e59e7ca4d85d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932203"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684704"
 ---
 # <a name="calendar-icon-not-showing-in-teams-client"></a>Teams 클라이언트에 일정 아이콘이 표시되지 않음
 
@@ -24,7 +25,7 @@ Teams의 일정 탭은 Exchange 웹 서비스를 통한 Exchange 사서함에 �
 
 사용자에게 Exchange Online의 유효한 사서함이 있지만 여전히 일정 탭이 표시되지 않는 경우 네트워크 문제일 수 있습니다. [Microsoft 원격 연결 분석기](https://testconnectivity.microsoft.com/)를 사용하여 영향받는 사용자에 대한 **Microsoft Exchange 웹 서비스 연결 테스트**를 실행합니다.
 
-마지막으로 [Teams 앱 – 앱 설정 정책](https://admin.teams.microsoft.com/policies/app-setup)을 통해 사용자에게 적용되는 정책에서 일정 앱이 제거되지 않았는지 확인합니다(전역(조직 전체의 기본값)일 가능성 높음.
+마지막으로 [Teams 앱 – 앱 설정 정책](https://admin.teams.microsoft.com/policies/app-setup)을 통해 사용자에게 적용되는 정책에서 일정 앱이 제거되지 않았는지 확인합니다 **(전역(조직 전체의 기본값)일 가능성 높음**.
 
 사용자가 온-프레미스에 있는 경우 하이브리드 구성이 정상인지 확인해야 합니다. [하이브리드 구성 마법사](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent)를 사용하여 문제를 해결하십시오.
 

@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: 53e92b44277d239c927d13e63a6437c4ec9d0996
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4b194527e48ebe0c2735b0393c9b381e77541dee
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512380"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689708"
 ---
 # <a name="understand-your-bill"></a>청구서 이해
 

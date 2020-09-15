@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 1930edcfd14acc48ea77b66e2793654a3e6332cc
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3550081a12379f73725253214a2c2d44974ab740
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759806"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690789"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>액세스 거부 메시지 문제 해결
 

@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: d59ee014a64de39d01837e90909619f30ec35e89
-ms.sourcegitcommit: e34bb95fb93250f1dc7aec6a13578bb3bb355935
+ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45434636"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667884"
 ---
 # <a name="intune-device-inventory"></a>Intune 장치 인벤토리
 

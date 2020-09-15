@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "9002256"
 - "4359"
 ms.assetid: ''
-ms.openlocfilehash: 3b8ea1ac6922ceab57b94f51cd8dabd60caf0984
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: e195622b79d77582d7b5856e77c94749af25b508
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954068"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688664"
 ---
 # <a name="add-a-member-to-teams"></a>Teams에 구성원 추가
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: 26ae276bdb1c12eb96832fdbf9d243ddc1ed0250
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: dd4fa680b03a7f9dd29a22189b3e22b76e3f2025
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584696"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689096"
 ---
 # <a name="view-wi-fi-network-password-in-windows-10"></a>Windows 10에서 Wi-fi 네트워크 암호 보기
 

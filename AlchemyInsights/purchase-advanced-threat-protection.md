@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: 80f3ea749813d6038f9234229f445d6cd43d3637
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44664469"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693561"
 ---
 # <a name="purchase-office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection 구매
 

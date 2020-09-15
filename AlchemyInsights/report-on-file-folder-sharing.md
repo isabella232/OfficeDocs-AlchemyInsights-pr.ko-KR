@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: a0223666ba8cd3edde9eed05d86a49907fd07a37
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: f6c0e7d183ee7d656d0dd63ed7af621c03f3ce94
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46787219"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692373"
 ---
 # <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>SharePoint 사이트의 파일 및 폴더 공유에 대 한 보고서
 

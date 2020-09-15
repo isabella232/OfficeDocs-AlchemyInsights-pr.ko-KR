@@ -5,18 +5,19 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Critical
 ms.custom:
 - "1266"
 - "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: a81786b5fab6a039d4771739000a8f841871dad7
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 3e1e19c6198cade36930e16445250254e2e50f5e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579619"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693964"
 ---
 # <a name="prepare-for-use-of-tls-12-in-microsoft-365"></a>Microsoft 365에서 TLS 1.2 사용 준비
 

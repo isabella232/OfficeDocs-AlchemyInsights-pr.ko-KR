@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-ms.openlocfilehash: e3bbe36ff57038caa2541fe4456a1363c91995d7
-ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
+ms.openlocfilehash: 6c9bf1cbde75e0c87ce2e004ef1b1eee3b2b2fa3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44016910"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669290"
 ---
 # <a name="transfer-licenses-between-tenants"></a>테넌트 간 라이선스 전송
 

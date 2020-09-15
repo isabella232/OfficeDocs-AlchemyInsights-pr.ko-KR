@@ -6,19 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 2af1c5374c0cb08891f42f83e2a5e54ef17e914a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8bd05fe4876328e22bbd614a1e6b3ee95338c0ce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724956"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693273"
 ---
 # <a name="receive-copy-of-your-billing-statement-in-email"></a>전자 메일로 청구서 사본 받기
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3815"
 - "9001720"
-ms.openlocfilehash: 5e1b2c54071eabda51724b300a9ef75888d7062f
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: b22004a83e8a7e291c1e55fecaab3ab290c3d9de
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707716"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685424"
 ---
 # <a name="blur-your-background-in-a-teams-meeting"></a>Teams 모임에서 배경을 흐리게 하기
 
