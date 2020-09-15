@@ -4,15 +4,16 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 5b50f77b4656a0418786a557f2023abfd0b6d84f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d3c98d799e41ea69d56faa4d591b54f9175ad2ac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054924"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699669"
 ---
 # <a name="unable-to-open-documents-in-sharepoint"></a>SharePoint에서 문서를 열 수 없음
 

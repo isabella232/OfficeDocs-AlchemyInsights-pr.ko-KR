@@ -12,12 +12,12 @@ ms.custom:
 - "39"
 - "41"
 - "100001"
-ms.openlocfilehash: ca580e981036d3c830e55d67f2a79272fe4f27e4
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: de163d4385249e49db76de8997a7f8f3fb3cd198
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508526"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699345"
 ---
 # <a name="update-dns-records"></a>DNS 레코드 업데이트
 

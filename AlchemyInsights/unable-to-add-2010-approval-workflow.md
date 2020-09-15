@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: f40716dd399fe7bea1b606cd725676268dc0a66d
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: aa61f1615b60d27cffad15f02f6ce5dbac1b607f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582853"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699741"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>2010 승인 워크플로를 추가할 수 없음
 
@@ -35,9 +36,9 @@ Microsoft SharePoint 사이트 모음에서는 목록 또는 라이브러리에 
   
 3. 웹 브라우저에서 사이트 모음의 루트 웹 사이트를 찾은 다음 **사이트 설정** \> **사이트 모음 기능**에 액세스 합니다. **워크플로** 기능을 설정/해제 합니다. 
   
-· 기능이 *활성화* 되 면 **비활성화를** 클릭 한 다음 **활성화**를 클릭 합니다. 
+· 기능이  *활성화*  되 면 **비활성화를** 클릭 한 다음 **활성화**를 클릭 합니다. 
   
-· 기능이 *비활성화* 되어 있으면 **활성화**를 클릭 합니다. 
+· 기능이  *비활성화*  되어 있으면 **활성화**를 클릭 합니다. 
   
 자세한 내용은 다음 [문서](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)를 참조 하세요.
   

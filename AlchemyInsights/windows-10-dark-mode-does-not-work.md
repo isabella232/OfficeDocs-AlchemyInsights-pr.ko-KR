@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/25/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6245"
 - "9003346"
-ms.openlocfilehash: 10c95b4fd692b44745d481e3cda490f93447449e
-ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
+ms.openlocfilehash: f0a95f4b045f2735c3aab879941b3237c6a27fb8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46903591"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699071"
 ---
 # <a name="windows-10-dark-mode-does-not-work"></a>Windows 10 어둡게 모드가 작동하지 않음
 
