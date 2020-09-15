@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2495"
 - "9000580"
-ms.openlocfilehash: 6f9ff3992544b5c36db6928fed17e38b9d47f322
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d6cc387f5d1cd8293ce85b65d4a0e5b024c71daf
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540007"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703739"
 ---
 # <a name="how-to-move-a-onenote-notebook"></a>OneNote 전자 필기장을 이동 하는 방법
 
-* Onenote 전자 필기장을 OneDrive로 이동 하려면 onenote 2016에서 **파일** > **공유** > **이동 전자 필기장** 으로 이동 하세요. 자세한 내용은 [OneDrive로 OneNote 전자 필기장 이동을](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082) 참조 하세요.
+* Onenote 전자 필기장을 OneDrive로 이동 하려면 **File**  >  **Share**  >  onenote 2016에서 파일 공유**이동 전자 필기장** 으로 이동 하세요. 자세한 내용은 [OneDrive로 OneNote 전자 필기장 이동을](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082) 참조 하세요.
 
 * 전자 필기장 이동을 준비할 때의 모범 사례에 대 한 자세한 내용은 OneNote를 통한 [모범 사례 동기화](https://support.microsoft.com/help/2819334/onenote-syncing-best-practices)를 참조 하세요.
 

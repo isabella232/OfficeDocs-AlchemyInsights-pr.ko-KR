@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3041"
 - "9000588"
-ms.openlocfilehash: 8dcbd1f9284af80d6b0b896ed74a45999dbd27a2
-ms.sourcegitcommit: 8004ee243b5c68ff9532224a2e6c69dda0abbd0b
+ms.openlocfilehash: cdb839c13edac4df1da3208930dd6c8f6814897c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37441276"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703775"
 ---
 # <a name="how-to-prepare-a-mail-merge"></a>편지 병합을 준비 하는 방법
 
