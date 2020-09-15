@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: febcc9c770f6e81ee9bea084a229b530fdcc266a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 602b4592ac07c655cd807f09e1a286741235e728
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743423"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694245"
 ---
 # <a name="how-to-verify-your-outlookcom-account"></a>Outlook.com 계정을 확인 하는 방법
 

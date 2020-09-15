@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002552"
 - "5145"
-ms.openlocfilehash: 57e70c6ca15eec90c1f1ca55cdd45f3489ecb5d1
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 2666ee08e25dfbfb2fe9abba7cc4061587f9738a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43790003"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694390"
 ---
 # <a name="optimizing-stream-within-my-local-network"></a>내 로컬 네트워크 내에서 Stream 최적화
 

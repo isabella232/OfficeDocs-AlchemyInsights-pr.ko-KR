@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: e1da0c7b67c1f09f6ed6589848ddd2d4e5a5775a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6e10fb27472c770bb9530a20d86fd0ec1d3cb0dc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710953"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694281"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>정크 메일 폴더로 이동 하지 못하도록 메시지를 중지 합니다.
 
@@ -24,7 +25,7 @@ Outlook.com의 정크 메일 폴더에 있는 전자 메일 메시지가 정크 
 
 1. [정크 메일 폴더](https://outlook.live.com/mail/junkemail)를 엽니다.
 1. 메시지를 선택 합니다. (*참고:* 정크 메일 폴더의 항목은 30 일 후에 삭제 됩니다.)
-1. 메시지 목록 위의 정크 > **메일 아님** **을 선택 합니다**.
+1. 메시지 목록 **위의 정크**  >  **메일 아님**을 선택 합니다.
 
 보낸 사람의 메시지가 정크 메일 폴더로 이동 하지 않도록 하려면 수신 허용-보낸 사람 목록에 보낸 사람을 추가 합니다.
 

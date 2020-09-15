@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: dc939a3451ff4fe95e4aa5a999839a2c532b398c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5bf28982533d8ca9998605cf3592f317c0ef99b0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713040"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694462"
 ---
 # <a name="open-with-explorer-isnt-working"></a>탐색기에서 열기 (Explorer가 작동 하지 않음)
 
