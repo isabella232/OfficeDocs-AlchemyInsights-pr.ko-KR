@@ -6,17 +6,18 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 79595b9d-ce9b-44e5-b142-8d6df9cbb427
-ms.openlocfilehash: 6a83e8c1b4076a04492ffb708d485aeddf80da44
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c065bdee1ded7eaaa1851d6fc20007a3b7f20879
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710305"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718987"
 ---
 # <a name="cant-sign-in-to-outlookcom"></a>Outlook.com에 로그인 할 수 없음
 

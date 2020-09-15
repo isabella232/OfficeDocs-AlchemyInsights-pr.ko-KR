@@ -1,10 +1,11 @@
 ---
 title: 파워 피벗은 어디에 있나요?
-ms.author: chrsm
-author: chrsm
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,12 +15,12 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 326f07ae2cf677822e7c7d31eba4e0dc3a6506a4
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3be4424d6a0d76136bf10b2629e43c0a321720ab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765203"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719095"
 ---
 # <a name="where-is-power-pivot"></a>파워 피벗은 어디에 있나요?
 
@@ -33,7 +34,7 @@ Power Pivot이 표시 되지 않는 이유에는 다음 세 가지가 있습니�
   
 Power Pivot을 지 원하는 Excel 버전에서 작업 하는 경우에는 추가 기능이 사용 하도록 설정 되어 있는지 확인 하세요.
   
-1. **파일** \> **Options** 옵션 \> **추가 기능**을 선택 합니다.
+1. **파일** \> **옵션** \> **추가 기능**을 선택 합니다.
 
 2. **관리** 드롭다운 상자에서 **COM 추가 기능** 을 선택 하 고 **이동을**클릭 합니다.
 

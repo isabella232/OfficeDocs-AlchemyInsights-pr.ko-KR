@@ -13,12 +13,12 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 03b9c57f8254aea779929135ae45857c799f50de
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 01179dde29cd07256a5f6e0ece539c5c02c25dfd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708361"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718663"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook 충돌 문제 해결 단계
 

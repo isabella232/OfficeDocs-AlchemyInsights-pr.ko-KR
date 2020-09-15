@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: 8122b409a731a5fcc46c718aff1eeda07e26890b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ecbce4f0077dc9acab63575c19d40c0675a406ac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506449"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717331"
 ---
 # <a name="fix-email-delivery-issues-for-error-code-5723"></a>오류 코드 5.7.23에 대 한 전자 메일 배달 문제 해결
 
