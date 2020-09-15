@@ -5,18 +5,19 @@ author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1400006"
 - "5832"
-ms.openlocfilehash: 20626d3759cddfbc818da687ce4eafe0c41c843f
-ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
+ms.openlocfilehash: b6ff588128f7c7c617651c62488a826d10733555
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364737"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708797"
 ---
 # <a name="what-are-my-options-to-extend"></a>연장하기 위한 내 옵션은 무엇인가요?
 

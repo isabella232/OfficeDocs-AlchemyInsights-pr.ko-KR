@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9000191"
 - "1749"
 - "2389"
-ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b75daec0cf526be7b5073d0e90421ab207560f17
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049775"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708509"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>SharePoint Online의 외부 공유
 

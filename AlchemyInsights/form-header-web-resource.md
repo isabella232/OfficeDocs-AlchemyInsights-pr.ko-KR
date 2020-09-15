@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1929"
 - "9000308"
-ms.openlocfilehash: ef587ebb785896b1c5345efa6dbbd74b8d999919
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: c3bd238ea600c4f982e41eaa566fa9a17448a356
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431663"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708077"
 ---
 # <a name="form-header---web-resource"></a>양식 머리글 - 웹 리소스
 

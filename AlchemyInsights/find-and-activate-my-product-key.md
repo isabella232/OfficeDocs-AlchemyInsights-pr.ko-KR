@@ -5,18 +5,19 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 107916aae8aef805e2adb5caaef1d06f97edeaa3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062470"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708581"
 ---
 # <a name="find-and-activate-my-product-key"></a>제품 키 찾기 및 정품 인증
 
