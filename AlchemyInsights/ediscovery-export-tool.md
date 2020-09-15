@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 6352603a391ddcb44d2728c7587bf15a6cd97ebb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507176"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711101"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>EDiscovery 내보내기 도구를 설치 하거나 실행할 수 없습니까?
 

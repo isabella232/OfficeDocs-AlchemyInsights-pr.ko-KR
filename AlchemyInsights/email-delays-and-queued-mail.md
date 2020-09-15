@@ -6,16 +6,17 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: ae90583cc93653a615b5f1abdaa699b52a8b8af5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c2e6aa3de2ea86b70c8fb68503aa02027505326a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703793"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710237"
 ---
 # <a name="are-you-seeing-email-delays-or-queued-mail"></a>전자 메일 지연과 대기 중인 메일이 표시 됩니까?
 

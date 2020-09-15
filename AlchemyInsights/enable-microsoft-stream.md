@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002642"
 - "5077"
-ms.openlocfilehash: 55c14b0c56255100e6b6ac7e27e6f6a8919c63a1
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 17153b83a851895bbe19277a2db7f499e44375eb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933356"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710057"
 ---
 # <a name="enable-microsoft-stream"></a>Microsoft Stream 사용
 
