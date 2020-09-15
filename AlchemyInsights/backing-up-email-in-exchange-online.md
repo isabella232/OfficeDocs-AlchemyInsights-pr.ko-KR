@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002333"
 - "4537"
-ms.openlocfilehash: c4d49b7652d81602afa3578a8842aa4bdf0f26a3
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 470a9c41bd1c20cfd9d338d9059ac9c93e5fb808
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43027992"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686612"
 ---
 # <a name="backing-up-email-in-exchange-online"></a>Exchange Online에서 전자 메일 백업
 

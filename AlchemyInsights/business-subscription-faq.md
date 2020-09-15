@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -19,12 +20,12 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 5ceadd44976b61f3570d9f15dbf724aed0b44e38
-ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
+ms.openlocfilehash: 4bcb865a0a54e8d9693314ae3bf14fe0d0ac27cd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45169714"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685172"
 ---
 # <a name="business-subscription-faq"></a>비즈니스 구독 FAQ
 

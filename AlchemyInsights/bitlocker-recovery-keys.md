@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 4e06e0e43b63836b9e9cf923e554dd474b82c671
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908820"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685892"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Bitlocker 복구 키 액세스
 
@@ -42,7 +43,7 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-장치가 Intune에서 enrolment 전에 암호화 된 경우 복구 키가 OOBE 프로세스 중에 장치에 로그인 하는 데 사용 되는 "Microsoft 계정" (MSA)과 연결 되어 있을 수 있습니다. 이 경우 해당 MSA에 액세스 https://onedrive.live.com/recoverykey 하 고 로그인 하려면 복구 키가 저장 된 장치가 표시 되어야 합니다.
+장치가 Intune에서 enrolment 전에 암호화 된 경우 복구 키가 OOBE 프로세스 중에 장치에 로그인 하는 데 사용 되는 "Microsoft 계정" (MSA)과 연결 되어 있을 수 있습니다. 이 경우 해당 MSA에 액세스  https://onedrive.live.com/recoverykey 하 고 로그인 하려면 복구 키가 저장 된 장치가 표시 되어야 합니다.
  
 장치가 도메인 기반 그룹 정책을 통해 구성 된 결과로 암호화 된 경우에는 온-프레미스 Active Directory에 복구 정보가 저장 될 수 있습니다.
  

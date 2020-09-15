@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "9002245"
 - "4349"
 ms.assetid: ''
-ms.openlocfilehash: cf44a922bc248975ba2fcdb08aef2c2fde2416c7
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 342c700d40a119a0103893a6e51cfa61ece41ff9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788852"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685028"
 ---
 # <a name="buy-a-domain-name-in-microsoft-365"></a>Microsoft 365에서 도메인 이름 구입하기
 

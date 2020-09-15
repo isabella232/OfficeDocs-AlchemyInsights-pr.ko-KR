@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002509"
 - "5040"
-ms.openlocfilehash: 0ebe897d4ed57755dc9a00f3f05ff2f84875af9d
-ms.sourcegitcommit: 82155846ce771c18050e6113d6c199b34a1504ff
+ms.openlocfilehash: 89acf4bfce7a871e93150581a17849d047c335de
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43810594"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688412"
 ---
 # <a name="add-contacts-in-teams"></a>Teams에서 연락처 추가
 

@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6070"
 - "1200022"
-ms.openlocfilehash: 36dd921f663b40d52812c8703ce60557c87e5fc0
-ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
+ms.openlocfilehash: 39fe0d25285fe0f91ab8e5d61ba5e267b77df78b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45205421"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687116"
 ---
 # <a name="adding-a-mailbox-to-a-user"></a>사용자에게 사서함 추가
 

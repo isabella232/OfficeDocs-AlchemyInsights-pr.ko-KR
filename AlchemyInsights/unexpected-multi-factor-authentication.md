@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ''
 ms.custom:
 - "1300007"
 - "4372"
-ms.openlocfilehash: a664bd709062ec1335ebcf1f9adddc8aef917ac1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 48303d5b408cbdb243ec45dc4c80ac9a83f273a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766607"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689528"
 ---
 # <a name="unexpected-multi-factor-authentication"></a>예기치 않은 다단계 인증
 

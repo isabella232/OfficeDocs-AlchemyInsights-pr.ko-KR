@@ -5,18 +5,19 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 3d162003c34773f4764c12cc27554e451fec4c27
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225238"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686036"
 ---
 # <a name="billing-and-payment"></a>대금 청구 및 지불
 
@@ -51,7 +52,7 @@ ms.locfileid: "44225238"
 
 7. 드롭다운 목록에서 새 결제 방법이 이미 선택 되어 있습니다. **바꾸기를**선택 합니다.
 
-자세한 내용은 [결제 방법 관리](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)를 참조 하세요.
+자세한 내용은 [결제 방법 관리하기](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)를 참조하세요.
 
 **청구 빈도**
 

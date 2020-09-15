@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: e7bff5f9fcf6f2f2c77e93c2f27f585f2cc18bea
-ms.sourcegitcommit: 98231a228ecb2bf14ec3b96d4dd4ccf2507617a3
+ms.openlocfilehash: baf3ee808cce1e4da362dd0841c0138d7d9268d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43079266"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685604"
 ---
 # <a name="blocking-legacy-authentication"></a>레거시 인증 차단
 
-레거시 인증은 다음에의 한 인증 요청을 지칭 하는 용어입니다.
+레거시 인증은 다음에서 수행한 인증 요청을 참조하는 용어입니다.
 
 - 최신 인증을 사용 하지 않는 이전 Office 클라이언트 (예: Office 2010 클라이언트)
 
-- IMAP/SMTP/POP3와 같은 레거시 메일 프로토콜을 사용 하는 모든 클라이언트
+- IMAP/SMTP/POP3와 같은 레거시 메일 프로토콜을 사용하는 모든 클라이언트.
 
 레거시 인증을 차단 하 고 최신 인증을 사용 하는 방법에 대 한 자세한 내용은 [레거시 인증 차단을](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication)참조 하십시오.
 
