@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1141"
 - "8000068"
-ms.openlocfilehash: f41d82cf08efe107fbd3b21bebe99998c786d9ee
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 715051dcfe141dc3feec4f05372e84a3568f8738
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761030"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672884"
 ---
 # <a name="agregar-sus-otras-cuentas-de-correo-electrnico"></a>Agregar sus otrentreelectrónico as
 

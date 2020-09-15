@@ -6,18 +6,19 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1565"
 - "8000003"
-ms.openlocfilehash: 09a7db3224011f3268a655d6b56a7dfe699dd34f
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 2b1ebc385dd860caba1658f6ddea42479b93e896
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581953"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670874"
 ---
 # <a name="search-mail-and-people-on-outlook-on-the-web"></a>웹용 Outlook에서 메일 및 사용자 검색
 

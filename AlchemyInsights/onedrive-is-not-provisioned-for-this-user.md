@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: 6a04e92d99ce02f516c439b16fc5cd81e26218f2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 07ac096452e603f05fd1b332bc318fdaa911340c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763115"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672818"
 ---
 # <a name="onedrive-is-not-provisioned-for-this-user"></a>이 사용자에 대해 OneDrive가 프로 비전 되지 않음
 

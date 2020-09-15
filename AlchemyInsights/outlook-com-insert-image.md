@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -15,12 +16,12 @@ ms.custom:
 - "1393"
 - "1394"
 - "8000086"
-ms.openlocfilehash: b4634560610367ac665f1c502d054687490bddd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: c87d8bbe4d7248785f8ddc3d29152f1647d16a8f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760130"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47671812"
 ---
 # <a name="insert-pictures-in-an-email-message-or-calendar-event"></a>전자 메일 메시지 또는 일정 이벤트에 그림 삽입
 

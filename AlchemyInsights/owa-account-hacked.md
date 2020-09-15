@@ -6,15 +6,16 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: a988656beee1da0cc763b36de001777b18842956
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b411f48ef56f32f22babbe16f13865a2d6f7cc17
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510254"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47671342"
 ---
 # <a name="outlook-on-the-web-account-hacked"></a>해킹 당한 웹 계정의 Outlook 계정
 

@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -15,12 +16,12 @@ ms.custom:
 - "1147"
 - "1148"
 - "8000071"
-ms.openlocfilehash: b28c449c398fe5e7c2aec1894cef5fdacbe3b2d4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 072e7103aaefb96e6d1a74f517793a865346619c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722058"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47671774"
 ---
 # <a name="rsoudre-les-problmes-de-synchronisation-des-messages"></a>Résoudre les problèmes de synchronisation des 메시지
 

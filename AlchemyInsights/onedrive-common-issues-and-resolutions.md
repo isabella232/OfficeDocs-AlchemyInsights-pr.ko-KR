@@ -5,18 +5,19 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom:
 - "9000293"
 - "1901"
-ms.openlocfilehash: 244630d2e9cd619ff8802be5c653ec7b2c40486e
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e6b8aad52d492d9db9de9abb9be182fe12d0bd62
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510938"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672998"
 ---
 # <a name="onedrive-common-issues-and-resolutions"></a>OneDrive 일반적인 문제 및 해결 방법
 

@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "3514"
 - "9000761"
-ms.openlocfilehash: 76f287300f7c5700bab515d4142283d24bd2bcb1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4ac8c5c4eac5ae9c1ea1b14595e69d983ee4b007
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722852"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47671558"
 ---
 # <a name="set-up-out-of-office-automatic-replies"></a>부재 중 자동 회신 설정
 

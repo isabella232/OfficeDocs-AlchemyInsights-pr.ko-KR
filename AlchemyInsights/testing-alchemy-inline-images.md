@@ -5,18 +5,19 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 28d8036f-9df2-4dff-835b-9424bfe988a2
 ms.custom:
 - "273"
 - "1500006"
-ms.openlocfilehash: c4f8458f44228ee9e660ee6aa4a209fb6236bf3a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a56be036f78d7eab3361a318793460bb4f7891e7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505061"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669398"
 ---
 # <a name="access-the-domains-page"></a>도메인 액세스 페이지
 
