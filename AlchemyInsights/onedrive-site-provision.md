@@ -4,15 +4,16 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: 2946747bb90177549f62a22ac34dddbd5aa4316c
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: ea4968de39f6a620a7e9ba2cbf6e41ac17522003
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571243"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754381"
 ---
 # <a name="onedrive-site-provisioning"></a>OneDrive 사이트 프로 비전
 

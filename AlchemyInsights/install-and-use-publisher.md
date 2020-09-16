@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002627"
 - "5045"
-ms.openlocfilehash: c9975683b5ad3917945da7ffd89af5de62e9d0db
-ms.sourcegitcommit: 37b142dfe0f09401577144d7f8727bd2c04af0f8
+ms.openlocfilehash: 3f687878d87290838af72277d095f9302653a453
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43930558"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755281"
 ---
 # <a name="install-and-use-publisher"></a>Publisher 설치 및 사용
 

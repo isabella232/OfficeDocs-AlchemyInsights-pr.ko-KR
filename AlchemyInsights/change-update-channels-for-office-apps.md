@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 43a3cdefe5a9bc1726984a3195dce7aaea08d892
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: 70b416e2b572fe9b4257648e3426b4d36975681e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46786859"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756505"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Office 앱에 대한 업데이트 채널 변경
 

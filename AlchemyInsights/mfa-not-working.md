@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 718af9bfbc0a64cdfc96528e5062fb96c8d0f2d3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768843"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755137"
 ---
 # <a name="issues-with-azure-mfa"></a>Azure MFA 관련 문제
 사용자가 MFA (다단계 인증)를 사용 하 여 로그인 할 수 없는지 확인 해야 하는 몇 가지 사항이 있습니다.

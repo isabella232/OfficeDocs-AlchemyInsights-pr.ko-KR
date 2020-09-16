@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002305"
 - "4476"
-ms.openlocfilehash: 654c680c87ce5591243dfc71a12e01de79eae5c2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 70c49b699e4875f949e09be8b4d79a7f8940ddaa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761316"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754453"
 ---
 # <a name="onedrive-recycle-bin"></a>OneDrive 휴지통
 

@@ -4,14 +4,15 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
-ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
+ms.openlocfilehash: 10174582fca204d0fa44af23feba0f9412e99890
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44043043"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755065"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Bing에서 Microsoft Search 및 엔터프라이즈용 Microsoft 365 앱
 

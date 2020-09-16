@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 38ef162bd5c26328ee70af37df07adfbf2bfd93b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 3ea596547093773ab872ca34e8dd3a4e49e59fd7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752381"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755101"
 ---
 # <a name="install-power-bi-report-server"></a>Power BI 보고서 서버 설치
 
-1. PowerBIReportServer의 위치를 찾아서 설치 관리자를 실행 합니다.
+1. PowerBIReportServer.exe 위치를 찾아서 설치 관리자를 시작 합니다.
 
 2. **POWER BI 보고서 서버 설치**를 선택 합니다.
 
@@ -36,4 +37,4 @@ ms.locfileid: "35752381"
 
 설치할 때 SQL Server 데이터베이스 엔진 서버를 사용할 필요가 없습니다. 설치 후 Reporting Services를 구성 하려면 하나가 필요 합니다.
 
-자세한 내용:https://docs.microsoft.com/power-bi/report-server/install-report-server
+자세한 내용: https://docs.microsoft.com/power-bi/report-server/install-report-server
