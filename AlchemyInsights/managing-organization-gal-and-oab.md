@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002895"
 - "5550"
-ms.openlocfilehash: a7142d68f0197aaca733766daf30fe8a46f13f9e
-ms.sourcegitcommit: 8b50994a2979778ce8474ce83bd86b60e7d2cb2f
+ms.openlocfilehash: a15864f34433695b61ea040abd3032d234920653
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022525"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812697"
 ---
 # <a name="managing-organization-global-address-list-gal-and-offline-address-book-oab"></a>조직 전체 주소 목록(GAL) 및 오프라인 주소록 관리(OAB)
 

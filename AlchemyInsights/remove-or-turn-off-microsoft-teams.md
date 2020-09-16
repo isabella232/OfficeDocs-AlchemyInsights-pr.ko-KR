@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001714"
 - "3796"
-ms.openlocfilehash: 750c55f5f4a9e6d71389245676f05489154ab9fb
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: b40446cb7ed0c979c9b5bda3c7ff421f314d39a5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42559031"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47776456"
 ---
 # <a name="remove-or-turn-off-microsoft-teams"></a>Microsoft 팀 제거 또는 해제
 

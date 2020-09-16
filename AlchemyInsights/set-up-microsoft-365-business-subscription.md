@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4776"
-ms.openlocfilehash: df3a236ca99df07cb162d884bd718db6efcf6d65
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 16cf26135c45b4a395dd7fb826f67394ae2b0da9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787772"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800938"
 ---
 # <a name="set-up-a-microsoft-365-business-subscription"></a>Microsoft 365 Business 구독 설정
 

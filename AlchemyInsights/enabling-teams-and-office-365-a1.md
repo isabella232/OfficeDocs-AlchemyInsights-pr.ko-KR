@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001724"
 - "3823"
-ms.openlocfilehash: 08a6cb319b3aea720178a8ef988482140fc44856
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5f677c8fabb6cdb9c708ab9dc39882a8d3b0567b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703324"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784436"
 ---
 # <a name="enabling-teams-and-office-365-a1"></a>Teams와 Office 365 A1 활성화하기
 

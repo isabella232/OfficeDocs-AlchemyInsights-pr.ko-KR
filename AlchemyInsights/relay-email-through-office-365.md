@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 074a9106553bf3a2a5e563f9ebaca9dfc38111cb
-ms.sourcegitcommit: 9872280f71429d2344b0b441e218fba5b3bd3cf7
+ms.openlocfilehash: 180bae451941e4aaea94d285362794a797383eca
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45023465"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47776492"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>전자 메일을 보내도록 다기능 장치 또는 애플리케이션 설정
 

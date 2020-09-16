@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1431"
 - "8000093"
-ms.openlocfilehash: dfcab0b56a00955ec90b45c3897bff36feb95b13
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f143b603e50024b665d74ac91cdfbbe82e19303e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722094"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47752401"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>"사용 권한이 없는 것 처럼 보입니다." 문제를 해결 하는 방법
 

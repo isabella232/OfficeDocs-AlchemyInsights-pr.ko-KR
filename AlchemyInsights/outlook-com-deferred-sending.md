@@ -6,18 +6,19 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: 164da9375951c6a1a193b2026272fa211cc38f50
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760418"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47752077"
 ---
 # <a name="delay-or-schedule-sending-email-messages"></a>전자 메일 메시지 보내기 지연 또는 예약
 

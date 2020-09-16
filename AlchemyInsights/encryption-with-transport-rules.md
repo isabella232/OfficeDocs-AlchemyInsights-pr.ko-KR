@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5154"
-ms.openlocfilehash: 3f16c7e7be99a50cd57f47ea2801b3022c4aec95
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
+ms.openlocfilehash: 4c43fc16db84832c4e2aa3b6483632de6861b877
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915174"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784349"
 ---
 # <a name="encryption-with-transport-rules"></a>전송 규칙을 사용하여 암호화
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002455"
 - "4793"
-ms.openlocfilehash: b9020af8c02fcc66a02990b033a3e813fb1e03f6
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: c002fc1c177f72119baaee90c07d0d60c1be5f8b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005566"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47768505"
 ---
 # <a name="purchased-wrong-subscription-license"></a>잘못된 구독 라이선스 구입
 
