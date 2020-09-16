@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: 78f27014c60badc801212177dd455ef2a0de5a9e
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
+ms.openlocfilehash: cfee520e26587c0a649c08084853c31232d027f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44854007"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748799"
 ---
 # <a name="calendar-permissions"></a>일정 권한
 
@@ -27,7 +28,7 @@ Exchange PowerShell cmdlet을 사용 하면 사용자의 일정에 대 한 사�
 
 자세한 내용은 다음 항목을 참조 하십시오.
 
-- [Add-mailboxfolderpermission](https://docs.microsoft.com/powershell/module/exchange/get-mailboxfolderpermission?view=exchange-ps)
+- [Get-MailboxFolderPermission](https://docs.microsoft.com/powershell/module/exchange/get-mailboxfolderpermission?view=exchange-ps)
 
 - [Add-mailboxfolderpermission](https://docs.microsoft.com/powershell/module/exchange/set-mailboxfolderpermission?view=exchange-ps)
 

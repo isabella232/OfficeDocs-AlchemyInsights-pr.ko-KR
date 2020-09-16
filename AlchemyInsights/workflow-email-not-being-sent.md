@@ -6,24 +6,25 @@ manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 391d3a2dcc2676a405065115f375c802d2492119
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7efb8895ac7e2816a2c6055ec3c08d6f7029d39d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766139"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748995"
 ---
 # <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>SharePoint 목록 또는 라이브러리에 대해 워크플로 전자 메일이 전송 되지 않음
 
-1. 워크플로의 전자 메일이 모든 사용자에 게 보내지지 않거나 특정 사용자 에게만 전송 되지 않거나 **전자 메일 메시지를 보낼 수 없습니다. 라는 오류가 표시 됩니다. 전자 메일의 받는 사람이 올바른지 확인**합니다.
+1. 워크플로의 전자 메일은 모든 사용자 또는 특정 사용자 에게만 전송 되지 않거나, **전자 메일 메시지를 보낼 수 없다는 오류가 표시 됩니다. 전자 메일에 올바른 받는 사람이 있는지 확인 하세요.**
 
-    해당 사이트 모음의 **모든** 사용자 권한 그룹 (사용자 정보 목록)에 사용자가 있는지 확인 합니다.  직접 URL 예제: https://<tenant>/sharepoint.com/sites/<sitename>/_layouts/15/people.aspx? MembershipGroupId = 0
+    해당 사이트 모음의 **모든** 사용자 권한 그룹 (사용자 정보 목록)에 사용자가 있는지 확인 합니다.  직접 URL 예제: https:// <tenant> /sharepoint.com/sites/ <sitename> /_layouts/15/people.aspx? MembershipGroupId = 0
 
     - 사용자가 없는 경우 사용자가 페이지에 로그인 되어 있는지 확인 합니다. 
     - 외부 사용자 인 경우 초대가 수락 되었는지 확인 합니다.

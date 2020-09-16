@@ -5,17 +5,18 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 54ac2dbc1f45f88541c2338f3b55a777b4b57123
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766859"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750457"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Intune을 사용 하 여 Bitlocker 암호화 사용
 
@@ -24,7 +25,7 @@ Intune Endpoint Protection 정책을 사용 하 여 Windows10 (이상) 설정에
 Windows 10을 실행 하는 많은 최신 장치는 MDM 정책 응용 프로그램 없이 트리거되는 자동 bitlocker 암호화를 지원 한다는 점을 알고 있어야 합니다. 이렇게 하지 않으면 기본 설정이 아닌 설정을 구성 하는 경우 정책 응용 프로그램에 영향을 줄 수 있습니다. 자세한 내용은 FAQ를 참조 하세요.
 
 
-FAQ  Q: 어떤 버전의 Windows에서 Endpoint Protection 정책을 사용 하 여 장치 암호화를 지원 하나요?
+FAQ   Q: 어떤 버전의 Windows에서 Endpoint Protection 정책을 사용 하 여 장치 암호화를 지원 하나요?
  A: Intune Endpoint Protection 정책의 설정은 Bitlocker CSP를 사용 하 여 구현 됩니다.모든 에디션 및 Windows 빌드가 Bitlocker CSP를 지 원하는 것은 아닙니다. 
       현재 Windows Edition: Enterprise; 교육, 모바일, 모바일 엔터프라이즈 및 전문가 (빌드 1809에서)가 지원 됩니다.
 

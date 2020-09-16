@@ -6,6 +6,7 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -15,12 +16,12 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: 964c051bdaeda01620d1ddc6bd7ec3c8b64ae444
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8e54307e4a91fcfae1729c968b05df9d4da6ee9f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721005"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749124"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>모바일 장치에서 공유 사서함 사용
 

@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: 0ea563c152f3241e3ce81bad038bd49775ad1d13
-ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
+ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "47289989"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750709"
 ---
 # <a name="using-teams-shifts"></a>팀 이동 사용
 
