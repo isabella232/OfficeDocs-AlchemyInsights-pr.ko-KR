@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fdb4f048c2bee022a49c2cca2ce9770f42a87a2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702780"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745595"
 ---
 # <a name="file-open-read-only"></a>파일을 읽기 전용으로 열기
 
@@ -37,7 +38,7 @@ ms.locfileid: "43702780"
   
  **OneDrive가 꽉 차서 있나요?**
   
-파일이 OneDrive에 저장 되 고 OneDrive 저장소 공간이 가득 찬 경우 할당 된 공간에 도달할 때까지 문서를 저장할 수 없습니다. 알림 센터에서 OneDrive 아이콘을 클릭 하 고 저장소 관리를 선택 하 여 OneDrive의 사용 가능한 공간을 확인 하 고 화면 왼쪽 아래 [https://onedrive.live.com](https://onedrive.live.com)에 있는 사용 된 공간을 확인할 수 있습니다.
+파일이 OneDrive에 저장 되 고 OneDrive 저장소 공간이 가득 찬 경우 할당 된 공간에 도달할 때까지 문서를 저장할 수 없습니다. 알림 센터에서 OneDrive 아이콘을 클릭 하 고 저장소 관리를 선택 하 여 OneDrive의 사용 가능한 공간을 확인 하 고 [https://onedrive.live.com](https://onedrive.live.com) 화면 왼쪽 아래에 있는 사용 된 공간을 확인할 수 있습니다.
   
  **Office 정품 인증 여부**
   

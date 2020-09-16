@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5070"
 - "9002278"
-ms.openlocfilehash: aacc6846b50473f31214c541dd16cd29d65df63b
-ms.sourcegitcommit: 1dada930649a2625eb6d15910b2bfd5e1e00e5b6
+ms.openlocfilehash: 6bacfd0e383c1a7c02b50e60f9626a733ee68cbc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46543770"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745793"
 ---
 # <a name="decommission-azure-rights-management-service-rms"></a>Azure RMS(권한 관리 서비스) 해제
 

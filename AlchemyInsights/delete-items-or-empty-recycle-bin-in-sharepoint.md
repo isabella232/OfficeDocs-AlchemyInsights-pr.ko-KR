@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3175"
-ms.openlocfilehash: 3f0202e2ccab6dda22b451c6633ed59ea61df3ed
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: 0e6ed0ed5697772318db48c59c7fca02d87e11c6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46786031"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745903"
 ---
 # <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>SharePoint 사이트의 휴지통 항목 삭제 또는 비우기 
 

@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1577"
 - "9000088"
-ms.openlocfilehash: 67e0f9e5e662d596991abfdd595e7120085f9571
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 1afaba71eb3b5b102476b4e3bd3172311427a86b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431547"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745172"
 ---
 # <a name="fix-authentication-failed-errors-in-microsoft-flow"></a>Microsoft Flow의 “인증 실패” 오류 수정
 

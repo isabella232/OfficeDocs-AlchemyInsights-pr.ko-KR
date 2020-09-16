@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/15/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6040"
 - "9003112"
-ms.openlocfilehash: e34e522f777d6228d8732ac88b5cfd2f5d1c3bdf
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: c5f2b7f6ac4686bc9ef81c38525994d032a57f78
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45146824"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745208"
 ---
 # <a name="files-and-videos-in-yammer"></a>Yammer에서 파일 및 비디오
 
