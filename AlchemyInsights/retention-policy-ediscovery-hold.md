@@ -6,18 +6,19 @@ manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: 4d2b36fb78390f32d68f1cdd11ca1af8013424a2
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: dee208560e7576597e20aec897f42432d7973727
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576890"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727897"
 ---
 # <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>SharePoint Online 또는 비즈니스용 OneDrive에서 항목을 삭제할 수 없음
 

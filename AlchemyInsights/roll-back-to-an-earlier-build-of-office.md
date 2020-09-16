@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1741"
 - "9000140"
-ms.openlocfilehash: 8c7d019ec1aa6c26cffebbcd2c3e5751c853e3a4
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 9f6a812def2b46bf32d836781d0336aea5ba3ed1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431751"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727825"
 ---
 # <a name="roll-back-to-an-earlier-build-of-office"></a>Office의 이전 빌드로 롤백
 

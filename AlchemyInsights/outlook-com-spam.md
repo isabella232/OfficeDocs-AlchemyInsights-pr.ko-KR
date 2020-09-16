@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 0fab02fa06ff203933e6b5b8c306c2a8ecb15a56
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 882c2610502bdb67607a85a98c7aaa32aa77072b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710737"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728833"
 ---
 # <a name="spam-and-junk-email-in-outlookcom"></a>Outlook.com의 스팸 및 정크 메일
 
@@ -24,12 +25,12 @@ ms.locfileid: "43710737"
 
 1. **전자 메일을 정크 메일로 표시**
     1. 메시지를 선택 합니다.
-    1.  > 정크 **메일을 선택 하****여 정크** 메일로 메시지를 이동 합니다.
+    1. 정크 메일 **을 선택**  >  **Junk** 하 여 정크 메일로 메시지를 이동 합니다.
     1. [스팸 및 정크 메일을 받은 편지함에서 보호 하는 방법에 대해 자세히 알아보세요.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
 1. **받은 편지함에서 보낸 사람 차단**
     1. 메시지를 선택 합니다.
-    1. **정크 메일** > **차단** > **확인을**선택 합니다.
+    1. **정크 메일**  >  **차단**  >  **확인을**선택 합니다.
     1. [자세한 내용은 보낸 사람 차단 또는 차단 해제를 참고 하세요.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
 1. **수신 거부 목록에 보낸 사람 추가**
@@ -41,5 +42,5 @@ ms.locfileid: "43710737"
 
 1. **받은 편지함 규칙 만들기**
     1. 메시지 목록에서 메시지를 마우스 오른쪽 단추로 클릭 하 고 **규칙 만들기**를 선택 합니다.
-    1. 해당 보낸 사람에 게 보낼 모든 메시지를 이동할 폴더를 선택 하 고 **확인** > **확인**을 선택 합니다.
+    1. 해당 보낸 사람에 게 보낼 모든 메시지를 이동할 폴더를 선택 하 고 **확인**  >  **확인**을 선택 합니다.
     1. [Outlook.com의 받은 편지함 규칙에 대해 자세히 알아보세요.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
