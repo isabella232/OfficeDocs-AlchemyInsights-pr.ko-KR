@@ -5,18 +5,19 @@ author: daeite
 manager: joallard
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1271"
 - "1963"
 - "8000078"
-ms.openlocfilehash: e53353949a37518b21b85a4786e443577cb88bda
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 16e349fa06350264f34802aefa9176d742d7a188
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36822348"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723829"
 ---
 # <a name="empty-inbox"></a>빈 받은 편지함
 

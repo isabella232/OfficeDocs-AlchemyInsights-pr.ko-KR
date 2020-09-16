@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 40063c6e-2c45-420d-ae63-9eb274b64f5e
@@ -14,12 +15,12 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: 70ef5eba6ab4f203cb8df4cdc40b87ad462dc11a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2ebfabc02b937557439a4fa13da3e5cfcadf2e5d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712860"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723793"
 ---
 # <a name="print-email-and-calendars-in-outlookcom"></a>Outlook.com에서 전자 메일 및 일정 인쇄
 

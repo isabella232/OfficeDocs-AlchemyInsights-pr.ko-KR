@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1825"
 - "9000240"
-ms.openlocfilehash: 0fece3194ab9a14b8fb21123b0b92c2a9aabba62
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 2d9c7ee84cf793bb8181c8b66f8fc7faadba725a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743783"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723361"
 ---
 # <a name="replying-in-outlookcom"></a>Outlook.com에서 회신
 
@@ -29,7 +30,7 @@ ms.locfileid: "43743783"
 모든 메시지에 자동으로 회신 하려면 다음을 수행 합니다.
 
 1. 이제  <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
-**설정** > **모든 Outlook 설정** > **메일** > **자동 회신** 을 보고 [자동 회신 설정을](https://outlook.live.com/mail/options/mail/automaticReplies)엽니다.
+**설정**  >  **모든 Outlook 설정 보기**  >  **메일**  >  자동 회신 [설정을](https://outlook.live.com/mail/options/mail/automaticReplies)여는 **자동 회신** 입니다.
 2. **자동 회신 켜기** 토글을 선택합니다.
 3. **시간 간격 중에만 회신 보내기** 확인란을 선택 하면 다음을 수행할 수 있습니다.
     - 선택한 경우에만 회신을 보냅니다. 기간을 설정 하지 않으면 자동 회신을 끌 때까지 유지 됩니다.

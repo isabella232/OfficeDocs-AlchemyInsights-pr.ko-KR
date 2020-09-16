@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -20,12 +21,12 @@ ms.custom:
 - "803"
 - "8000003"
 ms.assetid: 8e24b096-fcbf-4d7e-a412-f6db2afad623
-ms.openlocfilehash: c8e3d07410a2ceb3f66e60b2b3df4aad05977544
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5a8bfc34bc5642be97c7c07dd933f7f98707855f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743891"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723469"
 ---
 # <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>누락 되었거나 삭제 된 전자 메일, 일정 이벤트 또는 연락처를 찾아서 복구 Outlook.com
 
