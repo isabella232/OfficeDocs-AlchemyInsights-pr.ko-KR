@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: a8b548da6390391fd36de9cf848cf3a4801c9d92
-ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
+ms.openlocfilehash: 2cfa8f02ed7238d059ec7796786bc1b80d013251
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "47290025"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735996"
 ---
 # <a name="teams-outlook-add-in"></a>팀 Outlook 추가 기능
 

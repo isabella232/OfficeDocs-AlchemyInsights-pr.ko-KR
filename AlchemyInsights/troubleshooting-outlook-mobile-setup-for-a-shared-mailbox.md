@@ -6,17 +6,18 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800014
 ms.assetid: 598e6a5b-daca-45b8-a1e4-99ce018aa64c
-ms.openlocfilehash: e627c2f29b7681a263ab3ea98aa5bbda8580c856
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 856560dbe7e66460fd2c6690aed1f32174d5dd7c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759554"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735961"
 ---
 # <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>공유 사서함에 대 한 Outlook 모바일 설정 문제 해결
 

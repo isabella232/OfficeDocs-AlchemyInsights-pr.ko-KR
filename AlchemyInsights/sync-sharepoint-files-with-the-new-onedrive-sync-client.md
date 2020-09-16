@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: bfb3910115067823bec7e9f000511b785eb7ba41
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 2250b3a62de885789d5b2e38555359194f44e320
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767003"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737167"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>새 OneDrive 동기화 클라이언트를 사용하여 SharePoint 파일 동기화
 

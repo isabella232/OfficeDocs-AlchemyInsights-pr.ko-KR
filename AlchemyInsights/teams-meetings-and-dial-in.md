@@ -5,16 +5,17 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: f3b76333c03d4caec7e3552b813fd475515ea2cf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 20dbb1b07877711dff8e33063e124b17d340ee57
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509186"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736105"
 ---
 # <a name="microsoft-teams-meetings-and-dial-in"></a>Teams 모임 및 전화 접속
 

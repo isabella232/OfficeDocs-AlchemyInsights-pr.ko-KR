@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003301"
 - "6205"
-ms.openlocfilehash: feccc165dd4cdaea4b4bec7b19b6e3909c5ab5c1
-ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
+ms.openlocfilehash: ee870e4b47da5bf1fbe4bc9248fc3e36273c2c87
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46844710"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735925"
 ---
 # <a name="teams-presence-indicator-shows-incorrect-or-unwanted-status"></a>Teams 존재 여부 표시기가 올바르지 않거나 원하지 않는 상태를 표시합니다.
 
