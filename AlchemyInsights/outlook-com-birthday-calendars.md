@@ -6,18 +6,19 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1811"
 - "9000229"
-ms.openlocfilehash: 3a4906f38f381110d5c53b33b5a18d980638f2d9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0c343aa404e0a83b90dbf5687bad06f05320dbd6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760850"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753805"
 ---
 # <a name="add-a-birthday-calendar-in-outlookcom"></a>Outlook.com에서 생일 일정 추가
 

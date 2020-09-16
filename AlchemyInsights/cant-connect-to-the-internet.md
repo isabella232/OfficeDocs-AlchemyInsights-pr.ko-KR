@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: c28ab39b88b4f088fb4c6e76450f79b16e1976ad
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 50e901a0bb6e6b4abefbb3aa8946c40fb11dfc99
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265058"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794268"
 ---
 # <a name="fix-network-connection"></a>네트워크 연결 수정
 
@@ -38,7 +39,7 @@ Wi-fi 연결을 사용 하는 경우에는 Wi-fi가 장치에 대해 설정 되�
 
 3. 모뎀 및 라우터의 전원 케이블을 연결 합니다.
 
-4. 모뎀 및 라우터의 전원을 완전히 켤 때까지 기다리는 동안 PC를 다시 시작 하 고**전원** > **다시**시작을 **시작** > 합니다.
+4. 모뎀 및 라우터의 전원을 완전히 켤 때까지 기다리는 동안 PC를 다시 시작 하 고 **Start**  >  **전원**  >  **다시**시작을 시작 합니다.
 
 **고급 문제 해결**
 

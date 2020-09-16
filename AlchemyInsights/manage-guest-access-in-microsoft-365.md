@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001728"
 - "3826"
-ms.openlocfilehash: aedfe81f3d7573dbc0a9c308bea53c649f08b4d9
-ms.sourcegitcommit: 5aa4a4f40cf064f0cdb944ef35054719e87eeda3
+ms.openlocfilehash: d30cead9ff4cead5efeb6bd0eda77c4bc7e20e89
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42699711"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778013"
 ---
 # <a name="manage-guest-access-in-microsoft-365"></a>Microsoft 365에서 게스트 액세스 관리하기
 

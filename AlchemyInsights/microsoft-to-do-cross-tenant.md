@@ -4,17 +4,18 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: 483fd9ed286ac2b18b2d2cf2ed0fb2748cb566c6
-ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
+ms.openlocfilehash: 903a7def1f97a9571881b227e13e33ba76bd5455
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/08/2020
-ms.locfileid: "47406597"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777847"
 ---
 # <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft를 통해 교차 테 넌 트 공유
 

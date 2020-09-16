@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6141"
 - "9003263"
-ms.openlocfilehash: 55e7a06d87eacf61f446a395798c0cbf3b3fec00
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: 09e08aaae09811a5f60da3015c923ddd3dccf6a1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46545708"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777941"
 ---
 # <a name="manage-live-captions"></a>라이브 캡션 관리
 

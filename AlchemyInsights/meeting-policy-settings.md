@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 509bd0c686830c04ed27f97372411677c0a7f4a4
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 683ca12c8f6e2511311c10ab5c4599ee66c08eb8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42042850"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794340"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Microsoft 팀에서 모임 정책 관리
 

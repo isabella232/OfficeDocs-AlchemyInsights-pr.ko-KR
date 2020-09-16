@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001705"
 - "3783"
-ms.openlocfilehash: 2c0edd4e117f8881bdc62fbbf6e67b3c2c6ff409
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 5ee138e42d0ab5a8e2a878fec33478adf362c720
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912337"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777977"
 ---
 # <a name="manage-guest-user-access-to-planner"></a>Planner에 대 한 게스트 사용자 액세스 관리
 

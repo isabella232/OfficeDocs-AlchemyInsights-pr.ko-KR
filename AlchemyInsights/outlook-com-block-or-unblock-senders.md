@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -15,12 +16,12 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b6a80faa0542f3f68ac431e4ccd7b59894e8eeb9
-ms.sourcegitcommit: 86881d80c859e68bdf9d301a2df6ca9d75e086a0
+ms.openlocfilehash: ba52dacf8e357b1910c4e3be8714128b96e9ad0e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43793961"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753697"
 ---
 # <a name="block-or-unblock-senders"></a>보낸 사람 차단 또는 차단 해제
 
@@ -28,7 +29,7 @@ ms.locfileid: "43793961"
 
 **받은 편지함에서:**
 
-- 메시지 목록에서 메시지를 선택 하 고 **정크** > **블록**을 선택 합니다.
+- 메시지 목록에서 메시지를 선택 하 고 **정크**  >  **블록**을 선택 합니다.
 
 **다음 설정:**
 
