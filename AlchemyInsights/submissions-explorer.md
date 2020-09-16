@@ -6,16 +6,17 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2554
 ms.assetid: ''
-ms.openlocfilehash: e5beb273d598ba81fe54e150f54d870c80f5eb22
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 991b51f6b304f8c9a0ad53ea8f32d70237a0919f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43718163"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726528"
 ---
 # <a name="new-feature-to-help-diagnose-eop-and-atp"></a>EOP 및 ATP를 진단 하는 데 도움이 되는 새로운 기능
 

@@ -4,15 +4,16 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: 627f49991aaef984f731412045351d7a1862b376
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 37ae727aa6dd6af94d0d833ce972aec413d90194
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048730"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727537"
 ---
 # <a name="save-site-or-list-as-a-template"></a>사이트 또는 목록을 서식 파일로 저장
 

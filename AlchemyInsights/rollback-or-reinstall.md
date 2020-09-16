@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2584"
 - "9000691"
-ms.openlocfilehash: a8b30eeb61b20283efbcc5968dbf36aef45f36e8
-ms.sourcegitcommit: 2572c4e5a981d5f3f556835061c568cfd08b78da
+ms.openlocfilehash: 43c3c97d95b271c51283fcd492597de0eccd8799
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "41969584"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727717"
 ---
 # <a name="reinstall-or-roll-back-office"></a>Office 다시 설치 또는 롤백
 

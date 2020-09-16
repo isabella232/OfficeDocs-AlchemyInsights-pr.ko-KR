@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: 2cc76aee6e904c055fdf2a18a61a9263ecd0ddc0
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 96f5a34707d469e3651d3868058a156182ff4021
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627328"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726925"
 ---
 # <a name="skype-for-business-common-issues-and-resolutions"></a>비즈니스용 Skype 일반적인 문제 및 해결 방법 
 

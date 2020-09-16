@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002882"
 - "5496"
-ms.openlocfilehash: c9f3453318a17ba578d9e8c4b158b5226167db73
-ms.sourcegitcommit: 8b50994a2979778ce8474ce83bd86b60e7d2cb2f
+ms.openlocfilehash: 2ba4dd1ef2725cf78de51ddcd8b510d90e504096
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022505"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726601"
 ---
 # <a name="start-an-audio-conference-without-a-pin"></a>PIN 없이 오디오 회의 시작
 
