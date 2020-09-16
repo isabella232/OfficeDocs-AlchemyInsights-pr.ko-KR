@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: c23a2a2bde240900119382a9c1185a6e02520149
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908715"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731245"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Intune을 사용 하 여 Bitlocker 암호화 사용
 

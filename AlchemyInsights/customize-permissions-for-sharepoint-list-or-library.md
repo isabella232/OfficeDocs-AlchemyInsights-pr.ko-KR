@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3166"
-ms.openlocfilehash: 93bade7d549cb179eda7b26dcbea9cd14dbe450a
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: 087223e62e5009df9c0bd11240fb98e1095798c5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46786175"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731929"
 ---
 # <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a>SharePoint 목록 또는 라이브러리에 대 한 사용 권한을 사용자 지정 하는 방법
 

@@ -1,22 +1,23 @@
 ---
 title: SharePoint 사이트 삭제
-ms.author: stevhord
+ms.author: pebaum
 author: bentoncity
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: a409a3e5916895573db73593c297ce425ab65a88
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 06406794f24821836cebb1bb5ade56f9ca7e49a2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580303"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731209"
 ---
 # <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Microsoft 365 그룹에 속하는 사이트 삭제
 

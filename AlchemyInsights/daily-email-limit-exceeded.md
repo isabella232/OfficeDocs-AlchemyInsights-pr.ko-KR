@@ -5,18 +5,19 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 701c4aef6bfc0c4a2c4570f6dd16dbe4f99efc44
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: dfb42b24f1c2b4b05cb067a82505a6a8b63f277e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580339"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731569"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>일별 전자 메일 제한이 초과 되었습니다. 워크플로가 일시 중단 되었습니다.
 

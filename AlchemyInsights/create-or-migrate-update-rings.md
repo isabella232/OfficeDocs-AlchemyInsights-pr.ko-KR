@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1126"
 - "6700007"
-ms.openlocfilehash: 87102d7809d298531b5655559364c9df22e8eb91
-ms.sourcegitcommit: 3fa780811984400c525d66edf46a3196f6290df0
+ms.openlocfilehash: 06f905551cbd015c80b6de4f97d0beb535d70fa0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45390332"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732361"
 ---
 # <a name="create-or-migrate-update-rings"></a>업데이트 링을 만들거나 마이그레이션
 

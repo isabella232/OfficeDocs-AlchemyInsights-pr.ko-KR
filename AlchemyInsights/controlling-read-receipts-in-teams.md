@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002246"
 - "4369"
-ms.openlocfilehash: d03a9aa5eae0c6e8e7f279442e0dd53b3e9d2700
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: c028e7937d0ce5030d877eb219924fa47070f986
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563406"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733117"
 ---
 # <a name="controlling-read-receipts-in-teams"></a>Teams에서 읽음 확인 제어하기
 

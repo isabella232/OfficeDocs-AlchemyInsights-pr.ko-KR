@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: c0413d1a262d2b7c0245f0fae16b4b60d0a35e19
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 85aa158d917521fac871fd5c6687737fd22d736c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584519"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733441"
 ---
 # <a name="change-your-wi-fi-router-password"></a>Wi-fi 라우터 암호 변경
 
 Wi-fi 라우터의 암호를 변경 하려면 다음 단계를 수행 합니다.
 
-1. **시작** > **설정****** > **** 네트워크 & 인터넷 네트워크 및 공유 센터를 선택 합니다. > 
+1. **시작**  >  **설정**  >  **네트워크 & 인터넷**  >  **네트워크 및 공유 센터를**선택 합니다.
 
 2. **활성 네트워크 보기**에서 연결 된 네트워크를 찾습니다. **연결**옆에 있는 파란색 링크를 선택 합니다.<br>
 

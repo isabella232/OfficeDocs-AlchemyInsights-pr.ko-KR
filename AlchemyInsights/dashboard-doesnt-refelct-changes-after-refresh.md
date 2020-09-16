@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1318"
 - "2500002"
-ms.openlocfilehash: 14a22250a86496bd8377f2c42cef6b486251bea8
-ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
+ms.openlocfilehash: 11ce68469a095ae3f42d2231c3732e8c04051fc7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45205413"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731533"
 ---
 # <a name="dashboard-doesnt-reflect-changes-after-refresh"></a>새로 고친 후에 대시보드에 변경 내용이 반영되지 않음
 

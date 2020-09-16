@@ -5,16 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a8aba717c826a929eda4977ad279ce7f1ac4ce70
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: abd69cb99265b06e9b44181474cb080e0b2c99e4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505693"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731047"
 ---
 # <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>새 SharePoint 관리 센터에서 사이트 삭제
 

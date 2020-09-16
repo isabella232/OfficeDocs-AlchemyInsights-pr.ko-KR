@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "168"
 - "1200029"
-ms.openlocfilehash: d8b5745f89c7fa924ca326d51d9db04d7097709c
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: a36868c367eef0cabbeb9136a7b21e1cfa453a8d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45139061"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733261"
 ---
 # <a name="control-who-creates-microsoft-365-groups-and-microsoft-teams"></a>Microsoft 365 그룹 및 Microsoft 팀 작성자 제어
 

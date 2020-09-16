@@ -4,15 +4,16 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: b6073cd4043efcebd6e447dee9ba85f31e541ec8
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f4f4757e652b276d44b266eef73f5b5161615281
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505765"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731317"
 ---
 # <a name="data-loss-prevention-dlp-overview"></a>DLP (데이터 손실 방지) 개요
 
