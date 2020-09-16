@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5544"
-ms.openlocfilehash: 42a8d822d23d9292b844af3683dcf4e4aa936407
-ms.sourcegitcommit: 8b50994a2979778ce8474ce83bd86b60e7d2cb2f
+ms.openlocfilehash: 4b0f520cbb95eb53eb146c2b7cda2c8dfda5bb81
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022520"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743002"
 ---
 # <a name="microsoft-365-for-education---under-review"></a>교육용 Microsoft 365 - 검토 중
 

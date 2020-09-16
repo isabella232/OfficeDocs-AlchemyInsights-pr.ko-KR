@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002872"
 - "5425"
-ms.openlocfilehash: 5b518b2ab973c578194b4e4e66f642a9f3a06a14
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1d43b144cc9d9b8b26c7db8ebd09430e79a988ce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511874"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743434"
 ---
 # <a name="microsoft-365-a5-faq"></a>Microsoft 365 A5 FAQ
 

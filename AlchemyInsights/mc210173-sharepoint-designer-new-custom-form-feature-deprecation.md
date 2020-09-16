@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "5508"
 - "9000127"
 - "5507"
-ms.openlocfilehash: 185e8fc94345b240667490b1ffc63af8459d8daf
-ms.sourcegitcommit: a9e6b2fcce8bd12fd079ed967f426b67d5c6d239
+ms.openlocfilehash: a53b8885a877cb688cfb42bb4f9108cb2cef2418
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43928533"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743886"
 ---
 # <a name="mc210173---sharepoint-designer-new-custom-form-feature-deprecation"></a>MC210173 - SharePoint Designer의 새 사용자 지정 양식 기능 사용 중단
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002359"
 - "4718"
-ms.openlocfilehash: c867da55661bd520367b8f909ebe18656e8ffc93
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b7628cdbb7cd3bc60b97339cb59854fc73f0139e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "44282458"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744776"
 ---
 # <a name="fix-issues-with-opening-notebooks"></a>전자 필기장 열기 문제 해결
 

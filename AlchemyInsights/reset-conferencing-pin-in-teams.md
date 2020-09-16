@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002882"
 - "5494"
-ms.openlocfilehash: 5276cbb084fb02507bd768eda1a33a1430644dbd
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: ac3316bbfdbcce2f651e5803adc23c2c5d110164
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933377"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692121"
 ---
 # <a name="reset-conferencing-pin-in-teams"></a>Teams에서 회의 PIN 재설정
 

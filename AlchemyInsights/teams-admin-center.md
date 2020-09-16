@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021645"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670370"
 ---
 # <a name="teams-admin-center"></a>Teams 관리 센터
 
@@ -30,4 +31,6 @@ Teams 관리 센터에 액세스할 수 없는 경우, 다음 항목을 확인�
 Teams 관리 센터에 사용자가 나타나지 않는 경우, 다음 항목을 확인하세요.
 
 - 최근 24시간 동안 사용자를 만들었거나 라이선스를 할당했나요? 반드시 지원 티켓을 열기 전 최소한 24시간을 기다립니다.
-- 적절한 라이선스를 할당했는지 확인합니다. 
+- 적절한 라이선스를 할당했는지 확인합니다.
+- 온-프레미스 Active Directory를 가지고 있다면, [현지 Active Directory에 있는 ProxyAddresses 필드의 msRTCSIP-PrimaryUserAddress 또는 SIP 주소값이 고유하고, 형식이](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) [Microsoft 365 관리 센터](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)의 사용자 sip:**Username**과 일치하는지 확인하세요.
+- 비즈니스용 Skype 서버 배포를 유지하고 사용자가 온-프레미스와 온라인에 속하도록 하려면, 비즈니스용 Skype 서버 제어판에서 **"Teams와 비즈니스용 Skype 온라인을 하이브리드로 설정"** 을 참고하고 사용자를 온라인으로 이동하세요.

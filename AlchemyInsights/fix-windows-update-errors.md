@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: c5f50b22b4d665c6af0d0bbcb901d79657f2b306
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: febef6e2def6d7b928ec8b21d07aa2e8d94d7d4a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063695"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744668"
 ---
 # <a name="fix-windows-update-errors"></a>Windows 업데이트 오류 수정
 

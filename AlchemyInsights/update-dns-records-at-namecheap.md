@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5810"
-ms.openlocfilehash: 4c6c640741a04a02fda3df8e64e90b98ad84eac4
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: f32b9f820fce03cd8cd5d8f8eb509efbc3cdeb2f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44608211"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699561"
 ---
 # <a name="update-dns-records-at-namecheap"></a>NameCheap에서 DNS 레코드 업데이트
 

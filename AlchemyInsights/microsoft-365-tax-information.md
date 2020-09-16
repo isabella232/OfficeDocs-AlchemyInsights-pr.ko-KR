@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4896"
-ms.openlocfilehash: c99eb848d7c188fc620ccee1ed201e5990d7a261
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 1a0b4ed082fad56dba324e112bce48eb94371ab0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286724"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47742533"
 ---
 # <a name="microsoft-365-tax-information"></a>Microsoft 365 세금 정보
 

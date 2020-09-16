@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002322"
 - "4506"
-ms.openlocfilehash: 5e35683adb690236ec8f673d5c7b6b01a0a428eb
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 30531093cbb6fa9cfc3ea0daac45d1c9cb0e4e4f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530344"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47742497"
 ---
 # <a name="microsoft-365-throttle-policies"></a>Microsoft 365 제한 정책
 

@@ -1,5 +1,5 @@
 ---
-title: SharePoint 관리 센터
+title: 마이그레이션 관리자 FAQ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9001459"
-- "5639"
-ms.openlocfilehash: a531c72e14fa727fc93d77f79740ce4a239311ee
+- "5300030"
+- "5669"
+ms.openlocfilehash: e9e88acdfde517487f509956c99e496a983d3527
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700857"
+ms.locfileid: "47674296"
 ---
-# <a name="sharepoint-admin-center"></a>SharePoint 관리 센터
+# <a name="migration-manager-faq"></a>마이그레이션 관리자 FAQ
 
-- [새 SharePoint 관리 센터를 시작합니다](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
+- [마이그레이션 관리자 관련 자주 묻는 질문](https://docs.microsoft.com/sharepointmigration/mm-faqs)을 참조하세요.

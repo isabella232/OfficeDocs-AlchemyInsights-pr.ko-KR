@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002873"
 - "5472"
-ms.openlocfilehash: 25aa28ef98e35ec75f63c45bade34844730e74e5
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: e3e8561351063493b032b468b64360555f61f491
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944287"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743182"
 ---
 # <a name="microsoft-365-f3-subscription-and-license-management-faq"></a>Microsoft 365 F3 구독 라이선스 관리 FAQ
 

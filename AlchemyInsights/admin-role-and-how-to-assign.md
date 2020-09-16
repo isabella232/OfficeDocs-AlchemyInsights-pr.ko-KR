@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 6a5719e9e31be57eaa8fd76727796053827de084
-ms.sourcegitcommit: 68aef37cb0188f79fe3c530f2bb0a63e3e6faad8
+ms.openlocfilehash: 1054297dd1f5ead61b150c967299ae54cf1bc6da
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "46591469"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686684"
 ---
 # <a name="admin-roles"></a>관리자 역할
 

@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/13/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6177"
 - "9003283"
-ms.openlocfilehash: 4459ffcb17604abac992c98f6e57c2545a909dd3
-ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
+ms.openlocfilehash: b97ab936ff43ee9d4e67309c09cc8dc4c0dd91bb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2020
-ms.locfileid: "46665545"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743471"
 ---
 # <a name="microsoft-365-apps-error-the-application-was-unable-to-start-correctly-0xc0000142"></a>Microsoft 365 앱 오류:. 응용 프로그램을 올바르게 시작할 수 없습니다(0xc0000142).
 

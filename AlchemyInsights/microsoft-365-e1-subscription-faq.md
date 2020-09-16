@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002870"
 - "5407"
-ms.openlocfilehash: 90534a403eee1232bfe7eab92472ea60cb2b0371
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: badab5aca2276d0542562c87740b40c5b98e0c3e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511838"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743543"
 ---
 # <a name="microsoft-365-e1-subscription-and-license-management-faq"></a>Microsoft 365 E1 구독 및 라이선스 관리 FAQ
 

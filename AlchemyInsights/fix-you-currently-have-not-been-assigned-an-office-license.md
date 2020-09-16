@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: 98cc12012c270b85ff2c6437e3fdd3d589ee1bf5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: e0043af0a0d67a00a7f165d73cacbd924623f080
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580195"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744704"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>해결됨 - "현재 Office 라이선스가 할당되지 않음"
 

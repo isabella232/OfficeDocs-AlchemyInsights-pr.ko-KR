@@ -1,10 +1,10 @@
 ---
 title: '도메인을 확인 하는 방법 '
-ms.author: v-crytho
+ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 11f7503b-c802-437f-bc1d-ce13bb4d9bb2
@@ -13,12 +13,12 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: a099b3f056696bebae150fdd5b82e921f928f116
-ms.sourcegitcommit: 3ef4860c2e1918c1ff4009201189a5b77be3454f
+ms.openlocfilehash: f883b0218dfa318eda633f97dbbc9b992c9d4340
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46636699"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744155"
 ---
 # <a name="how-to-verify-your-domain"></a>도메인을 확인 하는 방법
 
