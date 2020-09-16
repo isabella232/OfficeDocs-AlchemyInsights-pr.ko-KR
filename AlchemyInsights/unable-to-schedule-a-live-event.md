@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6139"
 - "9000208"
-ms.openlocfilehash: e898e6dc0e779735b104cd5f304fc9e438b2f9b4
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: a0507ee12efb3a076b962de72afda4a612fa1cfd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46545729"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735277"
 ---
 # <a name="unable-to-schedule-a-live-event"></a>라이브 이벤트를 예약할 수 없습니다.
 

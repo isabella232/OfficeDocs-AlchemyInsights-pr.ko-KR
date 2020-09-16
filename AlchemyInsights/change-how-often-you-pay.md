@@ -6,6 +6,7 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,12 +15,12 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
-ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
+ms.openlocfilehash: bfad1d1eb6ceeb70ce6f0da6b5ee5e985548b937
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364593"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733637"
 ---
 # <a name="change-how-often-you-pay"></a>지불 빈도 변경
 

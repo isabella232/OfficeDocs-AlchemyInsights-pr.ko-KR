@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "3168"
-ms.openlocfilehash: b977d0dfc700c558f4a740b6b3426e3b8537d280
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 54669a31804bc71000944fd401f40fc1a68fb579
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789488"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735780"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint-online"></a>SharePoint Online의 외부 공유 설정 또는 해제
 

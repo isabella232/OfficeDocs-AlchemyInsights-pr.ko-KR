@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/13/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5996"
 - "9003201"
-ms.openlocfilehash: 7a8efc6ee5dddc17bbd697055ff7c5d79c89864c
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: 8568cb52121d14e1f9fd242365ba4be0694fea53
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138941"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733729"
 ---
 # <a name="change-a-domain-name-letter-case-or-spelling"></a>도메인 이름 대/소문자 또는 철자 변경
 

@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/15/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5999"
 - "9003112"
-ms.openlocfilehash: 5582cb0a36bd7f38ea79e4681d788073f9bc6fe3
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: 5d7e74c322d51d6beac1ba7f920b900719a64ca9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45146816"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735169"
 ---
 # <a name="unable-to-upload-or-open-video-on-yammer"></a>Yammar에서 비디오를 업로드 하거나 열수 없음
 
