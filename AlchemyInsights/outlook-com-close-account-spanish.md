@@ -6,15 +6,16 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000067
-ms.openlocfilehash: 926024900c10d75f04596d6f455e63924df630ca
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 45186d1a569bcf11a87c80c1cca714ed90cc4544
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722166"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47752509"
 ---
 # <a name="cerrar-la-cuenta-de-outlookcom"></a>Cerrar la Outlook.com
 

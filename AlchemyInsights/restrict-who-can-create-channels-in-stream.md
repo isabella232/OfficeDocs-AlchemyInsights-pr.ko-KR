@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002650"
 - "5102"
-ms.openlocfilehash: 6db1ca2293c904829d2485c08013d8b27b369be6
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 72c7bb969e3599f8ea87bcf11e11de5ddbb95412
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789787"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801262"
 ---
 # <a name="restrict-who-can-create-channels-in-microsoft-stream"></a>Microsoft Stream에서 채널을 만들 수 있는 사용자 제한
 
