@@ -6,20 +6,21 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "992"
 - "8000059"
 ms.assetid: 90219a36-2d1c-4917-af91-0fcf693f659b
-ms.openlocfilehash: fe581021d53afdf61bd5a5cdfae471ede596f4c6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 736a30d2d41abe99406352280d95672493dd814a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711241"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780785"
 ---
-# <a name="how-to-change-your-theme"></a><span data-ttu-id="95777-102">테마를 변경 하는 방법</span><span class="sxs-lookup"><span data-stu-id="95777-102">How to change your theme</span></span>
+# <a name="how-to-change-your-theme"></a><span data-ttu-id="5ec35-102">테마를 변경 하는 방법</span><span class="sxs-lookup"><span data-stu-id="5ec35-102">How to change your theme</span></span>
 
-<span data-ttu-id="95777-103">Outlook.com 또는 웹용 Outlook에서 테마를 변경 하려면 **설정** 으로 이동 하 여 **테마 아래에서 테마를**선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="95777-103">To change your theme in Outlook.com or Outlook on the web, go to **Settings** and choose a theme under **Theme**.</span></span> <span data-ttu-id="95777-104">사용 가능한 모든 테마를 보려면 **테마**아래에서 **모두 보기** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="95777-104">To see all available themes, select **View all** under **Theme**.</span></span>
+<span data-ttu-id="5ec35-103">Outlook.com 또는 웹용 Outlook에서 테마를 변경 하려면 **설정** 으로 이동 하 여 **테마 아래에서 테마를**선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="5ec35-103">To change your theme in Outlook.com or Outlook on the web, go to **Settings** and choose a theme under **Theme**.</span></span> <span data-ttu-id="5ec35-104">사용 가능한 모든 테마를 보려면 **테마**아래에서 **모두 보기** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="5ec35-104">To see all available themes, select **View all** under **Theme**.</span></span>
   
