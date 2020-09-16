@@ -5,22 +5,23 @@ author: janellem
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 904f1a086999d883feab05bc983cb8a6d8eb55eb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 99529e9e9b18ae0211cfae4fbc789d4e1563ac4b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512054"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769585"
 ---
-# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a><span data-ttu-id="d60e8-102">Office 2013은 Microsoft 365 구독에서 더 이상 지원 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="d60e8-102">Office 2013 is no longer supported in Microsoft 365 subscriptions</span></span>
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a><span data-ttu-id="7705e-102">Office 2013은 Microsoft 365 구독에서 더 이상 지원 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="7705e-102">Office 2013 is no longer supported in Microsoft 365 subscriptions</span></span>
 
-<span data-ttu-id="d60e8-103">2017 년 2 월 28 일부 터 Office 2013은 Microsoft 365 구독에서 더 이상 지원 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="d60e8-103">Since February 28, 2017, Office 2013 is no longer supported in Microsoft 365 subscriptions.</span></span>
+<span data-ttu-id="7705e-103">2017 년 2 월 28 일부 터 Office 2013은 Microsoft 365 구독에서 더 이상 지원 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="7705e-103">Since February 28, 2017, Office 2013 is no longer supported in Microsoft 365 subscriptions.</span></span>
   
-<span data-ttu-id="d60e8-104">Office 제품군의 보안을 보장 하 고 최신 기능을 모두 사용 하려면 Microsoft 365 구독의 일부로 최신 버전의 Office를 무료로 설치 하세요.</span><span class="sxs-lookup"><span data-stu-id="d60e8-104">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Microsoft 365 subscription.</span></span> <span data-ttu-id="d60e8-105">[사용자를 최신 Office 클라이언트로 업그레이드를](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="d60e8-105">See [Upgrade your users to the latest Office client](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
+<span data-ttu-id="7705e-104">Office 제품군의 보안을 보장 하 고 최신 기능을 모두 사용 하려면 Microsoft 365 구독의 일부로 최신 버전의 Office를 무료로 설치 하세요.</span><span class="sxs-lookup"><span data-stu-id="7705e-104">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Microsoft 365 subscription.</span></span> <span data-ttu-id="7705e-105">[사용자를 최신 Office 클라이언트로 업그레이드를](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="7705e-105">See [Upgrade your users to the latest Office client](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
   
