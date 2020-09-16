@@ -1,19 +1,20 @@
 ---
 title: 그룹이 그룹 목록에 표시 되지 않습니다.
-ms.author: v-crytho
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 75d411dd42d1abd8784695c0d1a9a16718fe6838
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 89682fd8e68c5b93b50a5105e568bbc214fc3988
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715818"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757486"
 ---
 # <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>그룹 "{AimKIObject}"이 (가) 그룹 목록에 표시 되지 않음
 

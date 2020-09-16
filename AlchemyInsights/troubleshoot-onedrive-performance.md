@@ -4,17 +4,18 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 197a84c5f69f9e58460925049345263743fe78ee
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4699f6113acd70b4778f9feeaeec012ff8fdd63f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43733204"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757891"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>OneDrive 성능 문제 해결
 

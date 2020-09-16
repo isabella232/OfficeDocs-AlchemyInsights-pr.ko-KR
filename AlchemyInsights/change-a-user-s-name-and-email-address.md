@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: c918567be57fa16317f3a0f516510ecea772bb67
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3ef63bd59683eed105b8391188b8c8bbd99ed984
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508130"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756937"
 ---
 # <a name="change-a-users-name-and-email-address"></a>사용자 이름 및 전자 메일 주소 변경
 

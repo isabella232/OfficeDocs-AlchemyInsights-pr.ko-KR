@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1124"
 - "6700007"
-ms.openlocfilehash: 7f08ae8cf5289dcc3833a85fbe2b6733393c4f83
-ms.sourcegitcommit: 3fa780811984400c525d66edf46a3196f6290df0
+ms.openlocfilehash: ee2fb1df35168d5febbac0ae302106eef9d1d18d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45390327"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757630"
 ---
 # <a name="update-ios-device-to-latest-os-version"></a>iOS 장치를 최신 OS 버전으로 업데이트
 

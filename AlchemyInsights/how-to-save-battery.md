@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/25/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6021"
 - "9003211"
-ms.openlocfilehash: ab1c2fe6317177d537843c24a3560372a2171e2a
-ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
+ms.openlocfilehash: c70f393ce70905ded6a4ad5c08089aacb2273b47
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46903597"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47759906"
 ---
 # <a name="how-to-save-battery"></a>배터리 절약 방법
 

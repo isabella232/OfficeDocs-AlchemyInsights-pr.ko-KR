@@ -6,17 +6,18 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506744"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47759225"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Microsoft 365의 공격 시뮬레이터
 

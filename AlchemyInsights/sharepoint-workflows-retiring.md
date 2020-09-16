@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: ce4c6319de89ef0fa5cae4cf37f4552db7508ddb
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: 4419482711541f238e01e81367a3c9cc69653069
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45146597"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758575"
 ---
 # <a name="sharepoint-workflows-retiring"></a>SharePoint 워크플로 사용 중단
 

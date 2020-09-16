@@ -5,6 +5,7 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: 74f8e9009dd314aab5ce45e9aeff3e3511e4e0c9
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 9026c42eceebfab4be741b988ba1f053a611fc5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44840904"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757270"
 ---
 # <a name="cannot-access-sharepoint"></a>SharePoint에 액세스할 수 없음
 

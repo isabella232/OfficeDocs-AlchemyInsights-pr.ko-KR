@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: 727fcdb4b206650ec42a16925a42cd208a91d8b8
-ms.sourcegitcommit: 23e5b94f1758bfe202008384e300b81816975375
+ms.openlocfilehash: b84e73ce4776d148b8c0ff46c48ec7663a4f21b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43506296"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757054"
 ---
 # <a name="basic-outlook-sync-troubleshooting"></a>기본 Outlook 동기화 문제 해결
 
@@ -31,4 +32,4 @@ ms.locfileid: "43506296"
 - 사용자가 인터넷에 연결할 수 있는지 확인 합니다. 
 - [온라인 상태 인지 확인](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)합니다.
 - [규칙이 적용 되는지 여부를 확인](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59)합니다.
-- **파일** > **More Settings****Advanced****Account Settings****Account Settings** **Download Shared Folders**  > 계정 설정 > 으로 이동에 따라 공유 폴더 다운로드가 사용 하도록 설정 되어 있는지 확인 합니다. > 
+- **파일**계정 설정으로 이동에 따라 **공유 폴더 다운로드** 가 사용 하도록 설정 되어 있는지 확인  >  **Account Settings**  >  **Account Settings**  >  **More Settings**  >  **Advanced**합니다.

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 58fdd509fae5e87bf5ae72db5d8926c4367cdd64
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: 5fdb713f321e5c9f67a6078739c31a90571b913d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991242"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757746"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>PST 가져오기 문제 해결
 
