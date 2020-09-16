@@ -4,17 +4,18 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: a094862a175184c3ac2a717cc59aefe2470b9fd1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: acce676ebb9f4000794669ffb268e7b4fe057f77
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510794"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771286"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>계정이 손상된 경우 권장 조치
 

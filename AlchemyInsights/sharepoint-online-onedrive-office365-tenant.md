@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 8798987db5e39e5f49aceac458ae985e2c3d6b21
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43787376"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770998"
 ---
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online 또는 OneDrive "설정"
 
@@ -23,4 +24,4 @@ ms.locfileid: "43787376"
 
 이 문제가 처음 발생 한 것으로 24 시간 이상 경과 하면 지원 사례를 기록 하세요.
 
-24 시간이 오래 된 것 처럼 보일 수 있다는 사실을 이해 하 고 있습니다. 대부분의 경우에는 이미 솔루션을 사용 하 고 있습니다. 솔루션을 완료 하려면 최소한 24 시간 이상 기다려 주세요.
+24시간이 긴 것처럼 느껴질 수 있습니다. 대부분의 경우 당사는 이미 해결 방법에 대한 작업을 하고 있습니다. 솔루션을 완료 하려면 최소한 24 시간 이상 기다려 주세요.

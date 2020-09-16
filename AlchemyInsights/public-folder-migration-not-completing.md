@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/25/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "639"
 - "3500007"
-ms.openlocfilehash: 7a87d8dafae2b0f3ff3f4e1ecdb6e02d73e9caf2
-ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
+ms.openlocfilehash: 33302110249b02aef87639792ebfd9cafd6638c0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/08/2020
-ms.locfileid: "47406590"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771489"
 ---
 # <a name="public-folder-migration-batch-not-completing-shows-synced"></a>공용 폴더 마이그레이션 일괄 처리 완료되지 않음, 동기화됨 표시
 

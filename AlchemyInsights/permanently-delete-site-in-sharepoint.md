@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: ''
 ms.assetid:
 - "5200006"
 - "4391"
-ms.openlocfilehash: 263317339d965d173a5a038fa006e0ce6f8476cc
-ms.sourcegitcommit: da04e79b6072321caa16a6ceea6eb5f15de22394
+ms.openlocfilehash: bde31f9b197118467ed96d665a9c8edf6b789965
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42955165"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771727"
 ---
 # <a name="permanently-delete-a-site-in-sharepoint"></a>SharePoint에서 사이트를 영구적으로 삭제
 

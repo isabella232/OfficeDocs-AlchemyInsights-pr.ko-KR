@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002447"
 - "5526"
-ms.openlocfilehash: 03c013546ed2a67df01ee791d10353a81e1ec609
-ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
+ms.openlocfilehash: 1afafaf5b46db169af0fae099448afd9bc1a077f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44017089"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771511"
 ---
 # <a name="purchase-domestic-calling-plans"></a>국내 통화 플랜 구입
 

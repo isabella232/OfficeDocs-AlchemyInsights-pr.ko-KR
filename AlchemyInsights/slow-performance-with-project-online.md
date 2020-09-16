@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2588"
 - "9000668"
-ms.openlocfilehash: 86fac80dfdff48b8aa09e6bb8557f1787e9387e6
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 2333dcfb13083157e7752901755b6715fee52a47
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431764"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770490"
 ---
 # <a name="slow-performance-with-project-online"></a>Project Online에서 성능 저하
 

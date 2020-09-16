@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 5dab9fce935936898927afd55f8f6e9260249157
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 9bec2f71465e43e1c3cba038e0e68949672ceb8a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582817"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771213"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>SharePoint에서 그룹 연결 된 사이트를 만들 때의 문제
 

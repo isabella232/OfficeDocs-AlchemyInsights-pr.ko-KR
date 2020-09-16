@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 300c07e7f0010eae2bd4fe893ece9d09aab93ba5
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: d90b60de72cf87a56e3b7f6a792708693f31af00
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46786895"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770845"
 ---
 # <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
 

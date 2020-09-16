@@ -6,17 +6,18 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: cf891a4db05b8a2bdb223cc86693f5072faca494
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c035d56ffade45cc4360a1d0dfca4c63bf110a38
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681110"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771178"
 ---
 # <a name="permissions-and-public-folders"></a>사용 권한 및 공용 폴더
 

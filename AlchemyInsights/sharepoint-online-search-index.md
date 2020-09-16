@@ -4,15 +4,16 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 85f29fabe3189fe248696155208b56d4901ab6de
-ms.sourcegitcommit: b5370f0fc8da1e7e5ac960cb622a21612a9c86be
+ms.openlocfilehash: f790efbe6ed445786933efa3fc980f974693d1d9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/29/2020
-ms.locfileid: "42341123"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770773"
 ---
 # <a name="content-crawling-and-indexing-in-sharepoint-online"></a>SharePoint Online의 콘텐츠 크롤링 및 인덱싱
 
@@ -26,7 +27,7 @@ ms.locfileid: "42341123"
 
 - 크롤링을 수동으로 요청한 후 24 시간 이상 기다렸다가 전체 다시 인덱스를 만들어 문제가 발생 했는지 확인 합니다.
 
-- 크롤링을 시작한 후에 24 시간 이상이 통과 한 경우에는 지원 사례를 기록 하세요. 대부분의 경우에는 이미 솔루션을 사용 하 고 있습니다. 솔루션을 완료 하려면 최소한 24 시간 이상 기다려 주세요.
+- 크롤링을 시작한 후에 24 시간 이상이 통과 한 경우에는 지원 사례를 기록 하세요. 대부분의 경우 당사는 이미 해결 방법에 대한 작업을 하고 있습니다. 솔루션을 완료 하려면 최소한 24 시간 이상 기다려 주세요.
 
 **중요**: 사이트, 문서 (라이브러리) 또는 목록이 삭제 되었지만 여전히 검색 결과에 표시 되는 경우 사용자에 게 액세스 하려고 할 때 **오류 404 파일을 찾을 수 없습니다** . 라는 오류가 표시 됩니다. 이 문제는 추가 조사를 위한 지원 사례로 기록해 야 합니다.
 

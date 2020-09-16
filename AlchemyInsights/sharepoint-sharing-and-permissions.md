@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "5803"
-ms.openlocfilehash: 101fbb19031524d632efcfbef46635e3af1aaf98
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: bd1f69fe13d7d1a0c997df8e489466ee8cc4ca7d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563802"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770629"
 ---
 # <a name="sharepoint-online-sharing-and-permissions"></a>SharePoint Online 공유 및 사용 권한
 
