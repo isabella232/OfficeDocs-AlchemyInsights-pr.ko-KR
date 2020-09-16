@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001475"
 - "3506"
-ms.openlocfilehash: 94dda7a42632f57ce3aef5f467b87df1033b8d49
-ms.sourcegitcommit: 9a35768444824cde9e192f1d9daafc9157437244
+ms.openlocfilehash: 7e7a397a1f6777972a81bcbb6bffa1c98d8370a4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42268638"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730165"
 ---
 # <a name="fix-bluetooth-problems-in-windows-10"></a>Windows 10에서 Bluetooth 문제 해결
 
@@ -32,11 +33,11 @@ Bluetooth 아이콘이 표시 되지 않으면 bluetooth가 장치 관리자에 
 
 1. 장치 관리자에서 **bluetooth**를 클릭 하 고 bluetooth 어댑터 이름 ("라디오" 라는 단어를 포함할 수 있음)을 클릭 합니다.
 
-2. Bluetooth 어댑터를 길게 누르거나 마우스 오른쪽 단추로 클릭 한 다음 **업데이트** > 드라이버**소프트웨어를 자동으로 검색**을 클릭 합니다. 단계를 수행 하 고 **닫기를**클릭 합니다.
+2. Bluetooth 어댑터를 길게 누르거나 마우스 오른쪽 단추로 클릭 한 다음 **업데이트**드라이버  >  **소프트웨어를 자동으로 검색**을 클릭 합니다. 단계를 수행 하 고 **닫기를**클릭 합니다.
 
       - Windows에서 새 Bluetooth 드라이버를 찾을 수 없는 경우 PC 제조업체의 웹 사이트를 방문 하 여 최신 블루투스 드라이버를 다운로드 합니다.
 
-    - 다운로드**** 한 후에는 드라이버 소프트웨어 > 에서**내 컴퓨터**에서 드라이버 파일을 검색 > **확인** >  **을 클릭** > 하 고**다음**단계를 수행 하 여 설치 합니다.
+    - 다운로드 한 후에 **는 드라이버**  >  **소프트웨어에서 내 컴퓨터**에서 드라이버 파일을 검색 > 확인을 클릭 하  >  **Browse** **OK**  >  고**다음**단계를 수행 하 여 설치 합니다.
 
 3. 업데이트 된 드라이버를 설치한 후 컴퓨터를 다시 시작 하 고 연결 문제가 해결 되었는지 확인 합니다.
 

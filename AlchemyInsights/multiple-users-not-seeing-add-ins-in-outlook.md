@@ -6,16 +6,17 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 18d3fa535a88af18d8c4b02a5371d0a81c8d28c0
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: a0c272f40044795754ed8630e88e00ed14ea6ad7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154582"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729877"
 ---
 # <a name="multiple-users-not-seeing-add-ins-in-outlook"></a>여러 사용자가 Outlook 추가 기능을 확인할 수 없는 경우
 

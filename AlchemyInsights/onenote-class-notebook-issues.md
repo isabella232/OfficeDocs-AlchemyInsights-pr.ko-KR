@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000676"
 - "2577"
-ms.openlocfilehash: 62464ce279b54101338cee1f14589ea96dd7354e
-ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
+ms.openlocfilehash: c4f487e8c823d7b1684ff74487d2d6af03948bac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42556666"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729337"
 ---
 # <a name="onenote-class-notebook-issues-and-resolutions"></a>OneNote 수업용 전자 필기장 문제 및 해결 방법
 

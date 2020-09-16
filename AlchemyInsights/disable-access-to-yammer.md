@@ -5,18 +5,19 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "722"
 - "6000004"
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: 297b4665fcce0821dd2dea7f4412724943ca6862
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 088b3abf4b46b4a3f0424bae1d5549c6ab50963b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715238"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730561"
 ---
 # <a name="disable-access-to-yammer"></a>Yammer에 대 한 액세스 사용 안 함
 

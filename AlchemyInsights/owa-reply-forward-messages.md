@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000033"
-ms.openlocfilehash: b76c4fe86fddf10af35e8fba94670432f8ee1b2f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: cadb6894f044192d850252230729e264bab1e5db
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768327"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728581"
 ---
 # <a name="how-to-reply-to-or-forward-messages-in-outlook-on-the-web"></a>웹용 Outlook에서 메시지를 회신 하거나 전달 하는 방법
 

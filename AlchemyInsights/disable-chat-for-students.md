@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/04/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6143"
 - "9003097"
-ms.openlocfilehash: f726015780a1de6f03c99e5e167fee44049c1e12
-ms.sourcegitcommit: 9540483984da2bba19888cb34f590ddad6890bb1
+ms.openlocfilehash: 983fc15c3a43ebbf0643e5268baa783be64cca5a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46560935"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730525"
 ---
 # <a name="disable-chat-for-students"></a>학생용 채팅 해제
 

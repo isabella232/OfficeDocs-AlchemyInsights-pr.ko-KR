@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001477"
 - "3508"
-ms.openlocfilehash: 07dc04b7b79017da6b2a195077722108a945b967
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: afe98f78654ba84a33f1bc3de0cf97bd22ccdb05
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584836"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730093"
 ---
 # <a name="fix-the-display-language-of-apps"></a>앱의 표시 언어 수정
 

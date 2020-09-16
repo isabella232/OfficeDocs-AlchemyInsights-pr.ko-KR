@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 4c898bf8c16e7e51c3f64f350b16a458d187b163
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: 69ae1222f87d385662b139649a8a416438b2a91b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46786067"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730453"
 ---
 # <a name="disable-onedrive-for-business"></a>비즈니스용 OneDrive 사용 안 함
 
