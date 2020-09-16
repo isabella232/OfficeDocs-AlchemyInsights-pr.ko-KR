@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2593"
 - "9000698"
-ms.openlocfilehash: c349f896d68c408ce6e5adba4bd69d012e0f2daa
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 9e0e95ce9890609a878f9346ad1e1ffc7ce5ca98
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655396"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47746369"
 ---
 # <a name="pstn-calling-with-skype-for-business-online"></a>비즈니스용 Skype 온라인을 사용한 PSTN 통화
 

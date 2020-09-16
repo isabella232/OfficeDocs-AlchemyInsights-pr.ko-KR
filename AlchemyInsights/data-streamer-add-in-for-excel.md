@@ -5,18 +5,19 @@ author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1862"
 - "9000263"
-ms.openlocfilehash: b5eb1a2054e1b0653eaad7ecaf3858d1d2591ab9
-ms.sourcegitcommit: 32e3ea6af00e012a4a2ff0701584d6866b92fbc3
+ms.openlocfilehash: 1870f46d80f6cb7fa54f8a3ed4ceb942d74723ea
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45121934"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47746189"
 ---
 # <a name="data-streamer-add-in-for-excel"></a>Excel용 데이터 스트리머 추가 기능
 

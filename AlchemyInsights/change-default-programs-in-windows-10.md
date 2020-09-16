@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/25/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6020"
 - "9003210"
-ms.openlocfilehash: a0c061cb3b212381c424e304cfa015a99f4791ad
-ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
+ms.openlocfilehash: a315796f4e03f6bb5e94e6115493310d2b1a1ea2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46903593"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748273"
 ---
 # <a name="change-default-programs-in-windows-10"></a>Windows 10에서 기본 프로그램을 변경합니다.
 

@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003306"
 - "6201"
-ms.openlocfilehash: ec80d4ae96b2df1248beb7ce6221ea40c0c03eb9
-ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
+ms.openlocfilehash: bf5c14a818a0f6891f3a52e712bd65d5b9004502
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46844705"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748619"
 ---
 # <a name="cant-record-teams-meeting"></a>Teams 모임을 기록할 수 없습니다.
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002578"
 - "4996"
-ms.openlocfilehash: c759e8e02b086adc2d4d7e24caba3e1684b13fcb
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 9169100cf286949fd31236f62dad3c91d6202181
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530195"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748367"
 ---
 # <a name="change-the-default-link-type-for-a-site"></a>사이트의 기본 연결 종류 변경
 

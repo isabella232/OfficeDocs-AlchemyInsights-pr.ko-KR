@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003306"
 - "6201"
-ms.openlocfilehash: ca27171b8e318dd4c92441f731565af683b74365
-ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
+ms.openlocfilehash: 748008f11b3b480a4003ae4c1e6562fa6f0ce358
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46844704"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748547"
 ---
 # <a name="cant-create-a-team-in-teams"></a>Teams 에서 팀을 만들 수 없습니다.
 

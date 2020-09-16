@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 185024e40391b8a03d3cde5540eb1c18a950163c
-ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
+ms.openlocfilehash: d75f3a1d83845609ff4a41788ce9dbf92fbfc3d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "47290061"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47746909"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>팀에서 모임 예약
 
