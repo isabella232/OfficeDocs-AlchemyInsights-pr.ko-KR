@@ -6,17 +6,18 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 869cd3d9fb8e5fce291244e4a39754d074b11358
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7e6f8d1a161d3eee398230750cc98a46579a56b1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511730"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769189"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>정크 메일로 보내는 아웃 바운드 전자 메일 폴더
 

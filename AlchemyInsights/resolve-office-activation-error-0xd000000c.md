@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "4487"
 - "3496"
 - "2000021"
-ms.openlocfilehash: 75795c357442799e41c39df2f963e126c944e9f0
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 0fb1fd9ddf9e36c5eb5b3d1f8a8f0e7170a76edc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582565"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767749"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Office 정품 인증 오류 0xD000000C 해결
 

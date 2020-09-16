@@ -6,17 +6,18 @@ manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 23ad07a6dd943d61d1bd45453089a771cfd51b58
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 81fd8e33feb2f2b10b04cc7cdc746a8603aa366b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510434"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767605"
 ---
 # <a name="unable-to-enable-unified-auditing"></a>통합 감사를 사용 하도록 설정할 수 없음
 
