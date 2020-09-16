@@ -5,15 +5,16 @@ author: tomresing
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
-ms.openlocfilehash: d9a8897f29fb0c787853fd4ae4ff409751de59af
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 623c86238a36fe2505c8587c599785ea8a87b47e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705451"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47747449"
 ---
 # <a name="create-apps-with-powerapps"></a>PowerApps를 사용하여 앱 만들기
 

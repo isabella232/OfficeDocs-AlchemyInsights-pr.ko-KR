@@ -6,15 +6,16 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d6bced3e72b7853a9d826e76ac5acc24ba64ef23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: fdabd57c32d6393eaca5058a1bcff69552e9c5bd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743171"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751968"
 ---
 # <a name="how-to-attach-files-in-outlook-on-the-web"></a>웹용 Outlook에서 파일을 연결 하는 방법
 
