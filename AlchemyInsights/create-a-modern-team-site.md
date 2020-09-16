@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: eb3d4c632029993611bc0720dba64e7f86807223
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 47a27269ca4a3e92723b79fbe306c28a4a43838e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580375"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732685"
 ---
 # <a name="create-a-microsoft-365-group-connected-team-site"></a>Microsoft 365 그룹에 연결 된 팀 사이트 만들기
 

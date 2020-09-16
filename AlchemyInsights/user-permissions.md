@@ -5,15 +5,16 @@ author: MikePlumleyMSFT
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 077d1d69f0c317d958163dcf07239cbdf35edcdb
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 779db68e3018476f64da78678766b81cc0656cad
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579439"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796726"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>SharePoint 및 OneDrive의 사용자 사용 권한
 

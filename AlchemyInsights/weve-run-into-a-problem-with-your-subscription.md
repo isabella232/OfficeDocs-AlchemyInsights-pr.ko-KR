@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3419"
 - "9001427"
-ms.openlocfilehash: 2cc46168adf9cde46debcf8c0a24ee954ed75d52
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 0fd0883c87b27af501682b84934089b7a8979362
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581845"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725701"
 ---
 # <a name="fixing-the-microsoft-365-apps-weve-run-into-a-problem-with-your-subscription-message"></a>Microsoft 365 앱 "구독에서 문제가 발생 했습니다." 메시지 수정
 

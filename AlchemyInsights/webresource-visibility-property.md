@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1952"
 - "9000326"
-ms.openlocfilehash: e7be59fd4bff91eb78fe15e5822c128698d16b9b
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 0d5a619c1a9fdaabc9ec11b20d36431aeb235423
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431727"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725953"
 ---
 # <a name="webresource-visibility-property"></a>Webresource 표시 여부 속성
 

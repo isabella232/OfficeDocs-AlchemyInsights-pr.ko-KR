@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5685"
-ms.openlocfilehash: d82931ae6978a09e674b00640d1dd413bcce7cfd
-ms.sourcegitcommit: b196100759b29aecd62b693a2bfedbbd25a697c6
+ms.openlocfilehash: de16ca6021441bf6cb781106b7f3da8eed86b0f1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44320460"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725845"
 ---
 # <a name="welcome-message-in-microsoft-365-groups"></a>Microsoft 365 그룹의 환영 메시지
 

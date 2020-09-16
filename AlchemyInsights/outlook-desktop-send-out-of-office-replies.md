@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: df23102cd5d9d5b7e60e4f05187c029ba62de22c
-ms.sourcegitcommit: 23e5b94f1758bfe202008384e300b81816975375
+ms.openlocfilehash: 69cd963dc3171bd98444b0d865bc345e4b356f60
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43506538"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722209"
 ---
 # <a name="outlook-desktop-send-out-of-office-replies"></a>Outlook 데스크톱: 부재 중 회신 보내기
 
