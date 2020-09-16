@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002877"
 - "5566"
-ms.openlocfilehash: ca0fbdd17254ec1a909e613648d9ff9c9d53da16
-ms.sourcegitcommit: 8b50994a2979778ce8474ce83bd86b60e7d2cb2f
+ms.openlocfilehash: 08228ed86b72414a16a3b6cd5873c1043e916fd4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022485"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47742137"
 ---
 # <a name="new-yammer-public-preview"></a>새 Yammer 공개 미리 보기
 

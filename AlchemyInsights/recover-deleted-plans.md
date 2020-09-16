@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001718"
 - "3811"
-ms.openlocfilehash: af61ac8c1e798fbeb0b328a8fb5b6a45f955c864
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 81eae9c5bb9dcea51db7bfcb1cf6eb160613af12
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563386"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741345"
 ---
 # <a name="recover-deleted-plans"></a>삭제된 계획 복구
 

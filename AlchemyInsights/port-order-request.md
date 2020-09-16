@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4554"
-ms.openlocfilehash: 02e031703f53ea2807f0164634b1ea6ae8585e66
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+ms.openlocfilehash: 546bfac95b9bf45ad7a11c4ec83255d0fe6a6b46
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43161039"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741813"
 ---
 # <a name="port-order-request"></a>주문 요청 전송
 

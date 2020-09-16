@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 4f0cba480fcc05114abd8f370b84e9a37e5f2804
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6ae608b776332402fe333315f5e4ff6072b0a651
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510758"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741273"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>복구 가능한 항목 폴더가 꽉 참
 
@@ -33,7 +34,7 @@ Exchange Online 사서함의 경우 복구 가능한 항목 폴더에 대 한 �
 
 - 사서함 감사 로깅이 사용 하도록 설정 된 사서함의 경우 복구 가능한 항목 폴더의 감사 하위 폴더에는 사서함 감사 로그 항목을 저장할 수 없습니다.
 
-보류 중인 사서함의 경우 관리자는 `Search-Mailbox -SearchDumpsterOnly -DeleteContent` Exchange Online PowerShell의 명령을 사용 하 여 복구 가능한 항목 폴더의 항목을 삭제할 수 있습니다. 자세한 내용은 다음 항목을 참조하세요.
+보류 중인 사서함의 경우 관리자는 `Search-Mailbox -SearchDumpsterOnly -DeleteContent` Exchange Online PowerShell의 명령을 사용 하 여 복구 가능한 항목 폴더의 항목을 삭제할 수 있습니다. 자세한 내용은 아래 항목을 참조하세요.
 
 - [메시지 검색 및 삭제](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 

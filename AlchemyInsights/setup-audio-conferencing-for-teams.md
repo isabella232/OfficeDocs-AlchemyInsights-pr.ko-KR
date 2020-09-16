@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: e544e1d71a4aa61c1a16f2d3647050129ceb164e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4cabc559d0f201fc2ad5004e459a871d0caaf545
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764375"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739615"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Teams용 오디오 회의 설정
 

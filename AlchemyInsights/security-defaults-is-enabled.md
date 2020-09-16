@@ -5,18 +5,19 @@ author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6006"
 - "1300007"
-ms.openlocfilehash: b0e4604f7a52df8699caa3bf20add9551c091fce
-ms.sourcegitcommit: 32e3ea6af00e012a4a2ff0701584d6866b92fbc3
+ms.openlocfilehash: 78893d1ac260f9c9a2670969b4c50c8b911102c5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45121926"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740372"
 ---
 # <a name="security-defaults-is-enabled"></a>보안 기본값을 사용할 수 있습니다.
 
