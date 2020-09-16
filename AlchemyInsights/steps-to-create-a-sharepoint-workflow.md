@@ -5,6 +5,7 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: 137ddfe7cecb95b01657d8a0db364c0f1483c6a1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0d3ffde45f32224632b1b9e29b7e798aadd1a6b7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764051"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737923"
 ---
 # <a name="steps-to-create-a-sharepoint-workflow"></a>SharePoint 워크플로를 만드는 단계
 

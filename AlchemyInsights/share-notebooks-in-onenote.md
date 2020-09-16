@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000556"
 - "2406"
-ms.openlocfilehash: 557e9f7736ac075a8f2619e6c11f115c9fca58e6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 524141e55f72e96d69bca407a941ab694326aaaa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767435"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739111"
 ---
 # <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>OneNote에서 전자 필기장 공유 웹 또는 OneNote 2016
 

@@ -6,7 +6,7 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,12 +14,12 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: cff7315b2a8967d99941c56ce0c62d025172895a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 9a5615a02f58ae747aebe88099629ad0bacb8add
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764195"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738247"
 ---
 # <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>"Office (64 비트 또는 32 비트)에 대 한 솔루션을 설치할 수 없음
 

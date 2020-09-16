@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 4fe0384a97e2f40c8d0dd12bafd84d19edaeb386
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d202ca6e932099f9e68d4e2c5da754b9b56db896
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051791"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738967"
 ---
 # <a name="allow-custom-script-to-enable-features"></a>사용자 지정 스크립트에서 기능을 사용 하도록 설정
 

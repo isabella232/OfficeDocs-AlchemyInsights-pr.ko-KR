@@ -6,19 +6,19 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f8cf946c-89c7-4770-8f1f-d111e654e6cb
 ms.custom:
 - "906"
 - "2000023"
-ms.openlocfilehash: e4884f920545164f4574e57c86f02a0c20eee68e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: dbbe86406cb1b5d2166e9f5a61df6f0803f5172b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724874"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738103"
 ---
 # <a name="solutions-for-unsupported-operating-system"></a>"지원 되지 않는 운영 체제"에 대 한 솔루션
 

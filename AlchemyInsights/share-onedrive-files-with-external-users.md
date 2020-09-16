@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: e9550e1b70b00307101f9fa5feb0899c4c77541f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 91004b3f74fb147905d5083cf7c426bc7f3f58ab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742337"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739039"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>OneDrive의 파일을 조직 외부의 사용자와 공유
 
@@ -24,7 +25,7 @@ ms.locfileid: "43742337"
     
 2. 공유할 파일 또는 폴더를 선택한 다음 **공유**를 선택 합니다. 
     
-3. 링크 유형이 "조직의 \<\>사용자입니다."로 설정 된 경우 아래쪽 화살표를 클릭 하 고 다음 중 하나를 선택 합니다. 
+3. 링크 유형이 "사용자"로 설정 되어 있으면 \<your organization\> 아래쪽 화살표를 클릭 하 고 다음 중 하나를 선택 합니다. 
     
   - **모든 사용자** 가이 링크를 받는 사람에 게 직접 보내거나 다른 사람 으로부터 전달 했는지 여부에 대 한 액세스를 제공 합니다. 여기에는 조직 외부의 사용자가 포함 될 수 있습니다. 
     
