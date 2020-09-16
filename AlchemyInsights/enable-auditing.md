@@ -5,6 +5,7 @@ author: markjjo
 manager: lauraw
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d6f1f96220a44247d217f6e82e76fb38875578e8
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a28e1f5bb8b5e1bff2f26c0d9e9c9c42e8324583
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506996"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806585"
 ---
 # <a name="enable-and-search-the-audit-log"></a>감사 로그 사용 및 검색
 
@@ -29,7 +30,7 @@ Microsoft 365 감사 로그를 검색 하려면 [다음 단계](https://docs.mic
 
 - Exchange 관리 활동은 기본적으로 감사 됩니다.
 
-- 사서함 감사는 Microsoft 365에서 기본적으로 사용 됩니다. 자세한 내용은 [이 문서](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)를 참조 하세요.
+- 사서함 감사는 Microsoft 365에서 기본적으로 사용 됩니다. 자세한 내용은  [이 문서](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)를 참조 하세요.
 
 - Exchange Online의 Microsoft 365 그룹 사서함 및 공용 폴더 사서함은 감사 로깅을 지원 하지 않습니다.
 
@@ -44,6 +45,6 @@ Microsoft 365 감사 로그를 검색 하려면 [다음 단계](https://docs.mic
     - 사이트 관리 활동
     - 파일 동기화 작업
 
-- 다른 서비스의 감사 된 작업에 대 한 자세한 내용은 [이 문서의 표](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities)를 참조 하십시오.
+- 다른 서비스의 감사 된 작업에 대 한 자세한 내용은  [이 문서의 표](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities)를 참조 하십시오.
 
 - 여기서는 감사 로그 검색에 대 한 질문과 대답을 자주 [묻는 질문을](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) 나열 합니다.

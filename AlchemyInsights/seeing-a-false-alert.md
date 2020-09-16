@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3202"
 - "9001221"
-ms.openlocfilehash: 4de4de23b4371ea66d9039716a83cd52f11d6982
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
+ms.openlocfilehash: e2e3133f6a78f4d6943edb8ce6784ef04f807a56
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45157316"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740085"
 ---
 # <a name="seeing-a-false-alert"></a>거짓 경고 보기
 
