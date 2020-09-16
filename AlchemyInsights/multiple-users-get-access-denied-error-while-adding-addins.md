@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5892"
 - "6700008"
-ms.openlocfilehash: 624d880c535b7d8888b676ff23c774c6d138a75a
-ms.sourcegitcommit: 07e56267dedfc4cec1143072c791670cbf81186b
+ms.openlocfilehash: 611a4df473458abc0ab0c65442f2141763f7b868
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45397720"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724369"
 ---
 # <a name="multiple-users-get-access-denied-error-while-adding-add-ins-in-outlook"></a>Outlook에서 추가 기능을 추가하는 동안 여러 사용자가 액세스 거부 오류가 발생합니다.
 

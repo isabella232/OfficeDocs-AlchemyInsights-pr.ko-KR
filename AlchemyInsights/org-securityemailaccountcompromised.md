@@ -5,17 +5,18 @@ author: chrisda
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: 423
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: e045b6845263cfd7f00b409a2bdbc46eb1237a17
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 94d8eec4f10e3df5ccdd891b7ae12c97bbb4d594
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510542"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724405"
 ---
 # <a name="compromised-email-accounts"></a>손상된 전자 메일 계정
 
