@@ -6,18 +6,19 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000013"
 - "1999"
-ms.openlocfilehash: 266af20d0c47f328685b190562521227e01635f6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f85f4112bd884dd55da186645b622999fc5d0eac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764806"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721838"
 ---
 # <a name="change-font-or-font-size-in-outlook-on-the-web"></a>웹용 Outlook에서 글꼴 또는 글꼴 크기 변경
 

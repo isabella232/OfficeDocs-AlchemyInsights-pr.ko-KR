@@ -6,15 +6,16 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
-ms.openlocfilehash: 5fea63cad08955d340a0382145c433bbc48b40ea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c91a83cc3b83c9e142dfe9bfc491f9622885ba41
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743315"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722029"
 ---
 # <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>오류에 대 한 해결 방법 "현재 사서함에서 메일을 받을 수 없습니다."
 Exchange 2007 서버에서 Outlook 365/2016을 사용 하려고 하면 다음과 같은 오류가 표시 됩니다.

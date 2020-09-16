@@ -6,16 +6,17 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 1f547c3f593b3256bd44f518aacbc36ed1c4c848
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: 8c99b443a2d83f3ac24362d63cd6363a66a81393
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154574"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719671"
 ---
 # <a name="single-user-not-seeing-add-ins-in-outlook"></a>단일 사용자가 Outlook에서 추가 기능을 확인할 수 없는 경우
 

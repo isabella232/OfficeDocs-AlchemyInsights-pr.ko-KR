@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002389"
 - "4657"
-ms.openlocfilehash: 9460b4bd6fd4943cf43b75bba7a6b7deeba6231d
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 539373c7e66042258d1810de50dfb742788cc05d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582097"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719743"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Microsoft 365 앱에 로그인하는 동안 문제 발생
 

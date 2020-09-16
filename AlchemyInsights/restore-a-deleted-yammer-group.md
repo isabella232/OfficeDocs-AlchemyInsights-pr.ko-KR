@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: 3aa0a883d0822f260cff5f68590ecac278b7af0b
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: db5988be7c1aba93075ab3631f8cd9d3a78d1485
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582205"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720724"
 ---
 # <a name="restore-a-deleted-yammer-group"></a>삭제 된 Yammer 그룹 복원
 

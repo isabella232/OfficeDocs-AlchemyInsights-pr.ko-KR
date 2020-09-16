@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 15237313dd8a14f7b4f6b16a8e55cc82b44de2a5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771185"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720319"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online의 일반적인 문제 및 해결 방법
 
@@ -29,7 +30,7 @@ ms.locfileid: "41771185"
 
 - **문서 파일 작업**: 파일 [업로드](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb), 파일 [다운로드](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05), 파일 [편집](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)및 현재 [파일 제한 사항](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) 에 대해 자세히 알아보기
 
-- **저장소**: 구독에 대 한 [사이트 저장소 관리](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) 및</a> [모든 제한을 이해](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)하는 등 사용자의 OneDrive 저장소를 관리 하는 방법을 알아봅니다.
+- **저장소**: </a> 구독에 대 한 [사이트 저장소 관리](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) 및 [모든 제한을 이해](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)하는 등 사용자의 OneDrive 저장소를 관리 하는 방법을 알아봅니다.
 
 - **테 넌 트 이름 바꾸기**: 자세한 내용은 [SharePoint 도메인 이름 변경을](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) 참조 하세요.
 

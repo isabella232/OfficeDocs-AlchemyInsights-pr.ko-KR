@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1300023"
 - "4533"
-ms.openlocfilehash: d6354c579553fc199e2646d6e3a00943a1b76d93
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: b0b95296ef6e5cbdd27d36969d09a57dcc554e51
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028018"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720976"
 ---
 # <a name="pre-requisites-for-installing-aadconnect"></a>AADConnect 설치를 위한 필수 요구 사항
 

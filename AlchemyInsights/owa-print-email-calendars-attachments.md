@@ -6,15 +6,16 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: cd555c205a6b84cf010aff8494c8ec3b18eb24b9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: efc248067bbe771395e01d7269f5f295b456f212
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707301"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721957"
 ---
 # <a name="print-email-calendars-and-attachments"></a>전자 메일, 일정 및 첨부 파일 인쇄
 

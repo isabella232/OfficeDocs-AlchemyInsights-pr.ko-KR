@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 1f325eb7afb1e88457296e8187f8ba6dff2ebfe0
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
+ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42588286"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719959"
 ---
 # <a name="sign-in-to-windows-10-without-using-a-password"></a>암호를 사용 하지 않고 Windows 10에 로그인
 
@@ -24,7 +25,7 @@ Windows 시작 시 암호를 입력 하지 않으려면 PIN, 얼굴 인식 또�
 
 **계정 암호 대신 Windows Hello 보안 대안을 적용할 수 있습니다.**
 
-**로그인 옵션 > 설정 > 계정** 으로 이동 하거나 [여기](ms-settings:signinoptions?activationSource=GetHelp)를 클릭 합니다. 사용 가능한 로그인 옵션이 나열 됩니다. 예를 들면 다음과 같습니다.
+**로그인 옵션 > 설정 > 계정** 으로 이동 하거나 [여기](ms-settings:signinoptions?activationSource=GetHelp)를 클릭 합니다. 사용 가능한 로그인 옵션이 나열 됩니다. 예시:
 
 ![로그인 옵션](media/sign-in-options.png)
 
