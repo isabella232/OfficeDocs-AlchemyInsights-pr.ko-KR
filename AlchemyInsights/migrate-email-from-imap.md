@@ -5,24 +5,25 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 565337818ead3f38a7bb800ffd5b4d6bbe3de81b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e59912d98125002cf97a6b4a5201c2c73421c98f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510830"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754849"
 ---
-# <a name="when-you-get-a-not-an-accepted-domain-error"></a><span data-ttu-id="f941e-102">"허용된 도메인 아님" 오류 메시지가 표시되는 경우</span><span class="sxs-lookup"><span data-stu-id="f941e-102">When you get a "Not an accepted domain" error</span></span>
+# <a name="when-you-get-a-not-an-accepted-domain-error"></a><span data-ttu-id="40aaf-102">"허용된 도메인 아님" 오류 메시지가 표시되는 경우</span><span class="sxs-lookup"><span data-stu-id="40aaf-102">When you get a "Not an accepted domain" error</span></span>
 
-<span data-ttu-id="f941e-103">사용자 또는 그룹에 전자 메일 주소를 추가하거나 Microsoft 365 사서함을 마이그레이션하는 동안에는 다음 오류가 표시될 수 있습니다. **이 도메인은 아직 Exchange System에 허용된 도메인이 아니기 때문에 사용할 수 없습니다.**</span><span class="sxs-lookup"><span data-stu-id="f941e-103">When trying to add an email address on the user or a group or during migration of Microsoft 365 mailboxes, you might be getting the following error: **You can't use the domain because it's not an accepted domain for Exchange System yet.**</span></span>
+<span data-ttu-id="40aaf-103">사용자 또는 그룹에 전자 메일 주소를 추가하거나 Microsoft 365 사서함을 마이그레이션하는 동안에는 다음 오류가 표시될 수 있습니다. **이 도메인은 아직 Exchange System에 허용된 도메인이 아니기 때문에 사용할 수 없습니다.**</span><span class="sxs-lookup"><span data-stu-id="40aaf-103">When trying to add an email address on the user or a group or during migration of Microsoft 365 mailboxes, you might be getting the following error: **You can't use the domain because it's not an accepted domain for Exchange System yet.**</span></span>
   
-<span data-ttu-id="f941e-104">대부분의 경우 이 오류는 조직에서 완전하게 설정되지 않은 도메인 이름 *(예: contoso.com)* 의 결과입니다.</span><span class="sxs-lookup"><span data-stu-id="f941e-104">In most cases, this error is a result of the domain name *(such as contoso.com)*  not being fully set up for your organization.</span></span>
+<span data-ttu-id="40aaf-104">대부분의 경우 이 오류는 조직에서 완전하게 설정되지 않은 도메인 이름 *(예: contoso.com)* 의 결과입니다.</span><span class="sxs-lookup"><span data-stu-id="40aaf-104">In most cases, this error is a result of the domain name *(such as contoso.com)*  not being fully set up for your organization.</span></span>
   
-<span data-ttu-id="f941e-105">[Microsoft 365에 도메인 추가](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)에 나와 있는 지침을 따라 도메인이 완전하게 설정되어 있는지 확인하세요.</span><span class="sxs-lookup"><span data-stu-id="f941e-105">Please verify that the domain is fully setup by following the instructions in [Add a domain to Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).</span></span>
+<span data-ttu-id="40aaf-105">[Microsoft 365에 도메인 추가](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)에 나와 있는 지침을 따라 도메인이 완전하게 설정되어 있는지 확인하세요.</span><span class="sxs-lookup"><span data-stu-id="40aaf-105">Please verify that the domain is fully setup by following the instructions in [Add a domain to Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).</span></span>
   
