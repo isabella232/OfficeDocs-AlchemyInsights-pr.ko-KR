@@ -5,15 +5,16 @@ author: Sirkkuw
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: dd0489fad201f97c22eb2c80934816186fd26a20
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f336ef2b84dcc7a44c6b603e2fbdb1aa08bd367d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706797"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47793836"
 ---
 # <a name="change-intune-mdm-authority"></a>Intune MDM 기관 변경
 

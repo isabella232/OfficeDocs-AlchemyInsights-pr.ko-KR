@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003052"
 - "5811"
-ms.openlocfilehash: adb59243b9d5abd6629848917fa99236b9d5e365
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: 24b59a0ceace36308a9c0390bf481105129d7e7a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44608212"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794664"
 ---
 # <a name="make-changes-to-the-microsoft-365-app-launcher"></a>Microsoft 365 앱 시작 관리자 변경
 

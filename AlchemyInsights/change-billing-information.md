@@ -5,18 +5,19 @@ author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002555"
 - "4942"
-ms.openlocfilehash: 2b37a0078f617f86b203d0b364f183d87b9db34d
-ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
+ms.openlocfilehash: 9ac4ac2fb77efbf93e11a8069a254e17c1670b98
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364665"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47793620"
 ---
 # <a name="change-billing-information"></a>대금 청구 정보 변경
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: 8a5059c722c306ad79811140062cec7f52f31766
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
+ms.openlocfilehash: 99f037f62748c06d77b526e35f67b711885c4a1e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42588321"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795250"
 ---
 # <a name="use-fingerprint-unlock-option-in-windows-10"></a>Windows 10에서 지문 잠금 해제 옵션 사용
 
@@ -24,7 +25,7 @@ ms.locfileid: "42588321"
 
 지문을 사용 하 여 Windows 10의 잠금을 해제 하려면 windows Hello 지문을 추가 하 고 (Windows에서 인식할 수 있도록 허용) 하나 이상의 손가락을 설치 해야 합니다. 
 
-1. **로그인 옵션 > 설정 > 계정** 으로 이동 하거나 [여기](ms-settings:signinoptions?activationSource=GetHelp)를 클릭 합니다. 사용 가능한 로그인 옵션이 나열 됩니다. 예를 들면 다음과 같습니다.
+1. **로그인 옵션 > 설정 > 계정** 으로 이동 하거나 [여기](ms-settings:signinoptions?activationSource=GetHelp)를 클릭 합니다. 사용 가능한 로그인 옵션이 나열 됩니다. 예시:
 
     ![로그인 옵션](media/sign-in-options.png)
 

@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/29/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1561"
 - "9000085"
-ms.openlocfilehash: e88946722ec1247626c3d765507670f7c4fa07b0
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: c6274560c475a5c4d6cb29e189b4f816d597456b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46523052"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794448"
 ---
 # <a name="intune-and-jamf"></a>Intune 및 Jamf
 

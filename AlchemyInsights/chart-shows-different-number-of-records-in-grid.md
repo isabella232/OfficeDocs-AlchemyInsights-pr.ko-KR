@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5611"
 - "9002930"
-ms.openlocfilehash: 3d0be28c783bb129d05484565c6c2a56ac5e0acf
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: e499a439e7cf7e9ecbb6566f9f089f3b7b82f48e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431631"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47793764"
 ---
 # <a name="chart-shows-different-number-of-records-in-grid"></a>차트에서 다양한 수의 레코드를 표로 표시
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002316"
 - "5665"
-ms.openlocfilehash: 369845b8d5cb6e192ab3a6fa976119bc3189ffb1
-ms.sourcegitcommit: 9818d3c8e6b10f23244e51286e2463caf48fffd5
+ms.openlocfilehash: 42923c5fbbc11e49932b8f7f9319d41187ef24e7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "46852858"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794989"
 ---
 # <a name="using-onenote-in-teams"></a>Teams에서 OneNote 사용하기
 

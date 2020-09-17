@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: 39b377b654f485ed8914d4d7fbb3c2faf97d079f
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 5b0db5a7be944b9cf5872aa93c0a55bb1fe6b3c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034267"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795133"
 ---
 # <a name="use-wireless-displays-or-docks"></a>무선 디스플레이 또는 도크 사용
 

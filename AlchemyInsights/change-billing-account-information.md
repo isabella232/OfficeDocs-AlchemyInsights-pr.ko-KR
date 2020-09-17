@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002605"
 - "5022"
-ms.openlocfilehash: 0fe1a6f2baf65ac477f5d0213d774ea05f91c107
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: e888eb597d4290314c41ef691598c25a2126ccd8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799429"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47793984"
 ---
 # <a name="change-billing-account-information"></a>청구 계정 정보 변경
 

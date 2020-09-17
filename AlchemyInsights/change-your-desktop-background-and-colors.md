@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: 67a2b591c8556af1d5292d6480ed1ca27e384a6a
-ms.sourcegitcommit: 85c41ce0e11956e1865f8baec231cffa79d87ef4
+ms.openlocfilehash: 6454493827ada786f057aec6235978522ab25be5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42581427"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47793692"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>바탕 화면 배경 및 색 변경
 
-색 설정을 변경 하려면 **시작** > **설정** > **개인 설정** > **색**으로 이동한 다음 원하는 색을 선택 하거나 Windows에서 테마 색을 배경에서 당길 수 있도록 합니다.
+색 설정을 변경 하려면 **시작**  >  **설정**  >  **개인 설정**  >  **색**으로 이동한 다음 원하는 색을 선택 하거나 Windows에서 테마 색을 배경에서 당길 수 있도록 합니다.
 
 ![Windows에서 색을 개인 설정 합니다.](media/windows-personalization-colors.png)
 
-바탕 화면 배경을 변경 하려면 **시작** > **설정** > **개인 설정** > **배경**으로 이동한 다음 그림, 단색 또는 사진 슬라이드 쇼 만들기로 이동 합니다. 
+바탕 화면 배경을 변경 하려면 **시작**  >  **설정**  >  **개인 설정**  >  **배경**으로 이동한 다음 그림, 단색 또는 사진 슬라이드 쇼 만들기로 이동 합니다. 
 
 ![Windows 바탕 화면 배경 변경](media/windows-desktop-background.png)
 

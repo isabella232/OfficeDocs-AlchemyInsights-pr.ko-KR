@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "911"
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 156b2ee14d5032a7c34cd546aeb2bd98861a6223
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7d9d065c3b95f5fe75eca5df844fbe7a9f3e6de9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509714"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795214"
 ---
 # <a name="turn-off-focused-inbox-in-email-clients"></a>전자 메일 클라이언트에서 중요 받은 편지함 해제
 

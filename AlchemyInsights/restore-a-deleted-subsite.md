@@ -1,22 +1,23 @@
 ---
 title: 삭제 된 하위 사이트 복원
-ms.author: stevhord
+ms.author: pebaum
 author: bentoncity
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: c7da70d293730dcb5df1f13c42252bab58f41711
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1f5db1349d2029715e9994f2872bf85cac14646b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758688"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795610"
 ---
 # <a name="restore-a-deleted-sharepoint-subsite"></a>삭제 된 SharePoint 하위 사이트 복원
 

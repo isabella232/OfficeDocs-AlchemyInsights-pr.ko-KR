@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002662"
 - "5162"
-ms.openlocfilehash: 099feb5c58a2b1068a2ec501ff966c6ac73d804d
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: 93c82b7e60838e0127062e8bf5ab394bb29650d8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991200"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47793872"
 ---
 # <a name="changing-the-defaultprimary-yammer-domain"></a>기본/주 Yammer 도메인 변경
 

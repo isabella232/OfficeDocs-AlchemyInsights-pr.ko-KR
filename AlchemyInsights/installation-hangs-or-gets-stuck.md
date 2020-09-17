@@ -5,19 +5,19 @@ author: janellem
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 272f4d7ccaeb09b241ba1647996d456f6f159576
-ms.sourcegitcommit: cbed17334557c1dfa471623f8d5e735f72e697da
+ms.openlocfilehash: 613b1f9ec8462d88804dd93f1ad73f649216c39a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300717"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794376"
 ---
 # <a name="office-installation-hangs-or-gets-stuck"></a>Office 설치가 중단 되거나 중지 됨
 

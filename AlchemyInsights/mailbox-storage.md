@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002330"
 - "4993"
-ms.openlocfilehash: 99c11f4ce22b090bb68085ec64e9c55defb15990
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: b649be24594b87560a88c0e7f677c5690852a277
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944328"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794736"
 ---
 # <a name="mailbox-storage"></a>사서함 저장소
 

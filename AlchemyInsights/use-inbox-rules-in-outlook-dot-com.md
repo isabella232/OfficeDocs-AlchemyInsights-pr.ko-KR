@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6433"
 - "9003531"
-ms.openlocfilehash: bde03c10a1911503d0daa45d903d04e0d830b35c
-ms.sourcegitcommit: 76d4f943612ac5bd8272622446901c972031570b
+ms.openlocfilehash: d41c4a77bf8874f462a0a20f0d86806f1d6fc85b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/10/2020
-ms.locfileid: "47425063"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795156"
 ---
 # <a name="use-inbox-rules-in-outlookcom"></a>Outlook.com에서 받은 편지함 규칙 사용
 

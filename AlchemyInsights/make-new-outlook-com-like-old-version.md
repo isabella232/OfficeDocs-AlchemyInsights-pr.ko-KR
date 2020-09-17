@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: dc254df10c21521e65c53e478288938e0bb1c3f3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: fcd3f66abed75fb938994821249cdb78fedf264a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721762"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794628"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>새 Outlook.com를 이전 버전과 같은 모양으로 만드는 방법
 

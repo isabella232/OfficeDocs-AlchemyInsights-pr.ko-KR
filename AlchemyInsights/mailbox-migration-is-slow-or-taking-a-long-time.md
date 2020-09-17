@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/17/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6051"
 - "3500008"
-ms.openlocfilehash: b065f8b2836507052e3b796602055317729fb970
-ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
+ms.openlocfilehash: a68f771a86d805a0286270f19b919ccb57214e4b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45169770"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794484"
 ---
 # <a name="mailbox-migration-is-slow-or-taking-a-long-time"></a>사서함 마이그레이션이 느리거나 시간이 오래 걸립니다.
 
