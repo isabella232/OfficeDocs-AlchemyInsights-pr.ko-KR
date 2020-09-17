@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002315"
 - "4511"
-ms.openlocfilehash: f61eb96da2c38fde859082608aede46825dae809
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
+ms.openlocfilehash: 0f3019048ac8497a7e32903520f00c6a961e38c0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030623"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797446"
 ---
 # <a name="teams-temporary-feature-adjustments"></a>Teams 임시 기능 조정
 

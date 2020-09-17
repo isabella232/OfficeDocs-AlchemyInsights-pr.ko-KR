@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003021"
 - "5757"
-ms.openlocfilehash: bcef12a3b1d4438df07a67b73ec8b59ac0f7d8c3
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 49c1eabfe175cf300f9754ed63cbec18ec744c4d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44664421"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797878"
 ---
 # <a name="resolving-billing-and-payment-errors"></a>대금 청구 및 결제 오류 해결
 

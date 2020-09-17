@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: ea013e81a7d7be47b5e062794b8fee88d299478d
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: 24d170132070008b9c78aca39a0208f028e639b9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46786787"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797158"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-site"></a>사이트에 대한 외부 공유 설정 또는 해제
 

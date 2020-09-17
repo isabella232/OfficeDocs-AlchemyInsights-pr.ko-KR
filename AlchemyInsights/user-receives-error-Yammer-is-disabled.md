@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6010"
 - "9003111"
-ms.openlocfilehash: c92b09ee9a9ca06f85906e7fce601582a7e83244
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
+ms.openlocfilehash: 3a3a1b531f3d775f7e5150ce86733a3012df8d0e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45157337"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796654"
 ---
 # <a name="user-receives-error-aadsts7000112-yammer-is-disabled"></a>사용자 수신 오류, AADSTS7000112 Yammer를 사용할 수 없습니다.
 

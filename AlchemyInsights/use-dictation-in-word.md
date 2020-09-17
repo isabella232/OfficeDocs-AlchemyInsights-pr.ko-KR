@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002888"
 - "5513"
-ms.openlocfilehash: 8bfffc23ce3efe81e0b2c5d4f000ed9dfc0ba1a5
-ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
+ms.openlocfilehash: f91a455322b7f885f4edd3308e6fbd5d46522324
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44017073"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798490"
 ---
 # <a name="use-dictation-in-word"></a>Word에서 받아쓰기 사용
 

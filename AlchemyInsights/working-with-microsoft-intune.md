@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/17/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "862"
 - "670000"
-ms.openlocfilehash: 1475e2caff83fd92c32be38a501334c3d682bd73
-ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
+ms.openlocfilehash: 8d900198114703fb31157fa9724f4f9711b7b8c4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45169767"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796366"
 ---
 # <a name="working-with-microsoft-intune"></a>Microsoft Intune 작업
 

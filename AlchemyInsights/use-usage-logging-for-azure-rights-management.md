@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5506"
 - "9002281"
-ms.openlocfilehash: 606fcdc5394edab26c60925af28cf2d938aac172
-ms.sourcegitcommit: 1dada930649a2625eb6d15910b2bfd5e1e00e5b6
+ms.openlocfilehash: f1483e177ec6fcdd39d0aae481d3b329b11577d4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46543775"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796798"
 ---
 # <a name="use-usage-logging-for-azure-rights-management"></a>Azure 권한 관리에 대한 사용 현황 로깅 사용
 

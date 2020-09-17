@@ -6,6 +6,7 @@ manager: v-cojank
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "3173"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: a31c2c9c20a49765de02924bdd396833ab4c2b7d
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7820c37d503baba8b8433b647576b194ce002905
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742567"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797770"
 ---
 # <a name="restore-deleted-files-or-folders-in-sharepoint"></a>SharePoint에서 삭제 된 파일 또는 폴더 복원
 

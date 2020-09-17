@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5144"
-ms.openlocfilehash: 4fd1d8559edd22ee2c6a44e7e39e659f58f2a0bc
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: f2d60107bccc5471c45d9e6175daee1526f1b9d0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "44282485"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797842"
 ---
 # <a name="resolve-issues-opening-powerpoint-files"></a>PowerPoint 파일을 열 때 발생하는 문제 해결하기
 

@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "9002256"
 - "4359"
 ms.assetid: ''
-ms.openlocfilehash: b1bccc3ccdcbccfdbc68bbfd4ed40560b45f1797
-ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
+ms.openlocfilehash: 6bf7cca2d17b4e31a0f10ef41a2b77dcf0cf7efa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43105317"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799030"
 ---
 # <a name="service-numbers-in-teams"></a>Teams의 서비스 번호
 

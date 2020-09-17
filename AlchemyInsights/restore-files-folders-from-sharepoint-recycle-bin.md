@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3195"
-ms.openlocfilehash: d4fd1758c7b0aa17eeb99a7497a491f5de6eee85
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: 08690ae1751e85ac85dbae371694763a70f68cca
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46787507"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797734"
 ---
 # <a name="restore-files-or-folders-from-the-sharepoint-recycle-bin"></a>SharePoint 휴지통에서 파일 또는 폴더 복원 
 

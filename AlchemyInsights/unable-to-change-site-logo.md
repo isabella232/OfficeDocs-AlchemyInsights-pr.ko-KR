@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002502"
 - "4868"
-ms.openlocfilehash: 4101d066f2a55f1480d97586f38ee9a4476e80b7
-ms.sourcegitcommit: bcd6df19adeb5e3a04e518a05621dd6c68da93f2
+ms.openlocfilehash: bb2d093ae4a684bf8efb5eaf4b6ef5a871883bfd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43955855"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798742"
 ---
 # <a name="unable-to-change-site-logo"></a>사이트 로고를 변경할 수 없습니다.
 

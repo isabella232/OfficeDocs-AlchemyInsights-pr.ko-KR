@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: 501f41d458a863dc542520ccfbb7322913d4fdfc
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: 63b94ccff3ed97a52ce8886f4fdce9d3fd1e4c83
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46785743"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797266"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>SharePoint 사이트에 대해 외부 공유 설정 또는 해제
 

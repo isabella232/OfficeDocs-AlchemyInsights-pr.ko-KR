@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5e2f1581-027a-4417-8d7a-6cae5c6d52b6
@@ -13,12 +14,12 @@ ms.custom:
 - "8000046"
 - "1002"
 - "1003"
-ms.openlocfilehash: c1ca25336ce89a9dee176be620af37273ee4f63a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: eb497d3555a2c044e42b5877b1d9b0f524819f55
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43744739"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798130"
 ---
 # <a name="print-an-attachment-in-outlookcom"></a>Outlook.com에서 첨부 파일 인쇄
 

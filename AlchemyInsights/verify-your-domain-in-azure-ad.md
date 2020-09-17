@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6113"
 - "9003233"
-ms.openlocfilehash: a8a8f4c2fd44ffbd2623d5b2407ccb5b85dc7273
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: d8934aa3cc077a17acd7a0c0fc93a69492de89e5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431703"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796546"
 ---
 # <a name="verify-your-domain-in-azure-ad"></a>Azure AD에서 도메인 확인
 

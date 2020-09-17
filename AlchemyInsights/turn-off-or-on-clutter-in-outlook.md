@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4853"
-ms.openlocfilehash: 6fefe9b02d7f68adbb0dd93a1fd9700837cb219a
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 6d83c399b42978cfc631a013d259f1a597f71eef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530307"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797050"
 ---
 # <a name="turn-off-or-on-clutter-in-outlook"></a>Outlook에서 낮은 우선 순위 메일 해제 또는 설정
 

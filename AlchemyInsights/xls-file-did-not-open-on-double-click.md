@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530753"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796330"
 ---
 # <a name="excel-file-doesnt-open"></a>Excel 파일이 열리지 않는 경우
 
@@ -44,6 +45,6 @@ ms.locfileid: "36530753"
 
 **Office에서 Office 파일 확장명을 열도록 설정 하려면이 문제 해결사를 실행 합니다.**
 
-1. 이 문제 해결사를 https://aka.ms/diag_officefile실행 합니다.
+1. 이 문제 해결사를 실행 https://aka.ms/diag_officefile 합니다.
 
 2. 브라우저에 따라 문제 해결사를 **열거나** 데스크톱에 **저장** 한 다음 **실행** 합니다.

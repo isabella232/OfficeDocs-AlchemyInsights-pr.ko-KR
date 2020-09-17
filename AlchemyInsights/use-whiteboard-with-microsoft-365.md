@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002354"
 - "4581"
-ms.openlocfilehash: 0b8ec1bb19643d590c6009afd626b5ae4a60d109
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 3c8e944efb4f74bb2894f611e3580b9e34f5db5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563709"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796690"
 ---
 # <a name="use-whiteboard-with-microsoft-365"></a>Microsoft 365와 함께 Whiteboard 사용하기
 

@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/17/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6184"
 - "9002643"
-ms.openlocfilehash: a21021062622a49c7c1b1d0767a38331dfcb1fcf
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: 5c03d4863916c18cc25983b260d15e73c90530c8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46787536"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798634"
 ---
 # <a name="upload-a-microsoft-teams-meeting-recording-to-stream-a1"></a>Microsoft Teams 모임 녹음/녹화를 스트림(A1)에 업로드
 

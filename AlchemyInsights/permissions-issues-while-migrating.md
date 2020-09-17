@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 077b7cf29ef6a40ef7f2aebef15e39a0f5df0fc3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 39b36a85319ccd71278571f3a3cbbc7cf0b9f0fa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758976"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798058"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>사용자 프로필 및 사진 동기화
 

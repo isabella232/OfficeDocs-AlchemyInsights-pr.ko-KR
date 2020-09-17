@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3477"
 - "9001463"
-ms.openlocfilehash: 3b515e18296f5a50ce64b7811c870b35e0e65d63
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 110b604be9285126cd436a27de1f053dcfd7b63c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738469"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797194"
 ---
 # <a name="turn-off-audio-enhancement"></a>오디오 향상 기능 해제
 
-다음 단계를 따릅니다:
+다음 단계를 따릅니다.
 
 1. **시작**으로 이동 하 고 **소리**를 입력 한 다음 **사운드 제어판** 을 선택 하거나 결과 목록에서 **시스템 소리를 변경** 합니다.
 
