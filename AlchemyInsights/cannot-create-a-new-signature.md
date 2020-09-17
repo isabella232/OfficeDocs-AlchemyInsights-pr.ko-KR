@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: b5b7f44b8a629f4781c4d953cc24ccb21c99c333
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 382eb4c8d973353c1fb61f49cf0993bce3f626cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711349"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812517"
 ---
 # <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Outlook에서 새 서명을 추가 하거나 만들 수 없습니다.
 

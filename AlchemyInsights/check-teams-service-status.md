@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "4392"
 - "9001703"
-ms.openlocfilehash: 8eb7f3f03a56b9e90d2f5483a46940b65910839f
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: c5d94eeec628758e6e779c269221d093cf39723e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431628"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812337"
 ---
 # <a name="check-teams-service-status"></a>Teams 서비스 상태 확인
 

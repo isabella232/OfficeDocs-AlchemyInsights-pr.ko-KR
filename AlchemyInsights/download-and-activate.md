@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3800"
-ms.openlocfilehash: f92bbf21af7d3f3ae52c3688288915a43071d1d4
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
+ms.openlocfilehash: ace1a6ff3fd430e4422761ca6c7d59f845fe081e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102693"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811977"
 ---
 # <a name="download-and-activate"></a>다운로드 및 정품 인증하기
 

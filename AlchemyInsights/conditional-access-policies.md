@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 569507318b499cdbcf2a1cd75e84046953f62212
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 25dc98397920e4fbf28895f5961f154381e11c92
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706063"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812265"
 ---
 # <a name="conditional-access-policies"></a>조건부 액세스 정책
 

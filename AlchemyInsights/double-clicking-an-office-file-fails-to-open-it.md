@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2200002"
 - "161"
-ms.openlocfilehash: cd45d64108bc3d7b8f35b51389294f5b8253ba9c
-ms.sourcegitcommit: 6df4460313ca033d18b59669506de1dbb7482ef9
+ms.openlocfilehash: 9dc4196cd36c8682e4d047e8abad493be97ced3f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573528"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812085"
 ---
 # <a name="double-clicking-an-office-file-fails-to-open-it"></a>Office 파일을 두 번 클릭 하면 열 수 없음
 

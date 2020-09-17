@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3047"
 - "9000592"
-ms.openlocfilehash: 260c9b74fdd99bb1ecef58307d1ac7629c05909a
-ms.sourcegitcommit: 8e1fa99a781674a79ae5d0385a48be2e209a2386
+ms.openlocfilehash: c0bca112ea345dedc7fa5e9cfa4e65866e6a8aa6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37554264"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812481"
 ---
 # <a name="common-issues-with-tables"></a>표의 일반적인 문제 
 
@@ -24,7 +25,7 @@ ms.locfileid: "37554264"
 
 Word에서 손상 된 테이블을 복구 하는 [경우 파일 손상 오류 후 문서 열기](https://support.office.com/article/47df9d48-2165-4411-a699-1786ac734bc3) 를 참조 하세요.
 
- 1. Word에서 **파일** > **열기** > **찾아보기를**선택 합니다.
+ 1. Word에서 **파일**  >  **열기**  >  **찾아보기를**선택 합니다.
  2. 손상 된 테이블을 사용 하 여 파일을 선택 합니다.
  3. **열기**옆에 있는 화살표를 선택 하 고 **열기 및 복구**를 선택 합니다.
 

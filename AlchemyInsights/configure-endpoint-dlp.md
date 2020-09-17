@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: 039c8f78c5896b66eab5763fb0bbddd3f0b06f2d
-ms.sourcegitcommit: 1dada930649a2625eb6d15910b2bfd5e1e00e5b6
+ms.openlocfilehash: 406bc40fbe8a6306a2f74506ef1daf70b37283d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46543778"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812121"
 ---
 # <a name="configure-endpoint-dlp"></a>끝점 DLP 구성
 

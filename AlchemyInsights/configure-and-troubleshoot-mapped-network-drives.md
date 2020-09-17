@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5300002"
 - "3180"
-ms.openlocfilehash: 386f4677a9d2fdabdea3f39ce3096f9cd6ccfec6
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
+ms.openlocfilehash: 48fc45ea6a307e6eb6468b04b0b19889c4aaa01c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44407422"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812193"
 ---
 # <a name="configure-and-troubleshoot-mapped-network-drives"></a>매핑된 네트워크 드라이브 구성 및 문제 해결
 

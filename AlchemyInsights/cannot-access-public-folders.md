@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: d63a193585cb73c2ce8e160d413db4e837100d33
-ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
+ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47341409"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812553"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook에서 공용 폴더에 연결할 수 없음
 
@@ -38,9 +39,9 @@ ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
 
 1.  설정-CASMailbox <mailboxname> -publicfolderclientaccess $true 또는 $false를 사용 합니다.  
       
-    $true: 사용자가 Outlook에서 공용 폴더에 액세스 하도록 허용  
+    $true: Outlook의 공용 폴더에 대한 사용자 액세스 허용  
       
-    $false: 사용자가 Outlook에서 공용 폴더에 액세스할 수 없도록 합니다. 이 값은 기본값입니다.  
+    $false: Outlook의 공용 폴더에 대한 사용자 액세스 차단 이 값은 기본값입니다.  
         
 2.  Set-organizationconfig-PublicFolderShowClientControl $true   
       

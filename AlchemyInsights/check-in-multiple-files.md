@@ -5,6 +5,7 @@ author: pebaum
 manager: pamgreen
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
@@ -12,12 +13,12 @@ ms.custom:
 - "5300029"
 - "1688"
 - "986"
-ms.openlocfilehash: 8aad3695d59e9a548817528a68143433be6193ce
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 6172168af77a72a362318bb9d411646a718f2477
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050135"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812373"
 ---
 # <a name="check-in-several-files-at-once"></a>여러 파일을 한 번에 체크 인
 
