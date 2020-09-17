@@ -6,17 +6,18 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b53dc3017cb2a47b25e5c603dcbc5e76fb8dc675
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b663914963361d7a20f4b72b8a75bbdebe7e324c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508310"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811863"
 ---
 # <a name="cancelling-your-microsoft-365-subscription"></a>Microsoft 365 구독을 취소 하 시겠습니까?
 

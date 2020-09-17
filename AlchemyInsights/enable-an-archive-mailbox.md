@@ -4,18 +4,19 @@ ms.author: markjjo
 author: markjjo
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: 3e20eaf8dec85454ce5a67e1b21292b2a33ebb1d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46522741"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811711"
 ---
 # <a name="enable-an-archive-mailbox"></a>보관 사서함 사용
 
