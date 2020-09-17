@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002430"
 - "4720"
-ms.openlocfilehash: c1f4af839e232c4bf17e0f806f723615063037cb
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: ea0d01150f7dbf4d9788deb3430bc27862a54c45
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789847"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782186"
 ---
 # <a name="hippa-compliance-and-office-365"></a>HIPPA 규정 준수 및 Office 365
 
