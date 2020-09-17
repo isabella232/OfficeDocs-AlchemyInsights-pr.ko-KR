@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/22/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 497b1a4a6c743036ee297eea0fa59278b77a2c15
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
+ms.openlocfilehash: 880002a3aba20d363e892a8adafcc9b469f9c748
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45266463"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47805649"
 ---
 # <a name="tile-errors"></a>타일 오류
 

@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003303"
 - "6208"
-ms.openlocfilehash: fb1f7ed899eb62d1c38ac273fe8b4bed83c502a3
-ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
+ms.openlocfilehash: a97be76575c8c69593a12c4365e674771cd58e16
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46844707"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47805613"
 ---
 # <a name="cant-add-or-change-teams-profile-picture"></a>Teams 프로필 사진을 추가하거나 변경할 수 없습니다.
 

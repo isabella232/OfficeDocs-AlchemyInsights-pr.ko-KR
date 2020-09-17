@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1906"
-ms.openlocfilehash: efc63ebbd585e7eb78f6ba41db79883671b2e779
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: f9dfc189bb2e0319f87164d2ae2ea30c47a1a94a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581809"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47805685"
 ---
 # <a name="product-deactivated-notice-in-microsoft-365-apps"></a>Microsoft 365 앱의 "제품이 비활성화됨" 알림
 

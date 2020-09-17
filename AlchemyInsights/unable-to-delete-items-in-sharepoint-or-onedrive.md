@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -11,12 +12,12 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: 8647b65c52a782ca48ca58bb2700556db528796b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: fd12115214cc28b822cf7fa57fe9b86f76f7beb1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511982"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806117"
 ---
 # <a name="unable-to-delete-items"></a>항목을 삭제할 수 없음
 

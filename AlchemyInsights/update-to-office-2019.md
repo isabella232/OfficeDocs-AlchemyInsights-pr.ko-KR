@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1746"
 - "9000140"
-ms.openlocfilehash: 03bc4668d6e789ad98f9eb90d4f07ff8b58839e0
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 718a5233c6600c90edd39d537a6ade7360859ba4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431552"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47805901"
 ---
 # <a name="update-to-office-2019"></a>Office 2019 업데이트
 
