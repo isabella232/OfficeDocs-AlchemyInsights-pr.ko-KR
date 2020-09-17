@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800021"
 - "922"
-ms.openlocfilehash: 3fb738f0571d8ae8d5770a1e495897904b9dae46
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: ab1dce94874988dedea5b0c13d6acd6ec2ccbda8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005587"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778841"
 ---
 # <a name="inbox-rules-in-outlook-web-app"></a>Outlook Web App의 받은 편지함 규칙
 

@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: f2312714bdb7e5bc6944c46de21e5669c6c18e41
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 20211a15d02d5051782f6fc6c044211f0b70661d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509066"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779345"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>누락 되었거나 삭제 된 사이트 모음 복구
 

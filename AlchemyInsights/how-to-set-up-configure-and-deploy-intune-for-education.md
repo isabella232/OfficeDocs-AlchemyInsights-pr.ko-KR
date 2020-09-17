@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/29/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1701"
 - "9000165"
-ms.openlocfilehash: c865d5830c6dfc1946bd08de0411ecdbae89373e
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: d38278f8aaffa030e66a561bbea912998b99937f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46523060"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779165"
 ---
 # <a name="how-to-set-up-configure-and-deploy-intune-for-education"></a>교육용 Intune 설정, 구성 및 배포방법
 
