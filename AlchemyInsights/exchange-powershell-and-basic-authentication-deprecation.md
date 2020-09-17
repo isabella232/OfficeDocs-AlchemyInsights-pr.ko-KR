@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "4577"
-ms.openlocfilehash: a0f01d7ecaa444777aa0675795e588790ab22f19
-ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
+ms.openlocfilehash: f4f0f63112d639101ea9e9d7e9a9c16a32de4cf3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45205201"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782981"
 ---
 # <a name="exchange-powershell-and-basic-authentication-deprecation"></a>Exchange PowerShell과 기본 인증 중단
 

@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6115"
 - "9003200"
-ms.openlocfilehash: e8b7c550ab439c84ba4ca7e92a9453a27e430763
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 8a136074caed7a5c374ac486e44abad311665e89
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431556"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782801"
 ---
 # <a name="external-users-cant-send-email-to-microsoft-365-group"></a>외부 사용자는 Microsoft 365 그룹에 전자 메일을 보낼 수 없음
 

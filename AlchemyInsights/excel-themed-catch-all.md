@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2723"
 - "9000779"
-ms.openlocfilehash: 7bbdce60f71016a6acee3818905e6dc13d0ab3bd
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: bfaba2f8156e3a76e2a0110b24e8e5d2f8bcf6cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627816"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783233"
 ---
 # <a name="commonly-requested-content-for-excel"></a>일반적으로 요청 되는 Excel 콘텐츠
 

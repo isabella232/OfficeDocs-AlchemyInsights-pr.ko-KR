@@ -5,18 +5,19 @@ author: chrisda
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 9fd4f14798f27e7bf93daceb3620aff9b7f9e8ed
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6542450ca4d03daef4a7f63783d431d2091bc5e7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506816"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784061"
 ---
 # <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 액세스 거부, 스팸 남용 감지 됨
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002873"
 - "5565"
-ms.openlocfilehash: 63df724bd6e63be237140ac3272f85a625b8e5f3
-ms.sourcegitcommit: 8b50994a2979778ce8474ce83bd86b60e7d2cb2f
+ms.openlocfilehash: e521c8961df1ac81fe51f25fd495b3da7cd90868
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022500"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782765"
 ---
 # <a name="f3-trail-license"></a>F3 라이선스 기록
 
