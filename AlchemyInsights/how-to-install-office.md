@@ -5,19 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: bee23ad0d8d6324937b2b0dd7bda08410ddbfa25
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: dffc58ee2a01157dca0b365d5419c571f2e545f7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509246"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779850"
 ---
 # <a name="how-to-install-office"></a>Office 설치 방법
 

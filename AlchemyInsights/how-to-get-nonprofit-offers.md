@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ''
 ms.custom:
 - "1500010"
 - "3819"
-ms.openlocfilehash: f89ba68219ea3735bdbb455ed97e2abf394f201b
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
+ms.openlocfilehash: cd8777d29b3db623d715552a1e3939ccbf4d0454
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947610"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780389"
 ---
 # <a name="how-to-get-nonprofit-offers"></a>비영리 서비스를 받는 방법
 

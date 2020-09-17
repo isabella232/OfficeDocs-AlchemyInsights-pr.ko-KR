@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 2c3b11d51a2b5895c8d90ebef27121561f221334
-ms.sourcegitcommit: 69cf3c185e03a4b1da35c5ca492ee6c74a5d739a
+ms.openlocfilehash: 693efc0755b682b17518f07e434685e68beddc14
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2020
-ms.locfileid: "46657073"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781145"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>사용자에 게 라이선스 할당 또는 지정 취소
 

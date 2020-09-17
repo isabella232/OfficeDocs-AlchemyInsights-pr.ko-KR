@@ -6,6 +6,7 @@ manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 56620e4795649d55181305b7b8c0a9d28c83e977
-ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
+ms.openlocfilehash: 47d5a0866a6e92da2a3abb377a5e93918b5a1c9d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/08/2020
-ms.locfileid: "46596753"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780569"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>사서함을 법적 보존 상태로 설정
 

@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: ''
 ms.assetid:
 - "9002317"
 - "4502"
-ms.openlocfilehash: 6a6a779ec422a201bd55f5a84d432a777fa656d9
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: ea6a54b8eb64b54def4d8b8360f3f7cafba88afc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954041"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780821"
 ---
 # <a name="how-to-close-your-account"></a>계정을 폐쇄하는 방법
 

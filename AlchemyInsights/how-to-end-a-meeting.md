@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 1d11e4421559aefd50638555d1309bfcae12d50f
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: 6a568fdcf2b431b67085a9c9d2c3e40bdcebf77c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44702320"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780425"
 ---
 # <a name="how-to-formally-end-a-meeting"></a>모임을 공식적으로 종료 하는 방법
 

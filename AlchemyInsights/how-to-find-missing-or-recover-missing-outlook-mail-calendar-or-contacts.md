@@ -5,6 +5,7 @@ author: pebaum
 manager: jackiesm
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 11ece8466011440afa97fbab729bf9d6ee45a724
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235303"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780353"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Outlook에서 누락 된 메시지, 연락처 또는 일정 항목을 찾고 복구 하는 방법
 
