@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: be3200b8da759be9e688030d1134784c9216a0cd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005264"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778553"
 ---
 # <a name="inbox-rules-in-outlook-desktop"></a>Outlook 데스크톱의 받은 편지함 규칙
 

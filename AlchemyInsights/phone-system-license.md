@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "4559"
-ms.openlocfilehash: b4f27df2dbdab5e28f8a12c74a58cd8dba6c0b75
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: 8e140f0542b332aee047cd8b71540e2b72d8e199
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43053998"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47776960"
 ---
 # <a name="phone-system-license"></a>휴대폰 시스템 라이선스
 

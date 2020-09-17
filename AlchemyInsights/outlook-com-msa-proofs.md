@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -15,12 +16,12 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 79fcfdd0bd7336167b06aac5180411fede3e3607
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 321b19efb4fe33049ac5f2267dce3cfdc2fedb01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43745907"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47776924"
 ---
 # <a name="security-info-and-security-codes"></a>보안 정보 및 보안 코드
 

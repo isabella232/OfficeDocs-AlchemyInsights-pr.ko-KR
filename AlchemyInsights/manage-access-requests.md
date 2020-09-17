@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 975609294a4fd564c99594269bb4c348ad1d4191
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 690935623685712959c6544752c5df06f7d9da01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579727"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778325"
 ---
 # <a name="manage-access-requests"></a>액세스 요청 관리
 
@@ -28,7 +29,7 @@ ms.locfileid: "44579727"
     
 3. 사용자에 게 사용 권한을 개별적으로 부여 하려면 **승인** 또는 **거절**을 클릭 합니다. 특정 사용 권한 수준을 선택 하려면 먼저 사용자 이름 옆에 있는 줄임표 (...)를 클릭 합니다. 또는 사이트에 대 한 사용 권한이 있는 그룹에 사용자를 추가 합니다. 커뮤니케이션 사이트 및 클래식 팀 사이트의 경우 사이트 설정 페이지에서이 작업을 수행할 수 있습니다. Microsoft 365 그룹에 속하는 사이트의 경우 그룹에 사용자를 추가할 수 있습니다.
     
-    [액세스 요청 관리](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [액세스 요청 관리 ](https://go.microsoft.com/fwlink/?linkid=2008747)
     
     [사용 권한 수준에 대 한 추가 정보](https://go.microsoft.com/fwlink/?linkid=867071)
     

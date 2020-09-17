@@ -5,16 +5,17 @@ author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: 6bebc17eafd8615a6ffa95dbdf16f60768204aa7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46522849"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778589"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>보관 사서함 크기 늘리기
 

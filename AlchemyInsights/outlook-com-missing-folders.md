@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -15,12 +16,12 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: b484939b1427c0461e9893f75cfc8c5c6288b70f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5ebabab51cceb9750ebc592218074c9c6604d7ca
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698352"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777575"
 ---
 # <a name="find-missing-folders"></a>누락 된 폴더 찾기
 

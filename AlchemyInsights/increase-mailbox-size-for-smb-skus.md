@@ -6,17 +6,18 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 74bbfc03335ece92c09805f419a5d9544e8c7506
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: e4f4791358977133e2c94c70fb955304ebe80d88
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064291"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778301"
 ---
 # <a name="upgrade-plans-to-increase-mailbox-size"></a>사서함 크기를 늘리도록 업그레이드 계획
 
