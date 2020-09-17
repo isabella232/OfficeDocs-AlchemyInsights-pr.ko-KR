@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003073"
 - "5903"
-ms.openlocfilehash: 3bce20c922e3beceb29f06e97184826a3d05fd8c
-ms.sourcegitcommit: fceb55831ea461d2ae2988e30ec0bbb0a705ceb8
+ms.openlocfilehash: 1c612a91cc2674e097f108a3d57898e2b24e901b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45375014"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47774249"
 ---
 # <a name="saving-files-and-folders-to-onedrive"></a>OneDrive에 파일 및 폴더 저장
 

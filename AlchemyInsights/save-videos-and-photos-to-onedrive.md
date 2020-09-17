@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4580"
-ms.openlocfilehash: 71e09662c8d40445fb10e7b869f007f2ddcf321b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: a98ba557a4e10cd5c9b5f13a0d39b6b726fab21a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764518"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47774321"
 ---
 # <a name="save-videos-and-photos-to-onedrive"></a>OneDrive에 비디오 및 사진 저장
 

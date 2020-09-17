@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3418"
 - "9001424"
-ms.openlocfilehash: a3996d97af29c56fc500a8624515bade49d7d056
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 857118b1c97a2971ff8ec6a055ae16efeb47a5ce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581917"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773349"
 ---
 # <a name="fixing-the-microsoft-365-apps-the-products-we-found-in-your-account-cant-be-used-to-activate-message"></a>Microsoft 365 앱 "계정에서 찾은 제품을 사용 하 여 정품 인증을 받을 수 없습니다." 라는 문제를 해결 하는 메시지
 

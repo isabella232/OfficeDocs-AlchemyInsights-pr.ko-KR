@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5153"
-ms.openlocfilehash: 124b031e2e029b745c66a71f681f57134739eafe
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
+ms.openlocfilehash: 00ea5e67d1277e4a2a73d616b1f90d6e4bc5b54f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915185"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773169"
 ---
 # <a name="using-dlp-in-transport-rules"></a>전송 규칙에서 DLP 사용
 

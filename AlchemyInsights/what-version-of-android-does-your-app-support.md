@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: a4c2b4a58a2688ea8c968970f0aee4264eb939d9
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: e3e4f3bb248959b3826438578c5ae274ac04992f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42409207"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773061"
 ---
 # <a name="what-version-of-android-does-your-app-support"></a>앱은 어떤 버전의 Android를 지원 하나요?
 

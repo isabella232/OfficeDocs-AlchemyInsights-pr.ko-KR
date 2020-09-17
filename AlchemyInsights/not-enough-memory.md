@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2564"
 - "9000678"
-ms.openlocfilehash: 7215e3a86f9be10f3d6e5471a621aa41583ad33a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0729efa4c4662047c1a5103788ecf129bff2a4ec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "41969569"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772592"
 ---
 # <a name="there-isnt-enough-memory-to-complete-this-action"></a>메모리가 부족 하 여이 작업을 완료할 수 없습니다.
 

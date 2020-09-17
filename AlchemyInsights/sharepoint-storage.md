@@ -5,6 +5,7 @@ author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: cfe6091baec784a0b726ccc6e1b97a3ce1d00c8d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512632"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773745"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>SharePoint Online 저장소 관리
 

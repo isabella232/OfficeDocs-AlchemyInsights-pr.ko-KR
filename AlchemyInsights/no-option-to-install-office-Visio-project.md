@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: e071894314c349ac574d00c6c13a39b23a4fce16
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 0a1a394ace2ea8aa32ec82668dee8130dd4600ec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576998"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772665"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Office, Visio 또는 Project를 설치하는 옵션 없음
 

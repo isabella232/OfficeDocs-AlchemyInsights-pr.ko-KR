@@ -5,16 +5,17 @@ author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: fb10c486833cfb0a1726dce69bc2176b39565e9d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 92e7f611b08a5457e52be248982785b2dc2ddabc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510038"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773025"
 ---
 # <a name="issues-with-spoofing-phishing-or-impersonation"></a>스푸핑, 피싱 또는 가장에 문제가 있나요?
 

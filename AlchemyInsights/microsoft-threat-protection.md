@@ -4,17 +4,18 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 96562996569a75353a7d4c37b3c16c66d8d65489
-ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
+ms.openlocfilehash: 1fa5464a4e7b065ef2b1321d23d331195cd0896a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/08/2020
-ms.locfileid: "47406440"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772737"
 ---
 # <a name="microsoft-threat-protection"></a>Microsoft 위협 방지
 
