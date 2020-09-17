@@ -4,15 +4,16 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: 8748aaa6e41a138dc8dd9121de92c4097edc5556
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e0004c1389b25b8f84d9b32d981728e7bb3f45fb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510902"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802603"
 ---
 # <a name="onedrive-missing-files-or-folders"></a>OneDrive: 파일 또는 폴더가 누락 됨
 

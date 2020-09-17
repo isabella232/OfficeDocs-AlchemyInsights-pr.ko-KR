@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002921"
 - "5673"
-ms.openlocfilehash: 7dc1576fd61e87b319c7486c59ed125943b4d959
-ms.sourcegitcommit: 43acdecef129bfffc8bbe8ebb08fdd581b238a03
+ms.openlocfilehash: 0ea089b95ad7de25e77017196fb2db895d4d0178
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44281177"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803251"
 ---
 # <a name="need-to-mark-a-domain-or-email-sender-safe"></a>도메인 또는 전자 메일을 보낸 사람을 안전한 사용자로 표시해야 하나요?
 

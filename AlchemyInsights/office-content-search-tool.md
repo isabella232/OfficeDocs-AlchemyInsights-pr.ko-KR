@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 4e07b178fa41015bb942d939c08c534c2bfac30e
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5b26a6b9bbc462aac93a3a2cb4df81a14fce8b80
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505133"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802855"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>관련 정보를 찾기 위한 콘텐츠 검색 도구
 

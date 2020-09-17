@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2529"
 - "9000572"
-ms.openlocfilehash: 5f935408bac9ac8ad36d18740bd61aba12bca1ca
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 24ad5efafa7551e9d29c2b1f4a438bfb781a1417
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576782"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802891"
 ---
 # <a name="microsoft-365-apps-missing"></a>Microsoft 365 앱 누락
 

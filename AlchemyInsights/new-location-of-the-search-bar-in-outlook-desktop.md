@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800005"
 - "5620"
-ms.openlocfilehash: 2497f226b955096520e35c378b31e3dd025b4a74
-ms.sourcegitcommit: 43acdecef129bfffc8bbe8ebb08fdd581b238a03
+ms.openlocfilehash: 920b5cd73b366e1bf656cd7090814ceb6beb3b8f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44281095"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803179"
 ---
 # <a name="new-location-of-the-search-bar-in-outlook-desktop"></a>Outlook 데스크톱에서 검색 창의 새 위치
 
