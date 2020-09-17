@@ -6,18 +6,19 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000007"
 - "1992"
-ms.openlocfilehash: 4ab3a63aa72cadd26ecc69c4322cf970ce52638f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f8968b14b952c1198a8e185b8391d6dccdd257ba
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768623"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799282"
 ---
 # <a name="use-your-browser-to-check-spelling"></a>브라우저를 사용 하 여 맞춤법 검사
 

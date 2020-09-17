@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: 4bebb7c88308772fe93d1b8ecd16954871d03f8c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c54f2dd93d129db21a279de65096dfe9b3f17646
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505421"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800542"
 ---
 # <a name="sharepoint-new-features-announced"></a>알려진 SharePoint 새로운 기능
 

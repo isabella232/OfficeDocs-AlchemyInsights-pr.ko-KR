@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: c28c8b10cae72550fe7fe8ebf6cebc3635d28459
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: be8796538e538971b0950d89f88784790829c2e5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44289568"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801883"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>용지 양면에 인쇄하기(양면 인쇄)
 

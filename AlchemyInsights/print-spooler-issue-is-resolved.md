@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: 53b1c9a8efa3cc978af8b602c8ed90430042186a
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: 66b39434ef6f9ad2b8392f811704e67c1bcffd2b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45083980"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801847"
 ---
 # <a name="print-spooler-issue-is-resolved"></a>인쇄 스풀러 문제 해결됨
 

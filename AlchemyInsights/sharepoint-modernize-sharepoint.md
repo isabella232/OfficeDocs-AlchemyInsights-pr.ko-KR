@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 46d482f7dfdded0dd5d777e3c6890dcef0a1ea5c
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: ede4bdc938627806bce0651d7811c5fb0ad1cdcc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912828"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800614"
 ---
 # <a name="modernize-your-classic-sharepoint-experience"></a>클래식 SharePoint 환경 Modernize
 

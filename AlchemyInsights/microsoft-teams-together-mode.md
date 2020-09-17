@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6036"
 - "9003218"
-ms.openlocfilehash: 1738a21ea98f4c3c8a6a244492850a87c39441de
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
+ms.openlocfilehash: c2288511c404a33141d28a4b04a6b38428317f10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45157321"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799858"
 ---
 # <a name="microsoft-teams-together-mode"></a>Microsoft Teams 함께 모드
 

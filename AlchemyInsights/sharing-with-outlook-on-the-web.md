@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "5699"
-ms.openlocfilehash: 7e780d163f873e93893d2cdcd34aa487ae3901dd
-ms.sourcegitcommit: 7c3819614681716748802b04240e80f0dc7e1e8a
+ms.openlocfilehash: 74af770276711de42928b400173a7c378a2d4c40
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44867433"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800290"
 ---
 # <a name="sharing-with-outlook-on-the-web"></a>웹용 Outlook과 공유
 

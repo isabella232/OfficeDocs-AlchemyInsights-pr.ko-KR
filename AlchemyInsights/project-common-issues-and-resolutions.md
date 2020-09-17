@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: 61f2cb4d4d9158d8f9d90cd8a59d5a9ad109eb12
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: e044e70fb581896bce98b4e2d8e5853e28ae7411
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789128"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801730"
 ---
 # <a name="project-common-issues-and-resolutions"></a>프로젝트 일반적인 문제 및 해결 방법
 

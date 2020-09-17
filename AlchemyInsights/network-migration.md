@@ -5,25 +5,25 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: aada8e90d168a4c621dd81ee8d306b934c20d119
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6f026f932bb35d12d32ce7eddf49e49a44db7f31
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761820"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799570"
 ---
 # <a name="network-migration"></a>네트워크 마이그레이션
 
 O365 테 넌 트가 1 테 넌 트의 여러 Yammer 네트워크 (많은 네트워크 구성)에 연결 되어 있을 수 있습니다. 2018 년 10 월 16 일부터 Yammer는 한 테 넌 트에서 연결 된 다중 Yammer 네트워크를 더 이상 지원 하지 않습니다. 네트워크 마이그레이션을 수행 하 여 기본 1:1 구성에 액세스할 수 있습니다.
   
-- 테 넌 트와 연결 된 네트워크 목록을 보려면 전역 관리자로 Yammer에 로그인 하 고 **네트워크 관리자로**이동한 다음 **네트워크 마이그레이션을**사용 합니다. 
-            **다음**을 선택합니다.
+- 테 넌 트와 연결 된 네트워크 목록을 보려면 전역 관리자로 Yammer에 로그인 하 고 **네트워크 관리자로**이동한 다음 **네트워크 마이그레이션을**사용 합니다. **다음**을 선택합니다.
 
 - 2 단계 중에 여러 개의 네트워크가 표시 되는 경우에는 사용자의 O365 테 넌 트와 연결 된 Yammer 네트워크가 여러 개 있습니다.
 

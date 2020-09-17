@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6258"
-ms.openlocfilehash: 8498862a354f88bd0fd68ac56295ae17e3d62810
-ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
+ms.openlocfilehash: d81ac4790ab62f882bd35f0b8b4ea95a4b789abd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2020
-ms.locfileid: "47316234"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801753"
 ---
 # <a name="managing-discovery-of-private-teams"></a>개인 팀의 검색 관리
 

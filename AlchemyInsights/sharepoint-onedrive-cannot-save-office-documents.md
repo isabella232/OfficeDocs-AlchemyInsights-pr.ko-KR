@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 4e696f2e82172df02de03b2de894567de61f1476
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e7a7e66d80740c946daa614d2733e07bdd093d12
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053987"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800506"
 ---
 # <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-library"></a>SharePoint 또는 OneDrive 문서 라이브러리에 Office 문서를 저장할 수 없음
 

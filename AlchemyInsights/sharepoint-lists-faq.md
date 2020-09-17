@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "5677"
-ms.openlocfilehash: 31e2a4b34e97f296cc9da620fb370a5a4f28dc83
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 3929166c68b4d6d724f6f19976f28a468b9e790a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44279015"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800686"
 ---
 # <a name="sharepoint-lists-faq"></a>SharePoint 목록 FAQ
 

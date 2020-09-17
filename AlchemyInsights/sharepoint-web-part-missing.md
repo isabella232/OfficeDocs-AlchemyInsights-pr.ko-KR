@@ -5,16 +5,17 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000207
-ms.openlocfilehash: 86ba18efc4bd466a12f32d82288d37ec1032e348
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
+ms.openlocfilehash: 3321f68f3a9379aec7c2d4537873b4b53295672a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44407320"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800362"
 ---
 # <a name="content-editor-or-script-editor-web-parts-are-missing"></a>콘텐츠 편집기 또는 스크립트 편집기 웹 파트가 누락 되었습니다.
 

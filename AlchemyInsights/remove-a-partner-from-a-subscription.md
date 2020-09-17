@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5064"
-ms.openlocfilehash: cea3980bbac64109b8d3c5258c49849c1bbad848
-ms.sourcegitcommit: a9e6b2fcce8bd12fd079ed967f426b67d5c6d239
+ms.openlocfilehash: a1b9872f53fba2b8d7f633a27b2516b8cc267cb5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43928358"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801370"
 ---
 # <a name="remove-a-partner-from-a-subscription"></a>구독에서 파트너 삭제
 

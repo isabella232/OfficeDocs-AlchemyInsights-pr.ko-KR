@@ -6,6 +6,7 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -14,12 +15,12 @@ ms.custom:
 - "878"
 - "3500012"
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
-ms.openlocfilehash: 1ee135f3372ea1605d2a8a67e7ea7ad929d0a9f9
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4becc3d62a98c730f66696d66e69ba77b55eb9b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509678"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800074"
 ---
 # <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a>다양한 유형의 공유 Outlook 일정 및 설정 방법
 

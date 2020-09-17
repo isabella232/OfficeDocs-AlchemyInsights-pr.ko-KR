@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 9af8a4d3ce72fd901ff2f3a1aae0654c7213dd7e
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: 61d0b1a58fff6655b745bb9d39e8384f0a543336
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46522777"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799786"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>보관 사서함으로 전자 메일 이동
 
@@ -33,7 +34,7 @@ ms.locfileid: "46522777"
 
 MFA (관리 되는 폴더 도우미)를 강제로 실행 하 고 사용자 사서함에 새 설정을 적용 해야 할 수 있습니다. [EXO PowerShell에 연결](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) 된 동안 다음 명령을 실행 하 여 특정 사서함에 대해 관리 되는 폴더 도우미를 시작 합니다.
   
-Start-ManagedFolderAssistant-Identity<name of the mailbox>
+Start-ManagedFolderAssistant-Identity <name of the mailbox>
 
 보관 정책 설정에 대 한 자세한 내용은 [사서함에 대 한 보관 및 삭제 정책](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users)설정을 참조 하십시오.
   

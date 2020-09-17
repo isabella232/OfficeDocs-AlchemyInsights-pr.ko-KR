@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5473"
-ms.openlocfilehash: 4c9c306328565cae8ca0d3b4f28d4e21fee506d2
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
+ms.openlocfilehash: dbdea316b6f6cd9e38d8a250b18d7f11443e97ca
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43914948"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801442"
 ---
 # <a name="record-a-presentation-with-narration-and-timing"></a>내레이션 및 타이밍이 있는 프레젠테이션 녹화
 

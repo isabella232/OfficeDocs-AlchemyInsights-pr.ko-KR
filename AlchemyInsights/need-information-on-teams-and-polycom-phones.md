@@ -5,18 +5,19 @@ author: microsoftheidi
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1703"
 - "9000170"
-ms.openlocfilehash: 34997edc02b5f222dd6b8e7ed7e5f219af41fac6
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a2796e46a624ed389453789c5a84be8709569891
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "37340535"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799642"
 ---
 # <a name="need-information-on-teams-and-polycom-phones"></a>Teams 및 Polycom 전화에 대한 정보가 필요한가요?
 

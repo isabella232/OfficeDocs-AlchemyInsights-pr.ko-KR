@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1379"
 - "6200006"
-ms.openlocfilehash: 29d9a6fc87cc666cd5e6288012c3f125144f2cce
-ms.sourcegitcommit: ebb3595422b581eca98a05533f8d82239daec09a
+ms.openlocfilehash: c261d77e3dd66d90ecd2358af3a060732134d76e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45207368"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799138"
 ---
 # <a name="recommended-solutions-for-storage-issues"></a>저장소 문제에 대한 권장 해결 방법
 
