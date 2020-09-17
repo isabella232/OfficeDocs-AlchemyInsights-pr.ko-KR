@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/06/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6159"
 - "9003228"
-ms.openlocfilehash: 24572885d14318d08d163e4211b1d32d4f24e741
-ms.sourcegitcommit: a96f029381c42d331b9ea64fa54061b7b96c4e52
+ms.openlocfilehash: 5a5051f0560fc78b8dff1119c00ad65b73c1a4b2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46580930"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807269"
 ---
 # <a name="restore-deleted-users-and-groups"></a>삭제된 사용자 및 그룹 복원
 

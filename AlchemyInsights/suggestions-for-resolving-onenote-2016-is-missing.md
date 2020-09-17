@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2429"
 - "9000575"
-ms.openlocfilehash: 3397d3b195beea97dca354b7d6f23fc5e1c15d27
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 75ba2aba181d2689a05e3315a8b362877445c80c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580903"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47808461"
 ---
 # <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>OneNote 2016 문제 해결을 위한 제안이 없음
 

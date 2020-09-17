@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/18/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6188"
 - "9003281"
-ms.openlocfilehash: 7acacfb69f0d62c91e0fbffae37c60f6f260b378
-ms.sourcegitcommit: 9f7530a6331316eb3c5d0821253c2e3d783bde7a
+ms.openlocfilehash: 6c814eccb6e6327e81f10fe015df789204ac2297
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46801015"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806333"
 ---
 # <a name="enable-the-new-meeting-experience-in-microsoft-teams"></a>Microsoft Teams에서 새 모임 환경 사용
 

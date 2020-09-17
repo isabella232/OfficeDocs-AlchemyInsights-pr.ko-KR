@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001726"
 - "3825"
-ms.openlocfilehash: ae036e1641b52d657c488a4836325297b4f79e6d
-ms.sourcegitcommit: 5aa4a4f40cf064f0cdb944ef35054719e87eeda3
+ms.openlocfilehash: 10a05bc4753f9f3bcb97b4535e15f3181980f469
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42699685"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806981"
 ---
 # <a name="create-a-poll-form-or-quiz-for-teams-with-microsoft-forms"></a>Microsoft Forms로 Teams에 대한 설문 조사, 양식 또는 퀴즈 만들기
 

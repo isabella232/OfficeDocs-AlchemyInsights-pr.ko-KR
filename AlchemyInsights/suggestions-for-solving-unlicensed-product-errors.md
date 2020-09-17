@@ -6,19 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: ec9e154a02cc62bb6b8aaa6b510c71d13391ccad
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b1a1ebe313cc90d49633522546b7757fc2d93543
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509858"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47808425"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>"허가 되지 않은 제품" 오류 해결을 위한 제안 사항
 
@@ -30,7 +30,7 @@ Microsoft 365 for business 또는 Microsoft 365 Business Premium Standard와 같
   
 구독 상태가 만료 되었는지 확인
   
-[서비스 상태 페이지](https://docs.microsoft.com/office365/enterprise/view-service-health)를 보고 서비스에 알려진 문제가 있는지 확인합니다.
+[서비스 상태 페이지](https://docs.microsoft.com/office365/enterprise/view-service-health)를 확인하고 서비스에 알려진 문제가 있는지 확인합니다.
   
 [Office의 온라인 복구를 수행](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)합니다.
   

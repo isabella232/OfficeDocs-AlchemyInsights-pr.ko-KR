@@ -5,21 +5,22 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: ab1b9a0a7e9f9cd2ffabfb2b5af75401d13207a9
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 9115a3ab8d1234127a95628a9a49679ef06f6d39
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049163"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806189"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>네트워크 드라이브에 SharePoint 라이브러리 매핑
 
-라이브러리를 네트워크 드라이브로 매핑하는 기능은 일시적 이며 Internet Explorer를 통해서만 지원 됩니다. 가끔 Internet Explorer에서 SharePoint 사이트를 열고 **로그인 상태 유지** 를 선택 하 여 세션이 만료 되지 않도록 해야 합니다. 대신 [파일을 주문형](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)으로 제공 하는 [새 OneDrive 동기화 클라이언트](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> 와 SharePoint 파일을 동기화 합니다. 로컬 저장소 공간을 사용 하지 않고 OneDrive의 모든 파일에 액세스 합니다.
+라이브러리를 네트워크 드라이브로서 매핑하는 것은 임시적이며 Internet Explorer를 통해서만 지원됩니다. 가끔 Internet Explorer에서 SharePoint 사이트를 열고 **로그인 상태 유지** 를 선택 하 여 세션이 만료 되지 않도록 해야 합니다. 대신 파일을 주문형으로 제공 하는 [새 OneDrive 동기화 클라이언트와 SharePoint 파일을 동기화](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> 합니다. [Files On-Demand](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e) 로컬 저장소 공간을 사용하지 않고 OneDrive에서 모든 파일에 액세스합니다.
 
 [새 OneDrive 동기화 클라이언트를 사용](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)하지 않고 드라이브를 매핑하도록 선택한 경우 아래 문서의 단계를 수행 해야 합니다. 
 

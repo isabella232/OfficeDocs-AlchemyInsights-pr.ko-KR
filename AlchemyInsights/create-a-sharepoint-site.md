@@ -4,8 +4,8 @@ ms.author: pebaum
 author: pebaum
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.collection: Adm_O365
-ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -14,12 +14,12 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: ba682f3c2b2600031f6856621691b1e0fba64113
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: 5ebaa342ca9864bc31a9ef26eebcf42d96523871
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46786571"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806945"
 ---
 # <a name="create-a-sharepoint-site"></a>SharePoint 사이트 만들기
 
