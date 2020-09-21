@@ -4,28 +4,29 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: e2ca0e13aa569536d9d529aaa1eef05bb0fa49d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8943f2f8243d908f07823da534e16f80cd7d4903
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764698"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795790"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Microsoft의 적격 교육 기관 및 원격 교육 및 학습
 
-Microsoft 교육용을 시작하려면이 [사이트](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans)를 방문하여 등록합니다.
+교육용 Office 365를 시작하려면 해당 [사이트](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans)를 방문하여 등록합니다.
 
-조직의 자격 심사를 기다리는 동안 교수 진용 Office 365 A1 및 학생용 Office 365 A1 평가판이 제공됩니다.  승인 프로세스를 촉진하는 데 도움이 되는 도메인을 추가해야 합니다.
+조직의 자격 심사를 기다리는 동안 교수 진용 Office 365 A1 및 학생용 Office 365 A1 평가판이 제공됩니다. 승인 프로세스를 촉진하는 데 도움이 되는 도메인을 추가해야 합니다.
 
 조직의 자격이 승인되었는지 여부를 알리는 전자 메일이 발송됩니다.  
 
-승인되면 Microsoft 관리 센터의 [구매 서비스](https://admin.microsoft.com/Adminportal/Home#/catalog) 탭으로 이동하여 구독을 구입할 수 있습니다.
+승인되면 Microsoft 365 관리 센터의 [구매 서비스](https://admin.microsoft.com/Adminportal/Home#/catalog) 탭으로 이동하여 구독을 구입할 수 있습니다.
 
 **원격 교육 및 학습**
 
