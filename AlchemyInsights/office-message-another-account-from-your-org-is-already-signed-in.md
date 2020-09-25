@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 0a9678905a58be2b68ad60d0d947483671d6b3b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802819"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236023"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 앱 메시지 - 죄송합니다. 조직에 다른 계정이 이미 로그인되어 있습니다.
 
@@ -31,7 +31,9 @@ ms.locfileid: "47802819"
 
 - **+** 아이콘을 클릭하여 계정을 추가하거나 연결합니다. 자격 증명을 입력하고 프로세스가 완료될 때까지 기다립니다.
 
-- Office 앱을 시작하고 필요한 경우 다시 로그인 합니다. 
+- Office 앱을 시작하고 필요한 경우 다시 로그인합니다. 
+
+**팁** Windows 컴퓨터에서 몇 가지 일반적인 Office 로그인 문제를 자동으로 진단하고 해결해드립니다. 자동화된 도구를 사용하려면 **[Office 365 지원 및 복구 도우미](https://aka.ms/SaRA-OfficeSignInScenario)** 를 다운로드하고 실행하십시오.
 
 문제가 계속 되면 다음 단계를 수행 합니다. 
 
