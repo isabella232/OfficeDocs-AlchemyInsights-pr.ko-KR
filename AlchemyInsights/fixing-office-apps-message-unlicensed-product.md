@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 50939456df57920994e464db20e5da54f45f197a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744632"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236095"
 ---
 # <a name="unable-to-activate-office"></a>Office를 정품 인증할 수 없습니다
 
@@ -26,6 +26,8 @@ ms.locfileid: "47744632"
 - 사용자가 라이선스가 할당된 동일한 계정으로 Office에 로그인하고 있는지 확인합니다.
 - [Office 365 서비스 상태 페이지](https://docs.microsoft.com/office365/enterprise/view-service-health)를 보고 서비스에 알려진 문제가 있는지 확인합니다.
 - 방화벽, 백신 소프트웨어 및 프록시 설정이 Microsoft 365 앱의 인터넷 액세스를 차단하고 있지 않은지 확인합니다. [Office 365 URL 및 IP 주소 범위](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Office 365 URL 및 IP 주소 범위")를 참조하세요.
+
+**팁** Windows 컴퓨터에서 몇 가지 일반적인 Office 로그인 문제를 자동으로 진단하고 해결해드립니다. 자동화된 도구를 사용하려면 **[Office 365 지원 및 복구 도우미](https://aka.ms/SaRA-OfficeSignInScenario)** 를 다운로드하고 실행하십시오.
 
 다음 정보를 사용하여 문제를 해결합니다.
 
