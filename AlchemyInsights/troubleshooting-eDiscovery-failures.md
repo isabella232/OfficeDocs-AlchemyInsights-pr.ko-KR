@@ -14,12 +14,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658956"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277821"
 ---
 # <a name="troubleshoot-content-search-errors"></a>콘텐츠 검색 오류 문제 해결
 
@@ -36,3 +36,5 @@ ms.locfileid: "47658956"
 또는 10만 사서함을 초과 하는 많은 수의 사서함에서 결과를 검색 하거나 내보낼 때 내보내기 오류가 발생 합니까?
 
 이러한 유형의 오류가 발생 하는 경우 실패 한 콘텐츠 위치에 대 한 검색을 다시 시도 합니다. 자세한 내용은  [이 문서](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) 를 참조 하세요.
+
+10만 개 이상의 사서함을 내보내는 경우에는 다음 Powershell을 사용 하 여 내보내기 결과를 다운로드 해야 합니다 (  [10만 개 이상의 사서함에서 결과 내보내기](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)).
