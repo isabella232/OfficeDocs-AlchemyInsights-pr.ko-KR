@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 4787e9e4be87785b7273ee74f175092c5a85f15e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
+ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795574"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295612"
 ---
 # <a name="set-passwords-to-never-expire"></a>만료되지 않는 암호 설정
 
-모든 암호가 만료 되지 않도록 설정 하려면 Microsoft 365 관리 센터에서 **설정**  >  [보안 &amp; 개인 정보](https://portal.office.com/adminportal/home#/settings/security) 페이지로 이동 합니다. **암호 정책**옆에 있는 **편집** 을 선택 하 고 슬라이더를 **켜**세요.
+모든 암호가 만료 되지 않도록 설정 하려면 Microsoft 365 관리 센터에서 **Settings**  >  **조직 설정 > [보안 및 개인 정보](https://portal.office.com/adminportal/home#/settings/security)  >  [암호 만료 정책](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) ** 으로 이동 하 고 "일 후 사용자 암호가 만료 되도록 설정"을 선택 취소 합니다.
   
-자세한 내용은 다음을 참조 하세요. 
+자세한 내용은 다음을 참조 하세요.
 
 - [조직의 암호 만료 정책을 설정 합니다.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
