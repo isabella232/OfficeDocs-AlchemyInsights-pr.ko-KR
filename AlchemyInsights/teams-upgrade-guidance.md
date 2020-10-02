@@ -11,12 +11,12 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: d79518434904a8c26ae0e15fd1c23177b68a05af
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
+ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653555"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "48333934"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft 팀 업그레이드
 
