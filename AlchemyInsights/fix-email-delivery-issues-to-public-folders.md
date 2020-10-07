@@ -12,13 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.assetid: ''
-ms.openlocfilehash: da35ae4bd911fb75f23cc1c99aacbaa2392425dd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 74a26306766ed7952a3bbbcb06f1f0113a113024
+ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677934"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48366470"
 ---
 # <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>메일 사용이 가능한 공용 폴더에 대 한 전자 메일 배달 문제 해결
 
