@@ -4,7 +4,7 @@
 - 3500007
 ---
 
-# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR에 오류 코드가 있습니다. "554 5.2.2 mailbox full"
+# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR (오류 코드 554 5.2.2 사서함 가득 참)
 
 메일 사용이 가능한 공용 폴더에 전자 메일을 보낼 때 오류 코드 "554 5.2.2 mailbox full"로 NDR을 수신 하는 경우 다음을 수행 합니다.  
 
