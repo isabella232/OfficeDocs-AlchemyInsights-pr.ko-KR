@@ -2,8 +2,8 @@
 title: 거절 한 신용 카드
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,16 +14,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 0595b2502619bc59420cc86d276d1a7b872a9a77
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e060ffa586d7b2dc6b64d7fcd6a672645e09096
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745951"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416674"
 ---
 # <a name="declined-credit-card"></a>거절 한 신용 카드
 
-신용 카드로 결제하려다가 신용 카드가 거부된 경우에는 결제를 처리하지 못했다는 내용의 전자 메일을 받습니다. 신용 카드 [정보](https://go.microsoft.com/fwlink/p/?linkid=842054) -카드 번호, 만료 날짜, 신용 카드의 이름, 주소 (구/군/시, 시/도, 우편 번호 등)가 신용 카드 및 신용 카드 명세서와 정확히 일치 하는지 확인 합니다. 신용 카드 정보를 업데이트 하 고 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** 페이지의 요금 **분배** 옵션을 사용 하 여 결제를 즉시 제출할 수 있습니다. 
+신용 카드로 결제하려다가 신용 카드가 거부된 경우에는 결제를 처리하지 못했다는 내용의 전자 메일을 받습니다. 신용 카드 [정보](https://go.microsoft.com/fwlink/p/?linkid=842054) -카드 번호, 만료 날짜, 신용 카드의 이름, 주소 (구/군/시, 시/도, 우편 번호 등)가 신용 카드 및 신용 카드 명세서와 정확히 일치 하는지 확인 합니다. 신용 카드 정보를 업데이트 하 고 제품 청구 페이지의 **임금** **잔액** 옵션을 사용 하 여 결제를 즉시 제출할 수 있습니다  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 자세한 내용은 "신용 카드의 만료 및 지불 기한이 끝난 경우"를 참조 하세요. [Microsoft 365 for business 구독에 대 한 결제](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
   
