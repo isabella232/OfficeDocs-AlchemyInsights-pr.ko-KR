@@ -1,8 +1,8 @@
 ---
 title: Microsoft 구독 취소하기
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 50cac2ae491e0bea1a18a56cc78cd8d3105b3a40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12a2daf3cc68b85a26d29088315d1046ddf3cfb6
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683264"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416451"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Microsoft 구독 취소하기
 
-1. [서비스 및 구독](https://account.microsoft.com/services/)으로 이동하여 구독을 구매할 때 사용한 Microsoft 계정으로 로그인합니다.
+관리자는 Microsoft 365 관리 센터에서 조직의 구독을 취소할 수 있습니다. 
 
-2. 구독을 찾아 **관리**를 클릭합니다. **관리** 대신 **되풀이 청구 켜기**가 표시되면 문제 해결 섹션으로 건너뛰세요. 그렇지 않으면 3단계로 진행합니다.
+1. **청구**\> [사용자 제품](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하세요.
+2. **제품** 탭에서 취소하려는 구독을 찾으세요. **추가 작업**(점 3개)을 선택한 다음 **구독 취소**를 선택합니다.
+3. **구독 취소** 창에서 취소 이유를 선택합니다. 원하는 경우, 피드백을 제공하세요.
+4. **저장**을 선택합니다.
 
-3. 다음 페이지에서 구독 유형에 따라 **취소** 또는 **업그레이드 또는 취소**를 클릭합니다.
-
-4. 페이지의 지침에 따라 취소를 진행합니다.
+**환불:** 일할 계산된 크레딧은 다음 대금 청구 주기 안에 반환됩니다.
