@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: 0765262c04571e7df139de993611fd6e67068c54
-ms.sourcegitcommit: 45635cc7a6c36d6c7b5f78215ad32f2aa7e3aed0
+ms.openlocfilehash: ed62c6d7db0ae532f806ce4fdc48f42623bcd545
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "48394690"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48451384"
 ---
 # <a name="sendas-mail-enabled-public-folder"></a>SendAs Mail Enabled 공용 폴더
 
@@ -26,3 +26,4 @@ ms.locfileid: "48394690"
 Add-RecipientPermission-Id ' NewPF1 '-트러스티 "Jason"-AccessRights ' SendAs '
 
 자세한 구문 및 매개 변수 정보는 [메일 사용이 가능한 공용 폴더에 대해 "다른 사람 이름으로 보내기" 또는 "대신 보내기" 권한을](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs)참조 하세요.
+

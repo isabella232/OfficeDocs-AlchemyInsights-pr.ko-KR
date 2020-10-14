@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: e03f143f9f87313b7552d712c8865c6aeac21574
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dfce7bfb522f565dff3e1a63b024efbc0afb88c2
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768721"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48451478"
 ---
 # <a name="create-an-email-signature-in-outlook-on-the-web"></a>웹용 Outlook에서 전자 메일 서명 만들기
 

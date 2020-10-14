@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 882c2610502bdb67607a85a98c7aaa32aa77072b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f3587e5a53ea6ad7967fe4647952b4561f54e5d8
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728833"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452162"
 ---
 # <a name="spam-and-junk-email-in-outlookcom"></a>Outlook.com의 스팸 및 정크 메일
 

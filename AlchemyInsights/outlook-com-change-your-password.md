@@ -14,12 +14,12 @@ ms.custom:
 - "201"
 - "8000002"
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
-ms.openlocfilehash: be55be6a97b59ed4007b6779987fe3623f210f02
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f69fcd8330bbb86cbda67156e69abb6450ea160d
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752797"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452306"
 ---
 # <a name="change-your-password"></a>암호 변경
 

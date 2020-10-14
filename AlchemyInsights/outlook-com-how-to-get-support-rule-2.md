@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1326"
 - "8000080"
-ms.openlocfilehash: 626bb85ac5939db7fc3f4f130bcb73805248fe0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fe8a3956dbeff811935e976a8d75274f5e736482
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724045"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452126"
 ---
 # <a name="how-to-get-support-in-outlookcom"></a>Outlook.com에서 지원을 받는 방법
 
@@ -25,3 +25,4 @@ ms.locfileid: "47724045"
 질문을 입력 하거나 위의 **도움말** 상자에 문제를 설명 하 고 **도움말 보기**를 선택 합니다.
 
 [Outlook.com에 대 한 도움말 보기](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+

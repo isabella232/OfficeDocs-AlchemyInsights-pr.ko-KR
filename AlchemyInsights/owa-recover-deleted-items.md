@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "8000011"
 - "1996"
-ms.openlocfilehash: 532791077b30c3cc306ab15f87f9e1fc1fc4ffa1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 40ebd8a68aebb8d3638940e5263a03abf1ab342f
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721880"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48451514"
 ---
 # <a name="recover-deleted-email-in-outlook-on-the-web"></a>웹용 Outlook에서 삭제 된 전자 메일 복구
 

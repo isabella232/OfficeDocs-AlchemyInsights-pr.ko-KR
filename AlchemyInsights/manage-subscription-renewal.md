@@ -13,12 +13,12 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 17ec34814ffe59ba6370ea046494db6345eff499
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: c5f81c51ed73c70d98a02a0907fa394ddd1134db
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286928"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48451361"
 ---
 # <a name="manage-subscription-renewal"></a>구독 갱신 관리
 
@@ -30,3 +30,4 @@ ms.locfileid: "48286928"
 4. **저장**을 선택합니다.
 
 자세한 내용은 [되풀이 청구 해제 또는 설정](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)을 참조하세요.
+

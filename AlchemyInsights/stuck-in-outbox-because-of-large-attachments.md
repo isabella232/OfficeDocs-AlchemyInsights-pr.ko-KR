@@ -14,12 +14,12 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 8eddefaafaf22c53b0b5e4e461dae6009a0b10c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2185c1439d84a3beea00fe6849c1dae456131b96
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726637"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48451838"
 ---
 # <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>SaRA을 사용 하 여 보낼 편지함에 걸린 메시지 수정
 

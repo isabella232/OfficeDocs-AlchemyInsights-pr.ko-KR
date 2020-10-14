@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d8357eae3d8765df454922c50a86308253406d32
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 07e53a48a6846adc9f73eb5905ff6e6ee9744f53
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759153"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48451982"
 ---
 # <a name="change-your-profile-picture-in-outlook-on-the-web"></a>웹용 Outlook에서 프로필 사진 변경
 

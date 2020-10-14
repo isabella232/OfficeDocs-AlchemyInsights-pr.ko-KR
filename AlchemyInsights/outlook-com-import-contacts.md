@@ -14,12 +14,12 @@ ms.custom:
 - "278"
 - "8000019"
 ms.assetid: 921c5c7c-9a02-4682-9bd1-03ef9bb0fd6e
-ms.openlocfilehash: 3ba007f265e580196e23cb636cab029784e255d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c6cf2ee9677fdc3b29f1b29a4b29be71bd137a9
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724009"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452018"
 ---
 # <a name="import-contacts"></a>연락처 가져오기
 
@@ -31,3 +31,4 @@ ms.locfileid: "47724009"
 3. **찾아보기를**선택 하 고 내보낸 연락처를 저장 한 폴더로 이동한 다음 **열기**를 선택 합니다.
 
 자세한 내용은 [Outlook.com로 연락처 가져오기를](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1?wt.mc_id=Office_Outlook_com_Alchemy)참조 하십시오.
+

@@ -15,12 +15,12 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 8b610fad6789b57320c3d18d557f1d9e3b9ad65e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1aae4246168f76c1c9f263d99359c223a55a7bfc
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723757"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452090"
 ---
 # <a name="read-receipts"></a>읽음 확인
 
