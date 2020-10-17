@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: c5c66a4ed0891a7127bcf0730aedf6d8d125fdb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb72faa902a18f14d408ccabb8fc346f3bd3085d
+ms.sourcegitcommit: abb1acc29fadfaa6927f73af4452ba2cfc452fa2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724585"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48466010"
 ---
 # <a name="microsoft-lists"></a>Microsoft Lists
 
@@ -26,11 +26,15 @@ Microsoft는 Microsoft Lists의 첫 번째 단계인 Microsoft 365 앱을 출시
   
 **출시 시기**  
 
-- 대상 지정된 릴리스를 사용하는 조직에 대한 롤아웃이 시작되었습니다.
-- 2020년 10월 중반까지 모든 조직에 릴리스됩니다.
+- 대상 지정 릴리스를 사용하는 조직의 롤아웃이 완료되었습니다.
+- 표준 릴리스 조직에 대한 롤아웃이 시작되었고 2020년 11월 말에 완료됩니다.
 
-SharePoint 라이선스가 있는 사용자라면 누구나 Lists 아이콘이 표시되어 Microsoft Lists 사용을 시작할 수 있습니다. 현재는 관리자가 해당 기능을 해제할 수 없습니다.
- 
-Microsoft 365 앱 시작 관리자에서 Lists 아이콘을 선택합니다. 처음부터, 아니면 미리 빌드된 서식 파일을 사용하여 목록을 시작합니다. 또한 기존 목록에서 새 목록을 만들거나 Excel 데이터를 가져와서 목록을 만들 수 있습니다. 사용자가 소유하거나 사용자에게 공유된 목록을 비롯하여 즐겨찾기 목록과 최근 목록을 볼 수 있습니다. 개인 목록과 팀 목록을 모두 만들 수 있습니다.  
+SharePoint 라이선스가 있는 사용자라면 누구나 Lists 아이콘에 엑세스할 수 있고 Microsoft Lists 사용을 시작할 수 있습니다.
+
+Microsoft 365의 전역 또는 SharePoint 관리자는 Microsoft Lists의 설정을 컨트롤할 수 있습니다. 다음을 수행할 수 있습니다.
+
+개인 목록 만들기를 비활성화 할 수 있습니다.(사용자가 새 목록을 "내 목록"에 저장 하지 못하도록 합니다)
+조직과 관련 없는 기본 제공 목록 서식 파일을 사용하지 못하도록 할 수 있습니다.
+[컨트롤 목록](https://docs.microsoft.com/sharepoint/control-lists) 보기
 
 자세한 내용은 [Microsoft Lists](https://aka.ms/microsoftlists)를 참조하세요.
