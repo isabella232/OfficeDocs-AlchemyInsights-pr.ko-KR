@@ -14,12 +14,12 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 935508b3084aee0613d2bd1c2f26a437390f8640
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287350"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801521"
 ---
 # <a name="advanced-hunting-custom-detections"></a>고급 구하기 사용자 지정 검색
 
@@ -30,6 +30,6 @@ Microsoft Defender ATP를 사용 하는 경우 자세한 내용은 다음 항목
 - [사용자 지정 검색 규칙 만들기](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
 - [사용자 지정 검색 규칙 보기 및 관리](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Microsoft Threat Protection을 사용 하는 경우 자세한 내용은 다음 항목을 참조 하십시오. 
+Microsoft 365 Defender를 사용 하는 경우 자세한 내용은 다음 항목을 참조 하십시오. 
 - [사용자 지정 검색 개요](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
 - [사용자 지정 검색 규칙 만들기 및 관리](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)

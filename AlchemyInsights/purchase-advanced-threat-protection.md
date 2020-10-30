@@ -1,5 +1,5 @@
 ---
-title: Office 365 Advanced Threat Protection 구매
+title: Office 365 용 Microsoft Defender 구매
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693561"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801153"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection 구매
+# <a name="purchase-microsoft-defender-for-office-365"></a>Office 365 용 Microsoft Defender 구매
 
-Office 365 ATP (Advanced Threat Protection)는 Microsoft 365 E5, Office 365 E5, Office 365 A5, Microsoft 365 Business Premium과 같은 특정 구독에 포함 되어 있습니다. 구독에 Office 365 ATP가 포함 되어 있지 않은 경우 [Atp 계획 1 또는 Atp 계획 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) 를 특정 구독에 대 한 추가 기능으로 구입할 수 있습니다. Microsoft 365 관리 센터에서 구입 하려면 다음을 수행 합니다.
+Microsoft Defender for Office 365 (ATP)는 Microsoft 365 E5, Office 365 E5, Office 365 A5, Microsoft 365 Business Premium과 같은 특정 구독에 포함 되어 있습니다. 구독에 Office 365 ATP가 포함 되어 있지 않은 경우 [Atp 계획 1 또는 Atp 계획 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) 를 특정 구독에 대 한 추가 기능으로 구입할 수 있습니다. Microsoft 365 관리 센터에서 구입 하려면 다음을 수행 합니다.
 
 1. **결제**   >   [구매 서비스로](https://go.microsoft.com/fwlink/p/?linkid=868433)이동 합니다.
 2. 관심을 가질 **수 있는 다른 범주의** **추가** 기능 페이지를 선택 합니다.
