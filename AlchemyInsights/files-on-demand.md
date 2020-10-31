@@ -13,20 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "6432"
 - "9003530"
-ms.openlocfilehash: e0ba83778179abefe3ac4fe3e8ab0303d65ad929
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e3da81ee048c6257e05b998c0f457fa433738fd
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745303"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791300"
 ---
 # <a name="configure-files-on-demand"></a>요청 기반 파일 관리 구성하기
+
+OneDrive 요청 기반 파일 관리에는 [Windows 10 Fall Creators Update](https://go.microsoft.com/fwlink/p/?linkid=859040) (버전 1709 이상) 또는 Windows Server 2019 및 OneDrive 빌드 17.3.7064.1005 이상이 필요합니다.
 
 OneDrive 요청 기반 파일 관리를 이용하면 파일을 다운로드하고 장치의 저장 공간을 사용하지 않아도 OneDrive의 모든 파일에 액세스할 수 있습니다.
 
 PC에서 요청 기반 파일 관리를 구성하려면:
 
-1. Windows 작업 표시줄 알림 영역에서 흰색 또는 파란색 **OneDrive** 구름 아이콘을 선택합니다. **도움말 및 설정** 톱니바퀴 아이콘 > **설정**을 선택합니다.
+1. Windows 작업 표시줄 알림 영역에서 흰색 또는 파란색 **OneDrive** 구름 아이콘을 선택합니다. **도움말 및 설정** 톱니바퀴 아이콘 > **설정** 을 선택합니다.
 2. **설정** 탭에서 **공간을 절약하고 사용할 때 파일 다운로드** 확인란을 선택합니다.  
 
 레지스트리를 사용하여 요청 기반 파일 관리를 구성할 수도 있습니다.
