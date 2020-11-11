@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: 0c8663cd6b6e6e344282abadfc80e6a40127f463
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
+ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675592"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48947418"
 ---
 # <a name="lists-app-in-teams"></a>Teams에서 앱 나열
 
-Microsoft Teams의 Lists 앱은 SharePoint 사이트의 목록을 채널의 협업 및 팀워크 캔버스로 가져옵니다. 이 앱을 통해 최종 사용자는 Teams 내에서 즐겨찾기 목록에 대해 작업할 수 있습니다.  
+Microsoft Teams의 Lists 앱은 SharePoint 사이트의 목록을 채널의 협업 및 팀워크 캔버스로 가져옵니다. 이 앱을 통해 최종 사용자는 Teams 내에서 즐겨찾기 목록에 대해 작업할 수 있습니다.
 
-이 기능은 기본값 켜짐을 제공합니다. 목록은 모든 Teams 사용자를 위해 미리 설치되어 있으며 모든 Teams 및 채널의 탭 갤러리에서 직접 사용할 수 있습니다.  
+목록은 모든 Teams 사용자를 위해 미리 설치되어 있으며 모든 팀 및 채널의 탭 갤러리에서 직접 사용할 수 있습니다.
 
-Teams 관리자는 Microsoft Teams 권한 정책을 사용하여 앱의 가용성을 제어할 수 있습니다. 자세한 내용은 [Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)에서 앱 사용 권한 정책 관리를 참조하시기 바랍니다.
+Teams 관리자는 Microsoft Teams 권한 정책을 사용하여 앱의 가용성을 제어할 수 있습니다. 자세한 내용은 [Microsoft Teams에서 앱 사용 권한 정책 관리](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)를 참조하세요.
 
-**시간 지정:** 9월 초순 및 2020년 10월 중순까지 완료  
+**시간:** 2020년 9월 초순 및 10월 중순까지 완료  
 
 **롤아웃:** 조직 수준  
 
@@ -36,7 +36,7 @@ Teams 관리자는 Microsoft Teams 권한 정책을 사용하여 앱의 가용�
 
 **액션:** 검토 및 평가
 
-자세한 내용은 다음을 참조하시기 바랍니다. 
+자세한 내용은 다음을 참조하시기 바랍니다.
 
 - [Microsoft 목록 발표 - Microsoft 365](https://techcommunity.microsoft.com/t5/microsoft-365-blog/announcing-microsoft-lists-your-smart-information-tracking-app/ba-p/1372233)에서 스마트 정보 추적 앱
 - [Teams 최종 사용자 설명서의 목록](https://support.microsoft.com/office/get-started-with-lists-in-microsoft-taeams-c971e46b-b36c-491b-9c35-efeddd0297db)
