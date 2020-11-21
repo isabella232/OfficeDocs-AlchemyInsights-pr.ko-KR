@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 5837013a71648d5d53cd215c3e3489f3de5528d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ddd74f3875a586b4fbf49db2f01c8efb180cb005
+ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685748"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49353476"
 ---
-# <a name="block-download-on-sharing-links"></a><span data-ttu-id="f630a-102">공유 링크에서 다운로드 차단</span><span class="sxs-lookup"><span data-stu-id="f630a-102">Block download on sharing links</span></span>
+# <a name="block-download-on-sharing-links"></a><span data-ttu-id="7ca5c-102">공유 링크에서 다운로드 차단</span><span class="sxs-lookup"><span data-stu-id="7ca5c-102">Block download on sharing links</span></span>
 
-<span data-ttu-id="f630a-103">**다운로드 차단**은 Office 문서의 **보기 전용 링크**에만 사용 가능합니다.</span><span class="sxs-lookup"><span data-stu-id="f630a-103">**Block download** is available for **view-only links** to Office documents.</span></span> <span data-ttu-id="f630a-104">해당 옵션을 선택하면, 링크를 통한 파일 액세스가 허용된 사용자에게 더 이상 파일 다운로드, 프린트 또는 복사 옵션이 보이지 않게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="f630a-104">When you select this option, people who gain access to the file via the link you created will not see options to download, print, or copy the file.</span></span>
+<span data-ttu-id="7ca5c-103">OneDrive 또는 Microsoft Office SharePoint Online에서 다른 사용자와 항목을 공유할 경우 볼 수 있는 액세스 권한을 부여할 수 있지만 다운로드할 수는 없습니다.</span><span class="sxs-lookup"><span data-stu-id="7ca5c-103">When you share items with others in OneDrive or SharePoint, you can give them access to view, but not download.</span></span>
 
-<span data-ttu-id="f630a-105">관리자는 `BlockDownloadLinksFileType`[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) 또는 [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) PowerShell cmdlets에서 설정을 변경하여 “다운로드 차단” 설정이 Office 파일에서만 보이도록 할지 여부를 제어할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f630a-105">Administrators can control whether the "block download" setting appears only for Office files or not by changing the `BlockDownloadLinksFileType` setting in the [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) or [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) PowerShell cmdlets.</span></span>
+<span data-ttu-id="7ca5c-104">자세한 내용은 [Microsoft Office SharePoint Online 및 OneDrive에서 Office 파일에 대한 민감도 레이블 사용](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="7ca5c-104">For more information, see: [Block downloads for view-only files in SharePoint and OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)</span></span>
