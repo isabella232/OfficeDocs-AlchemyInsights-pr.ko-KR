@@ -15,12 +15,12 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 5544ea676412d26b87bcf4c20637910f3a4d20c4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086314"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49528988"
 ---
 # <a name="documents-opening-in-read-only"></a>읽기 전용으로 여는 문서
 
