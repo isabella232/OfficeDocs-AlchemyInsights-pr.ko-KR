@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947418"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477469"
 ---
 # <a name="lists-app-in-teams"></a>Teams에서 앱 나열
 
@@ -28,11 +28,7 @@ Microsoft Teams의 Lists 앱은 SharePoint 사이트의 목록을 채널의 협�
 
 Teams 관리자는 Microsoft Teams 권한 정책을 사용하여 앱의 가용성을 제어할 수 있습니다. 자세한 내용은 [Microsoft Teams에서 앱 사용 권한 정책 관리](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)를 참조하세요.
 
-**시간:** 2020년 9월 초순 및 10월 중순까지 완료  
-
-**롤아웃:** 조직 수준  
-
-**제어 유형** Teams 관리자 컨트롤  
+**제어 유형:** Teams 관리자 컨트롤  
 
 **액션:** 검토 및 평가
 
