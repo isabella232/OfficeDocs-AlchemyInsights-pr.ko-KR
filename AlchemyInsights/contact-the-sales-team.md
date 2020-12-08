@@ -12,18 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 5f5920c31de3da1b9fe50f4d8ad6de1794b603f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733297"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529024"
 ---
-# <a name="contact-the-sales-team"></a><span data-ttu-id="e11a6-102">영업 팀에 문의</span><span class="sxs-lookup"><span data-stu-id="e11a6-102">Contact the Sales Team</span></span>
+# <a name="contact-the-sales-team"></a><span data-ttu-id="e6b08-102">영업 팀에 문의</span><span class="sxs-lookup"><span data-stu-id="e6b08-102">Contact the Sales Team</span></span>
 
-<span data-ttu-id="e11a6-103">Microsoft Graph 커넥터를 사용하여 조직은 Microsoft 검색 결과에 표시되는 타사 데이터를 색인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="e11a6-103">With Microsoft Graph connectors, your organization can index third-party data to appear in Microsoft Search results.</span></span>
+<span data-ttu-id="e6b08-103">Microsoft 365 영업 팀에 문의하는 방법에는 여러 가지가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="e6b08-103">There are a number of ways to contact the Microsoft 365 Sales Team.</span></span>
 
-- [<span data-ttu-id="e11a6-104">Microsoft의 커넥터</span><span class="sxs-lookup"><span data-stu-id="e11a6-104">Connectors by Microsoft</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [<span data-ttu-id="e11a6-105">당사 파트너의 커넥터</span><span class="sxs-lookup"><span data-stu-id="e11a6-105">Connectors by our Partners</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-<span data-ttu-id="e11a6-106">자세한 내용은 [Microsoft Graph 커넥터 개요](https://docs.microsoft.com/microsoftsearch/connectors-overview)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="e11a6-106">For more info, see [Overview of Microsoft Graph connectors](https://docs.microsoft.com/microsoftsearch/connectors-overview).</span></span>
+- <span data-ttu-id="e6b08-104">[문의처](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409) 양식을 사용하면 Microsoft 365 영업 전문가로부터 연락을 받을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="e6b08-104">Use the  [Contact Us](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  form to have a Microsoft 365 sales expert contact you.</span></span>
+- <span data-ttu-id="e6b08-105">기업계약 볼륨 라이선싱 전문가에게 문의하려면  [볼륨 라이선싱 서비스 센터](https://go.microsoft.com/fwlink/p/?LinkId=329762) 포털에서 시작하세요.</span><span class="sxs-lookup"><span data-stu-id="e6b08-105">To contact an Enterprise Agreement Volume Licensing expert, start with the  [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=329762) portal.</span></span>
