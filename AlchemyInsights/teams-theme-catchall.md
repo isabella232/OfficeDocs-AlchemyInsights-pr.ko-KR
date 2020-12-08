@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams를 처음 사용하는 분
+title: Microsoft Teams 설정
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 65c6744b152e73310fb094bb2612dff77da82223
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750421"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576257"
 ---
-# <a name="new-to-microsoft-teams"></a>Microsoft Teams를 처음 사용하는 분
+# <a name="set-up-microsoft-teams"></a>Microsoft Teams 설정
 
- [Microsoft Teams 시작](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)을 확인하세요. Microsoft Teams IT 관리자 교육 비디오, 데크, 그리고 그 밖의 다양한 정보를 확인하세요.
+[Microsoft Teams 설정 가이드](https://aka.ms/teamsguidance) 회사에 팀 및 개인 통신을 위한 메시지 전송, 전화 통화, 오디오 또는 비디오 회의를 통해 실시간 대화를 호스트하는 팀 작업 영역에 관한 설정 지침을 제공합니다. Teams 관리 센터에서 네트워크 플래너 도구와 Teams용 어드바이저를 사용하여 회사의 네트워크 요구 사항을 확인하는 지침을 받을 수 있습니다. 배포가 완료되면 Teams 사용에 유용한 리소스를 포함하는 가이드를 볼 수 있습니다.
 
-COVID-19로 인해 원격 작업자(WFH)를 지원하도록 Teams를 팀을 배포할 때 도움이 필요한 경우 [Microsoft Teams를 사용하여 원격 작업자 지원](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)을 검토하세요. 또한 Microsoft 365 FastTrack 프로그램에서 배포 지원을 받을 수 있습니다. [FastTrack Center](https://www.microsoft.com/fasttrack)를 방문하여 요청을 제출하세요.
-
-**중요**: Teams의 사용량이 크게 증가하여 Teams 라이선스를 사용자에게 할당할 경우 완전히 설정할 때까지 24시간 정도 걸릴 수 있습니다. 그런 다음, Teams 정책을 할당할 수 없으며 전화 및 오디오 회의와 같은 일부 Teams 기능에 액세스하지 못할 수 있습니다.
+자세한 내용은 [Microsoft Teams 시작](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)에서 참고하세요.
