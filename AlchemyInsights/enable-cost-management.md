@@ -1,0 +1,61 @@
+---
+title: 비용 관리 사용
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 12/03/2020
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9003547"
+- "6463"
+ms.openlocfilehash: 0bbf1158f7f5fa8a22cfe7242c86760057fc7bab
+ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49599082"
+---
+# <a name="enable-cost-management"></a>비용 관리 사용
+
+**'조직에 대해 비용이 사용하지 않도록 설정되어 있습니다.'는 무엇을 의미하나요?**
+
+EA(기업계약) 또는 MCA(Microsoft 고객 계약) 계정을 사용하는 조직은 비용 정보 및 가격 정보에 대한 액세스를 사용하지 않도록 설정할 수 있습니다.
+
+Azure Portal에 로그인한 후 청구 API를 사용하여 프로그래밍식으로 송장(옵트인) 및 사용 세부 정보를 받을 수 있습니다.
+
+**추가 사용자가 송장에 액세스하도록 허용하는 방법**
+
+1. Azure **Portal에서 구독** 블레이드로 이동하세요.
+2. Select **Invoices** and then **Access to invoices.**
+3. 구독 범위 역할의 사용자가 송장을 다운로드할 수 있도록 액세스를 켜고 변경 내용을 저장합니다.
+
+> [!NOTE]
+> 계정 관리자는 전자 메일을 통해 송장을 보내도록 구성할 수도 있습니다. To learn more, see [Get your invoice in email.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
+
+**청구 독자 역할에 사용자를 추가하는 방법**
+
+1. Azure **Portal에서 구독 블레이드로** 이동하세요.
+2. **IAM(액세스 제어)을** 선택하고 추가를 **클릭합니다.**
+3. 역할 **선택 페이지에서** 청구 **독자를** 선택합니다.
+4. 초대할 사용자의 전자 메일을 입력한 다음 **확인을** 클릭하여 초대를 보낼 수 있습니다.
+5. 초대 전자 메일에 제공된 지침에 따라 청구 독자로 로그인합니다. 자세한 내용은 청구에 대한 액세스 권한 [부여를 참조하세요.](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in)
+
+**권장 문서**
+
+- [EA 포털을 통해 DA 및 AO 보기 사용](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
+- [비용 관리에 포함된 비용](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#costs-included-in-cost-management)
+- [지원되는 Microsoft Azure 제품](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
+- [비용 분석의 비용 검토](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)
+- [청구 정보에 대한 액세스 제공](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Microsoft 고객 계약에 대한 액세스 확인](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+
+
+
+
+
+
