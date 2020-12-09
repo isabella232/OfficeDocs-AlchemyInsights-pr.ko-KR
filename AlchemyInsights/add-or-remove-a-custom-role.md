@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6176"
 - "9003232"
-ms.openlocfilehash: d0b5c17901d7953455c0deb6898addcdf1faf4d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8a43f20155f3bc726395841550903167bef3a6d0
+ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688088"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49599420"
 ---
 # <a name="add-or-remove-a-custom-role"></a>사용자 지정 역할 추가 또는 제거
 
