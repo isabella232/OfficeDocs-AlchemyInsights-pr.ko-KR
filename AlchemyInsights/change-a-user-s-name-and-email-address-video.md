@@ -1,5 +1,5 @@
 ---
-title: 이름 및 전자 메일 주소 변경
+title: 사용자 이름 및 전자 메일 주소 변경
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,16 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
-- "17"
+- "7601"
 - "4"
-ms.openlocfilehash: 5f76ab1f3cec5cdf17cb8fa0aea179f29e271663
+ms.openlocfilehash: dec26ee6c3266feedc39a1c1a6af0b3f1a7a2413
 ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683908"
+ms.locfileid: "49684000"
 ---
-# <a name="change-a-name-and-email-address"></a>이름 및 전자 메일 주소 변경
+# <a name="change-a-users-name-and-email-address"></a>사용자 이름 및 전자 메일 주소 변경
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1SJuc?autoplay=false]
 
 Microsoft 365에서 사용자의 이름 및 전자 메일 주소를 쉽게 변경할 수 있습니다. 사용자 활성 **사용자** 페이지로 이동하여 정보를 \> [](https://go.microsoft.com/fwlink/p/?linkid=834822) 편집할 사용자를 선택합니다. 또한 이 문서를 단계별 지침에 사용할 수 있습니다.
   
