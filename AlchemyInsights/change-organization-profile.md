@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: c6a9943aae9ba345b78cc3a91977b984fc8b4cad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682094"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726399"
 ---
-# <a name="change-organization-profile"></a><span data-ttu-id="5886e-102">조직 프로필 변경</span><span class="sxs-lookup"><span data-stu-id="5886e-102">Change Organization profile</span></span>
+# <a name="change-organization-profile"></a><span data-ttu-id="92b7c-102">조직 프로필 변경</span><span class="sxs-lookup"><span data-stu-id="92b7c-102">Change Organization profile</span></span>
 
-<span data-ttu-id="5886e-103">조직 프로필 설정 페이지의 관리 센터에서 회사 이름, 주소, 기술 담당자 정보 등을 변경 **Settings**  >  [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339) 합니다.</span><span class="sxs-lookup"><span data-stu-id="5886e-103">Change your company name, address, technical contact information, and more in the admin center on the **Settings** > [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339) page.</span></span>
+<span data-ttu-id="92b7c-103">설정 조직 설정 조직 프로필 탭의 관리 센터에서 회사 이름, 주소, 기술 담당자 정보 등  >    >  [](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) 변경합니다.</span><span class="sxs-lookup"><span data-stu-id="92b7c-103">Change your company name, address, technical contact information, and more in the admin center on the **Settings** > **Org Settings** > [Organizational profile](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) tab.</span></span>
 
-<span data-ttu-id="5886e-104">변경 내용을 저장할 수 있도록 하려면 \*로 표시 된 필수 필드를 모두 입력 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="5886e-104">Be sure to fill in all required fields marked with an \* to enable saving your changes.</span></span>
+<span data-ttu-id="92b7c-104">변경 내용을 저장하려면 \*로 표시된 필수 필드를 모두 입력해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="92b7c-104">Be sure to fill in all required fields marked with an \* to enable saving your changes.</span></span>
 
-<span data-ttu-id="5886e-105">[주소 또는 청구 주소 변경에 대 한 추가 정보를 참조](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)하세요.</span><span class="sxs-lookup"><span data-stu-id="5886e-105">[See more information on address or billing address changes](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).</span></span>
+<span data-ttu-id="92b7c-105">주소 또는 대금 청구 주소 변경에 대한 [자세한 내용을 참조하세요.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)</span><span class="sxs-lookup"><span data-stu-id="92b7c-105">[See more information on address or billing address changes](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).</span></span>
