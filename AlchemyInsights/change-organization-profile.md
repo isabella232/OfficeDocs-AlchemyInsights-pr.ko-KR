@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: c6a9943aae9ba345b78cc3a91977b984fc8b4cad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682094"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726399"
 ---
 # <a name="change-organization-profile"></a>조직 프로필 변경
 
-조직 프로필 설정 페이지의 관리 센터에서 회사 이름, 주소, 기술 담당자 정보 등을 변경 **Settings**  >  [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339) 합니다.
+설정 조직 설정 조직 프로필 탭의 관리 센터에서 회사 이름, 주소, 기술 담당자 정보 등  >    >  [](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) 변경합니다.
 
-변경 내용을 저장할 수 있도록 하려면 *로 표시 된 필수 필드를 모두 입력 해야 합니다.
+변경 내용을 저장하려면 *로 표시된 필수 필드를 모두 입력해야 합니다.
 
-[주소 또는 청구 주소 변경에 대 한 추가 정보를 참조](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)하세요.
+주소 또는 대금 청구 주소 변경에 대한 [자세한 내용을 참조하세요.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)

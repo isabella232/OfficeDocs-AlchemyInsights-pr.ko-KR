@@ -1,5 +1,5 @@
 ---
-title: 삭제 된 eeam 또는 channel을 복원 하는 방법
+title: 삭제된 팀 또는 채널을 복원하는 방법
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: 4aee5c31fab7475def30a99a68848934febcfee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705017"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726430"
 ---
-# <a name="how-to-restore-a-deleted-team-or-channel"></a>삭제 된 팀 또는 채널을 복원 하는 방법
+# <a name="how-to-restore-a-deleted-team-or-channel"></a>삭제된 팀 또는 채널을 복원하는 방법
 
-자세한 내용은 [Microsoft 팀에서 삭제 된 팀 복원을](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams)참조 하세요.
+팀 내의 삭제된 채널은 채널이 삭제된 후 최대 21일 동안 복원할 수 있습니다.
 
-팀 내에서 삭제 된 채널은 채널을 삭제 한 후 최대 21 일까 지 복원할 수 있습니다.
+삭제된 채널을 복구하려면 팀 소유자가 다음을 할 수 있습니다.
 
-팀 소유자는 삭제 된 채널을 복구 하기 위해 다음을 수행할 수 있습니다.
+1. 팀 이름 오른쪽에 있는 3개의 점을 선택하여 팀 설정을 열 수 있습니다.
+2. Select **Manage team**  >  **Channels**  >  **Deleted,** and then select **Restore** on the right.
 
-1. 팀 이름 오른쪽에 있는 3 개의 점을 선택 하 여 팀 설정을 엽니다.
-2. 삭제 된 **팀**  >  **채널**관리를 선택 하  >  **Deleted**고 오른쪽에서 **복원을** 선택 합니다.
-
-자세한 내용은 [Microsoft 팀에서 삭제 된 팀 복원을](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams)참조 하세요.
+팀을 복원하는 데 대한 자세한 내용은 Microsoft Teams - Microsoft Teams에서 팀 보관 또는 삭제를 [참조하세요. | Microsoft Docs.](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)
