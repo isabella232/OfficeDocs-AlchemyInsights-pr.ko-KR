@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: 9132b5ed851ba06b90f22adc6f47583064e60e92
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49707889"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755805"
 ---
 # <a name="make-immediate-payment---recommended-steps"></a>즉시 결제 - 권장 단계
+
+문제 설명에 따라 해결 방법을 찾은 것입니다. 대부분의 고객은 설명서를 따라 문제를 직접 해결할 수 있습니다.
 
 즉시 지급을 원할 경우 지난 기한의 미지급액을 해결해야 합니다. 지급을 받지 못하거나 결제를 처리하지 못하면 계정 센터 또는 Azure Portal에서 전자 메일을 받거나 지난 미지불 알림이 표시될 수 있습니다. 
 

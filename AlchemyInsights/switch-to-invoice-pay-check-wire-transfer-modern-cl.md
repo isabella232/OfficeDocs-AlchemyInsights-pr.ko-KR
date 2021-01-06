@@ -1,5 +1,5 @@
 ---
-title: 송장 결제로 전환(수표/전신 송금) - 최신 CL
+title: 송장으로 결제로 전환(수표/전신 송금)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49693398"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755472"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>송장 결제로 전환(수표/전신 송금) - 최신 CL
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>송장으로 결제로 전환(수표/전신 송금)
 
-송장으로 결제로 전환하면 송장 날짜 30일 이내에 청구서를 결제하게 됩니다. Azure 구독 요금을 송장으로 결제할 자격이 되기 위해 Azure 지원에 요청을 제출합니다. 요청이 승인되면 Azure Portal에서 구독을 송장 결제로 전환할 수 있습니다.
+문제 설명에 따라 해결 방법을 찾은 것입니다. 대부분의 고객은 설명서를 따라 문제를 직접 해결할 수 있습니다.
+
+송장으로 결제로 전환하면 송장 날짜 30일 이내에 청구서를 결제하게 됩니다. 송장으로 Azure 구독 비용을 지불할 자격이 되기 위해 Azure 지원에 요청을 제출합니다. 요청이 승인되면 Azure Portal에서 구독을 송장 결제로 전환할 수 있습니다.
 
 **계속하기 전에 송장 결제 옵션 요청에 대한 다음 요구 사항/제한 사항을 검토하세요.**
 
@@ -40,7 +42,7 @@ ms.locfileid: "49693398"
 4. 청구 프로필 *메뉴에서* 결제 **방법을 선택합니다.**
 5. 수표/전신 송금으로 결제할 자격이 있는 배너를 선택합니다.
 
-**권장 문서**
+**추천 문서**
 
 - [Azure 청구 송장 및 사용 현황 데이터 요청/다운로드/보기](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Azure 송장을 받은 편지함으로 직접 전자 메일로 전송하는 방법](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)

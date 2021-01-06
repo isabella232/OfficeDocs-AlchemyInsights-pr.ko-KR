@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49709818"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755625"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Azure Portal의 결제 송장 - 권장 단계
+
+문제 설명에 따라 해결 방법을 찾은 것입니다. 대부분의 고객은 설명서를 따라 문제를 직접 해결할 수 있습니다.
 
 Azure Portal에서 송장을 결제하려면 청구 계정 관리자 되어야 합니다. 청구 계정 관리자는 원래 Microsoft 고객 계약 계정에 등록한 사용자입니다. 
 
 Azure Portal에서 송장을 결제하는 경우: 
 
 1. [Azure 포털](https://portal.azure.com/)에 로그인합니다.
-1. 비용 관리 **+ 청구 검색.**
+1. **비용 관리 + 청구** 검색
 1. 왼쪽 창의 청구 **아래에서** **송장을 클릭합니다.**
 1. If any of your invoices are due or past due, you'll see a blue **Pay now** link for that invoice. 지금 **결제를 클릭합니다.**
 1. 새 블레이드에서 결제  방법을 선택하여 기존 신용 카드를 선택하거나 새 신용 카드를 추가합니다.

@@ -1,5 +1,5 @@
 ---
-title: 관리자 추가 및 관리 방법 - 권장 단계
+title: 관리자를 추가 및 관리하는 방법 - 권장 단계
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 142bf1474ac0e0eac5cecb9dddd35e28b6b6631e
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599520"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755841"
 ---
-# <a name="how-to-add-and-manage-adminstrators---recommended-steps"></a>관리자 추가 및 관리 방법 - 권장 단계
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>관리자를 추가 및 관리하는 방법 - 권장 단계
+
+문제 설명에 따라 해결 방법을 찾은 것입니다. 대부분의 고객은 설명서를 따라 문제를 직접 해결할 수 있습니다.
 
 **구독 관리자 또는 공동 관리자 편집**
 
@@ -41,7 +43,7 @@ ms.locfileid: "49599520"
 
 1. [Azure Portal에 서비스](https://ms.portal.azure.com/#home) 관리자로 로그인합니다.
 2. 구독을 [열고](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) 구독을 선택합니다. 공동 관리자에게는 구독 범위에서만 할당할 수 있습니다.
-3. **IAM(액세스 제어)** 클래식 관리자로 이동하여 공동 관리자 추가를 추가하여 공동 관리자 추가 창을 열 수 있습니다(공동 관리자 추가 옵션을 사용하지 않도록 설정하면 권한이 없다는  >  **Classic administrators**  >  **Add**  >  **Add co-administrator** 것입니다). **Add co-admin**
+3. **IAM(액세스 제어)** 클래식 관리자 추가 공동 관리자를 추가하여 공동 관리자 추가 창을 열 수 있습니다(공동 관리자 추가 옵션을 사용하지 않도록 설정한 경우 권한이 없다는  >    >    >   것입니다). 
 4. 추가할 사용자를 선택하고 추가를 **클릭합니다.**
 
 **더 알아보세요:**
@@ -56,7 +58,7 @@ ms.locfileid: "49599520"
 새 사용자를 추가하거나 Azure AD(Azure Active Directory) 조직에서 기존 사용자를 삭제할 수 있습니다.
 
 1. 새 사용자를 추가하려면 [Azure Portal에](https://ms.portal.azure.com/#home) 조직의 사용자 관리자로 로그인합니다.
-2. **Azure Active Directory를 선택하고** 사용자를 선택한 다음 새 사용자를 **클릭합니다.** **Users**
+2. **Azure Active Directory를 선택하고** 사용자를 선택한 다음 새 사용자를 **클릭합니다.** 
 3. 사용자 **페이지에서** 필요한 정보를 입력합니다. **만들기** 를 클릭합니다. 사용자가 만들어지며 Azure AD 테넌트에 추가됩니다.
 
 **자세한 내용은 다음을 다국어로 추가합니다.**

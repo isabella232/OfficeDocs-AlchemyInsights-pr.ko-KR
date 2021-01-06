@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: 436914e63e7fe28af371d1d50ff22a5e1b9d8b82
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: d5811b18e16a4b98cf507a79f212768c009b96b2
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49709815"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755482"
 ---
 # <a name="add-another-enterprise-administrator---recommended-steps"></a>다른 엔터프라이즈 관리자 추가 - 권장 단계
+
+문제 설명에 따라 해결 방법을 찾은 것입니다. 대부분의 고객은 설명서를 따라 문제를 직접 해결할 수 있습니다.
 
 엔터프라이즈 등록 시 여러 엔터프라이즈 관리자가 있을 수 있습니다.
 
