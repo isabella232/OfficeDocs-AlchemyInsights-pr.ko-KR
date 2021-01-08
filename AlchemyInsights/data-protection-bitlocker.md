@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768823"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778199"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Intune을 사용하여 Bitlocker 암호화 사용
 
- Intune 끝점 보호 정책을 사용하여 Windows 장치에 대한 Bitlocker 암호화 설정을 구성할 수 있습니다. 자세한 내용은 Intune을 사용하여 디바이스를 보호하는 [Windows 10 이상 설정을 참조하세요.](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)
- 
+Intune 끝점 보호 정책을 사용하여 Windows 장치에 대한 Bitlocker 암호화 설정을 구성할 수 있습니다. 자세한 내용은 Intune을 사용하여 디바이스를 보호하는 [Windows 10 이상 설정을 참조하세요.](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)
+
+Endpoint Protection 정책 외에도 디바이스의 암호화 상태에 대한 자세한 보기를 제공하는 암호화 보고서도 있습니다. 이 보고서는 장치 및 장치 > 아래 MEM 포털에서 액세스한 다음 구성 선택 암호화 **보고서에서** 액세스할 [수 있습니다.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport) 
+
+Bitlocker를 예상대로 사용하도록 설정하지 못하거나 Bitlocker를 사용하도록 설정하는 데 사용되는 프로필이 오류 상태인 경우 암호화 보고서를 검토하여 동작이 발생하는 이유를 더 잘 이해하세요.
+
+다양한 암호화 상태 값을 포함하여 보고서를 해석하는 방법에 대한 자세한 내용은 Intune을 사용하여 장치 암호화 [모니터링을 참조하세요.](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)
+
 Windows 10을 실행하는 많은 새 장치는 MDM 정책을 적용하지 않고 트리거되는 자동 Bitlocker 암호화를 지원해야 합니다. 기본 설정이 아닌 설정이 구성된 경우 정책 적용에 영향을 줄 수 있습니다. 자세한 내용은 다음 FAQ를 참조합니다.
- 
+
 BitLocker 문제 해결에 대한 자세한 내용은 [Microsoft Intune에서 BitLocker 정책 문제 해결을 참조하세요.](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)
  
  
