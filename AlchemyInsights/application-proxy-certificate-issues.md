@@ -3,7 +3,7 @@ title: 응용 프로그램 프록시 및 인증서 문제
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/13/2021
+ms.date: 01/15/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7799"
 - "9004356"
-ms.openlocfilehash: 753d1ff2b4b803072bab0edca0331ff65a4a2c0b
-ms.sourcegitcommit: 9dbce0b688224ddd6b50ebe5d9cd1ef58bfec7b9
+ms.openlocfilehash: 743350ef31ee45f339086fb39a05835a71fabafa
+ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49844997"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49875109"
 ---
 # <a name="application-proxy-and-certificate-issues"></a>응용 프로그램 프록시 및 인증서 문제
 
-대부분의 사용자는 아래 문서를 사용하여 응용 프로그램 프록시 및 인증서 문제를 해결할 수 있습니다. 이 문서에는 권장 되는 문서의 이름이 나와 있습니다.
+응용 프로그램 프록시 및 인증서 문제를 해결해야 하는 경우 다음 문서를 참조하세요.
 
 **추천 문서**
 
