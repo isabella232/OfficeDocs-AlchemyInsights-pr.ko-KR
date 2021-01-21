@@ -12,15 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 955797530f53d22c7c225ce0a32d686a00215219
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
+ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748250"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "49911773"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a><span data-ttu-id="9f5b6-102">Microsoft 365 그룹의 도메인 변경</span><span class="sxs-lookup"><span data-stu-id="9f5b6-102">Change the domain for Microsoft 365 Group</span></span>
+# <a name="change-the-domain-for-a-microsoft-365-group"></a><span data-ttu-id="b4226-102">Microsoft 365 그룹의 도메인 변경</span><span class="sxs-lookup"><span data-stu-id="b4226-102">Change the domain for a Microsoft 365 Group</span></span>
 
-<span data-ttu-id="9f5b6-103">만드는 동안 Microsoft 365 그룹의 도메인을 변경 하려면 [microsoft 365 그룹을 만들 때 사용할 도메인 선택](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)의 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="9f5b6-103">If you want to change the domain for a Microsoft 365 Group during creation, follow the steps in [Choose the domain to use when creating Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).</span></span>
+<span data-ttu-id="b4226-103">만드는 동안 Microsoft 365 그룹의 도메인을 변경하려면 [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)그룹을 만들 때 사용할 도메인 선택의 단계를 따릅니다.</span><span class="sxs-lookup"><span data-stu-id="b4226-103">If you want to change the domain for a Microsoft 365 Group during creation, follow the steps in [Choose the domain to use when creating Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).</span></span>
 
-<span data-ttu-id="9f5b6-104">Microsoft 365 그룹이 이미 만들어진 후에는 현재 도메인을 변경할 수 있는 방법이 없습니다.</span><span class="sxs-lookup"><span data-stu-id="9f5b6-104">After the Microsoft 365 Group is already created, there is currently no way to change the domain.</span></span> <span data-ttu-id="9f5b6-105">유일한 방법은 Microsoft 365 그룹을 새로 만들고 필요한 경우 이전 항목을 삭제 하는 것입니다 (추가 전자 메일 주소를 [Exchange 관리 센터](https://outlook.office365.com/ecp)를 통해 추가할 수 있음).</span><span class="sxs-lookup"><span data-stu-id="9f5b6-105">The only way is to create a new Microsoft 365 Group and delete the old one if necessary (additional email addresses can be added through the [Exchange Admin Center](https://outlook.office365.com/ecp).</span></span>
+<span data-ttu-id="b4226-104">기존 Microsoft 365 그룹의 도메인을 변경하려면 관리자 권한으로 Microsoft 365 관리 센터로 이동한 다음 다음 단계를 https://admin.microsoft.com 수행할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b4226-104">To change the domain of an existing Microsoft 365 Group, as an administrator you can navigate to the Microsoft 365 Admin Center https://admin.microsoft.com and then perform the following steps:</span></span>
+
+- <span data-ttu-id="b4226-105">왼쪽 **메뉴에서** 그룹 선택</span><span class="sxs-lookup"><span data-stu-id="b4226-105">Choose **Groups** from the left-side menu</span></span>
+- <span data-ttu-id="b4226-106">수정할 M365 그룹을 검색하여 선택한 다음 일반 탭에서  전자 메일 주소 아래 편집을 **클릭합니다.** </span><span class="sxs-lookup"><span data-stu-id="b4226-106">Search for the M365 Group that you want to modify and choose it, then click **Edit** under **Email Addresses** when on the **General** tab.</span></span>
+- <span data-ttu-id="b4226-107">이제 기본 전자 메일 주소의 도메인을 변경할 수 있으며 전자 메일 별칭을 추가할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b4226-107">Now you can change the domain of its primary email address and you are also able to add email aliases.</span></span>
+
+> [!IMPORTANT]
+> <span data-ttu-id="b4226-108">일반 메일 그룹 및 메일 사용이 가능한 보안 그룹을 사용하면 M365 관리 센터, 그룹 섹션에서 더 적은 설정을 관리할 **수** 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b4226-108">Regular distribution groups and mail-enabled security groups will allow you to manage less settings from the M365 Admin Center, **Groups** section.</span></span> <span data-ttu-id="b4226-109">세부 정보를 더 관리하려면 M365  관리 센터에서 설정 탭 중 하나를 편집할 때 설정 탭을 클릭하고 Exchange 관리 센터 옵션에서 추가 설정 **관리** 옵션을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="b4226-109">If you want to manage more of their details, click on the **Settings** tab when editing one of them in the M365 Admin Center and choose **Manage more settings in the Exchange admin center** option.</span></span>
