@@ -1,0 +1,74 @@
+---
+title: 응용 프로그램 오류
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 01/25/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004342"
+- "7841"
+ms.openlocfilehash: 2ef90b54ce222a06740e05891fabe87b6565cb14
+ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "49976915"
+---
+# <a name="application-errors"></a><span data-ttu-id="a32ba-102">응용 프로그램 오류</span><span class="sxs-lookup"><span data-stu-id="a32ba-102">Application errors</span></span>
+
+<span data-ttu-id="a32ba-103">Azure AD(Azure Active Directory) STS(보안 토큰 서비스)에서 반환되는 **AADSTS** 오류 코드에 대한 정보를 찾고 있나요?</span><span class="sxs-lookup"><span data-stu-id="a32ba-103">Looking for info about the **AADSTS error codes** that are returned from the Azure Active Directory (Azure AD) security token service (STS)?</span></span> <span data-ttu-id="a32ba-104">[Azure AD 인증](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) 및 권한 부여 오류 코드를 읽고 AADSTS 오류 설명, 수정 내용 및 제안된 해결 방법을 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-104">Read [Azure AD Authentication and authorization error codes](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) to find AADSTS error descriptions, fixes, and some suggested workarounds.</span></span>
+
+<span data-ttu-id="a32ba-105">권한 부여 오류는 여러 가지 문제로 인해 발생할 수 있습니다. 이로 인해 대부분 401 또는 403 오류가 발생합니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-105">Authorization errors can be a result of several different issues, most of which generate a 401 or 403 error.</span></span> <span data-ttu-id="a32ba-106">예를 들어 다음이 모두 권한 부여 오류가 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-106">For example, the following can all lead to authorization errors:</span></span>
+
+- <span data-ttu-id="a32ba-107">잘못된 [액세스 토큰 취득 흐름](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes)</span><span class="sxs-lookup"><span data-stu-id="a32ba-107">Incorrect [access token acquisition flows](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes)</span></span> 
+- <span data-ttu-id="a32ba-108">잘못 구성된 [사용 권한 범위](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes)</span><span class="sxs-lookup"><span data-stu-id="a32ba-108">Poorly configured [permission scopes](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes)</span></span> 
+- <span data-ttu-id="a32ba-109">동의 [부족](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)</span><span class="sxs-lookup"><span data-stu-id="a32ba-109">Lack of [consent](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)</span></span>
+
+<span data-ttu-id="a32ba-110">일반적인 권한 부여 오류를 해결하려는 경우 아래 제공된 단계를 수행하여 수신하는 오류와 가장 일치하는 단계를 시도합니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-110">To resolve common authorization errors, try the steps provided below that most closely matches the error you are receiving.</span></span> <span data-ttu-id="a32ba-111">두 개 이상 적용될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-111">More than one may apply.</span></span>
+
+<span data-ttu-id="a32ba-112">**401 권한이 없는 오류: 토큰이 유효한지 여부**</span><span class="sxs-lookup"><span data-stu-id="a32ba-112">**401 Unauthorized error: Is your token valid?**</span></span>
+
+<span data-ttu-id="a32ba-113">응용 프로그램에서 요청의 일부로 유효한 액세스 토큰을 Microsoft Graph에 표시해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-113">Ensure that your application is presenting a valid access token to Microsoft Graph as part of the request.</span></span> <span data-ttu-id="a32ba-114">이 오류는 종종 HTTP 인증 요청 헤더에 액세스 토큰이 누락되었거나 토큰이 유효하지거나 만료된 것일 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-114">This error often means that the access token may be missing in the HTTP authenticate request header or that the token is invalid or has expired.</span></span> <span data-ttu-id="a32ba-115">액세스 토큰 취득에는 [MSAL(Microsoft 인증](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) 라이브러리)을 사용하는 것이 좋습니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-115">We strongly recommend that you use the [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) for access token acquisition.</span></span> <span data-ttu-id="a32ba-116">또한 개인 Microsoft 계정에 부여된 위임된 액세스 토큰을 사용하여 직장 또는 학교 계정(조직 계정)만 지원하는 API에 액세스하려는 경우 이 오류가 발생할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-116">Additionally this error may occur if you try to use a delegated access token granted to a personal Microsoft account to access an API that only supports work or school accounts (organizational accounts).</span></span>
+
+<span data-ttu-id="a32ba-117">**403 금지된 오류: 올바른 사용 권한 집합을 선택합니까?**</span><span class="sxs-lookup"><span data-stu-id="a32ba-117">**403 Forbidden error: Have you chosen the right set of permissions?**</span></span>
+
+<span data-ttu-id="a32ba-118">앱에서 호출하는 Microsoft Graph API를 기반으로 올바른 사용 권한 집합을 요청한지 확인합니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-118">Check that you have requested the correct set of permissions based on the Microsoft Graph APIs your app calls.</span></span> <span data-ttu-id="a32ba-119">권장되는 최소 권한 사용 권한은 모든 Microsoft Graph API 참조 메서드 항목에서 제공됩니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-119">Recommended least privileged permissions are provided in all the Microsoft Graph API reference method topics.</span></span> <span data-ttu-id="a32ba-120">또한 사용자 또는 관리자가 해당 사용 권한을 응용 프로그램에 부여해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-120">Additionally, those permissions must be granted to the application by a user or an administrator.</span></span> <span data-ttu-id="a32ba-121">일반적으로 사용 권한 부여는 동의 페이지 또는 Azure Portal 응용 프로그램 등록 블레이드를 사용하여 사용 권한을 부여하여 발생합니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-121">Granting permissions normally happens through a consent page or by granting permissions using the Azure Portal application registration blade.</span></span> <span data-ttu-id="a32ba-122">응용 프로그램의 **설정** 블레이드에서 필요한 사용 권한을 클릭한 다음 사용 권한 **부여를 클릭합니다.**</span><span class="sxs-lookup"><span data-stu-id="a32ba-122">From the **Settings** blade for the application, click **Required Permissions**, and then click **Grant Permissions**.</span></span>
+
+- [<span data-ttu-id="a32ba-123">Microsoft Graph 사용 권한</span><span class="sxs-lookup"><span data-stu-id="a32ba-123">Microsoft Graph permissions</span></span>](https://docs.microsoft.com/graph/permissions-reference) 
+- [<span data-ttu-id="a32ba-124">Azure AD 사용 권한 및 동의 이해</span><span class="sxs-lookup"><span data-stu-id="a32ba-124">Understanding Azure AD permissions and consent</span></span>](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
+
+<span data-ttu-id="a32ba-125">**403 금지된 오류: 앱이 선택한 사용 권한과 일치하기 위해 토큰을 획득했습니까?**</span><span class="sxs-lookup"><span data-stu-id="a32ba-125">**403 Forbidden error: Did your app acquire a token to match chosen permissions?**</span></span>
+
+<span data-ttu-id="a32ba-126">요청되거나 부여된 권한 유형이 앱에서 획득하는 액세스 토큰 유형과 일치하는지 확인</span><span class="sxs-lookup"><span data-stu-id="a32ba-126">Make sure that the type of permissions requested or granted matches the type of access token that your app acquires.</span></span> <span data-ttu-id="a32ba-127">응용 프로그램 권한을 요청 및 부여하지만 클라이언트 자격 증명 흐름 토큰 대신 위임된 대화형 코드 흐름 토큰을 사용하거나, 위임된 사용 권한을 요청 및 부여하지만 위임된 코드 흐름 토큰 대신 클라이언트 자격 증명 흐름 토큰을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-127">You might be requesting and granting application permissions but using delegated interactive code flow tokens instead of client credential flow tokens, or requesting and granting delegated permissions but using client credential flow tokens instead of delegated code flow tokens.</span></span>
+
+- [<span data-ttu-id="a32ba-128">사용자 및 위임된 사용 권한을 대신하여 액세스 권한 부여</span><span class="sxs-lookup"><span data-stu-id="a32ba-128">Get access on behalf of users and delegated permissions</span></span>](https://docs.microsoft.com/graph/auth_v2_user) 
+- [<span data-ttu-id="a32ba-129">Azure AD v2.0 - OAuth 2.0 권한 부여 코드 흐름</span><span class="sxs-lookup"><span data-stu-id="a32ba-129">Azure AD v2.0 - OAuth 2.0 authorization code flow</span></span>](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
+- [<span data-ttu-id="a32ba-130">사용자(데몬 서비스) 및 응용 프로그램 권한 없이 액세스</span><span class="sxs-lookup"><span data-stu-id="a32ba-130">Get access without a user (daemon service) and application permissions</span></span>](https://docs.microsoft.com/graph/auth_v2_service) 
+- [<span data-ttu-id="a32ba-131">Azure AD v2.0 - OAuth 2.0 클라이언트 자격 증명 흐름</span><span class="sxs-lookup"><span data-stu-id="a32ba-131">Azure AD v2.0 - OAuth 2.0 client credentials flow</span></span>](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
+
+<span data-ttu-id="a32ba-132">**403 금지된 오류: 암호 다시 설정**</span><span class="sxs-lookup"><span data-stu-id="a32ba-132">**403 Forbidden error: Resetting password**</span></span>
+
+<span data-ttu-id="a32ba-133">현재 사용자 암호를 다시 설정할 수 있는 응용 프로그램 권한 데몬 서비스-서비스 권한은 없습니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-133">Currently, there are no application permission daemon service-to-service permissions that allow resetting user passwords.</span></span> <span data-ttu-id="a32ba-134">이러한 API는 로그인한 관리자와의 대화형 위임 코드 흐름을 사용하여만 지원됩니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-134">These APIs are only supported using the interactive delegated code flows with a signed-in administrator.</span></span>
+
+- [<span data-ttu-id="a32ba-135">Microsoft Graph 사용 권한</span><span class="sxs-lookup"><span data-stu-id="a32ba-135">Microsoft Graph permissions</span></span>](https://docs.microsoft.com/graph/permissions-reference)
+
+<span data-ttu-id="a32ba-136">**403 금지: 사용자에게 액세스 권한이 있으며 라이선스가 있습니까?**</span><span class="sxs-lookup"><span data-stu-id="a32ba-136">**403 Forbidden: Does the user have access and are they licensed?**</span></span>
+
+<span data-ttu-id="a32ba-137">위임된 코드 흐름의 경우 Microsoft Graph는 앱에 부여된 사용 권한 및 로그인한 사용자가 부여한 사용 권한에 따라 요청이 허용되는지 평가합니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-137">For delegated code flows, Microsoft Graph evaluates if the request is allowed based on the permissions granted to the app and the permissions that the signed-in user has.</span></span> <span data-ttu-id="a32ba-138">일반적으로 이 오류는 사용자에게 요청을 수행할 수 있는 권한이 충분하지 않은 경우 또는 액세스되는 데이터에 대한 사용이 허가되지 않았다는 것을 나타냅니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-138">Generally, this error indicates that the user is not privileged enough to perform the request or the user is not licensed for the data being accessed.</span></span> <span data-ttu-id="a32ba-139">필요한 사용 권한 또는 라이선스가 있는 사용자만 요청을 성공적으로 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-139">Only users with the required permissions or licenses can make the request successfully.</span></span>
+
+<span data-ttu-id="a32ba-140">**403 금지: 올바른 리소스 API를 선택했습니까?**</span><span class="sxs-lookup"><span data-stu-id="a32ba-140">**403 Forbidden: Did you select the correct resource API?**</span></span>
+
+<span data-ttu-id="a32ba-141">Microsoft Graph와 같은 API 서비스는 수신된 액세스 토큰의 수신된 클레임(대상) 값이 자체적으로 예상한 값과 일치하는지 확인하며, 그렇지 않은 경우 403 금지 오류가 발생합니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-141">API services like Microsoft Graph check that the aud claim (audience) in the received access token matches the value it expects for itself, and if not, it results in a 403 Forbidden error.</span></span> <span data-ttu-id="a32ba-142">이 오류가 발생하는 일반적인 실수는 Azure AD Graph API, Outlook API 또는 SharePoint/OneDrive API에 대해 획득한 토큰을 사용하여 Microsoft Graph(또는 그 반대의 경우)를 호출하려고 하는 것입니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-142">A common mistake resulting in this error is trying to use a token acquired for Azure AD Graph APIs, Outlook APIs, or SharePoint/OneDrive APIs to call Microsoft Graph (or vice versa).</span></span> <span data-ttu-id="a32ba-143">앱에서 토큰을 확보하는 리소스(또는 범위)가 앱이 호출하는 API와 일치하는지 확인</span><span class="sxs-lookup"><span data-stu-id="a32ba-143">Ensure that the resource (or scope) your app is acquiring a token for matches the API that the app is calling.</span></span>
+
+<span data-ttu-id="a32ba-144">**400 잘못된 요청 또는 403 금지: 사용자가 조직의 CA(조건부 액세스) 정책을 준수하나요?**</span><span class="sxs-lookup"><span data-stu-id="a32ba-144">**400 Bad Request or 403 Forbidden: Does the user comply with their organization's conditional access (CA) policies?**</span></span>
+
+<span data-ttu-id="a32ba-145">조직의 CA 정책에 따라 앱을 통해 Microsoft Graph 리소스에 액세스하는 사용자는 앱이 원래 구입한 액세스 토큰에 없는 추가 정보에 대해 의문을 던지게 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-145">Based on an organization's CA policies, a user accessing Microsoft Graph resources via your app may be challenged for additional information that is not present in the access token your app originally acquired.</span></span> <span data-ttu-id="a32ba-146">이 경우 앱은 액세스 토큰을 취득하는 *동안* interaction_required 오류가 발생하거나 Microsoft Graph를 호출할  때 insufficient_claims 오류가 있는 400을 수신합니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-146">In this case, your app receives a 400 with an *interaction_required* error during access token acquisition or a 403 with *insufficient_claims* error when calling Microsoft Graph.</span></span> <span data-ttu-id="a32ba-147">두 경우 모두 오류 응답에는 사용자에게 추가 정보(예: 다단계 인증 또는 장치 등록)를 요청하도록 승인 끝점에 제공될 수 있는 추가 정보가 포함되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a32ba-147">In both cases, the error response contains additional information that can be presented to the authorize endpoint to challenge the user for additional information (like multi-factor authentication or device enrollment).</span></span>
+
+- [<span data-ttu-id="a32ba-148">MSAL을 사용하여 조건부 액세스 문제 처리 </span><span class="sxs-lookup"><span data-stu-id="a32ba-148">Handling conditional access challenges using MSAL </span></span>](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
+- [<span data-ttu-id="a32ba-149">Azure Active Directory 조건부 액세스에 대한 개발자 지침</span><span class="sxs-lookup"><span data-stu-id="a32ba-149">Developer guidance for Azure Active Directory conditional access</span></span>](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)
