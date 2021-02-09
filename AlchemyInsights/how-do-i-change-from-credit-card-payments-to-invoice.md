@@ -1,37 +1,35 @@
 ---
-title: 신용 카드 결제 방식에서 송장으로 변경 하려면 어떻게 해야 하나요?
+title: 신용 카드 결제에서 송장으로 변경하는 방법
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "433"
 - "1500001"
-ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 71f0026751fd9f4233c0de51519076cb6a0bce63
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 47c8a629f770f21bd508968e4db3e40d3d573506
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286740"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152312"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>신용 카드 결제 방식에서 송장으로 변경 하려면 어떻게 해야 하나요?
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>신용 카드 결제에서 송장으로 변경하는 방법
 
 > [!NOTE]
-> 송장 지불 옵션은 특정 금액 (서비스 위치에 따라 다름)에 따라 구독 비용이 드는 경우에만 사용할 수 있습니다. 고액의 송장 결제에 대해서는 신용 조사가 필요할 수 있습니다. 자세한 내용은 [구독에 대 한 결제](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)를 참조 하세요.
+> 구독 비용이 특정 금액보다 많은 경우 송장 결제로만 변경할 수 있습니다. 송장으로 결제하려면 먼저 신용 카드 또는 직불 카드 또는 은행 계좌에 미지불 잔액을 지불해야 합니다.
 
-1. 관리 센터에서 **청구** > [제품](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하세요.
-2. 변경 하려는 구독을 찾습니다. **청구**아래의 결제 방법 옆에 있는 **편집**을 선택 합니다.
-3. 기존 결제 방법 옆에 있는 **변경**을 선택 합니다.
-4. 드롭다운 메뉴에서 **송장 또는 전선 전송을**선택 합니다.
-5. 이름, 주소 및 전화 번호를 입력 합니다. 송장에 표시할 PO 번호를 추가할 수도 있습니다.
-6. 작업이 완료 되 면 **저장**을 선택 합니다.
-7. 선택한 결제 방법이 올바른지 확인 한 다음 **저장**을 선택 합니다.
+1. 관리 센터에서 **빌링** > [제품](https://go.microsoft.com/fwlink/p/?linkid=842054)페이지로 이동합니다.
+2. 제품 **탭에서** 대체 결제 방법으로 결제할 구독을 찾아야 합니다.
+3. 추가 **작업(3개** 점)을 선택한 다음 **결제 바꾸기 방법을 선택합니다.**
+4. 결제 **방법 바꾸기 창에서** 결제 방법 **추가를 선택합니다.**
+5. 결제 **방법 추가 창에서** 송장 또는 전신 **송금을 선택합니다.**
+6. 이름, 주소 및 전화 번호를 입력합니다. 송장에 표시할 PO 번호를 추가할 수 있습니다.
+7. 완료되면 저장을 **선택합니다.**
 
-자세한 내용은 [결제 방법 변경을](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)참조 하십시오.
+자세한 내용은 구독 [비용을 지불하는 방법을 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
