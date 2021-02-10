@@ -12,15 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000277"
 - "4838"
-ms.openlocfilehash: 8fd1307c3c967f92a60d2c38dfe727f1341ee86f
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: b9724c3fef32701cc5b919a64f9d4b78ce7a15a5
+ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576185"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50165219"
 ---
 # <a name="sharepoint-online-backup-information"></a>SharePoint Online 백업 정보
 
-SharePoint에서 항목이나 사이트를 삭제 하는 경우 바로 제거 되지 않습니다. 삭제된 항목은 일정 기간 동안 휴지통으로 이동합니다. 해당 기간 동안 삭제한 항목을 원래 위치로 복원할 수 있습니다.
+SharePoint 및 OneDrive 복원력에 대한 자세한 내용은 다음을 참조하세요.
 
-SharePoint Online은 실제 삭제 후에도 14일 동안 모든 콘텐츠의 백업을 유지 합니다. [휴지통](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) 또는 [파일 복원](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)을 통해 콘텐츠를 복원할 수 없는 경우, 관리자는 Microsoft 지원에 문의하여 14일 내에 언제든지 복원을 요청할 수 있습니다. 백업에서의 복원은 특정 파일, 목록 또는 라이브러리가 아닌, 사이트 모음 또는 하위 사이트에 대해서만 가능합니다.
+- [Microsoft 365의 SharePoint 및 OneDrive 데이터 복원력](https://docs.microsoft.com/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)
+
+> [!NOTE]
+> SharePoint Online은 실제 삭제 후에도 14일 동안 모든 콘텐츠의 백업을 유지 합니다. [휴지통](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) 또는 [파일 복원](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)을 통해 콘텐츠를 복원할 수 없는 경우, 관리자는 Microsoft 지원에 문의하여 14일 내에 언제든지 복원을 요청할 수 있습니다. 백업에서의 복원은 특정 파일, 목록 또는 라이브러리가 아닌, 사이트 모음 또는 하위 사이트에 대해서만 가능합니다.
