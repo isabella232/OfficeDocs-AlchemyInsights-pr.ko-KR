@@ -1,9 +1,8 @@
 ---
-title: Microsoft 365 구독을 취소 하 시겠습니까?
+title: Microsoft 365 구독 취소 여부
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 9ff327348002634bbef56ecce17c01caf58dd3f1
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416244"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232013"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="e7bc2-102">Microsoft 365 구독을 취소 하 시겠습니까?</span><span class="sxs-lookup"><span data-stu-id="e7bc2-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="4a1a2-102">Microsoft 365 구독 취소 여부</span><span class="sxs-lookup"><span data-stu-id="4a1a2-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="e7bc2-103">죄송 합니다.</span><span class="sxs-lookup"><span data-stu-id="e7bc2-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="4a1a2-103">죄송합니다.</span><span class="sxs-lookup"><span data-stu-id="4a1a2-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="e7bc2-104">조직 데이터를 기반으로 모든 현재 구독에 25 개 이상의 라이선스가 할당 되었다고 생각 합니다.</span><span class="sxs-lookup"><span data-stu-id="e7bc2-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="e7bc2-105">사용이 허가 된 사용자가 25 명 미만인 경우를 제외 하 고 사용자 로부터 라이선스를 제거 합니다.</span><span class="sxs-lookup"><span data-stu-id="e7bc2-105">Remove licenses from users until you have fewer than 25 licensed users.</span></span> <span data-ttu-id="e7bc2-106">다음으로, 제품 **대금 청구** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="e7bc2-106">Next, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="e7bc2-107">**제품** 탭에서 취소할 구독을 찾고 **기타 작업** (점 3 개)을 선택한 다음 **구독 취소**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e7bc2-107">On the **Products** tab, find the subscription that you want to cancel, select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+<span data-ttu-id="4a1a2-104">조직 데이터에 따라 모든 현재 구독에 할당된 라이선스가 25개가 넘게 할당되어 있는 것으로 생각됩니다.</span><span class="sxs-lookup"><span data-stu-id="4a1a2-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="4a1a2-105">취소하기 전에 다음을 취소할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4a1a2-105">Before you can cancel:</span></span>
 
-<span data-ttu-id="e7bc2-108">**환불:** 모든 완료율에 해당 하는 크레딧은 다음 청구 주기 내에 사용자에 게 반환 됩니다.</span><span class="sxs-lookup"><span data-stu-id="e7bc2-108">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
+1. <span data-ttu-id="4a1a2-106">라이선스가 있는 사용자가 25명 미만일 때까지 사용자로부터 라이선스를 제거합니다.</span><span class="sxs-lookup"><span data-stu-id="4a1a2-106">Remove licenses from users until you have fewer than 25 licensed users.</span></span>
+2. <span data-ttu-id="4a1a2-107">청구 **제품** \> **[페이지로](https://go.microsoft.com/fwlink/p/?linkid=842054)** 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="4a1a2-107">Go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+3. <span data-ttu-id="4a1a2-108">제품 **탭에서** 취소할 구독을 찾고, 추가  작업(3개 점)을 선택한 다음 구독 **취소를 선택합니다.**</span><span class="sxs-lookup"><span data-stu-id="4a1a2-108">On the **Products** tab, find the subscription that you want to cancel, select **More actions** (three dots), then select **Cancel subscription**.</span></span>
 
-<span data-ttu-id="e7bc2-109">자세한 내용은 [구독 취소](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="e7bc2-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="4a1a2-109">**환불:** 일할 계산된 크레딧은 다음 대금 청구 주기 안에 반환됩니다.</span><span class="sxs-lookup"><span data-stu-id="4a1a2-109">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
+
+<span data-ttu-id="4a1a2-110">자세한 내용은 구독 [취소를 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="4a1a2-110">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
