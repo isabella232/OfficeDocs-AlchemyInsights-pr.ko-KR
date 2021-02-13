@@ -1,0 +1,39 @@
+---
+title: 모든 사용자에 대한 전역 회사 서명 또는 고지 조항 추가
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 12/18/2020
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "1200009"
+- "7310"
+ms.openlocfilehash: ab0d3fc80b41b9017a6917817270438644f770b8
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232818"
+---
+# <a name="add-a-global-company-signature-or-disclaimer-for-all-users"></a>모든 사용자에 대한 전역 회사 서명 또는 고지 조항 추가
+
+팁: 포함된 내용에 관계없이, 전체 서명을 고지 사항이라고도 합니다.
+
+1. 관리 센터에서 **관리 센터**  >  **Exchange를 선택 합니다.**
+2. 메일 흐름 아래에서 **규칙** 을 선택합니다.
+3. **+**(더하기) 아이콘을 클릭하고 **고지 사항 적용** 을 선택합니다.
+4. 규칙 이름을 지정합니다.
+5. 이 규칙 적용에서 모든 **메시지에 적용을 선택하십시오.**
+6. 다음 작업 실행 아래에서 **고지 사항 추가** 를 선택된 상태로 둡니다.
+7. **텍스트 입력** 을 클릭하고 고지 사항을 입력합니다.
+8. 하나 **선택을 클릭하고,** **다른** 옵션으로 줄 바꿈을 선택한 다음 확인을 **클릭합니다.** 암호화 또는 다른 메일 설정 때문에 고지 사항을 추가할 수 없는 경우 메시지 봉투에 래핑된다는 의미입니다.
+9. 심각도 **수준이 선택된** 경우 이 규칙 감사를 그대로 떠야 합니다. 그런 다음, 메시지 로그에 사용될 낮음, 중간 또는 높음을 선택합니다.
+10. 먼저 테스트하지 않고 고지 사항을 즉시 설정하려면 **적용** 을 선택합니다.
+11. 추가 조건 또는 예외 사항을 포함하려면 **추가 옵션** 을 선택합니다.
+12. 완료되면 저장을 **클릭합니다.**
+13. 추가 도움이 필요하세요? [고지 조항 만들기에 대한 비디오를 시청하거나 전체 문서를 읽어 봐야 합니다.](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72?wt.mc_id=Chat_GlobalSignature)
