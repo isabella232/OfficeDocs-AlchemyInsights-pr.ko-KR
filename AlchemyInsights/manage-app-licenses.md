@@ -12,16 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 7d67d47d2fb427537501930401d7a33978293718
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 1ab15eed7f368663843846ea970f44a0f88d3cb5
+ms.sourcegitcommit: 705c8a0c5fe31248bfa9da048cdee2c6296c6281
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232409"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50237574"
 ---
 # <a name="manage-app-licenses"></a>앱 라이선스 관리
 
 ## <a name="to-change-license-quantity"></a>라이선스 수량을 변경합니다.
+
+**이 작업을 하는** 방법을 보여주는 비디오 [시청:](https://go.microsoft.com/fwlink/p/?linkid=2154857) 새 라이선스 구입 또는 기존 라이선스 [제거](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
 1. 청구 **제품**  >  **[페이지로](https://go.microsoft.com/fwlink/p/?linkid=842054)** 이동합니다.
 2. 제품 **탭의** **앱** 섹션에서 관리할 앱을 찾으십시오. 추가 **작업(3개** 점)을 선택한 다음 라이선스 **구입을 선택합니다.**
