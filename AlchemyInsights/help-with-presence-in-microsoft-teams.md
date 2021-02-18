@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6253"
 - "9003349"
-ms.openlocfilehash: 50b1060b46d09276629d8a30fc3c750f9faab648
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 1385d015052ccc9c056cdb9e6a45e86177031c9b
+ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277894"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50291726"
 ---
 # <a name="help-with-presence-in-microsoft-teams"></a>Microsoft Teams의 현재 상태에 대한 도움말
 
-현재 상태는 Microsoft Teams에서(Microsoft 365 또는 Office 365에서) 사용자 프로필의 일부입니다. Teams는 사용자의 상태(대화 가능, 자리 비움, 다른 용무 중, 모임 참가 중, 방해 금지)를 자동으로 검색하고 사용자의 현재 상태 정보를 조정합니다. 기본적으로 Teams를 사용하는 조직의 모든 사용자는 온라인으로 다른 사용자의 대화 가능 여부를(거의 실시간으로) 확인할 수 있습니다.
+현재 상태는 Microsoft Teams에서(Microsoft 365 또는 Office 365에서) 사용자 프로필의 일부입니다. 
 
-컴퓨터를 잠그거나 대기 상태 또는 절전 모드로 전환 시 사용자의 현재 상태가 **자리 비움**으로 변경됩니다. 휴대폰에서 Teams 앱이 백그라운드에 있을 때마다 현재 상태가 **자리 비움**으로 변경됩니다.
+컴퓨터를 잠그거나 대기 상태 또는 절전 모드로 전환 시 사용자의 현재 상태가 **자리 비움** 으로 변경됩니다. 휴대폰에서 Teams 앱이 백그라운드에 있을 때마다 현재 상태가 **자리 비움** 으로 변경됩니다. 유휴 상태에서 재개한 후 Teams에 현재 상태가 반영되지 않는 경우 최신 버전의 Teams를 사용하고 있는지 확인하고 상태가 업데이트될 때까지 3분 동안 기다립니다. 자세한 내용은 [현재 상태가 Teams에 반영되지 않습니다.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)를 참조하세요.
 
+연락처 상태가 알 수 없음으로 표시되면 https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/contact-presence-status-unknown의 단계를 따라 문제를 해결합니다.
 현재 상태에 대한 자세한 내용은 [Teams의 사용자 현재 상태](https://docs.microsoft.com/microsoftteams/presence-admins)를 참조하세요.
 
-Microsoft는 Microsoft Teams에 대해 현재 상태에서 [중요 업데이트를 배포](https://www.microsoft.com/microsoft-365/roadmap?filters=Microsoft%20Teams&searchterms=presence)하고 있습니다. Microsoft는 현재 상태를 다시 설계하여 현재 상태 표시기의 신뢰도를 개선하는 데 도움이 되는 실시간 업데이트를 지원합니다.
