@@ -2,36 +2,35 @@
 title: Power BI 구매
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "4961"
-ms.openlocfilehash: 10fde333750415d17f42d75475b16dc802fd024c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 203f9899c2c3126878abb73c24ebbc031d867a6a
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693345"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469656"
 ---
 # <a name="purchase-power-bi"></a>Power BI 구매
 
-Power BI는 **Microsoft 365 관리 센터**에서 구입할 수 있습니다.
+Power BI는 Microsoft **365 관리 센터에서 구입할 수 있습니다.**
 
-1. **결제 > [서비스 구매](https://go.microsoft.com/fwlink/p/?linkid=868433) ** 페이지로 이동 합니다.
+1. 청구 서비스 > **[페이지로](https://go.microsoft.com/fwlink/p/?linkid=868433)** 이동합니다.
+2. 검색 상자를 사용하여 "Power BI"를 검색합니다.
+3. Select the Power BI plan you want to buy, select **Details**, then select **Buy**.
+4. 필요한 라이선스 수를 입력하고 매월 지불할지 또는 1년 동안 지불할지 여부를 선택해야 합니다. 현재 라이선스가 없는 모든 사용자에게 라이선스를 자동으로 할당할지 여부를 선택 합니다. 그런 다음 **지금 체크 아웃 을 선택합니다.**
+5. 가격 정보를 검토하고 다음 을 **선택합니다.**
+6. 결제 정보를 제공하고 주문 관리  >  **홈으로 이동을 선택합니다.**
 
-2. "Power BI"를 검색 하려면 검색 상자를 사용 합니다.
+사용자에게 라이선스를 할당하기 위해 사용자에게 라이선스 할당을 [참조합니다.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-3. 구매할 Power BI 요금제를 선택 합니다.
-
-4. Power BI를 사용할 사용자 수를 선택 합니다.
-
-사용자에 게 라이선스를 할당 하려면 [사용자에 게 라이선스 할당](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)을 참조 하세요.
-
-라이선스를 더 구매하거나 라이선스를 제거하려면 [구독 라이선스 추가/제거](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)를 참조하세요.
+라이선스를 더 구입하거나 제거하려면 비즈니스 구독에 대한 라이선스 구입 [또는 제거를 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

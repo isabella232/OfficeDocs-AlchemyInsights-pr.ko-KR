@@ -1,9 +1,10 @@
 ---
-title: 고급 배포 모든 규칙을 Catch 합니다.
+title: 고급 배포 Catch 모든 규칙
 ms.author: pebaum
 author: pebaum
+manager: mnirkhe
 ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +13,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 2b0ed94f65ef0aa1b5fac1f23b7f62a1425b887e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a6647dec85e495b54835e7d6c26807da4e5b621
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696698"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448649"
 ---
-# <a name="deploy-microsoft-365-apps"></a>Microsoft 365 앱 배포
+# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Microsoft 365 앱 배포 관리자를 사용하여 Office 설치
 
-Office 배포 도구, Microsoft 끝점 구성 관리자, 운영 체제 디스크 이미지의 일부로 또는 RDS (원격 데스크톱 서비스) 또는 터미널 서비스를 사용 하는 공유 컴퓨터 시나리오에서 여러 최종 사용자에 게 Microsoft 365 앱을 배포 하려면 **엔터프라이즈 배포 관리자 용 Microsoft 365 apps**의 단계별 가이드를 사용 하는 것이 좋습니다.
+[Microsoft 365 앱](https://admin.microsoft.com/adminportal/home) 배포 어드바이저를 사용하면 Word, Excel, PowerPoint 및 OneNote와 같은 최신 버전의 Office 제품을 실행하는 사용자의 디바이스를 얻을 수 있습니다.
   
-시작 하려면 테 넌 트 관리자 또는 전역 관리자로 로그인 되어 있는지 확인 하 고 여기를 클릭 [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) 하세요.
+관리 도구를 사용하는 엔터프라이즈 배포뿐만 아니라 간편한 자체 설치 옵션이 포함된 다양한 배포 방법에 대한 지침을 얻을 수 있습니다. 이 지침은 환경을 평가하고, 특정 배포 요구 사항을 확인하며, 성공적인 설치를 위해 필요한 지원 도구를 구현하는 데 도움이 됩니다.
   

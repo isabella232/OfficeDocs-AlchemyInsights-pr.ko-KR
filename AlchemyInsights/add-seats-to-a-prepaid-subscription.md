@@ -1,9 +1,8 @@
 ---
-title: 선불 구독에 좌석 추가
+title: 선불 구독에 시트 추가
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,29 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "663"
 - "1500007"
-ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 144ca4097e0b1831e5772c78208e9e542577b1ca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 28d9722779a89f843af8a83304ffd6640012af93
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687692"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469452"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>선불 구독에 좌석 추가
+# <a name="add-seats-to-a-prepaid-subscription"></a>선불 구독에 시트 추가
 
-선불 라이선스는 25 자의 영숫자 코드로 발급 됩니다. 필요한 라이선스를 구매한 후 구독에 추가할 수 있습니다. 
+선불 라이선스는 25자 영문 코드로 발급됩니다. 필요한 라이선스를 구입한 후 구독에 라이선스를 추가할 수 있습니다.
 
-1. 관리 센터에서 **Billing**  >  **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** 청구 페이지로 이동 합니다.
-
-2. 라이선스를 추가 하려는 구독을 찾습니다. **라이선스** 섹션에서 **라이선스 추가**를 선택 합니다.
-
-3. **라이선스 추가** 창에서 **신규 및 사용 하지 않은 제품 키 사용**을 선택 하 고 **다음**을 선택 합니다.
-
-4. 제품 키를 입력 하 고 **다음**을 선택 합니다.
-
+1. 관리 센터에서 **청구** > **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** 페이지로 이동하세요.
+2. 제품 **탭에서** 라이선스를 추가할 구독을 선택합니다.
+3. 구독 세부 정보 페이지의 라이선스 **섹션에서** 라이선스 **추가를 선택합니다.**
+4. 라이선스 **추가 창에서** 새 제품 키와 사용하지 않은 제품 키 사용을 선택하고 다음 을 **선택합니다.**
+5. 제품 키를 입력하고 다음 을 **선택합니다.**
     > [!NOTE]
-    > 제품 키가 두 개 이상 있는 경우 **다른 제품 키 추가**를 선택하여 입력할 수 있습니다.
+    > 제품 키가 두 개 이상 있는 경우 **다른 제품 키 추가** 를 선택하여 입력할 수 있습니다.
+6. 주문 세부 정보를 검토한 다음 사용 을 **선택합니다.**
 
-5. 주문 세부 정보를 검토 한 다음 사용 **을 선택 합니다**.
-
-자세한 내용은 [제품 키를 사용 하 여 유료 구독에 라이선스 추가 또는 확장](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)을 참조 하세요.
+자세한 내용은 제품 키를 사용하여 유료 구독에 라이선스 추가 또는 [연장을 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

@@ -1,5 +1,5 @@
 ---
-title: Advanced Threat Protection 라이선스 관리
+title: Microsoft Defender for Office 365 라이선스 관리
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,20 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+- commerce
+ms.openlocfilehash: 4dd438b964bfaf7f04c8b6fd87fe3ea3dafcd7d0
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287108"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469012"
 ---
-# <a name="advanced-threat-protection-license-management"></a>Advanced Threat Protection 라이선스 관리
+# <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defender for Office 365 라이선스 관리
 
-Office 365  **Microsoft 365 관리 센터**에서 ATP (고급 위협 방지) 라이선스 관리를 완료할 수 있습니다.
+Microsoft Defender for Office 365 라이선스 관리는 **Microsoft 365 관리 센터에서 완료할 수 있습니다.**
 
-- Office 365 고급 위협 보호를 구매 하려면 다음을 수행 합니다.
-    1. **결제**  >  [구매 서비스로](https://go.microsoft.com/fwlink/p/?linkid=868433)이동 합니다.
-    2. 페이지 맨 아래에서 **추가 기능**을 선택 합니다.
-    3. **서비스 구매** 페이지에서 구입할 Advanced Threat Protection 요금제를 선택 하 고, 라이선스가 필요한 사용자 수를 입력 한 다음 **지금 체크 아웃**을 선택 합니다. 자세한 내용은 [추가 기능 구매](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)를 참조 하세요.
-- Office 365 고급 위협 보호 라이선스를 할당 하려면 **청구**  >  **라이선스로**이동 합니다. 자세한 내용은 [사용자에 게 라이선스 할당](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)을 참조 하세요.
-- Office 365 고급 위협 방지에서 라이선스를 추가 하거나 제거 하려면 제품 **대금 청구**로 이동  >  **Your products**합니다. 업데이트할 구독을 선택한 다음 **라이선스 구입** 또는 ***라이선스 제거**를 선택 합니다. 자세한 내용은 [구독 라이선스 구입 또는 제거](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)를 참조 하세요.
+- Office 365용 Microsoft Defender를 구입하는 경우:
+    1. 청구 **구매**  >  [서비스로 이동](https://go.microsoft.com/fwlink/p/?linkid=868433)
+    2. At the bottom of the page, select **Add-ons**.
+    3. 서비스 **구매 페이지에서** 구매할 Office 365용 Microsoft Defender 요금제를 선택하고 라이선스가 필요한 사용자 수를 입력한 다음 지금 **체크 아웃을 선택합니다.** 자세한 내용은 추가 기능 [구입을 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
+- Office 365용 Microsoft Defender 라이선스를 할당하기 위해 청구 **라이선스로**  >  **이동 합니다.** 자세한 내용은 사용자에게 라이선스 할당을 [참조하세요.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- Office 365용 Microsoft Defender에서 라이선스를 추가하거나 제거하려면 청구  >  **제품으로 이동 합니다.** 업데이트할 구독을 선택한 다음 라이선스  구입 또는 라이선스 **제거를 선택합니다.** 자세한 내용은 구독 라이선스 [구입 또는 제거를 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
