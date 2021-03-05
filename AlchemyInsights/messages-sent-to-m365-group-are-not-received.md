@@ -3,7 +3,7 @@ title: Microsoft 365 그룹에 보낸 메시지를 모든 구성원이 수신하
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003200"
 - "5995"
-ms.openlocfilehash: d2f0674f6be135927dc5995575c14f3c2708df49
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d222eb92d806bad52264139a8ddba72f323b3783
+ms.sourcegitcommit: 10cfd9d552b0d8a096bcef34e82c04a4c166a13a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806153"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50479459"
 ---
 # <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a>Microsoft 365 그룹에 보낸 메시지를 모든 구성원이 수신하지 않음
 
 모든 그룹 구성원이 구독하여 전자 메일을 수신하는지 확인합니다. [Outlook에서 그룹 팔로우하기](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36)를 참조하세요.  
 
-그룹 전자 메일을 구독하는 구성원의 메시지 상태를 확인하려면 [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps)에서 다음 명령을 실행합니다.
+그룹 전자 메일을 구독하는 구성원의 메시지 상태를 확인하려면 [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true)에서 다음 명령을 실행합니다.
 
 `Get-UnifiedGroup <GroupName> | Get-UnifiedGroupLinks -LinkType Subscribers`
+
+다음 EXO PowerShell 명령을 사용하여 모든 그룹 구성원이 받은 편지함에 Microsoft 365 그룹으로 보낸 전자 메일을 수신하도록 구성합니다.
+
+`$Group = "Address of [Microsoft 365 Groups]"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
+
+예를 들면 다음과 같습니다.
+
+`$Group = "testg@contoso.onmicrosoft.com"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
