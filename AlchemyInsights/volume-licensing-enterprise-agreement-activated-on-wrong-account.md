@@ -1,9 +1,8 @@
 ---
-title: 볼륨 라이선스 엔터프라이즈 계약이 잘못 된 계정에서 활성화 됨
+title: 잘못된 계정에서 정품 인증된 볼륨 라이선스 엔터프라이즈 계약
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "463"
 - "1500021"
-ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: 4b432de983f1a4b0130c6f4daa4fb16a2e7307b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 4a53be17f77b0aac20140848d8fce0a510bda246
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726132"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468912"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="a14b1-102">볼륨 라이선스 엔터프라이즈 계약이 잘못 된 계정에서 활성화 되었거나 계정 간에 라이선스를 전송 하는 경우</span><span class="sxs-lookup"><span data-stu-id="a14b1-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="621a7-102">잘못된 계정에서 정품 인증되거나 한 계정에서 다른 계정으로 라이선스를 전송하는 볼륨 라이선스 엔터프라이즈 계약</span><span class="sxs-lookup"><span data-stu-id="621a7-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
 
-<span data-ttu-id="a14b1-103">볼륨 라이선스를 통해 구매한 구독을 찾은 **경우 엔터프라이즈 계약이** **잘못 된 테 넌 트**에서 활성화 되었거나, 한 테 넌 트에서 다른 사용자에 게 라이선스를 **전송** 하려는 경우 [Microsoft 볼륨 라이선스 서비스 센터](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)에 문의 하세요.</span><span class="sxs-lookup"><span data-stu-id="a14b1-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please contact the [Microsoft Volume Licensing Service Center](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).</span></span>
+<span data-ttu-id="621a7-103">볼륨 라이선스를 통해 구입한 구독이 **기업계약** 테넌트에서 정품 인증된 구독이 발견되거나  한 테넌트에서 다른 테넌트로 라이선스를 이전하려면 지원에 [문의하세요.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) </span><span class="sxs-lookup"><span data-stu-id="621a7-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please [contact support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).</span></span>
