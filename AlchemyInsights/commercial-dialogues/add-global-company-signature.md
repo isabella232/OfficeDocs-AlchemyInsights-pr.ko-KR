@@ -3,8 +3,8 @@ title: 모든 사용자에 대해 전역 회사 서명 또는 고지 조항 추�
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/18/2020
-ms.audience: Admin
+ms.date: 02/19/2021
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: ab0d3fc80b41b9017a6917817270438644f770b8
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: cbd92f9c4a78139eac4e3672dd0632b173472757
+ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "50465102"
+ms.locfileid: "50508595"
 ---
 # <a name="add-a-global-company-signature-or-disclaimer-for-all-users"></a>모든 사용자에 대해 전역 회사 서명 또는 고지 조항 추가
 
