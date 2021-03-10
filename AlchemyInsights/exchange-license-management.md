@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002548"
 - "5149"
-- commerce
-ms.openlocfilehash: 84d3dd65f0d50a25c5357892c729610ff4d42988
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 5f942bc9fa80628c5a9ff34b5dfeaa5643d1dc78
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469128"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602964"
 ---
 # <a name="exchange-license-management"></a>Exchange 라이선스 관리
 
