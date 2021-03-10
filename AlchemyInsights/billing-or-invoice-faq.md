@@ -9,17 +9,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
-- commerce
 - "1500024"
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: 2bd9f76f0521d51e41b9746df0ee0983876a48c9
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: d69ab174c5f9562023bd7827765e4e377c9a4b8a
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152499"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601650"
 ---
 # <a name="billing-or-invoice-faq"></a>대금 청구 또는 청구서 FAQ
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: fe3a13acb0ba5c8872d7c0bb8c3961d83f7d3526
-ms.sourcegitcommit: bd6a9cb5d357baee5134c0dea430afc2a035c810
+ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
+ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "50568580"
+ms.locfileid: "50585653"
 ---
 # <a name="problems-resetting-password"></a>암호 재설정 문제
 
@@ -26,7 +26,7 @@ ms.locfileid: "50568580"
 
 **다른 범주에서 다루지 않는 암호 재설정에 문제가 있습니다.**
 
--암호를 재설정할 권한이 부여된지 확인 전역, 암호 및 사용자 관리자만 사용자 암호를 재설정할 수 있습니다. 전역 관리자는 권한이 부여된 다른 관리자의 암호를 다시 설정할 수도 있습니다.
+- 암호를 재설정할 수 있는 권한이 부여된지 확인 전역, 암호 및 사용자 관리자만 사용자 암호를 재설정할 수 있습니다. 전역 관리자는 권한이 부여된 다른 관리자의 암호를 다시 설정할 수도 있습니다.
 - 라이선스 요구 사항을 이해해야 합니다.
     - 조직에 라이선스가 하나 이상 할당되어 있어야 합니다.
         - 클라우드 전용 사용자 - Office 365(O365) 유료 SKU 또는 Azure AD Basic

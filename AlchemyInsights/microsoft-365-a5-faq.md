@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002872"
 - "5425"
-- commerce
-ms.openlocfilehash: ec5e0fa7c7656704995f2c04a5cf12076e1eb4fd
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 0920f231f56207c488a4ddee0b0cd852ccf8e8ec
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469930"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602928"
 ---
 # <a name="microsoft-365-a5-faq"></a>Microsoft 365 A5 FAQ
 

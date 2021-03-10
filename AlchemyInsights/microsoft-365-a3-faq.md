@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002871"
 - "5417"
-- commerce
-ms.openlocfilehash: 57e897ffc00393df5997bfda526c7c4e2284c3da
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 1489517dda411e26b453c44dffffd3e200478476
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469966"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601460"
 ---
 # <a name="microsoft-365-a3-faq"></a>Microsoft 365 A3 FAQ
 

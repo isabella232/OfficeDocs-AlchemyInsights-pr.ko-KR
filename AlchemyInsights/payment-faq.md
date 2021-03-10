@@ -9,15 +9,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
-- commerce
 - "9001669"
 - "5128"
-ms.openlocfilehash: 6368b0c19b84cfb9b55de2993a7beadd32d383fa
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: 6a34af24ff3021f83edba85f0c7ece9c930a558a
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152512"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601352"
 ---
 # <a name="payment-faq"></a>결제 FAQ
 

@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "662"
 - "1500012"
-- commerce
-ms.openlocfilehash: dce0d832016913b057ef968926552a56419f4b62
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: d3d1a3229de8a69d9f8a48f2618b13528e7a5a93
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469740"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602334"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>선불 Microsoft 365 갱신
 

@@ -9,16 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- commerce
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: 28ea821446a563650121f80fdfe1b81604b276b6
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: ca0ebe741babe1c2177bfbc072a948143d1afe9b
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152423"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601148"
 ---
 # <a name="change-payment-method"></a>결제 방법 변경
 
@@ -36,4 +35,4 @@ ms.locfileid: "50152423"
 
 결제 방법을 추가, 업데이트, 바꾸거나 삭제하는 방법에 대한 자세한 내용은 결제 방법 [관리를 참조합니다.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-결제 방법 간을 변경하는 방법에 대한 자세한 내용은 구독 결제 [방법을 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+결제 방법 간에 변경하는 방법에 대한 자세한 내용은 구독 결제 [방법을 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "663"
 - "1500007"
-- commerce
-ms.openlocfilehash: 28d9722779a89f843af8a83304ffd6640012af93
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 28601f73a9766a516565d29e1c0f24f20b5e731a
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469452"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601157"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>선불 구독에 시트 추가
 

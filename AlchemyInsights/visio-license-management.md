@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "5116"
-- commerce
-ms.openlocfilehash: 66232f742aaad0c119b413a1bd9697fed64dead8
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 9393a123799c57f6ea112572d1e2be82f59abd5d
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50468840"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602622"
 ---
 # <a name="visio-license-management"></a>Visio 라이선스 관리
 

@@ -9,15 +9,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
-- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: 7651ca75cc954e222b45fe1172554de0174fb4e0
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152600"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601388"
 ---
 # <a name="change-payment-method-fromto"></a>(에서/로)결제 방법 변경
 

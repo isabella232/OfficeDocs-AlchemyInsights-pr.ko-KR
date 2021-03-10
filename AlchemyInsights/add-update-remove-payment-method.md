@@ -9,15 +9,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
-- commerce
 - "9002348"
 - "4574"
-ms.openlocfilehash: edd6cf55ecc7808e80b74728a686d7d700ffc222
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: f8019a0c60061734b3bd80be0a016210625116a3
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152513"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601280"
 ---
 # <a name="add-update-or-remove-payment-method"></a>결제 방법 추가, 업데이트 또는 제거하기
 

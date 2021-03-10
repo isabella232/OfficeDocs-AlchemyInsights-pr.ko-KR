@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-- commerce
-ms.openlocfilehash: 1f89de4fdd42f44ca75786262f19f12f65b7f594
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: dca5f0adec60af8583f286630613a4c5a94cddb4
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469812"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602118"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Office 365용 Microsoft Defender 구입
 
@@ -33,4 +32,4 @@ Office 365용 Microsoft Defender는 Microsoft 365 E5, Office 365 E5, Office 365 
 
 사용자에게 라이선스를 할당하기 위해 사용자에게 라이선스 할당을 [참조합니다.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
 
-라이선스를 더 구입하거나 라이선스를 제거하려면 [라이선스 구입 또는 제거를 참조합니다.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)
+라이선스를 더 구매하거나 라이선스를 제거하려면 [라이선스 구입 또는 제거](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)를 참조하세요.

@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4961"
-- commerce
-ms.openlocfilehash: 203f9899c2c3126878abb73c24ebbc031d867a6a
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: ec8e44bf634eb8393e26767dc153e7e404af54d1
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469656"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602046"
 ---
 # <a name="purchase-power-bi"></a>Power BI 구매
 

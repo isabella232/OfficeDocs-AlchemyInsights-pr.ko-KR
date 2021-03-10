@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5105"
-- commerce
-ms.openlocfilehash: 161587eef62804fbba258a443e745b2176b576f8
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 4dfd0e757adc4f3461764592656dd9fd01a1251e
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469024"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602226"
 ---
 # <a name="project-license-management"></a>Project 라이선스 관리
 
