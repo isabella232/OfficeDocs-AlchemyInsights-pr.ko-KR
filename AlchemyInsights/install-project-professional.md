@@ -13,20 +13,20 @@ ms.assetid: ''
 ms.custom:
 - "9000695"
 - "2607"
-ms.openlocfilehash: 4c662b6a730e36f4787d4bf086cda5603e77fb7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ed6f48c8a9efb53b193812e8e8b24c2a7e5044ec
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703260"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708392"
 ---
-# <a name="install-project-professional"></a><span data-ttu-id="d0ed5-102">Project Professional 설치</span><span class="sxs-lookup"><span data-stu-id="d0ed5-102">Install Project Professional</span></span>
+# <a name="install-project-professional"></a><span data-ttu-id="169bc-102">Project Professional 설치</span><span class="sxs-lookup"><span data-stu-id="169bc-102">Install Project Professional</span></span>
 
-<span data-ttu-id="d0ed5-103">Project Online 버전을 설치 하는 방법 및 구독 하지 않는 버전의 Project 2019, 2016 또는 2013을 보려면 [설치 프로젝트](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="d0ed5-103">See [Install Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) to learn how to install the subscription version of Project Online, and the non-subscription version of Project 2019, 2016, or 2013.</span></span> 
+<span data-ttu-id="169bc-103">Project [Online의](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 구독 버전과 Project 2019, 2016 또는 2013의 비 구독 버전을 설치하는 방법에 대한 자세한 내용은 Project 설치를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="169bc-103">See [Install Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) to learn how to install the subscription version of Project Online, and the non-subscription version of Project 2019, 2016, or 2013.</span></span> 
 
-<span data-ttu-id="d0ed5-104">프로젝트 2010 또는 2007에 대해 [office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d)   또는 [office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657)의 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="d0ed5-104">For Project 2010 or 2007, follow the steps in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) or [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span></span> 
+<span data-ttu-id="169bc-104">Project 2010 또는 2007의 경우 [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) 또는 Office [2007의](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657)단계를 따릅니다.</span><span class="sxs-lookup"><span data-stu-id="169bc-104">For Project 2010 or 2007, follow the steps in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) or [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span></span> 
 
-<span data-ttu-id="d0ed5-105">프로젝트가 독립 실행형 응용 프로그램으로 판매 되므로 아직 설치 되어 있지 않은 경우 [프로젝트를 구입 하거나 사용해 보세요](https://products.office.com/project).</span><span class="sxs-lookup"><span data-stu-id="d0ed5-105">Project is sold as a stand-alone application, so if you don't have it yet, [Buy or try Project](https://products.office.com/project).</span></span> 
+<span data-ttu-id="169bc-105">Project는 독립 실행형 응용 프로그램으로 판매됩니다. 아직 없는 경우 [Project를 구입하거나 시도해 보아야 합니다.](https://www.microsoft.com/evalcenter/evaluate-project)</span><span class="sxs-lookup"><span data-stu-id="169bc-105">Project is sold as a stand-alone application, so if you don't have it yet, [Buy or try Project](https://www.microsoft.com/evalcenter/evaluate-project).</span></span> 
 
 
 
