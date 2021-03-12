@@ -1,5 +1,5 @@
 ---
-title: SharePoint에서 삭제 된 파일 또는 폴더 복원
+title: SharePoint에서 삭제된 파일 또는 폴더 복원
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3173"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 7820c37d503baba8b8433b647576b194ce002905
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc2d8c874b1b8ef850deea6816835dbab237fbeb
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797770"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708248"
 ---
-# <a name="restore-deleted-files-or-folders-in-sharepoint"></a>SharePoint에서 삭제 된 파일 또는 폴더 복원
+# <a name="restore-deleted-files-or-folders-in-sharepoint"></a>SharePoint에서 삭제된 파일 또는 폴더 복원
 
-실수로 SharePoint에서 파일 또는 폴더를 삭제 한 경우 휴지통에서 나중에 복구할 수 있습니다.
+SharePoint에서 파일 또는 폴더를 실수로 삭제한 경우 나중에 재활용 쓰레기 수거란에서 복구할 수 있습니다.
 
-* [SharePoint에서 삭제 된 파일 또는 폴더 복원](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+* [SharePoint에서 삭제된 파일 또는 폴더 복원](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
-여러 SharePoint 파일을 삭제, 덮어쓰기, 손상 또는 맬웨어로 감염 된 경우에는 전체 SharePoint 라이브러리를 이전 시간으로 복원할 수 있습니다.
+많은 SharePoint 파일이 삭제되거나 덮어 사용되거나 손상되거나 맬웨어에 감염된 경우 전체 SharePoint 라이브러리를 이전 시간으로 복원할 수 있습니다.
 
 * [문서 라이브러리 복원](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
