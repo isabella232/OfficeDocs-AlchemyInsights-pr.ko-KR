@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002258"
 - "4360"
-ms.openlocfilehash: 783e764f4f6da4ed2ceb19f8734d4178fa362edd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d9022e51ab2dc7119adaebe3d8315dd18670963d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796510"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707420"
 ---
-# <a name="verify-office-365-education-tenant"></a><span data-ttu-id="c4fa6-102">Office 365 Education 테넌트 확인</span><span class="sxs-lookup"><span data-stu-id="c4fa6-102">Verify Office 365 Education tenant</span></span>
+# <a name="verify-office-365-education-tenant"></a><span data-ttu-id="cbc92-102">Office 365 Education 테넌트 확인</span><span class="sxs-lookup"><span data-stu-id="cbc92-102">Verify Office 365 Education tenant</span></span>
 
-<span data-ttu-id="c4fa6-103">몇 가지 간단한 단계에 따라 테넌트를 Education 테넌트로 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="c4fa6-103">Your tenant can be verified as an Education tenant by following a few easy steps.</span></span> <span data-ttu-id="c4fa6-104">자세한 내용은 [Office 365 테넌트 설정](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="c4fa6-104">Review [Set up an Office 365 Tenant](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) for more information.</span></span> 
+<span data-ttu-id="cbc92-103">몇 가지 간단한 단계에 따라 테넌트를 Education 테넌트로 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="cbc92-103">Your tenant can be verified as an Education tenant by following a few easy steps.</span></span> <span data-ttu-id="cbc92-104">자세한 내용은 [Office 365 테넌트 설정](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="cbc92-104">Review [Set up an Office 365 Tenant](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) for more information.</span></span> 
