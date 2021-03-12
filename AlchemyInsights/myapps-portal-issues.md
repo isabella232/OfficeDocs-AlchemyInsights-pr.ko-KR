@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49912041"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708572"
 ---
 # <a name="myapps-portal-issues"></a>MyApps 포털 문제
 
@@ -28,9 +28,9 @@ ms.locfileid: "49912041"
 
 예상한 응용 프로그램이 응용 프로그램 액세스 패널에 나타나지 않는 이유에 대한 자세한 내용은 다음을 참조하세요.
 
-- [할당한 응용 프로그램이 액세스 패널에 나타나지 않는 이유를 알 수 없는 경우](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [할당한 응용 프로그램이 액세스 패널에 나타나지 않는 이유를 알 수 없는 경우](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [응용 프로그램이 액세스 패널에 나타나는 이유를 알 수 없는 경우](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [응용 프로그램이 액세스 패널에 나타나는 이유를 알 수 없는 경우](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
 **응용 프로그램 액세스 패널에 로그인하는 데 문제가 있는 경우**
 

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Intune에서 macOS 장치 등록 관련 문제 해결
+title: Microsoft Intune에서 macOS 장치 등록 문제 해결
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,22 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: 485615a706d574076f103973e09539d71498e457
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1dc43348237784e9e34273cd467aaba00269aed4
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699813"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708932"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Microsoft Intune에서 macOS 장치 등록 관련 문제 해결
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Microsoft Intune에서 macOS 장치 등록 문제 해결
 
-아래에 나열 된 리소스를 검토 하 여 지금 문제를 해결 하세요.
+아래 나열된 리소스를 검토하여 지금 문제를 해결합니다.
   
-1. [Intune 문제 해결 포털](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) 을 사용 하 여 일반적인 등록 오류를 진단 하 고 해결 합니다. 자세한 내용을 보려면 [이 문서](https://docs.microsoft.com/intune/help-desk-operators) 를 검토 하세요.
+1. [Intune 문제 해결 포털을](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) 사용하여 일반적인 등록 실패를 진단하고 해결합니다. 자세한 [내용은 이](https://docs.microsoft.com/intune/help-desk-operators) 문서를 검토합니다.
 
-2. [이 문서](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) 를 검토 하 여 각에 등록 및 확인을 방지 하는 일반적인 오류 목록을 확인 합니다.
+2. 이 [문서에서](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) 각 오류에 대한 등록 및 해결을 방지하는 일반적인 오류 목록을 검토합니다.
 
-3. [Microsoft Intune에서 macOS 장치를 등록 하는 방법을 알아봅니다](https://docs.microsoft.com/intune/macos-enroll).
+3. [Microsoft Intune에서 macOS 장치를 등록하는 방법을 학습합니다.](https://docs.microsoft.com/intune/macos-enroll)
 
-[최종 사용자 가이드-Microsoft Intune에서 macOS 장치 등록](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[Microsoft Intune에서 macOS 장치를 등록하는 최종 사용자 가이드를 참조하세요.](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   

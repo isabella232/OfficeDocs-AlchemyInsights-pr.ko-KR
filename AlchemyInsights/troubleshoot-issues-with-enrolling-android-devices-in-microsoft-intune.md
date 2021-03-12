@@ -1,5 +1,5 @@
 ---
-title: Microsoft Intune에서 Android 장치 등록 시 발생 하는 문제 해결
+title: Microsoft Intune에서 Android 장치 등록 문제 해결
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,35 +13,35 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: b5cb2e8a76e8e7d91bd9cd8789ae1623a7f96579
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c68a1e838f67c4510002b2c7ff5294a4649fe
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689960"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709004"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Microsoft Intune에서 Android 장치 등록 시 발생 하는 문제 해결
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Microsoft Intune에서 Android 장치 등록 문제 해결
 
-아래에 나열 된 리소스를 검토 하 여 지금 문제를 해결 하세요.
+아래 나열된 리소스를 검토하여 지금 문제를 해결합니다.
   
-몇 가지 일반적인 문제점과 해결 단계는 다음과 같습니다.
+몇 가지 일반적인 문제 및 해결 단계:
   
- **회사 포털에서 장치가 암호화 되지 않음 오류:** 최신 버전의 Android (특히 v 7.0부터 시작 하는 경우)에는 시작 암호를 지정 하 여 장치가 완전히 암호화 되었는지 확인 해야 합니다. 일반적인 해결 방법은 시작 pin을 사용 하거나 장치를 완전히 암호화 하는 것입니다. 자세한 내용을 보려면 [이 문서](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) 를 검토 하십시오.
+ **회사 포털에서 장치가 암호화되지 않은 오류:** 최신 버전의 Android, 특히 v7.0부터는 디바이스가 완전히 암호화되어 있는지 확인하려면 시작 암호가 필요합니다. 일반적인 솔루션은 시작 핀을 사용하도록 설정하거나 장치를 완전히 암호화하는 것입니다. 자세한 [내용은 이 문서를](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) 검토하세요.
   
- **장치가 intune 관리 콘솔에서 intune 서비스와 함께 또는 "비정상"으로 표시 되지 않습니다.** 일부 Samsung 4.4 및 5.5 장치는 서비스에 대 한 검사를 수행할 수 없습니다. 이 문제에는 다음과 같은 세 가지 방법을 사용할 수 있습니다.
+ 장치가 Intune 서비스로 체크 인하지 못하거나 Intune 관리 콘솔에서 **"Unhealthy"로 표시됩니다.** 일부 Samsung 4.4 및 5.5 장치는 서비스를 체크 인하지 않을 수 있습니다. 이 문제에는 세 가지 가능한 해결 방법도 있습니다.
   
-1. Intune 회사 포털 앱을 수동으로 열면 장치 동기화가 자동으로 시작 됩니다.
+1. Intune 회사 포털 앱을 수동으로 열면 장치 동기화가 자동으로 시작됩니다.
 
-2. 장치를 Android 6.0 이상으로 업데이트 합니다.
+2. 장치를 Android 6.0 이상으로 업데이트합니다.
 
-3. Intune 회사 포털 관리에서 Samsung Smart Manager를 사용 하지 않도록 설정 합니다. 이러한 문제와 해결 방법에 대 한 자세한 내용은 [이 문서](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) 를 참조 하십시오.
+3. Samsung Smart Manager를 사용하지 않도록 설정하여 Intune 회사 포털을 관리하지 않도록 합니다. 이러한 [문제](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) 및 해결에 대한 자세한 내용은 이 문서를 검토합니다.
 
- **사용자 라이선스 유형 잘못 됨** 또는 **사용자 이름을 인식할 수 없음 오류:** 사용자에 게 Intune 또는 EMS 라이선스를 할당 해야 합니다. Office 관리 센터 또는 Azure portal을 통해 라이선스를 할당 하려면 다음 문서를 검토 하세요.
+ **사용자 라이선스 유형이 잘못되었거나** 사용자 이름을 인식할 수 없습니다 **오류:** 사용자에게 Intune 또는 EMS 라이선스를 할당해야 합니다. 다음 문서를 검토하여 Office Admin Center 또는 Azure Portal을 통해 라이선스를 할당합니다.
   
-문제를 해결 하는 데 도움이 되는 추가 리소스:
+문제를 해결하는 데 도움이 되는 추가 리소스:
   
-1. [Intune 문제 해결 포털](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) 을 사용 하 여 일반적인 등록 오류를 진단 하 고 해결 합니다. 자세한 내용을 보려면 [이 문서](https://docs.microsoft.com/intune/help-desk-operators) 를 검토 하세요.
+1. [Intune 문제 해결 포털을](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) 사용하여 일반적인 등록 실패를 진단하고 해결합니다. 자세한 [내용은 이](https://docs.microsoft.com/intune/help-desk-operators) 문서를 검토합니다.
 
-2. [이 문서](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) 를 검토 하 여 각에 등록 및 확인을 방지 하는 일반적인 오류 목록을 확인 합니다.
+2. 이 [문서에서](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) 각 오류에 대한 등록 및 해결을 방지하는 일반적인 오류 목록을 검토합니다.
 
-3. [Microsoft Intune에서 Android 장치를 등록 하는 방법을 알아봅니다](https://docs.microsoft.com/intune/android-enroll).
+3. [Microsoft Intune에서 Android 장치를 등록하는 방법을 자세히 알아보습니다.](https://docs.microsoft.com/intune/android-enroll)
