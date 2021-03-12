@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 3a42c221047e7be6a173694cd45136baa6bff39a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236095"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704936"
 ---
 # <a name="unable-to-activate-office"></a>Office를 정품 인증할 수 없습니다
 
 - 구독 상태가 만료되었는지 확인합니다.
-- Office 365 Business 혹은 Business Premium과 같은 클라이언트 라이선스를 허용하는 구독이 있는지 확인하고 [사용자에게 라이선스가 할당되어 있는지 확인](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)합니다.
+- Office 365 Business 혹은 Business Premium과 같은 클라이언트 라이선스를 허용하는 구독이 있는지 확인하고 [사용자에게 라이선스가 할당되어 있는지 확인](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)합니다.
 - 사용자가 라이선스가 할당된 동일한 계정으로 Office에 로그인하고 있는지 확인합니다.
 - [Office 365 서비스 상태 페이지](https://docs.microsoft.com/office365/enterprise/view-service-health)를 보고 서비스에 알려진 문제가 있는지 확인합니다.
 - 방화벽, 백신 소프트웨어 및 프록시 설정이 Microsoft 365 앱의 인터넷 액세스를 차단하고 있지 않은지 확인합니다. [Office 365 URL 및 IP 주소 범위](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Office 365 URL 및 IP 주소 범위")를 참조하세요.
