@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: dca5f0adec60af8583f286630613a4c5a94cddb4
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 6317ba5b9ba4513d6d92e06b449778aa7614fe28
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602118"
+ms.locfileid: "50707852"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Office 365용 Microsoft Defender 구입
 
-Office 365용 Microsoft Defender는 Microsoft 365 E5, Office 365 E5, Office 365 A5, Microsoft 365 Business Premium 등의 특정 구독에 포함되어 있습니다. 구독에 Office 365용 Microsoft Defender가 포함되어 있지 않은 경우 특정 구독에 대한 추가 기능으로 [Office 365용 Microsoft Defender를](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) 구입할 수 있습니다. Microsoft 365 관리 센터에서 구입하려면
+Office 365용 Microsoft Defender는 Microsoft 365 E5, Office 365 E5, Office 365 A5, Microsoft 365 Business Premium 등의 특정 구독에 포함되어 있습니다. 구독에 Office 365용 Microsoft Defender가 포함되어 있지 않은 경우 특정 구독에 대한 추가 기능으로 [Office 365용 Microsoft Defender를](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) 구입할 수 있습니다. Microsoft 365 관리 센터에서 구입하려면
 
 1. 관리 센터에서 청구 구매 서비스  >  [페이지로](https://go.microsoft.com/fwlink/p/?linkid=868433) 이동합니다.
 2. 서비스 구매 페이지의  아래쪽에 있는  추가 기능 섹션에서 Office 365용 Microsoft Defender 추가 기능을 찾고 세부 **정보를 선택합니다.**

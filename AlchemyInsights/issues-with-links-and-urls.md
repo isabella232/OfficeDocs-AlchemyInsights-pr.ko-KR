@@ -3,7 +3,7 @@ title: 링크 및 URL 문제
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950795"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707888"
 ---
 # <a name="issues-with-links-and-urls"></a>링크 및 URL 문제
 
@@ -31,7 +31,7 @@ ms.locfileid: "49950795"
 
 개발 중인 응용 프로그램으로 로그인할 때 로그인 대화 상자에 **AADS50011이 표시되는 경우: 요청에 지정된 응답 URL이 응용 프로그램 <your app ID>** 에 대해 구성된 응답 URL과 일치하지 않습니다. 응용 프로그램 등록에 코드를 사용하여 Microsoft ID 플랫폼에 요청한 리디렉션 URI를 추가해야 합니다.
 
-회신 URL을 추가하기 위해 Azure Portal의 **응용 프로그램 등록** 페이지에서 **인증** 탭으로 이동한 다음 **리디렉션 URI** 섹션에 항목을 추가합니다. 리디렉션 URI가 입력됩니다(웹 또는 모바일/데스크톱). 입력해야 하는 값은 아래 설명된 바와 같이 구축하는 응용 프로그램의 유형에 따라 다릅니다.
+회신 URL을 추가하기 위해 Azure Portal의 **응용 프로그램 등록** 페이지에서 **인증** 탭으로 이동한 다음 **리디렉션 URI** 섹션에 항목을 추가합니다. 입력해야 하는 값은 아래 설명된 바와 같이 구축하는 응용 프로그램의 유형에 따라 다릅니다.
 
 - 단일 페이지 응용 프로그램 및 웹앱의 경우 회신 URL은 응용 프로그램의 URL입니다. [단일 페이지 응용 프로그램 등록](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) 또는 [Azure Portal을 사용하여 웹 응용 프로그램 등록](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)을 참조하십시오.
 - 데스크톱 앱의 경우 선택해야 하는 값은 다음에 따라 선택해야 합니다.

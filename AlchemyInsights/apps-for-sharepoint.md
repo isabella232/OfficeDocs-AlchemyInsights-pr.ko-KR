@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5796"
-ms.openlocfilehash: 5a8e374705d1d42bda96010e316859e801c234ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 19010179dd7e40139678ea3eaf7baae237d304f2
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716467"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707348"
 ---
 # <a name="install-sharepoint-apps"></a>SharePoint 앱 설치
 
@@ -28,4 +28,4 @@ SharePoint용 앱은 작업을 수행하거나 특정 비즈니스 요구 사항
 -   사용자가 SharePoint 스토어에서 앱을 받을 수 있는지를 지정하는 앱 구매에 대한 [SharePoint 스토어 설정 구성](https://docs.microsoft.com/sharepoint/configure-sharepoint-store-settings)입니다.
 -   앱에 문제가 발생하는 경우, 앱을 [제거](https://support.microsoft.com/office/03198d1b-c33b-498d-9469-af641a587d6c)하고 [다시 추가](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)해볼 수 있습니다.
 
-자세한 내용은 [사이트에 앱 추가](https://support.microsoft.com/office/f9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)를 참조하세요.
+자세한 내용은 [사이트에 앱 추가](https://support.microsoft.com/office/add-an-app-to-a-site-ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)를 참조하세요.

@@ -1,5 +1,5 @@
 ---
-title: Alchemy-Outlook 검색을 idexing 하지 않음
+title: Alchemy - Outlook 검색이 idexing이 아닌 경우
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: b13fed75dd4ebf9cbad2ca71b350ff7805ecfd27
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d096e3ea8566ab6c81aab3284b2a51b52e2b6de6
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718483"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707456"
 ---
-# <a name="outlook-search-not-indexing"></a>인덱싱하지 않음 Outlook 검색
+# <a name="outlook-search-not-indexing"></a>Outlook 검색이 인덱싱되지 않습니다.
 
-Windows 용 최신 보안 업데이트와 관련 된 Outlook 검색 문제를 알게 되었습니다.
+Windows의 최신 보안 업데이트와 관련된 Outlook 검색 문제를 알고 있습니다.
   
-Outlook에서 검색할 때 다음 오류 중 하나가 발생할 수 있습니다. 문제가 **발생 하 여 검색을 완료할**수 없거나 **항목이 아직 인덱싱되지 않아서 검색 결과가 불완전할**수 있습니다. 이 수정 프로그램은 선택적 Windows 업데이트로 실행 되었습니다. 이 문제가 발생 하는 Windows 버전에 해당 하는 사용자를 설치 하세요. 
+When searching in Outlook, you may get one of these errors: **Something wrong and your search could't** be completed , or Search results may be **incomplete because items are still being indexed**. The fix was issued as an optional Windows update. Please install the one corresponding to the version of Windows you are seeing this issue on: 
   
-> [Windows 7-6 월 27 일 2017 업데이트](https://support.microsoft.com/kb/4022168.aspx)
+> [Windows 7 - June 27, 2017 update](https://support.microsoft.com/topic/june-27-2017-kb4022168-preview-of-monthly-rollup-b8e847d5-3b84-367e-4dcb-cc7a25f06d40)
     
-> [Windows 8.1-6 월 27 일 (2017) 업데이트](https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8.1 - June 27, 2017 update](https://support.microsoft.com/topic/june-27-2017-kb4022720-preview-of-monthly-rollup-b98970bb-6f11-46c3-8681-a6b85d5d8eb4)
     
-> [Windows 10 버전 1703-June 27, 2017 업데이트](https://support.microsoft.com/kb/4022716.aspx)
+> [Windows 10 버전 1703 - 2017년 6월 27일 업데이트](https://support.microsoft.com/topic/compatibility-update-for-upgrading-to-windows-10-version-1703-june-27-2017-32a45f84-19d8-2535-029c-d083b5f6765e)
     
-최신 정보에 대 한 자세한 내용은 [Outlook의 알려진 문제 6 월 2017 보안 업데이트](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) 문제 #5 문서를 참조 하십시오. 
+For the most recent information, please see the article: [Outlook known issues in the June 2017 security updates](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) Issue #5. 
   
 
