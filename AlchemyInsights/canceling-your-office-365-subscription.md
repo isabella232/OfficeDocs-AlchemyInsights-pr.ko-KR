@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-- commerce
-ms.openlocfilehash: e69a91cda5f5df07a7ee429dce7145af366be464
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: d4c5fcf5140f079bfb6ae0f76ec2d080c6befd0a
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837388"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896873"
 ---
 # <a name="canceling-your-subscription"></a>구독 취소
 

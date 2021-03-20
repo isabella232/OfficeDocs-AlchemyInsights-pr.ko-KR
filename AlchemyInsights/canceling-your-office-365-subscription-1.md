@@ -13,13 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-- commerce
-ms.openlocfilehash: e0f8fc119d5476c9a392a61b2592a5a7cd844892
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
+ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837424"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50931654"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Microsoft 365 구독 취소
 
@@ -31,3 +30,5 @@ ms.locfileid: "50837424"
 4. **저장** 을 선택합니다.
 
 구독 취소 또는 옵션에 대한 자세한 내용은 구독 [취소를 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+
+평가 기간 동안 구독을 계속 사용하려면 구독에 대한 거치지 청구를 해제할 수 있습니다. 자세한 내용은 비즈니스용 [Microsoft 365 갱신을 참조합니다.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)
