@@ -11,17 +11,17 @@ ms.custom:
 - "6500001"
 - "4353"
 ms.assetid: ''
-ms.openlocfilehash: 1acb7b2510f2134911b5429eee9637e95848d05c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 603bc90b53839f32c70a895b456a61da3a33556d
+ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706061"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51122921"
 ---
 # <a name="guest-access-to-teams-files"></a>Teams 파일에 대한 게스트 액세스 권한
 
 Teams는 SharePoint Online 및 비즈니스용 OneDrive를 사용하여 채널 및 채팅 대화를 위한 파일과 문서를 저장하므로 관리자는 다음을 구성해야 합니다.
 
-- [SharePoint 관리 센터](https://admin.microsoft.com/sharepoint?page=sharing&modern=true)에서 **기존 게스트**, **신규 및 기존 게스트** 또는 **모두**를 선택합니다. 자세한 내용은 [외부 공유 설정 또는 해제](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)를 참조하세요.
+- [SharePoint 관리 센터](https://admin.microsoft.com/sharepoint?page=sharing&modern=true)에서 **기존 게스트**, **신규 및 기존 게스트** 또는 **모두** 를 선택합니다. 자세한 내용은 [외부 공유 설정 또는 해제](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)를 참조하세요.
 
-- [그룹 설정](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/SettingsMultiPivot/:/Settings/L1/O365Groups)에서 그룹 소유자가 조직 외부의 사람을 그룹에 추가하도록 허용을 설정합니다. 자세한 내용은 [Microsoft Groups에서 게스트 액세스 제어](https://docs.microsoft.com/microsoftteams/teams-dependencies#control-guest-access-in-office-365-groups)를 참조하세요.
+- [그룹 설정](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/Settings/Services/:/Settings/L1/O365Groups)에서 그룹 소유자가 조직 외부의 사람을 그룹에 추가하도록 허용을 설정합니다. 자세한 내용은 [Microsoft Groups에서 게스트 액세스 제어](https://docs.microsoft.com/microsoftteams/teams-dependencies#control-guest-access-in-office-365-groups)를 참조하세요.
