@@ -1,5 +1,5 @@
 ---
-title: 내 제품 키 찾기 및 활성화
+title: 소매 선불 카드
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 49a612831c416ca6767eeb47800bca535a3fc010
-ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
+ms.openlocfilehash: 1785cc69d00211cf025814e66ae317fc5b69e8bd
+ms.sourcegitcommit: 84f0aebdb278703f642a0c33fe260e3aee849be9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 03/25/2021
-ms.locfileid: "51207602"
+ms.locfileid: "51217962"
 ---
-# <a name="find-and-activate-my-product-key"></a>내 제품 키 찾기 및 활성화
+# <a name="retail-prepaid-card"></a>소매 선불 카드
 
 소매점에서 Microsoft 365 Business Standard를 구매한 경우 다음 단계에 따라 만료 날짜를 연장하거나 기존 구독에 라이선스를 추가합니다.
 
