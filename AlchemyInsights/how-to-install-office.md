@@ -2,7 +2,7 @@
 title: Office 설치 방법
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,19 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 7f61ff7eb02371790ecb335841244eddb2bcbb2e
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: d2e11c59f3b47095e272a5c27446e584ed90c879
+ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707744"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51200643"
 ---
 # <a name="how-to-install-office"></a>Office 설치 방법
 
-Office 클라이언트 앱을 설치하려면 Microsoft 365 Business Premium Standard, 비즈니스용 Microsoft 365 앱 또는 Office 365 Education과 같은 비즈니스 구독이 있어야 합니다.
+Office 클라이언트 앱을 설치하려면 Microsoft 365 Business Standard, 비즈니스용 Microsoft 365 앱 또는 Office 365 Education과 같은 비즈니스 구독이 있어야 합니다.
   
-*참고: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e)는 [가정용 Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) 제품이며 비즈니스 구독의 일부로 포함되지 않습니다. Visio 또는 Project에 대한 자세한 지침은 [Visio 설치](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) 또는 [프로젝트 설치](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)* 를 참조하십시오.
+> [!NOTE]
+> [Office Home and Business](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)는 [가정용 Office](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia) 제품이며 비즈니스 구독의 일부가 아닙니다. Visio 또는 Project에 대한 구체적인 지침은 [Visio 설치](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA) 또는 [Project 설치](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA)를 참조하십시오.
 
 사용자 계정을 만들고 도메인을 추가합니다. 사용자에게 [할당된 라이센스](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)가 있는지 확인하십시오.
 
