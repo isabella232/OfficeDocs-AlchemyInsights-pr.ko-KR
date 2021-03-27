@@ -12,12 +12,14 @@ localization_priority: Normal
 ms.custom:
 - "9003931"
 - "6986"
-ms.openlocfilehash: 241d594fac6664dd1e85fd60e30a6344c432555e
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8329"
+- "9004625"
+ms.openlocfilehash: d469973c4f8605b00d32f6f625eb5fdd17e8f390
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571891"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398591"
 ---
 # <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Microsoft Edge에 적용할 수 있는 고급 인증 개념
 
@@ -31,7 +33,7 @@ ms.locfileid: "49571891"
 
 **NTLM 인증용 Windows Hello CredUI**
 
-웹 사이트에서 NTLM 또는 협상 메커니즘을 통해 사용자에 로그인을 할 때 SSO(Single Sign-On)를 사용할 수 없는 경우 이 기능을 사용하면 사용자가 웹 사이트와 OS 자격 증명을 공유하고 Windows Hello Cred UI를 사용하여 인증 챌린지가 충족될 수 있습니다. 이 로그인 흐름은 Windows 10에서만 나타나며 NTLM 또는 협상 챌린지 중에 SSO를 얻지 않은 사용자만 표시됩니다.
+웹 사이트에서 NTLM 또는 협상 메커니즘을 통해 사용자에 로그인할 때 SSO(Single Sign-On)를 사용할 수 없는 경우 이 기능을 사용하면 사용자가 웹 사이트와 OS 자격 증명을 공유하고 Windows Hello Cred UI를 사용하여 인증 과제를 충족할 수 있습니다. 이 로그인 흐름은 Windows 10에서만 나타나며 NTLM 또는 협상 챌린지 중에 SSO를 얻지 않은 사용자만 표시됩니다.
 
 **저장된 암호를 사용하여 자동으로 로그인**
 
