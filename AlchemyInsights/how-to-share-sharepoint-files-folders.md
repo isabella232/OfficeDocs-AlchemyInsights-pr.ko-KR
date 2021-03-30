@@ -1,5 +1,5 @@
 ---
-title: SharePoint 파일 또는 폴더를 공유 하는 방법
+title: SharePoint 또는 OneDrive 파일 또는 폴더를 공유하는 방법
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779021"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408120"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>SharePoint 파일 또는 폴더를 공유 하는 방법
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>SharePoint 또는 OneDrive 파일 또는 폴더를 공유하는 방법
 
-SharePoint 사이트에 저장 하는 파일은 일반적으로 사이트에 대 한 사용 권한이 있는 모든 사용자가 사용할 수 있지만, 해당 사이트에 대 한 액세스 권한이 없는 사용자에 게 특정 파일 또는 폴더를 공유 해야 할 수 있습니다. 파일 및 폴더를 공유 하는 경우 사용자가이를 편집 하거나 보기만 할 지 여부를 결정할 수 있습니다.
+SharePoint 사이트에 저장하는 파일은 일반적으로 사이트에 대한 사용 권한이 있는 모든 사용자가 사용할 수 있지만, 사이트 액세스 권한이 없는 사용자와 특정 파일 또는 폴더를 공유할 수 있습니다. 파일 및 폴더를 공유할 때 사용자가 편집할 수 있는지 아니면 볼 수만 있는지를 결정할 수 있습니다. 자세한 내용은 다음을 참조하세요.
 
 [SharePoint 파일 또는 폴더 공유](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[OneDrive 파일 및 폴더 공유](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
