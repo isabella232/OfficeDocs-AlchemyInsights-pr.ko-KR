@@ -11,13 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9004344"
+- "9004357"
 - "9385"
-ms.openlocfilehash: eb920556d08706220a0a86e453fab1cb4db9b519
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+- "9861"
+ms.openlocfilehash: 66613381a9d07b9e79152cb1fa7f746d02d40f26
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50586514"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403389"
 ---
 # <a name="enable-seamless-single-sign-on-sso"></a>원활한 SSO(Single Sign-On) 사용
 

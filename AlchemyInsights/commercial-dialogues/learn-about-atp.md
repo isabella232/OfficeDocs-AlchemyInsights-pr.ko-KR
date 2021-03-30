@@ -3,7 +3,7 @@ title: ATP에 대해 자세히
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 4837fb5ff53198b290333eabb2f94f6fd96dfe53
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50465006"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403569"
 ---
 # <a name="learn-about-atp"></a>ATP에 대해 자세히
 

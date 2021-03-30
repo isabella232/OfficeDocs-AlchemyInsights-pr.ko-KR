@@ -3,7 +3,7 @@ title: 경고 정책 끄기 또는 삭제
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: a7aee94d3242a30de36b7d08a22995b1c357f708
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a1ea801c002b69193a156b81785e94619b2c05bd
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464798"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403497"
 ---
 # <a name="turn-off-or-delete-alert-policies"></a>경고 정책 끄기 또는 삭제
 

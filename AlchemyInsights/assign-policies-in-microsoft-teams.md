@@ -11,14 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9466"
 - "9000730"
-ms.openlocfilehash: 9d413804c26dd6940060316394b1df6ff8e2b06b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+- "9000734"
+- "9466"
+- "10006"
+ms.openlocfilehash: 95941fec4951a0e5f01e4984b157d6760f542943
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897998"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401805"
 ---
 # <a name="assign-policies-in-microsoft-teams"></a>Microsoft Teams에서 정책 할당
 
