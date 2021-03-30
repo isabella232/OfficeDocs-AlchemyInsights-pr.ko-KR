@@ -12,14 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003841"
+- "9004632"
 - "6890"
-ms.openlocfilehash: 7752d3f5d1a567b4b9e61818ad80599ef5cda056
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8362"
+ms.openlocfilehash: dc6a5c233736912030f16b43c269b9deb442dfa6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576477"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403353"
 ---
-# <a name="group-policies-in-microsoft-edge"></a><span data-ttu-id="1be4d-102">Microsoft Edge의 그룹 정책</span><span class="sxs-lookup"><span data-stu-id="1be4d-102">Group policies in Microsoft Edge</span></span>
+# <a name="group-policies-in-microsoft-edge"></a><span data-ttu-id="7289d-102">Microsoft Edge의 그룹 정책</span><span class="sxs-lookup"><span data-stu-id="7289d-102">Group policies in Microsoft Edge</span></span>
 
-<span data-ttu-id="1be4d-103">Microsoft [Edge(버전](https://go.microsoft.com/fwlink/?linkid=2134623) 77 이상)에서 사용할 수 있는 그룹 정책을 사용하여 조직에서 브라우저가 실행되는 방법을 지정합니다.</span><span class="sxs-lookup"><span data-stu-id="1be4d-103">Use the [group policies](https://go.microsoft.com/fwlink/?linkid=2134623) available in Microsoft Edge (version 77 or later) to specify how the browser runs in your organization.</span></span>
+<span data-ttu-id="7289d-103">Microsoft [Edge(버전](https://go.microsoft.com/fwlink/?linkid=2134623) 77 이상)에서 사용할 수 있는 그룹 정책을 사용하여 조직에서 브라우저가 실행되는 방법을 지정합니다.</span><span class="sxs-lookup"><span data-stu-id="7289d-103">Use the [group policies](https://go.microsoft.com/fwlink/?linkid=2134623) available in Microsoft Edge (version 77 or later) to specify how the browser runs in your organization.</span></span>
