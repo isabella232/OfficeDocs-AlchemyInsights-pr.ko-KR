@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: d0363d6bdecdb266a5f4a3a14bd496ede6bb9931
-ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
+ms.openlocfilehash: 36af769b67f8c9aa4b8d17e9f4f3f3b82c8a8534
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48305449"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402435"
 ---
 # <a name="configure-endpoint-dlp"></a>끝점 DLP 구성
 
@@ -28,14 +28,14 @@ Microsoft 끝점 DLP를 사용하여 Windows 10 장치의 중요한 정보에 �
 
 - 해당 SKU/구독 라이선스가 있는지 확인합니다. 자세한 내용은 [SKU/구독 라이선스](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing)를 참조하세요.
 - 장치 관리를 사용하도록 설정하고 등록 페이지에 액세스하거나 장치 모니터링을 설정/해제하는 데 필요한 권한을 확인합니다. 자세한 내용은 [사용 권한](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#permissions)을 참조하세요.
-- 장치 등록 절차를 따라 장치 관리에 장치를 등록합니다. M365 준수 **설정**에서 장치 등록(미리 보기) 옵션이 없는 경우에는 위에 참조된 적절한 라이선스 및 사용 권한을 보유하고 있는지 확인합니다. 자세한 내용은 [장치 등록](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices)을 참조하세요. 
-- DLP 정책을 만들어 중요한 항목을 보호합니다. 자세한 내용은 [끝점 DLP 정책 시나리오](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios)를 참조하세요.
+- 장치 등록 절차를 따라 장치 관리에 장치를 등록합니다. M365 준수 **설정** 에서 장치 등록(미리 보기) 옵션이 없는 경우에는 위에 참조된 적절한 라이선스 및 사용 권한을 보유하고 있는지 확인합니다. 자세한 내용은 [장치 등록](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices)을 참조하세요. 
+- DLP 정책을 만들어 중요한 항목을 보호합니다. 자세한 내용은 [끝점 DLP 정책 시나리오](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios &preserve-view=true)를 참조하세요.
 
 Microsoft 끝점 DLP에 대한 자세한 내용은 [Microsoft 365 끝점 데이터 손실 방지(미리 보기) 알아보기](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about)를 참조하세요.
 
 **지원이 필요한 경우 중요한 데이터 수집 단계:**
 
-1. [http://aka.ms/betamdatpanalyzer](http://aka.ms/betamdatpanalyzer "http://aka.ms/betamdatpanalyzer")에서 MDATP 클라이언트 분석기 미리 보기를 다운로드합니다.
+1. [https://aka.ms/betamdatpanalyzer](https://aka.ms/betamdatpanalyzer "https://aka.ms/betamdatpanalyzer")에서 MDATP 클라이언트 분석기 미리 보기를 다운로드합니다.
 2. cmd 창에서 도구를 관리자로 실행합니다.
 3. MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t
 4. "추적을 수집할 시간(분) 입력:" 메시지가 표시되면 시나리오를 실행하는 데 필요한 시간(분)을 입력합니다.
