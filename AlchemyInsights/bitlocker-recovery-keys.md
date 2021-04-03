@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685892"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505074"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Bitlocker 복구 키 액세스
 
-Bitlocker 설정 Intune Endpoint Protection 정책을 구성할 때 Bitlocker 복구 정보를 Azure Active Directory에 저장할지 여부를 정의할 수 있습니다.
+Bitlocker 설정 Intune 끝점 보호 정책을 구성할 때 Bitlocker 복구 정보를 Azure Active Directory에 저장할지 여부를 정의할 수 있습니다.
 
-이 설정이 구성 되어 있는 경우에는 다음과 같은 두 가지 방법으로 Intune 장치 블레이드에서 장치 레코드 데이터의 일부로 저장 된 복구 데이터를 Intune 관리자에 게 표시 해야 합니다.
+해당 설정이 구성된 경우 저장된 복구 데이터는 Intune 장치 블레이드의 장치 레코드 데이터의 일부로 Intune 관리자에게 다음 두 가지 방법으로 표시해야 합니다.
 
-장치-Azure AD 장치-> "장치" 또는 장치-> 모든 장치-> "장치"-> 복구 키
+장치 - Azure AD 장치 -> "장치" 또는 장치 -> 모든 장치 -> "장치" -> 복구 키
 
-또는 장치 자체에 대 한 관리 액세스 권한이 있는 경우 관리자 권한 명령 프롬프트에서 다음 명령을 실행 하 여 복구 키 (암호)를 볼 수 있습니다.
+또는 장치 자체에 대한 관리 액세스 권한이 있는 경우 관리자 권한 명령 프롬프트에서 다음 명령을 실행하여 복구 키(암호)를 볼 수 있습니다.
 
 ```
 manage-bde -protectors c: -get
@@ -43,8 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-장치가 Intune에서 enrolment 전에 암호화 된 경우 복구 키가 OOBE 프로세스 중에 장치에 로그인 하는 데 사용 되는 "Microsoft 계정" (MSA)과 연결 되어 있을 수 있습니다. 이 경우 해당 MSA에 액세스  https://onedrive.live.com/recoverykey 하 고 로그인 하려면 복구 키가 저장 된 장치가 표시 되어야 합니다.
+Intune에 등록하기 전에 장치가 암호화된 경우 복구 키가 OOBE 프로세스 중에 장치에 로그인하는 데 사용되는 "Microsoft 계정"(MSA)과 연결되어 있을 수 있습니다. 이 경우 해당 MSA를 사용하여 액세스하고 로그인하면 복구 키가 저장된  https://onedrive.live.com/recoverykey 디바이스가 표시될 수 있습니다.
  
-장치가 도메인 기반 그룹 정책을 통해 구성 된 결과로 암호화 된 경우에는 온-프레미스 Active Directory에 복구 정보가 저장 될 수 있습니다.
- 
+도메인 기반 그룹 정책을 통해 구성한 결과로 장치가 암호화된 경우 복구 정보가 사내 Active Directory에 저장될 수 있습니다.
+
+Azure Active Directory에 복구 키를 저장하도록 끝점 보호 정책을 구성했지만 특정 장치의 키가 업로드되지 않은 경우 MEM 콘솔에서 해당 장치에 대한 복구 키를 회전하여 업로드를 트리거할 수 있습니다. 자세한 내용은 [BitLocker 복구 키 회전을 참조합니다.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 
