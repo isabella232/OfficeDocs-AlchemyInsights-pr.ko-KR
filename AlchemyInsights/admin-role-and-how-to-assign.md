@@ -14,21 +14,15 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 1054297dd1f5ead61b150c967299ae54cf1bc6da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 116b92824b4046766d9c8b869ef0cfc655ee2395
+ms.sourcegitcommit: ce1a381ca3b24b8b4e60c5b83fae3ec7609eaf9d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686684"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "51585981"
 ---
-# <a name="admin-roles"></a><span data-ttu-id="89c77-102">관리자 역할</span><span class="sxs-lookup"><span data-stu-id="89c77-102">Admin roles</span></span>
+# <a name="admin-roles"></a><span data-ttu-id="34e08-102">관리자 역할</span><span class="sxs-lookup"><span data-stu-id="34e08-102">Admin roles</span></span>
 
-- <span data-ttu-id="89c77-103">[관리 센터](https://admin.microsoft.com/Adminportal/Home#/roles)에서 **역할**을 선택하여 관리자 역할을 할당하거나 자세한 내용을 알아보세요.</span><span class="sxs-lookup"><span data-stu-id="89c77-103">To assign or learn more about admin roles, select **Roles** in the [admin center](https://admin.microsoft.com/Adminportal/Home#/roles).</span></span>
+- <span data-ttu-id="34e08-103">역할을 할당하려면 [관리 센터](https://admin.microsoft.com/Adminportal/Home#/users)에서 **활성 사용자** 를 선택하고 사용자 이름을 선택한 다음 **역할 관리** 를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="34e08-103">To assign a role, select **Active Users** in the [admin center](https://admin.microsoft.com/Adminportal/Home#/users), select a user name, and then select  **Manage Roles**.</span></span>
 
-- <span data-ttu-id="89c77-104">자세한 내용을 보려면 관리 센터에서 역할 이름을 선택하고 **역할 할당** 또는 **역할 비교**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="89c77-104">To learn more, in the admin center, select the role name(s) and select **assign role** or **compare roles**.</span></span>
-
-- <span data-ttu-id="89c77-105">역할을 할당하려면 [관리 센터](https://admin.microsoft.com/Adminportal/Home#/users)에서 **활성 사용자**를 선택하고 사용자 이름을 선택한 다음 **역할 관리**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="89c77-105">To assign a role, select **Active Users** in the [admin center](https://admin.microsoft.com/Adminportal/Home#/users), select a user name, and then select  **Manage Roles**.</span></span>
-
-- <span data-ttu-id="89c77-106">역할에 대한 자세한 내용을 알아보려면 역할 옆에 **i**를 클릭하거나 [관리자 역할 정보](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="89c77-106">For more information about a role, click the **i** next to the role, or see [About admin roles](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span></span>
-
-- <span data-ttu-id="89c77-107">기존 관리자 계정에 대한 액세스의 도움이 필요한 경우 [계정으로 돌아가기](https://passwordreset.microsoftonline.com/) 또는 [관리자 암호 재설정](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords#reset-my-admin-password)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="89c77-107">If you need help with access to an existing admin account, see [Get back into your account](https://passwordreset.microsoftonline.com/) or [Reset my admin password](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords#reset-my-admin-password).</span></span>
+- <span data-ttu-id="34e08-104">역할에 대한 자세한 내용을 알아보려면 역할 옆에 **i** 를 클릭하거나 [관리자 역할 정보](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="34e08-104">For more information about a role, click the **i** next to the role, or see [About admin roles](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span></span>
