@@ -14,18 +14,18 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: caa2c8987eecb89bac3469bf9471847858cab0ba
+ms.sourcegitcommit: ec99a3a2e1e6a13d9a829d65ad1692a607dc3a17
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505692"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51597449"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>삭제된 Microsoft 365 그룹 복원
 
 삭제 후 30일 이내에 삭제된 Microsoft 365 그룹 또는 Microsoft Teams를 복원할 수 있습니다.
 
-1. Microsoft 365 관리 센터에 로그인하고 삭제된 그룹 및 팀을 나열하려면 [Microsoft 365 관리 센터로 이동하세요.](https://aka.ms/RestoreDeletedGroup)
+1. [Microsoft 365](https://aka.ms/RestoreDeletedGroup) 관리 센터로 이동하여 로그인하고 삭제된 그룹 및 팀을 나열합니다.
 
     **참고:** 테넌트 관리자 또는 그룹 관리자 역할에 할당된 계정을 사용하여 로그인합니다.
 
