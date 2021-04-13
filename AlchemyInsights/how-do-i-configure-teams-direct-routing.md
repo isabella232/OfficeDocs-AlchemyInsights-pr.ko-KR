@@ -1,5 +1,5 @@
 ---
-title: 팀 직접 라우팅을 구성 하는 방법
+title: Teams 직접 라우팅을 구성하는 방법
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.custom:
 - "1945"
 - "2659"
 - "9000321"
-ms.openlocfilehash: 7143fda9fc744375571e8b39dc281fbac2d17d46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c001cc394088d977e5544551a44f6f765f35ce3c
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704900"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692148"
 ---
-# <a name="phone-system-direct-routing-for-microsoft-teams"></a>Microsoft 팀을 위한 전화 시스템 다이렉트 라우팅
+# <a name="direct-routing-for-microsoft-teams"></a>Microsoft Teams에 대한 직접 라우팅
 
-다음 문서를 검토 하 여 [Microsoft 팀의 전화 시스템 다이렉트 라우팅](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page)에 대해 자세히 알아보세요. 
+다음 문서를 검토하여 [Microsoft Teams의 직접 라우팅에 대해 자세히 알아보는 방법을 참조합니다.](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page) 
 
 - [직접 라우팅 계획](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
 - [직접 라우팅 구성](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
 - [직접 라우팅 모니터링 및 문제 해결](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
 
-**참고:** [팀 아카데미 직접 라우팅](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) YouTube 동영상을 확인할 수도 있습니다.
+**참고:** [Teams Academy](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) 직접 라우팅 YouTube 비디오를 확인할 수 있습니다.
