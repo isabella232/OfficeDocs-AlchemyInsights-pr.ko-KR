@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002264"
 - "4385"
-ms.openlocfilehash: 93167e4bbbfe0ff87f26714f55c539d796ea5737
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0ab3ee85866795b655d7838884658d6f4727503f
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797662"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692815"
 ---
-# <a name="set-up-a-conferencing-bridge-for-teams"></a><span data-ttu-id="795ab-102">Teams에 대한 회의 브리지 설정</span><span class="sxs-lookup"><span data-stu-id="795ab-102">Set up a conferencing bridge for Teams</span></span>
+# <a name="set-up-a-conferencing-bridge-for-teams"></a><span data-ttu-id="91fa5-102">Teams에 대한 회의 브리지 설정</span><span class="sxs-lookup"><span data-stu-id="91fa5-102">Set up a conferencing bridge for Teams</span></span>
 
-<span data-ttu-id="795ab-103">모임 일정을 계획하거나 주도하는 사용자들을 위해 오디오 회의를 설정하기만 하면 됩니다.</span><span class="sxs-lookup"><span data-stu-id="795ab-103">You only need to set up Audio Conferencing for people who plan to schedule or lead meetings.</span></span> <span data-ttu-id="795ab-104">전화 시스템 설정을 완료하는 단계별 프로세스를 제공했습니다.</span><span class="sxs-lookup"><span data-stu-id="795ab-104">We've provided a step-by-step process to complete the phone system setup.</span></span> <span data-ttu-id="795ab-105">[조직에서 전화 시스템 설정](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)을 확인하세요.</span><span class="sxs-lookup"><span data-stu-id="795ab-105">Please review [Setting up Phone System in your organization](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span></span>
+<span data-ttu-id="91fa5-103">모임 일정을 계획하거나 주도하는 사용자들을 위해 오디오 회의를 설정하기만 하면 됩니다.</span><span class="sxs-lookup"><span data-stu-id="91fa5-103">You only need to set up Audio Conferencing for people who plan to schedule or lead meetings.</span></span> <span data-ttu-id="91fa5-104">전화 시스템 설정을 완료하는 단계별 프로세스를 제공했습니다.</span><span class="sxs-lookup"><span data-stu-id="91fa5-104">We've provided a step-by-step process to complete the phone system setup.</span></span> <span data-ttu-id="91fa5-105">[조직에서 Microsoft Teams 전화 설정](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)을 확인하세요.</span><span class="sxs-lookup"><span data-stu-id="91fa5-105">Please review [Setting up Microsoft Teams Phone in your organization](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span></span>
