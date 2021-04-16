@@ -2,7 +2,7 @@
 title: 청구서 이해
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791533"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782697"
 ---
 # <a name="understand-billing-amount"></a>청구 금액에 대한 이해
 
@@ -70,7 +70,7 @@ EA 고객은 이 혜택을 사용할 수 없습니다. 하지만 고객이 무�
 
 **무료 서비스가 활성 상태인지 또는 만료 시기가 언제인지 어떻게 확인할 수 있나요?**
 
-Ibiza 포털 > 구독 > 페이지 개요에서 12개월 간 무료 서비스에 대해 아래로 스크롤하여 정보 아이콘을 클릭합니다. 무료 서비스가 만료되는 날짜가 표시됩니다. **참고** : V1 서비스는 Azure 무료 포함 서비스의 일부가 아닙니다. 무료 서비스에 대한 최신 목록은 [12개월 간 무료로 제공되는 제품](http://www.microsoftazuresponsorships.com/)을 참조하세요.
+Ibiza 포털 > 구독 > 페이지 개요에서 12개월 간 무료 서비스에 대해 아래로 스크롤하여 정보 아이콘을 클릭합니다. 무료 서비스가 만료되는 날짜가 표시됩니다. **참고**: V1 서비스는 Azure 무료 포함 서비스의 일부가 아닙니다. 무료 서비스에 대한 최신 목록은 [12개월 간 무료로 제공되는 제품](http://www.microsoftazuresponsorships.com/)을 참조하세요.
 
 추가 FAQ: [무료 계정 FAQ](https://azure.microsoft.com/free/free-account-faq/)
 
