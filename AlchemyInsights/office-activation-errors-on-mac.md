@@ -2,7 +2,7 @@
 title: Mac의 Office 정품 인증 오류
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4488"
-ms.openlocfilehash: 65d4a6d3bb55c648b3d019bf82b5c38a152bfbac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db17f222ccd245b7c9199c159098fbcc8e78c003
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666516"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802569"
 ---
 # <a name="office-activation-errors-on-mac"></a>Mac의 Office 정품 인증 오류
 
