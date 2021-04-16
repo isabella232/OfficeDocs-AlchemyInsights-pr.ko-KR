@@ -1,8 +1,8 @@
 ---
-title: 가격이 정확 하지 않습니까?
+title: 가격이 정확하지 않은가요?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: 3a3fb90af53f4c098fb4eb7673464cd373c40f99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 92290384e7995ccb44f41665b7166fd07196f947
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693669"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790446"
 ---
-# <a name="price-doesnt-look-correct"></a><span data-ttu-id="3be00-102">가격이 정확 하지 않습니까?</span><span class="sxs-lookup"><span data-stu-id="3be00-102">Price doesn't look correct?</span></span>
+# <a name="price-doesnt-look-correct"></a><span data-ttu-id="9f9d9-102">가격이 정확하지 않은가요?</span><span class="sxs-lookup"><span data-stu-id="9f9d9-102">Price doesn't look correct?</span></span>
 
-<span data-ttu-id="3be00-103">송장의 가격이 제대로 표시 되지 않으면 갱신 시 가격이 변경 되었기 때문일 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3be00-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="3be00-104">이 방법으로 문제에 대 한 설명이 없는 경우에는 "사용자에 게 전화를 걸어 주십시오." 옵션을 사용 하 여 지원 엔지니어에 게 문의 하세요.</span><span class="sxs-lookup"><span data-stu-id="3be00-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="9f9d9-103">송장 가격이 올재하지 않는 경우 갱신 시 가격이 변경될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9f9d9-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="9f9d9-104">이 옵션이 문제를 설명하는 것으로 생각하지 않는 경우 "전화 걸기" 옵션을 사용하여 기술 지원 엔지니어에게 문의하세요.</span><span class="sxs-lookup"><span data-stu-id="9f9d9-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
