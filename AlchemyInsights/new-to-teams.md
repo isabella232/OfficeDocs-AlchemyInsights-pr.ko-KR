@@ -2,7 +2,7 @@
 title: Teams를 처음 사용하시나요?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002403"
 - "4676"
-ms.openlocfilehash: 011a791faa51df19e375afbf6851259617b7fb79
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3cda6f733c15c7079e63223369fb7da70fa1397
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769477"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51791634"
 ---
 # <a name="new-to-teams"></a>Teams를 처음 사용하시나요?
 

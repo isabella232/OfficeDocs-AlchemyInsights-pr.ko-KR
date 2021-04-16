@@ -1,8 +1,8 @@
 ---
-title: 중복 없음
+title: 누락 - 중복
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3414"
 - "9001433"
-ms.openlocfilehash: 1267f80c1e4d632a3627a97fbfccf86b482adb5d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b17dd499accdbcc05fd50ffeaf275317148b255e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673756"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51793218"
 ---
-# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>누락 되거나 중복 된 일정 항목 문제 해결
+# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>일정 항목 누락 및 중복 문제 해결
 
-Microsoft Outlook과 Microsoft Exchange Server를 사용할 때 누락 및 중복 약속과 관련 된 문제를 해결 하는 방법에 대 한 자세한 내용은 [Outlook에서 누락 및 중복 약속 문제 해결 방법을](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook)참조 하세요.
+Microsoft Outlook을 사용할 때 약속이 누락 및 중복되는 문제를 해결하는 방법에 대한 자세한 내용은 Microsoft Exchange Server Outlook에서 약속 누락 및 중복 문제를 해결하는 방법을 [참조하세요.](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook)

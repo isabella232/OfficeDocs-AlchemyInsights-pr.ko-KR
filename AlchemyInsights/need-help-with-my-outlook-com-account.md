@@ -1,8 +1,8 @@
 ---
-title: Outlook.com 계정에 대 한 도움이 필요 합니다.
+title: 내 계정으로 도움이 Outlook.com 필요
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf08692f42bb823a48455a595555fb1593b40070
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803287"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792390"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>Outlook.com 계정에 대 한 도움이 필요 합니다.
+# <a name="need-help-with-my-outlookcom-account"></a>내 계정으로 도움이 Outlook.com 필요
 
-Outlook.com 서비스에 대 한 도움이 필요한 경우 도움을 드릴 수 있는 전용 지원을 제공 합니다. 웹 앱에서 직접 지원을 받으려면: 
+Outlook.com 도움이 필요한 경우 지원 전용 도움말이 있습니다. 웹 앱에서 직접 지원을 얻은 경우: 
 
-1. 을 클릭 합니다. 아이콘을 화면 오른쪽 위에 있습니다. 
+1. ?를 클릭합니다. 화면 오른쪽 위에 있는 아이콘 
 
-2. 팝업 패널에 표시 되는 도움말 상자에서 도움이 필요한 정보를 입력 하 고 **제출을**클릭 합니다. 
+2. 팝업 패널에 표시된 도움말 상자에 도움이 필요한 정보를 입력하고 제출을 **클릭합니다.** 
 
-3. 솔루션이 제공 되지 않으면 측면 패널을 아래로 스크롤한 다음 **전자 메일**을 클릭 합니다.
+3. 솔루션이 제공되지 않는 경우 사이드 패널 아래로 스크롤하여 전자 메일을 **클릭합니다.**

@@ -2,7 +2,7 @@
 title: 우선 순위가 낮은 메일 폴더 누락
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4855"
-ms.openlocfilehash: 98c6050c03fa86fd04ab1d04dabc45e8fd1afec6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9753c9b278b7a48b8bbb23c064f2af5864dc581
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674008"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51793362"
 ---
 # <a name="missing-clutter-folder"></a>우선 순위가 낮은 메일 폴더 누락
 

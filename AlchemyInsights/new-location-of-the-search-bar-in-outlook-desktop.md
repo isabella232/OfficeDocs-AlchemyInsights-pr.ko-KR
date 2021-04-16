@@ -2,7 +2,7 @@
 title: Outlook 데스크톱에서 검색 창의 새 위치
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800005"
 - "5620"
-ms.openlocfilehash: 920b5cd73b366e1bf656cd7090814ceb6beb3b8f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 25c97e81eff5daf75d22072353af319c237ced66
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803179"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51791850"
 ---
 # <a name="new-location-of-the-search-bar-in-outlook-desktop"></a>Outlook 데스크톱에서 검색 창의 새 위치
 
