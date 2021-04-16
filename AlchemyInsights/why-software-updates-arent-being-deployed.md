@@ -2,7 +2,7 @@
 title: 소프트웨어 업데이트가 배포 되지 않는 이유는 무엇인가요?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 8e539260e1d99f18bf9bec32ae244c94aeebddbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366519"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805692"
 ---
 # <a name="why-software-updates-are-not-being-deployed"></a>소프트웨어 업데이트가 배포 되지 않는 이유는 무엇인가요?
 

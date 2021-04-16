@@ -2,7 +2,7 @@
 title: Microsoft 365 그룹의 환영 메시지
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5685"
-ms.openlocfilehash: de16ca6021441bf6cb781106b7f3da8eed86b0f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c46ba1b2c2c94e21d7c76e45df1d416ba423faf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725845"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806412"
 ---
 # <a name="welcome-message-in-microsoft-365-groups"></a>Microsoft 365 그룹의 환영 메시지
 
