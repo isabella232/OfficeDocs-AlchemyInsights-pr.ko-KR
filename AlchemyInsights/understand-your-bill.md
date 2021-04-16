@@ -2,7 +2,7 @@
 title: 청구서 이해
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: 4b194527e48ebe0c2735b0393c9b381e77541dee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 72f6ba61c8b898643aa967bb7c6ddaebf6c977de
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689708"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796863"
 ---
 # <a name="understand-your-bill"></a>청구서 이해
 
 **청구서 보기**
 
-1. Microsoft 365 관리 센터에서 **청구[청구서 및 결제](https://go.microsoft.com/fwlink/p/?linkid=848039)** 페이지로 이동하세요.
+1. Microsoft 365 관리 센터에서 **청구 [청구서 및 결제](https://go.microsoft.com/fwlink/p/?linkid=848039)** 페이지로 이동하세요.
 
 2. 드롭다운 목록에서 날짜 범위를 선택 하고 검토할 순서를 선택하거나 **청구서 다운로드 pdf** 링크를 클릭하 여 청구서의 복사본을 표시합니다.
 
