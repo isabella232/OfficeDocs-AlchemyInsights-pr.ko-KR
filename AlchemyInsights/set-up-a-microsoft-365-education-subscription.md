@@ -2,7 +2,7 @@
 title: Microsoft 365 Education 구독 설정
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: ac31864495ebd398f094c27b59787033069c1433
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 778a44b5da04db56304e866e502801e382e84363
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701077"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787467"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Microsoft 365 Education 구독 설정
 

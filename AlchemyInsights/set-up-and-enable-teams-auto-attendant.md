@@ -1,8 +1,8 @@
 ---
-title: 팀 자동 전화 교환 설정 및 설정
+title: Teams 설치 및 사용 자동 전화 교환
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: f5c76d14970f05710670657aed8b71887944cdf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d996c31668d463a5df7be45a3e16a0ecb0946d3c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801118"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787323"
 ---
 # <a name="set-up-a-cloud-auto-attendant"></a>클라우드 자동 전화 교환 설정
 
-현재 자동 전화 교환에 특정 라이선스 요구 사항이 있습니다. 팀 자동 전화 교환을 만들고 설정 하는 방법에 대 한 자세한 내용은 [클라우드 자동 전화 교환 란?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) 를 참조 하세요. 
+자동 회의에는 현재 특정 라이선스 요구 사항이 있습니다. Teams [자동 회의](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) 만들기 및 설정에 대한 자세한 내용은 클라우드 자동 회의란?을 참조하세요. 
 
 자세한 내용은 다음을 참조하세요.
 
-- Microsoft 팀과 함께 [클라우드 자동 전화 교환을 설정](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) 합니다. 
-- Microsoft 팀과 함께 [클라우드 통화 큐를 만듭니다](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) . 
-- [자동 전화 교환 및 팀에서 직접 전화 큐 통화에 응답](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)합니다. 
+- Microsoft [Teams를 통해 클라우드 자동 회의를](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) 설정합니다. 
+- Microsoft [Teams를 사용하여](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) 클라우드 통화 큐를 만들 수 있습니다. 
+- [자동 전화 응답에 응답하고 Teams에서 직접 큐 통화를 호출합니다.](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls) 
