@@ -1,25 +1,27 @@
 ---
-title: '2571 새 기능: 스팸 대 한 조사에 대 한 사용자 의견 보기'
+title: '2571 새로운 기능: 스팸 판정에 대한 피드백을 얻습니다.'
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+ms.date: 04/14/2021
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2571
 ms.assetid: ''
-ms.openlocfilehash: e68cda455ddb312be3c1d2e5f37cb77d566de598
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9a5611b24c9f04066a6266cf896046326d402247
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707681"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812326"
 ---
-# <a name="get-feedback-about-spam-judgments"></a><span data-ttu-id="bb95d-102">스팸 대 한 조사에 대 한 의견 받기</span><span class="sxs-lookup"><span data-stu-id="bb95d-102">Get feedback about spam judgments</span></span>
+# <a name="get-feedback-about-spam-judgments"></a><span data-ttu-id="2bc38-102">스팸 판정에 대한 피드백을 얻습니다.</span><span class="sxs-lookup"><span data-stu-id="2bc38-102">Get feedback about spam judgments</span></span>
 
-<span data-ttu-id="bb95d-103">관리자는 의심 스러운 전자 메일 메시지, Url 및 콘텐츠를 [전송 탐색기](https://protection.office.com/reportsubmission)에서 Microsoft에 쉽게 보고할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="bb95d-103">As an admin, you can easily report suspicious email messages, URLs, and content to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="bb95d-104">또한 합법적인 메시지가 잘못 플래그가 지정 된 이유를 이해 하는 데에도 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="bb95d-104">You can even use it to help understand why a legitimate message was flagged incorrectly.</span></span> <span data-ttu-id="bb95d-105">자세한 내용은이 [알림을](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="bb95d-105">For more information, see this [announcement](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span></span>
+<span data-ttu-id="2bc38-103">**참고** 에서 Microsoft 365 보안 센터에 액세스할 수 [https://security.microsoft.com](https://security.microsoft.com) 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2bc38-103">**Note** You can access the Microsoft 365 security center at [https://security.microsoft.com](https://security.microsoft.com).</span></span>
 
-<span data-ttu-id="bb95d-106">이를 강화 하기 위해 사용자가 [보고서 메시지 추가 기능](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)을 통해 Microsoft에 직접 보고 하도록 허용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="bb95d-106">To make it easer, you can allow your users to report directly to Microsoft via the [Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span></span>
+<span data-ttu-id="2bc38-104">관리자는 제출 탐색기에서 의심스러운 전자 메일 메시지, URL 및 콘텐츠를 Microsoft에 쉽게 [보고할 수 있습니다.](https://security.microsoft.com/reportsubmission)</span><span class="sxs-lookup"><span data-stu-id="2bc38-104">As an admin, you can easily report suspicious email messages, URLs, and content to Microsoft in [Submissions Explorer](https://security.microsoft.com/reportsubmission).</span></span> <span data-ttu-id="2bc38-105">합법적인 메시지의 플래그가 잘못 지정된 이유를 이해하는 데 도움이 될 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2bc38-105">You can even use it to help understand why a legitimate message was flagged incorrectly.</span></span> <span data-ttu-id="2bc38-106">자세한 내용은 이 공지 사항을 [참조하세요.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)</span><span class="sxs-lookup"><span data-stu-id="2bc38-106">For more information, see this [announcement](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span></span>
+
+<span data-ttu-id="2bc38-107">사용자가 보고서 메시지 추가 기능을 통해 Microsoft에 직접 보고하도록 허용할 [수 있습니다.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)</span><span class="sxs-lookup"><span data-stu-id="2bc38-107">To make it easer, you can allow your users to report directly to Microsoft via the [Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span></span>

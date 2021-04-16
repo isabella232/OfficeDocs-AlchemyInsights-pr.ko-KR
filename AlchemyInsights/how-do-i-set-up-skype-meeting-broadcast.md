@@ -1,8 +1,8 @@
 ---
-title: Skype 모임 브로드캐스트를 설정 하는 방법
+title: Skype 모임 브로드캐스트를 설정하는 방법
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781469"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811030"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a><span data-ttu-id="7de3a-102">Skype 모임 브로드캐스트를 시작 하거나 참가할 수 없습니까?</span><span class="sxs-lookup"><span data-stu-id="7de3a-102">Can't start or join a Skype Meeting Broadcast?</span></span>
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a><span data-ttu-id="5f82b-102">Skype 모임 브로드캐스트를 시작하거나 참가할 수 없는 경우</span><span class="sxs-lookup"><span data-stu-id="5f82b-102">Can't start or join a Skype Meeting Broadcast?</span></span>
 
-<span data-ttu-id="7de3a-103">이벤트 팀 구성원 (모임 생산자)로 Skype 모임 브로드캐스트를 시작 하거나 참석 하는 데 문제가 있는 경우 구성을 다시 확인 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="7de3a-103">If you're having trouble starting or joining a Skype Meeting Broadcast as an Event Team Member (Meeting producer), be sure to double-check your configuration.</span></span> <span data-ttu-id="7de3a-104">Skype 모임 브로드캐스트를 사용 하려면 몇 가지 수동 설정 단계가 필요 합니다.</span><span class="sxs-lookup"><span data-stu-id="7de3a-104">Skype Meeting Broadcast requires some manual setup steps.</span></span> <span data-ttu-id="7de3a-105">이 문서에서 설명 하는 단계에 따라 비즈니스용 Skype Online 포털을 올바르게 구성 했으며 영향을 받는 사용자가 충돌 하는 라이선스로 인해 차단 되지 않았는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="7de3a-105">Follow the steps in this article to ensure that your network and Skype for Business Online portal are configured correctly, and that the affected user is not blocked by a conflicting license:</span></span>
+<span data-ttu-id="5f82b-103">Skype 모임 브로드캐스트를 이벤트 팀 구성원(모임 제작자)으로 시작하거나 참가하는 데 문제가 있는 경우 구성을 다시 검사해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="5f82b-103">If you're having trouble starting or joining a Skype Meeting Broadcast as an Event Team Member (Meeting producer), be sure to double-check your configuration.</span></span> <span data-ttu-id="5f82b-104">Skype 모임 브로드캐스트에는 몇 가지 수동 설정 단계가 필요합니다.</span><span class="sxs-lookup"><span data-stu-id="5f82b-104">Skype Meeting Broadcast requires some manual setup steps.</span></span> <span data-ttu-id="5f82b-105">이 문서의 단계에 따라 네트워크 및 비즈니스용 Skype Online 포털이 올바르게 구성되어 있으며 영향을 받는 사용자가 충돌하는 라이선스로 차단되지 않는지 확인합니다.</span><span class="sxs-lookup"><span data-stu-id="5f82b-105">Follow the steps in this article to ensure that your network and Skype for Business Online portal are configured correctly, and that the affected user is not blocked by a conflicting license:</span></span>
 
-[<span data-ttu-id="7de3a-106">Skype 모임 브로드캐스트의 네트워크 설정</span><span class="sxs-lookup"><span data-stu-id="7de3a-106">Set up your network for Skype Meeting Broadcast</span></span>](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[<span data-ttu-id="5f82b-106">Skype 모임 브로드캐스트의 네트워크 설정</span><span class="sxs-lookup"><span data-stu-id="5f82b-106">Set up your network for Skype Meeting Broadcast</span></span>](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
