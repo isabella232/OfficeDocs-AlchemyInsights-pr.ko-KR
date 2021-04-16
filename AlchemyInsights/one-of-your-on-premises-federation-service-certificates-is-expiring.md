@@ -1,8 +1,8 @@
 ---
-title: 온-프레미스 페더레이션 서비스 인증서 중 하나가 만료 됩니다.
+title: 만료된 On-premises Federation Service 인증서 중 하나
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 172084b7-68a1-42a5-944d-2e871eaa2972
-ms.openlocfilehash: a4c78f3fdbba7786785f31098c9e80e77a165623
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 45a679e83aa8f07d65d2e7e84d7eb2a2b5a721e8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673503"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810058"
 ---
-# <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a><span data-ttu-id="63aca-102">온-프레미스 페더레이션 서비스 인증서 중 하나가 만료 됩니다.</span><span class="sxs-lookup"><span data-stu-id="63aca-102">One of your on-premises Federation Service Certificates is expiring</span></span>
+# <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a><span data-ttu-id="20e17-102">만료된 On-premises Federation Service 인증서 중 하나</span><span class="sxs-lookup"><span data-stu-id="20e17-102">One of your on-premises Federation Service Certificates is expiring</span></span>
 
-<span data-ttu-id="63aca-103">이 문제를 해결 하려면 다음 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="63aca-103">To resolve this issue, follow these steps:</span></span>
+<span data-ttu-id="20e17-103">이 문제를 해결하기 위해 다음 단계를 수행합니다.</span><span class="sxs-lookup"><span data-stu-id="20e17-103">To resolve this issue, follow these steps:</span></span>
   
-- <span data-ttu-id="63aca-104">컴퓨터에 Windows PowerShell 용 Microsoft Azure Active Directory 모듈 (모듈을 아직 설치 하지 않은 경우)을 설치 합니다.</span><span class="sxs-lookup"><span data-stu-id="63aca-104">Install the Microsoft Azure Active Directory Module for Windows PowerShell on the computer (if the module isn't already installed).</span></span> <span data-ttu-id="63aca-105">이 작업을 수행 하려면 [Graph 용 Azure Active Directory PowerShell](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0) 로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="63aca-105">To do this, go to [Azure Active Directory PowerShell for Graph ](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0)</span></span>
+- <span data-ttu-id="20e17-104">컴퓨터에 Microsoft Azure Active Directory 모듈을 Windows PowerShell 설치합니다(모듈이 아직 설치되지 않은 경우).</span><span class="sxs-lookup"><span data-stu-id="20e17-104">Install the Microsoft Azure Active Directory Module for Windows PowerShell on the computer (if the module isn't already installed).</span></span> <span data-ttu-id="20e17-105">이 작업을 위해 [Azure Active Directory PowerShell for Graph로 이동하세요. ](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0)</span><span class="sxs-lookup"><span data-stu-id="20e17-105">To do this, go to [Azure Active Directory PowerShell for Graph ](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0)</span></span>
     
-- <span data-ttu-id="63aca-106">[페더레이션 사용자가 Microsoft 365, Azure 또는 Intune에 로그인 하는 경우 AD fs에서](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)"시나리오 1: ad FS 토큰 서명 인증서가 만료 되었습니다." 섹션의 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="63aca-106">Follow the steps in the "Scenario 1: The AD FS token-signing certificate expired" section of ["There was a problem accessing the site" error from AD FS when a federated user signs in to Microsoft 365, Azure, or Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).</span></span>
+- <span data-ttu-id="20e17-106">페더링 사용자가 [Microsoft 365, Azure 또는 Intune에](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)로그인할 때 AD FS에서 "사이트에 액세스하는 데 문제가 발생했습니다." 오류의 "시나리오 1: AD FS 토큰 서명 인증서 만료" 섹션의 단계를 따릅니다.</span><span class="sxs-lookup"><span data-stu-id="20e17-106">Follow the steps in the "Scenario 1: The AD FS token-signing certificate expired" section of ["There was a problem accessing the site" error from AD FS when a federated user signs in to Microsoft 365, Azure, or Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).</span></span>
     
-- <span data-ttu-id="63aca-107">[Microsoft 365, Azure 또는 Intune에서 페더레이션 도메인의 설정을 업데이트 하거나 복구 하는 방법](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3)의 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="63aca-107">Follow the steps in [How to update or repair the settings of a federated domain in Microsoft 365, Azure, or Intune](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).</span></span>
+- <span data-ttu-id="20e17-107">[Microsoft 365, Azure 또는 Intune에서](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3)페더전된 도메인의 설정을 업데이트하거나 복구하는 방법의 단계를 따릅니다.</span><span class="sxs-lookup"><span data-stu-id="20e17-107">Follow the steps in [How to update or repair the settings of a federated domain in Microsoft 365, Azure, or Intune](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).</span></span>
     
-<span data-ttu-id="63aca-108">페더레이션 인증서를 갱신 하는 방법에 대 한 자세한 내용은 [O365 및 AZURE AD에 대 한 인증서 갱신](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="63aca-108">For more information about renewing Federation certificates, see [Certificate renewal for O365 and Azure AD](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).</span></span>
+<span data-ttu-id="20e17-108">페더링 인증서 갱신에 대한 자세한 내용은 O365 및 Azure AD에 대한 인증서 [갱신을 참조하세요.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)</span><span class="sxs-lookup"><span data-stu-id="20e17-108">For more information about renewing Federation certificates, see [Certificate renewal for O365 and Azure AD](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).</span></span>
   
 

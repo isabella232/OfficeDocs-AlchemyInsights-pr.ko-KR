@@ -2,7 +2,7 @@
 title: SharePoint Online 백업 정보
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000277"
 - "4838"
-ms.openlocfilehash: b9724c3fef32701cc5b919a64f9d4b78ce7a15a5
-ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
+ms.openlocfilehash: 5020dde481bb2e2c9a00ed8050937a0e8cf520f8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50165219"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809121"
 ---
-# <a name="sharepoint-online-backup-information"></a><span data-ttu-id="2b721-102">SharePoint Online 백업 정보</span><span class="sxs-lookup"><span data-stu-id="2b721-102">SharePoint Online backup information</span></span>
+# <a name="sharepoint-online-backup-information"></a><span data-ttu-id="4485b-102">SharePoint Online 백업 정보</span><span class="sxs-lookup"><span data-stu-id="4485b-102">SharePoint Online backup information</span></span>
 
-<span data-ttu-id="2b721-103">SharePoint 및 OneDrive 복원력에 대한 자세한 내용은 다음을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="2b721-103">For more information on SharePoint and OneDrive resiliency, see:</span></span>
+<span data-ttu-id="4485b-103">SharePoint 및 OneDrive 복원력에 대한 자세한 내용은 다음을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="4485b-103">For more information on SharePoint and OneDrive resiliency, see:</span></span>
 
-- [<span data-ttu-id="2b721-104">Microsoft 365의 SharePoint 및 OneDrive 데이터 복원력</span><span class="sxs-lookup"><span data-stu-id="2b721-104">SharePoint and OneDrive data resiliency in Microsoft 365</span></span>](https://docs.microsoft.com/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)
+- [<span data-ttu-id="4485b-104">Microsoft 365의 SharePoint 및 OneDrive 데이터 복원력</span><span class="sxs-lookup"><span data-stu-id="4485b-104">SharePoint and OneDrive data resiliency in Microsoft 365</span></span>](https://docs.microsoft.com/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)
 
 > [!NOTE]
-> <span data-ttu-id="2b721-105">SharePoint Online은 실제 삭제 후에도 14일 동안 모든 콘텐츠의 백업을 유지 합니다.</span><span class="sxs-lookup"><span data-stu-id="2b721-105">SharePoint Online retains backups of all content for 14 additional days beyond actual deletion.</span></span> <span data-ttu-id="2b721-106">[휴지통](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) 또는 [파일 복원](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)을 통해 콘텐츠를 복원할 수 없는 경우, 관리자는 Microsoft 지원에 문의하여 14일 내에 언제든지 복원을 요청할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2b721-106">If content cannot be restored via the [Recycle Bin](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) or [Files Restore](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15), an administrator can contact Microsoft Support to request a restore any time inside the 14-day window.</span></span> <span data-ttu-id="2b721-107">백업에서의 복원은 특정 파일, 목록 또는 라이브러리가 아닌, 사이트 모음 또는 하위 사이트에 대해서만 가능합니다.</span><span class="sxs-lookup"><span data-stu-id="2b721-107">Restorations from backups can only be completed for site collections or sub-sites, not for specific files, lists, or libraries.</span></span>
+> <span data-ttu-id="4485b-105">SharePoint Online은 실제 삭제 후에도 14일 동안 모든 콘텐츠의 백업을 유지 합니다.</span><span class="sxs-lookup"><span data-stu-id="4485b-105">SharePoint Online retains backups of all content for 14 additional days beyond actual deletion.</span></span> <span data-ttu-id="4485b-106">[휴지통](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) 또는 [파일 복원](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)을 통해 콘텐츠를 복원할 수 없는 경우, 관리자는 Microsoft 지원에 문의하여 14일 내에 언제든지 복원을 요청할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4485b-106">If content cannot be restored via the [Recycle Bin](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) or [Files Restore](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15), an administrator can contact Microsoft Support to request a restore any time inside the 14-day window.</span></span> <span data-ttu-id="4485b-107">백업에서의 복원은 특정 파일, 목록 또는 라이브러리가 아닌, 사이트 모음 또는 하위 사이트에 대해서만 가능합니다.</span><span class="sxs-lookup"><span data-stu-id="4485b-107">Restorations from backups can only be completed for site collections or sub-sites, not for specific files, lists, or libraries.</span></span>

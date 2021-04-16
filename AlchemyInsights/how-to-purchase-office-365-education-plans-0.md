@@ -1,8 +1,8 @@
 ---
-title: Office 365 교육용 요금제를 구매 하는 방법
+title: Office 365 Education 요금제 구입 방법
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "332"
 - "1500009"
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: 9d7d950c55f010d84707d51e3aa045afc4a11623
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94e1a17639d69d7271ea9b222486432b998bdcfb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703594"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810814"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="aa3ef-102">Office 365 교육용 요금제를 구매 하는 방법</span><span class="sxs-lookup"><span data-stu-id="aa3ef-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="ff391-102">Office 365 Education 요금제 구입 방법</span><span class="sxs-lookup"><span data-stu-id="ff391-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="aa3ef-103">Office 365 교육 자격이 검토 중입니다.</span><span class="sxs-lookup"><span data-stu-id="aa3ef-103">Your Office 365 Education qualification is under review.</span></span> <span data-ttu-id="aa3ef-104">평가판이 만료 되기 전에 자격이 결정 되는 것을 알리는 알림을 받을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="aa3ef-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>
+<span data-ttu-id="ff391-103">Office 365 Education 자격을 검토 중입니다.</span><span class="sxs-lookup"><span data-stu-id="ff391-103">Your Office 365 Education qualification is under review.</span></span> <span data-ttu-id="ff391-104">평가판이 만료되기 전에 자격 결정에 대한 알림을 받을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ff391-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>
