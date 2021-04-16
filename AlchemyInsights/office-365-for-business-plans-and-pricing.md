@@ -1,8 +1,8 @@
 ---
-title: 비즈니스 요금제 및 가격 책정에 대 한 Microsoft 365
+title: 비즈니스용 Microsoft 365 요금제 및 가격
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 9db0179b8f755cec931b6b630b038b2b05cc553b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dc8bb60741e4f426173e14b05800eeacad3412d8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729733"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790806"
 ---
-# <a name="compare-microsoft-365-for-business"></a>비즈니스에 대 한 Microsoft 365 비교
+# <a name="compare-microsoft-365-for-business"></a>비즈니스용 Microsoft 365 비교
 
-비즈니스에 대 한 Microsoft 365에는 세 가지 다른 요금제를 사용할 수 있습니다. [Microsoft 365을 비즈니스 요금제 및 가격 책정과 비교](https://products.office.com/compare-all-microsoft-office-products?tab=2)합니다.  
+비즈니스용 Microsoft 365에서 사용할 수 있는 세 가지 다른 계획이 있습니다. [비즈니스용 Microsoft 365 요금제 및 가격을 비교합니다.](https://products.office.com/compare-all-microsoft-office-products?tab=2)  

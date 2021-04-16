@@ -2,7 +2,7 @@
 title: Teams에서 손 들기
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002646"
 - "5086"
-ms.openlocfilehash: d90356ceaca90d065676be48aa922425c2f2c779
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 879bb55280dd58a95539e90d27a9c2f23cd6cacd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798022"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789870"
 ---
 # <a name="raise-your-hand-in-teams"></a>Teams에서 손을 드세요!
 
