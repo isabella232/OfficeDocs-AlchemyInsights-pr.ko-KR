@@ -1,8 +1,8 @@
 ---
-title: MyAnalytics 사용 안 함
+title: MyAnalytics를 사용하지 않도록 설정
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001697"
 - "5887"
-ms.openlocfilehash: 1175fdc35d5af7f7a63674cd6004b98b28b6b8aa
-ms.sourcegitcommit: 2fc3f2a83aee6ef290a1ffddc0312877f07b231d
+ms.openlocfilehash: df8eac296a86093943cb3b6ce13df4296cff7365
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47943299"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815216"
 ---
-# <a name="disable-myanalytics"></a><span data-ttu-id="67db5-102">MyAnalytics 사용 안 함</span><span class="sxs-lookup"><span data-stu-id="67db5-102">Disable MyAnalytics</span></span>
+# <a name="disable-myanalytics"></a><span data-ttu-id="4fa40-102">MyAnalytics를 사용하지 않도록 설정</span><span class="sxs-lookup"><span data-stu-id="4fa40-102">Disable MyAnalytics</span></span>
 
-<span data-ttu-id="67db5-103">MyAnalytics를 사용 하지 않도록 설정 하려면 [MyAnalytics 옵트아웃을](https://docs.microsoft.com/workplace-analytics/myanalytics/use/opt-out-of-mya)참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="67db5-103">To disable MyAnalytics see [Opt out of MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/use/opt-out-of-mya).</span></span> 
+<span data-ttu-id="4fa40-103">MyAnalytics를 사용하지 않도록 설정하는 경우 [MyAnalytics에서 옵트아웃을 참조합니다.](https://docs.microsoft.com/workplace-analytics/myanalytics/use/opt-out-of-mya)</span><span class="sxs-lookup"><span data-stu-id="4fa40-103">To disable MyAnalytics see [Opt out of MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/use/opt-out-of-mya).</span></span> 
 
-<span data-ttu-id="67db5-104">MyAnalytics에 대 한 자세한 내용은 [myanalytics 소개](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page)를 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="67db5-104">For additional information about MyAnalytics see [MyAnalytics introduction](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page).</span></span>
+<span data-ttu-id="4fa40-104">MyAnalytics에 대한 자세한 내용은 [MyAnalytics 소개 를 참조하세요.](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page)</span><span class="sxs-lookup"><span data-stu-id="4fa40-104">For additional information about MyAnalytics see [MyAnalytics introduction](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page).</span></span>
