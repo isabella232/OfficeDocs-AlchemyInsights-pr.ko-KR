@@ -1,8 +1,8 @@
 ---
-title: 외부 연결 된 양식에 첨부 파일을 추가할 수 없음
+title: 외부에 연결한 양식에 첨부 파일을 추가할 수 없습니다.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 033363705cba1426339feda4eaf7441762fdaf93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50434b664d0fbec6788f7d5601f39123420489bd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749412"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797331"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a><span data-ttu-id="0d175-102">외부 연결 된 양식에 첨부 파일을 추가할 수 없음</span><span class="sxs-lookup"><span data-stu-id="0d175-102">Unable to add an attachment to an externally-facing form</span></span>
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a><span data-ttu-id="6df35-102">외부에 연결한 양식에 첨부 파일을 추가할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="6df35-102">Unable to add an attachment to an externally-facing form</span></span>
 
-<span data-ttu-id="0d175-103">외부 Microsoft 양식 설문 조사에 첨부 파일을 추가 하려는 경우에는 해당 기능을 아직 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="0d175-103">If you are trying to add an attachment to an external Microsoft Forms survey, that feature is not yet available.</span></span> <span data-ttu-id="0d175-104">해당 기능 요청의 상태를 추적 하려면 [이 UserVoice 항목](https://go.microsoft.com/fwlink/?linkid=2133069)으로 이동 하 여 투표를 추가 합니다.</span><span class="sxs-lookup"><span data-stu-id="0d175-104">To track the status of that feature request, go to [this UserVoice entry](https://go.microsoft.com/fwlink/?linkid=2133069), and add your vote.</span></span>
+<span data-ttu-id="6df35-103">외부 Microsoft Forms 설문 조사에 첨부 파일을 추가하려는 경우 해당 기능을 아직 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="6df35-103">If you are trying to add an attachment to an external Microsoft Forms survey, that feature is not yet available.</span></span> <span data-ttu-id="6df35-104">해당 기능 요청의 상태를 추적하기 위해 이 [UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)항목으로 이동하여 응답을 추가합니다.</span><span class="sxs-lookup"><span data-stu-id="6df35-104">To track the status of that feature request, go to [this UserVoice entry](https://go.microsoft.com/fwlink/?linkid=2133069), and add your vote.</span></span>
