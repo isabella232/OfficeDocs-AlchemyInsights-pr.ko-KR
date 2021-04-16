@@ -2,7 +2,7 @@
 title: 사이트/목록 서식 파일 저장 단추를 사용할 수 없거나 해당 단추가 없는 경우
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: aab24099817214c482c5c43e193903ad92a4dcb3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a7dadd6fed2d6623c60e66a6ac564b6160be5aa5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774285"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789294"
 ---
 # <a name="save-sitelist-template-button-not-available-or-missing"></a>사이트/목록 서식 파일 저장 단추를 사용할 수 없거나 해당 단추가 없는 경우
 
