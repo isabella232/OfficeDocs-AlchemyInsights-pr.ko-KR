@@ -2,7 +2,7 @@
 title: Microsoft 365에서 정보 장벽 사용하기
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002423"
 - "4701"
-ms.openlocfilehash: 79a338e278702bdcc752773c076452c062bdeff4
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: b53a797513e49a5b9db002705fc57c0bc0cf7538
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653627"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770673"
 ---
 # <a name="using-information-barriers-in-microsoft-365"></a>Microsoft 365에서 정보 장벽 사용하기
 
