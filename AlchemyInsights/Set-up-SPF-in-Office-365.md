@@ -2,25 +2,25 @@
 title: Microsoft 365에서 SPF 설정
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 8b77871b7ae2706ca2d493f4a53f27d151d8bf77
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 11a972bf7f3c13c2fc67a79439873f587e4a9f15
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44501353"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804351"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="db5b1-102">만료되지 않는 암호 설정</span><span class="sxs-lookup"><span data-stu-id="db5b1-102">Set passwords to never expire</span></span> 
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="d5a2f-102">만료되지 않는 암호 설정</span><span class="sxs-lookup"><span data-stu-id="d5a2f-102">Set passwords to never expire</span></span> 
 
-<span data-ttu-id="db5b1-103">모든 암호가 만료 되지 않도록 설정 하려면 Microsoft 365 관리 센터에서 **설정**  >  [보안 &amp; 개인 정보](https://portal.office.com/adminportal/home#/settings/security) 페이지로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="db5b1-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="db5b1-104">**암호 정책**옆에 있는 **편집** 을 선택 하 고 슬라이더를 **켜**세요.</span><span class="sxs-lookup"><span data-stu-id="db5b1-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="d5a2f-103">모든 암호가 만료되지 않는 것으로 설정하려면 Microsoft 365 관리 센터에서 설정 보안 개인 정보 페이지로  >  [ &amp; ](https://portal.office.com/adminportal/home#/settings/security) 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="d5a2f-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="d5a2f-104">암호 **정책** **옆의 편집을 선택하고** 슬라이더를 **으로 으로 전환합니다.**</span><span class="sxs-lookup"><span data-stu-id="d5a2f-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
   
-<span data-ttu-id="db5b1-105">자세한 내용은 [조직에 대 한 암호 만료 정책 설정을](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy) 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="db5b1-105">For more detailed information see: [Set the password expiration policy for your organization.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)</span></span>
+<span data-ttu-id="d5a2f-105">자세한 내용은 Set [the password expiration policy for your organization을 참조하십시오.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)</span><span class="sxs-lookup"><span data-stu-id="d5a2f-105">For more detailed information see: [Set the password expiration policy for your organization.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)</span></span>
   
-[<span data-ttu-id="db5b1-106">특정 사용자에 대해 암호가 만료 되지 않도록 설정</span><span class="sxs-lookup"><span data-stu-id="db5b1-106">Set password to never expire for specific users</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+[<span data-ttu-id="d5a2f-106">특정 사용자에 대해 만료되지 않는 암호 설정</span><span class="sxs-lookup"><span data-stu-id="d5a2f-106">Set password to never expire for specific users</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
   
