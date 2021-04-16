@@ -1,8 +1,8 @@
 ---
-title: Onmicrosoft 도메인 이름 바꾸기
+title: onmicrosoft 도메인 이름 변경
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: c74e4c761c331cbe26d14dbe67632d2bb24c7763
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701325"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810238"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Onmicrosoft.com 도메인 이름 바꾸기
+# <a name="rename-your-onmicrosoftcom-domain"></a>도메인 이름 onmicrosoft.com 변경
 
- **등록 후에는 onmicrosoft 도메인의 이름을 바꿀 수 없습니다.** 예를 들어 선택한 초기 도메인이  *fourthcoffee.onmicrosoft.com*인 경우  *fabrikam.onmicrosoft.com*로 변경할 수 없습니다. 다른 onmicrosoft.com 도메인을 사용 하려면 Microsoft 365을 사용 하 여 새 구독을 시작 해야 합니다.
+ **등록한 후 onmicrosoft 도메인의 이름을 뒤로할 수 없습니다.** 예를 들어 선택한 초기 도메인이 fourthcoffee.onmicrosoft.com  *으로* 변경할  *수* fabrikam.onmicrosoft.com. 다른 onmicrosoft.com 도메인을 사용하려면 Microsoft 365를 사용하여 새 구독을 시작해야 합니다.
   
-*Contoso.com* 와 같은 사용자 지정 도메인을 사용 하려는 경우에는 [본인을 추가](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) 하거나 [Microsoft에서 구입할](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)수 있습니다.
+contoso.com 사용자 지정 도메인을 사용하려는 경우 소유한 [](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) 도메인을 추가하거나 *Microsoft에서* 도메인을 [구입할 수 있습니다.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)
   

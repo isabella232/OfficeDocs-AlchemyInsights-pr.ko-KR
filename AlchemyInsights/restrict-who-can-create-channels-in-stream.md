@@ -2,7 +2,7 @@
 title: Microsoft Stream에서 채널을 만들 수 있는 사용자 제한
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002650"
 - "5102"
-ms.openlocfilehash: 72c7bb969e3599f8ea87bcf11e11de5ddbb95412
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ae7304aaa36acf91796a9c18bce220a7ee523d36
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801262"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809265"
 ---
 # <a name="restrict-who-can-create-channels-in-microsoft-stream"></a>Microsoft Stream에서 채널을 만들 수 있는 사용자 제한
 

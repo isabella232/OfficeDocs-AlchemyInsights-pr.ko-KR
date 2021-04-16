@@ -1,8 +1,8 @@
 ---
-title: 비영리 요금제 및 가격 책정을 위한 Office 365
+title: 비영리용 Office 365 요금제 및 가격
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +14,19 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 120428310815dd90b1fa0e4a32a4ee2f1eccc588
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 683995071a6902276e041e914453df211cf54fd4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803107"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810310"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>비영리 요금제 및 가격 책정을 위한 Office 365
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>비영리용 Office 365 요금제 및 가격
 
-정규 비 수익은 중요 한 할인에 따라 고급 기능에 대 한 기부 또는 업그레이드로 Office 365 비영리을 받을 수 있습니다. Office 365 비영리 요금제를 사용 하려면 국가에서 인식 되는 [자선 기부 상태](https://go.microsoft.com/fwlink/p/?LinkID=330253) 를 유지 하 고 Microsoft의 판별 되지 않은 정책에 서명 해야 합니다. Microsoft는 언제 든 지 자격을 확인할 수 있는 권한을 보유 하 고 있으며 자격이 없는 조직을 위해 서비스를 일시 중단 합니다.
+적격 비영리들은 Office 365 비영리단체에 대한 후원 또는 고급 기능 업그레이드를 상당한 할인으로 받을 수 있습니다. Office 365 Nonprofit 요금제에 대한 [](https://go.microsoft.com/fwlink/p/?LinkID=330253) 자격을 보유하려면 해당 국가에 인식된 자선 상태를 보유하고 Microsoft의 비차별 정책에 서명해야 합니다. Microsoft는 자격을 확인하고 부적격 조직에 대한 서비스를 일시 중단할 수 있는 권리가 있습니다.
   
-이 혜택에 대 한 추가 질문은 [FAQ](https://products.office.com/nonprofit/office-365-nonprofit) 를 참조 하세요.
+이 제안에 대한 추가 질문은 [FAQ를](https://products.office.com/nonprofit/office-365-nonprofit) 참조하세요.
   
-- [비영리 요금제 검토](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [비영리 계획 검토](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 
 - [모든 Microsoft 365 구독 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)

@@ -2,7 +2,7 @@
 title: 삭제된 계획 복구
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001718"
 - "3811"
-ms.openlocfilehash: 81eae9c5bb9dcea51db7bfcb1cf6eb160613af12
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e97c564d01abeb4dbe7ff7c1d88752ead8f24128
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741345"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809697"
 ---
 # <a name="recover-deleted-plans"></a>삭제된 계획 복구
 
@@ -25,4 +25,4 @@ ms.locfileid: "47741345"
 
 - 그룹 삭제로 인해 계획이 삭제된 경우 그룹 및 해당 콘텐츠를 복구할 수 있습니다. [삭제된 Microsoft 365 그룹](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group?view=o365-worldwide) 복원 지침에 따라 그룹 및 관련 콘텐츠를 복원합니다.
 
-- 계획을 영구적으로 삭제하지 않고 Teams 채널에서 Planner 탭을 삭제한 경우 **탭 추가 > Planner > 이 팀에서 기존 계획 사용**으로 이동하여 Planner 탭을 추가하고 계획을 다시 추가하고 드롭다운에서 계획을 선택할 수 있습니다.
+- 계획을 영구적으로 삭제하지 않고 Teams 채널에서 Planner 탭을 삭제한 경우 **탭 추가 > Planner > 이 팀에서 기존 계획 사용** 으로 이동하여 Planner 탭을 추가하고 계획을 다시 추가하고 드롭다운에서 계획을 선택할 수 있습니다.

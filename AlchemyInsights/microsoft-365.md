@@ -2,7 +2,7 @@
 title: Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002644"
 - "5085"
-ms.openlocfilehash: bcb7b4baaf970b02e4073b799d4452282e3c3aac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d52f4a2c13e3a4572184bffb0e131a6e563276fb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742353"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810382"
 ---
 # <a name="microsoft-365"></a>Microsoft 365
 

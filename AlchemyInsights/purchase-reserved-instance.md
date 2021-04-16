@@ -2,7 +2,7 @@
 title: 예약된 인스턴스 구입
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 59b34a323e28c16869a97b10a16091de7b80ad43
-ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
+ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48655597"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809913"
 ---
 # <a name="questions-before-purchase"></a>구입하기 전 질문 사항
 

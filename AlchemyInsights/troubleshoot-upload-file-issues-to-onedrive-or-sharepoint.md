@@ -2,7 +2,7 @@
 title: OneDrive 또는 SharePoint에 파일 업로드 관련 문제 해결하기
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4447"
-ms.openlocfilehash: b4b4e1e3603d7a2758c027c957961ae2651fbfe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f53002cfd8c8437cefe181e48e644cc55f76b568
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800110"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808941"
 ---
 # <a name="troubleshoot-upload-file-issues-to-onedrive-or-sharepoint"></a>OneDrive 또는 SharePoint에 파일 업로드 관련 문제 해결하기
 

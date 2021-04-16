@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 apps 아이콘/바로 가기 흰색, 공백 또는 중복
+title: Microsoft 365 앱 아이콘/바로 가기 흰색, 비어 있는 또는 중복
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2530"
 - "9000572"
-ms.openlocfilehash: 57112a1fe9e407d1f95c26fac86c0ae0b60d98d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df72f583d698cbcbe3e399a94763801935d55ee5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802927"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810130"
 ---
-# <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a>Office 앱 아이콘 또는 바로 가기가 흰색이 되거나 비어 있거나 중복 됨
+# <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a>Office 앱 아이콘 또는 바로 가기가 공백 또는 중복된 경우
 
-Office 앱 아이콘이 비어 있거나 흰색으로 표시 되 면 [office 응용 프로그램을 복구](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)해 보세요. 중복 Office 앱 아이콘을 제거 하려면 office [바로 가기가 office 제거 후 유지](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565)됩니다 .를 참조 하세요.
+Office 앱 아이콘이 공백으로 표시되거나 흰색인 경우 Office 응용 [프로그램 복구를 시도합니다.](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) 중복된 Office 앱 아이콘을 제거하려면 Office 제거 후 Office 바로 [가기 키가 유지됩니다.를 참조하세요.](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565)
 
-자세한 내용은 [Microsoft Store에서 office를 설치한 후에 office 아이콘 비어 있는 것](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59)을 참조 하십시오.
+자세한 내용은 Microsoft Store에서 Office를 설치한 후 [Office 아이콘이 비어 있습니다를 참조하세요.](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59)

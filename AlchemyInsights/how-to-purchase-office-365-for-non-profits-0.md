@@ -1,8 +1,8 @@
 ---
-title: 수익이 없는 경우 Microsoft 365
+title: 비영리용 Microsoft 365 - 거부
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: 78389468129cf4529b7073f9e325872dedf7cb33
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b785243902b3e0ccbba14164ca6f19ab754beb9e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779777"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810706"
 ---
-# <a name="microsoft-365-for-nonprofits---declined"></a>수익이 없는 경우 Microsoft 365
+# <a name="microsoft-365-for-nonprofits---declined"></a>비영리용 Microsoft 365 - 거부
 
-요청을 검토 했으며이 조직이 Microsoft 자격이 있는 비영리 조직으로 적합 하지 않다고 결정 했습니다.
+요청을 검토하고 이 조직이 Microsoft 적격 비영리 조직으로는 적합한 조직이 아닌 것으로 확인했습니다.
   
-Office 365을 상업적으로 구매 하려면 [사용 가능한 서비스](https://portal.office.com/AdminPortal/Home)를 참조 하세요.
+상업적으로 Office 365를 구입하는 경우 사용 가능한 제품을 [참조하시기 바랍니다.](https://portal.office.com/AdminPortal/Home)

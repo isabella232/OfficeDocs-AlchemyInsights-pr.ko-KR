@@ -1,8 +1,8 @@
 ---
-title: Office 365 교육용 요금제를 구매 하는 방법
+title: Office 365 Education 요금제 구입 방법
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,14 +15,14 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 7199f8321d68ad9641dda265adba804216dede92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8546be7dc2ab569fe0beb3150ead687d3a96c83a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703342"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810742"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Office 365 교육용 요금제를 구매 하는 방법
+# <a name="how-to-purchase-office-365-education-plans"></a>Office 365 Education 요금제 구입 방법
 
 Office 365 Education을 구입할 수 있도록 승인받았습니다.  구입하려면 다음과 같이 하세요.
 
@@ -30,7 +30,7 @@ Office 365 Education을 구입할 수 있도록 승인받았습니다.  구입�
 
 2. **Education Plans**(교육 요금제) 아래의 목록에서 선택합니다.
 
-3. 구입할 구독을 마우스로 가리키고 **지금 구입**을 클릭합니다.
+3. 구입할 구독을 마우스로 가리키고 **지금 구입** 을 클릭합니다.
 
 **원격 교육 및 학습**
 

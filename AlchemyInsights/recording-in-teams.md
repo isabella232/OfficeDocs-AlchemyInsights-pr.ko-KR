@@ -2,7 +2,7 @@
 title: Teams에서 녹음/녹화
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 2939012f3a3e01106bcf7a44bed14b954005211d
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 0cce7319860b28ccb6fc9da053f6ce127b8504fa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505794"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809769"
 ---
 # <a name="recording-in-teams"></a>Teams에서 녹음/녹화
 
