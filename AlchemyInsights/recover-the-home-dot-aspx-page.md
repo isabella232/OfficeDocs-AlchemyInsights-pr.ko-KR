@@ -2,7 +2,7 @@
 title: Home.aspx 페이지 복구하기
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002970"
 - "5683"
-ms.openlocfilehash: 32e600a4a3bb98fb5d31a7de4923b16c43db9205
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e235e7d29935dd9fa6e0c286dbe053e76d08c64e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741237"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800103"
 ---
 # <a name="recover-the-homeaspx-page"></a>Home.aspx 페이지 복구하기
 

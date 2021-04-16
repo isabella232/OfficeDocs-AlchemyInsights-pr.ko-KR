@@ -2,7 +2,7 @@
 title: Teams 전화 접속 회의 번호 제거
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: 129913c77a9a603289b6e23e57b96aa4ff9628e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d78351a15886021621c81ba5900b3af5f58f308
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795754"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799311"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Teams 전화 접속 회의 번호 제거
 
@@ -27,17 +27,17 @@ ms.locfileid: "47795754"
 
 1. 회사 계정으로 로그인합니다.
 
-2. **Microsoft 365 관리 센터**로 이동합니다.
+2. **Microsoft 365 관리 센터** 로 이동합니다.
 
-3. **관리 센터 | Teams 및 Skype**로 이동합니다.
+3. **관리 센터 | Teams 및 Skype** 로 이동합니다.
 
-4. **모임**으로 이동합니다.
+4. **모임** 으로 이동합니다.
 
-5. **회의 브리지**로 이동합니다.
+5. **회의 브리지** 로 이동합니다.
 
 6. 기본값으로 구성할 서비스 유료 전화 번호를 강조 표시합니다.
 
-7. **기본값으로 설정**을 선택합니다.
+7. **기본값으로 설정** 을 선택합니다.
 
 자세한 내용은 [오디오 회의 브리지에서 전화 번호 변경](https://docs.microsoft.com/microsoftteams/change-the-phone-numbers-on-your-audio-conferencing-bridge)을 참조하세요.
 

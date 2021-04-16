@@ -2,7 +2,7 @@
 title: 국내 통화 플랜 구입
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002447"
 - "5526"
-ms.openlocfilehash: 50f6932aa6767112e9eacfbf48459783c4419b5c
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: 209cb0a1ee7b804f9e0161cec6501a8c4dbe1465
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692816"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800436"
 ---
 # <a name="purchase-domestic-calling-plans"></a>국내 통화 플랜 구입
 
