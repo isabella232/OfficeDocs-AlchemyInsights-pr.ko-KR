@@ -2,7 +2,7 @@
 title: Microsoft To Do를 다운로드하여 설치하는 방법
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003043"
 - "6109"
-ms.openlocfilehash: c17c2db421d3210de01e402da502a9951fdefeb7
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: ce4bdde013156b382b13e5e001f7b7ea2a234501
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401949"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814667"
 ---
 # <a name="how-to-download-and-install-microsoft-to-do"></a>Microsoft To Do를 다운로드하여 설치하는 방법
 

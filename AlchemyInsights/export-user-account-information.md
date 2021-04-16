@@ -2,7 +2,7 @@
 title: 사용자 계정 정보 내보내기
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 0a1978610d1293cd1de3bae114594cb5ef7865e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c50f10adb47827428002db36371a7c2370b201f9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708869"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813370"
 ---
 # <a name="export-user-account-information"></a>사용자 계정 정보 내보내기
 
-라이선스, 암호 정책, 차단 된 계정, AAD 동기화 상태 등에 대 한 정보를 비롯 하 여 Microsoft 365 관리 센터에서 사용자 계정 정보를 내보내려면 **사용자**  >  [활성 사용자](https://go.microsoft.com/fwlink/p/?linkid=834822) 페이지로 이동 하 여 **사용자 내보내기를**선택 합니다.
+라이선스, 암호 정책, 차단된 계정, AAD 동기화 상태 등의 사용자 계정 정보를 Microsoft 365 관리 센터에서 내보내기하려면 사용자 활성 사용자 페이지로 이동한 다음 사용자 내보내기 를  >  [](https://go.microsoft.com/fwlink/p/?linkid=834822) **선택합니다.**

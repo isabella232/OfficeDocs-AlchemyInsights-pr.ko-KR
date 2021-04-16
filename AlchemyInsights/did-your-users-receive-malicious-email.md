@@ -2,7 +2,7 @@
 title: 사용자가 악성 이메일을 받았습니까
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 2197e7f195d789193798b80cb092d8046eb6e0be
-ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
+ms.openlocfilehash: 425f9ba488fd69b8c5ea29636bccccd995bf48fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50291798"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815252"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>사용자가 악성 이메일을 받았습니까?
 

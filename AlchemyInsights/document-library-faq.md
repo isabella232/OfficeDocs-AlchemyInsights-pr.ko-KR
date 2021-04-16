@@ -2,7 +2,7 @@
 title: 문서 라이브러리 FAQ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "5676"
 - "9000292"
 - "5680"
-ms.openlocfilehash: 27d6d02b1e28c9cc480682026657d437c3a85c42
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 551fc98b2b2053811a3b282edd03d6245ed7df26
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678906"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814928"
 ---
 # <a name="document-library-faq"></a>문서 라이브러리 FAQ
 

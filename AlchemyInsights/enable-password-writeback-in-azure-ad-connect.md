@@ -2,7 +2,7 @@
 title: Azure AD Connect에서 암호 쓰기 저장 사용
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 1e90aedab20c8abaa021ed980e868cea0503b7b1
-ms.sourcegitcommit: db95fd628c45d9810e5af5c5a4e6388c793339ac
+ms.openlocfilehash: 2ad7568bded3c8e4832e0e433a2d715e6307e4bb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "50093361"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814018"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Azure AD Connect에서 암호 쓰기 저장 사용
 

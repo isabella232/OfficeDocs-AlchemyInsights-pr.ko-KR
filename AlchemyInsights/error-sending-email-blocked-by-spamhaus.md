@@ -1,8 +1,8 @@
 ---
-title: SpamHaus에서 차단 된 전자 메일을 보내는 동안 오류 발생
+title: SpamHaus에서 차단된 전자 메일을 보내는 중 오류가 발생했습니다.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +14,19 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: a0c2f4be0b2d8ba6fd3dadbdf306e6ce623ad380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b5ac1df0b6a07a475345235a8b4b555d6881147
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783809"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813730"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>전자 메일 보내기 오류: Spamhaus을 사용 하 여 클라이언트 호스트가 차단 됨
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>전자 메일 보내기 오류: Spamhaus를 사용하여 클라이언트 호스트가 차단되었습니다.
 
-메시지를 보낸 IP 주소가 [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245)에서 소유한 차단 목록에 있습니다. Spamhaus에 의해 차단 되는 이유에는 손상 된 계정, 공용 IP 주소를 공유 하는 손상 된 컴퓨터 및 ISP (인터넷 서비스 공급자) 정책이 포함 되어 있습니다. 가능한 수정은 다음과 같습니다.
+메시지를 보낸 IP 주소는 [Spamhaus가](https://go.microsoft.com/fwlink/p/?linkid=123245)소유한 차단 목록에 있습니다. Spamhaus가 차단하는 이유는 손상된 계정, 공용 IP 주소를 공유하는 손상된 컴퓨터 및 ISP(인터넷 서비스 공급자) 정책입니다. 가능한 해결 방법:
   
-- 원본 전자 메일 서버를 제어 하는 차단 된 인바운드 메시지의 경우 원인을 확인 하 고 Spamhaus 웹 사이트에서 해당 블록을 제거 해야 합니다.
+- 원본 전자 메일 서버를 제어하는 차단된 인바운드 메시지의 경우 원인을 파악하고 Spamhaus 웹 사이트에서 차단을 제거해야 합니다.
 
-- 원본 IP 주소가 다른 사람에 게 속하는 차단 된 인바운드 메시지의 경우 주소 소유자가 Spamhaus 웹 사이트에서 해당 블록을 제거 해야 합니다. IP 주소가 정책 차단 목록 (PBL)에 있는 경우 소유자는 다른 고정 IP 주소를 할당 하거나 PBL에서 주소를 제거할 수 있습니다.
+- 원본 IP 주소가 다른 사람에게 속하는 차단된 인바운드 메시지의 경우 주소 소유자는 Spamhaus 웹 사이트에서 차단을 제거해야 합니다. IP 주소가 PBL(정책 차단 목록)에 있는 경우 소유자는 다른 고정 IP 주소를 할당하거나 PBL에서 주소를 제거할 수 있습니다.
 
-- Microsoft에 연결 된 도메인에서 차단 된 아웃 바운드 메시지의 경우 메시지가 타사 서비스를 통해 라우팅되는 경우이 오류를 수신할 수 있습니다. WHOIS 조회 도구를 사용 하 여 차단 된 IP 주소 소유자를 찾을 수 있습니다.
+- Microsoft에 연결된 도메인에서 보낸 차단된 아웃바운드 메시지의 경우 메시지가 제3자 서비스를 통해 라우팅되는 경우 이 오류를 수신할 수 있습니다. WHOIS 검색 도구를 사용하여 차단된 IP 주소 소유자를 찾을 수 있습니다.

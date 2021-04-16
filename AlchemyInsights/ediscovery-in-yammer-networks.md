@@ -2,7 +2,7 @@
 title: Yammer 네트워크의 eDiscovery
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710922"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814486"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>Yammer 네트워크의 eDiscovery
 
-이제 Yammer 콘텐츠에 대 한 eDiscovery 검색을 수행할 수 있습니다.  EDiscovery 검색을 수행 하거나 Yammer 콘텐츠에 대해 내보내려면 다음이 필요 합니다.
+이제 콘텐츠에 대한 eDiscovery 검색을 Yammer 있습니다.  콘텐츠에 대해 eDiscovery 검색 또는 내보내기 Yammer 수행하려면 다음이 필요합니다.
 
-1. Yammer 메시지 및 파일을 검색할 수 있도록 하려면 먼저 Yammer Enterprise 네트워크를 기본 모드로 마이그레이션해야 합니다. **참고: 사용자가 1 월 2020 9 일에 해당 하는 신규 고객 인 경우 Yammer 네트워크가 이미 기본 모드에 있는 경우 eDiscovery를 사용 하 여 데이터를 검색할**수 있습니다.
+1. 먼저 엔터프라이즈 네트워크의 Yammer 기본 모드로 마이그레이션해야 Yammer 파일을 검색할 수 있습니다. **참고: 2020년 1월 9일** 현재 새 고객인 경우 Yammer 네트워크가 이미 기본 모드에 있는 경우 eDiscovery 를 사용하여 데이터를 검색할 수 있습니다.
 
-2. 고객을 종료 하기 위해 기본 모드 맞춤 도구를 해제 한 후에는 Yammer 용 eDiscovery를 사용할 수 있으며, 테 넌 트의 Yammer에 대해 기본 모드 마이그레이션이 완료 됩니다.
+2. 종료 고객의 경우 테넌트에서 기본 모드 Yammer 도구가 릴리스된 후 기본 모드 마이그레이션이 완료된 Yammer eDiscovery for Yammer 사용할 수 있습니다.
 
-자세한 내용은 다음을
+자세한 내용은
 
-- 기본 모드 Yammer의 경우: [기본 모드 개요](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)를 참조 하세요.
-- Yammer 네트워크용 eDiscovery [는: yammer 네트워크용 ediscovery에 대 한 개요](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)를 참조 하세요.
-- Microsoft 365의 eDiscovery에서는 [microsoft 365의 ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)를 참조 하세요.
+- 기본 모드의 Yammer 기본 모드: [기본 모드 개요를 참조하세요.](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)
+- Yammer 네트워크의 [eDiscovery: 네트워크의 eDiscovery 개요를 Yammer 참조하세요.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
+- Microsoft 365의 eDiscovery는 [Microsoft 365의 eDiscovery를 참조합니다.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
