@@ -2,7 +2,7 @@
 title: Microsoft 365 무료 평가판 유예 기간
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400006"
 - "5479"
-ms.openlocfilehash: dd316ae9ae691804ecda58ba2bf527968de16802
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d4cfecf90fbc255bbd7ce396accdf8698f17b12f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706133"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811822"
 ---
 # <a name="grace-period-for-microsoft-365-free-trial"></a>Microsoft 365 무료 평가판 유예 기간
 

@@ -2,7 +2,7 @@
 title: Teams용 오디오 회의를 설정하는 방법
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 61312e3b74e41c4474ac89eeeee8bc6e75372fa8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781541"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811066"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – 오디오 회의
 
@@ -28,16 +28,16 @@ ms.locfileid: "47781541"
 
 1. [활성 사용자](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)로 이동한 다음, 해당 사용자를 선택합니다.
 
-2. 관리 센터 버전에 따라, **라이선스 및 앱**을 선택하거나 **제품 라이선스**에서 **편집**을 클릭합니다.
+2. 관리 센터 버전에 따라, **라이선스 및 앱** 을 선택하거나 **제품 라이선스** 에서 **편집** 을 클릭합니다.
 
 3. 사용자에게 **Microsoft 365 오디오 회의, Microsoft Teams** 및 **비즈니스용 Skype(플랜 2)** 를 사용할 수 있도록 선택된 라이선스가 있는지 확인합니다. **Microsoft 365 오디오 회의** 라이선스가 없는 경우에는 먼저 [추가 기능 라이선스를 구매](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)해야 합니다.
 
-4. 사용자 **관리 센터**에서 **모두 표시**를 클릭한 다음 **Teams**를 클릭합니다.
+4. 사용자 **관리 센터** 에서 **모두 표시** 를 클릭한 다음 **Teams** 를 클릭합니다.
 
-5. **Microsoft Teams 관리 센터**에서 **레거시 포털**을 클릭합니다.
+5. **Microsoft Teams 관리 센터** 에서 **레거시 포털** 을 클릭합니다.
 
-6. **비즈니스용 Skype 관리 센터**에서 **오디오 회의**를 클릭한 다음, **사용자**를 클릭합니다.
+6. **비즈니스용 Skype 관리 센터** 에서 **오디오 회의** 를 클릭한 다음, **사용자** 를 클릭합니다.
 
-7. 해당 사용자를 선택하고 사용자에게 **기본 유료 전화 번호**가 있는지 확인합니다.
+7. 해당 사용자를 선택하고 사용자에게 **기본 유료 전화 번호** 가 있는지 확인합니다.
 
-**Microsoft 오디오 회의**를 위한 라이선스 구매에 대한 도움이 필요한 경우 [Microsoft 청구 지원](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)에 문의하세요.
+**Microsoft 오디오 회의** 를 위한 라이선스 구매에 대한 도움이 필요한 경우 [Microsoft 청구 지원](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)에 문의하세요.

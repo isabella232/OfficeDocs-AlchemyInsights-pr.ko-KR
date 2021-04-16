@@ -2,7 +2,7 @@
 title: 비즈니스용 Skype 사용 시작
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002421"
 - "4698"
-ms.openlocfilehash: e609d8e58d6024355ef7e0a281755bb3215c6b0c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76a00d06316a95d59badf1e7def60761a2a4c5cd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706493"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812002"
 ---
 # <a name="getting-started-using-skype-for-business"></a>비즈니스용 Skype 사용 시작
 

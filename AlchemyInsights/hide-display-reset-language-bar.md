@@ -2,7 +2,7 @@
 title: 입력 도구 모음 숨기기, 표시 또는 다시 설정
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002950"
 - "5647"
-ms.openlocfilehash: ac8b52ebaf317dc5e93a30e528004ddedc2a0fac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73b567797447635df5b6be960cf3152e2d8741d0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782369"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811498"
 ---
 # <a name="hide-display-or-reset-the-language-bar"></a>입력 도구 모음 숨기기, 표시 또는 다시 설정
 

@@ -2,7 +2,7 @@
 title: Office를 정품 인증할 수 없습니다
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 3a42c221047e7be6a173694cd45136baa6bff39a
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9771a3244c5507312d43156525095fb9eaf7fa20
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704936"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812578"
 ---
 # <a name="unable-to-activate-office"></a>Office를 정품 인증할 수 없습니다
 

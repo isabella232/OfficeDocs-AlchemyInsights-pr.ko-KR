@@ -2,7 +2,7 @@
 title: 학교 데이터 동기화 활성화 도움
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001732"
 - "3834"
-ms.openlocfilehash: 7547f296892d9d583916f4fe9b652083771bfa43
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10224171bf81cd31b2d90afb30887539aa7b4e58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705413"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811678"
 ---
 # <a name="help-enabling-school-data-sync"></a>학교 데이터 동기화 활성화 도움
 

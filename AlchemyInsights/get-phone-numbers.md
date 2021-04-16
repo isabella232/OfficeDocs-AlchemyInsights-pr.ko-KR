@@ -2,7 +2,7 @@
 title: 전화번호 얻기
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "5613"
-ms.openlocfilehash: 817aec945e037621dd2de3b32714eaab48aa8839
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: 29b216c18b99f451d438c347dea670c712083a81
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692184"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812218"
 ---
 # <a name="get-phone-numbers"></a>전화번호 얻기
 

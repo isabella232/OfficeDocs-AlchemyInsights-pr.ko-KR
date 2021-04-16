@@ -2,7 +2,7 @@
 title: 전역 및 SharePoint 관리자
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5674"
-ms.openlocfilehash: 9d4c5da8b6dc78aa18fd29589495b77b7d835aba
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 91abc97be5d616392f8d04b3641af3c9dd8bfd74
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706381"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811894"
 ---
 # <a name="global-and-sharepoint-admin"></a>전역 및 SharePoint 관리자
 

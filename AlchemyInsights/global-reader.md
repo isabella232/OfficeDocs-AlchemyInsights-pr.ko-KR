@@ -2,7 +2,7 @@
 title: 전역 읽기 권한자
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5672"
-ms.openlocfilehash: 684a9fdeeaa4aecf02262079739568b75a5ee24f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 522343ef1e49d59fe019aba8de8bb9e88ddcbe46
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706421"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811858"
 ---
 # <a name="global-reader"></a>전역 읽기 권한자
 

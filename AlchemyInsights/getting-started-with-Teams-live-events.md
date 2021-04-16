@@ -2,7 +2,7 @@
 title: Teams 라이브 이벤트 시작
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 979555a6fba46437adaf7e8c201cb9d6c4a8e965
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a10f756fc69a7a135446d8d3bcec1f5e951627d8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677285"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811966"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Teams 라이브 이벤트 시작
 
