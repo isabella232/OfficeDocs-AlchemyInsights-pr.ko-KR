@@ -2,7 +2,7 @@
 title: 도메인 제거
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 5d83fc0d00d1c5b2d07040b31ba392cac2fc32c0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8d0071360330248b93dbd5bbf42a2b595d287364
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502217"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804639"
 ---
 # <a name="trying-to-remove-your-domain"></a>도메인을 제거하려고 하시나요?
 

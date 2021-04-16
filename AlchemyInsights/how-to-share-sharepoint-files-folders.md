@@ -2,7 +2,7 @@
 title: SharePoint 또는 OneDrive 파일 또는 폴더를 공유하는 방법
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
+ms.openlocfilehash: 9fcd43022d048c3d0b652f20308dc6b0b3f6a2f4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51408120"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51803298"
 ---
 # <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>SharePoint 또는 OneDrive 파일 또는 폴더를 공유하는 방법
 

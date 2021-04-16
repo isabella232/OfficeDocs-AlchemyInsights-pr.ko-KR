@@ -2,7 +2,7 @@
 title: Office 365의 A1 라이선스
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: e8f384c753652edbb02c3178cb9fe45082328aae
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7cc451fce065754146d09073b218ecc79d49612b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663744"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804090"
 ---
 # <a name="a1-license-for-office-365"></a>Office 365의 A1 라이선스
 
-- 이미 Office 365 Education 자격이 있는 경우 [구매 서비스](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription#buy-another-subscription)에서 **A1 요금제**를 계정에 추가할 수 있습니다.
+- 이미 Office 365 Education 자격이 있는 경우 [구매 서비스](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription#buy-another-subscription)에서 **A1 요금제** 를 계정에 추가할 수 있습니다.
 
 - 아직 Office 365 Education을 설정하지 않았으나 무료로 추가할 계획이라면, 이메일 주소를 제공하여 [시작](https://www.microsoft.com/education/products/office)할 수 있습니다.
 
-- 다른 교육 기관용 요금제에서 A1 요금제로 **전환**하려는 경우 [다른 요금제로 전환](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually)을 참조하세요.
+- 다른 교육 기관용 요금제에서 A1 요금제로 **전환** 하려는 경우 [다른 요금제로 전환](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually)을 참조하세요.
 
 - 사용자를 A1 요금제에 할당하려면 [사용자에게 라이선스 할당](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)을 참조하세요.
 

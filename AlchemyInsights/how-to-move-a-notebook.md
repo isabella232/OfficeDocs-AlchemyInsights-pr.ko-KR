@@ -1,8 +1,8 @@
 ---
-title: 전자 필기장을 이동 하는 방법
+title: 전자 필기장을 이동하는 방법
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2495"
 - "9000580"
-ms.openlocfilehash: d6cc387f5d1cd8293ce85b65d4a0e5b024c71daf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38bfd961675dfb25170ba05c4aac52711eabb20e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703739"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51803622"
 ---
-# <a name="how-to-move-a-onenote-notebook"></a>OneNote 전자 필기장을 이동 하는 방법
+# <a name="how-to-move-a-onenote-notebook"></a>OneNote 전자 필기장을 이동하는 방법
 
-* Onenote 전자 필기장을 OneDrive로 이동 하려면 **File**  >  **Share**  >  onenote 2016에서 파일 공유**이동 전자 필기장** 으로 이동 하세요. 자세한 내용은 [OneDrive로 OneNote 전자 필기장 이동을](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082) 참조 하세요.
+* OneNote 전자 필기장을 OneDrive로 이동하기 위해  >    >   OneNote 2016에서 파일 공유 이동 전자 필기장으로 이동하십시오. 자세한 [내용은 OneNote 전자 필기장을 OneDrive로](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082) 이동을 참조하세요.
 
-* 전자 필기장 이동을 준비할 때의 모범 사례에 대 한 자세한 내용은 OneNote를 통한 [모범 사례 동기화](https://support.microsoft.com/help/2819334/onenote-syncing-best-practices)를 참조 하세요.
+* 전자 필기장 이동을 준비하는 모범 사례에 대한 자세한 내용은 [OneNote 동기화 모범 사례를 참조하세요.](https://support.microsoft.com/help/2819334/onenote-syncing-best-practices)
 
-* [다른 사용자와 공유한 Windows 필기장에 대 한 OneNote 이동](https://support.office.com/article/Move-a-OneNote-for-Windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4) 공유 전자 필기장을 이동 하는 방법에 대 한 자세한 정보를 제공 합니다.
+* [다른 사용자와 공유한 Windows용 OneNote](https://support.office.com/article/Move-a-OneNote-for-Windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4) 전자 필기장 이동은 공유 전자 필기장 이동에 대한 자세한 정보를 제공합니다.
