@@ -1,6 +1,6 @@
 ---
 title: 팀의 파일에 액세스할 수 없음
-ms.author: pebuam
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/12/2021
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10922"
 - "9003042"
-ms.openlocfilehash: 17b2fc0ec9556789757146ded17b28775129c5a6
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: a94833fdd027e67186e37cc19db60d0ad286f9f9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692901"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808343"
 ---
 # <a name="unable-to-access-files-in-a-team"></a>팀의 파일에 액세스할 수 없음
 
