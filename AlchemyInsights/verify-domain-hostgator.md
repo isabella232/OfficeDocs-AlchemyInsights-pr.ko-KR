@@ -1,8 +1,8 @@
 ---
-title: Hostgator을 사용 하 여 도메인 확인
+title: Hostgator를 사용하여 도메인 확인
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: e364551f50e8c8efdee74842be2fb4fab734bb71
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: c333322ff791a288607e4f6a090d655106e93420
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816403"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824297"
 ---
-# <a name="verify-your-domain-with-hostgator"></a>Hostgator을 사용 하 여 도메인 확인
+# <a name="verify-your-domain-with-hostgator"></a>Hostgator를 사용하여 도메인 확인
 
-도메인을 확인 하려면 도메인 등록 기관에 TXT 레코드를 추가 하 여 도메인을 소유 하 고 있는지 확인 해야 합니다. 
+도메인을 확인하려면 도메인 등록 기관에 TXT 레코드를 추가하여 도메인을 소유하고 있는지 확인해야 합니다. 
 
-먼저 [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) **설정** \> **도메인**을 선택한 다음 **도메인 추가**마법사를 실행 합니다.
+먼저 설정 도메인 [을](https://admin.microsoft.com/Adminportal#/Domains) 선택하여  도메인 추가 마법사를 수행한 다음 \> 도메인 **추가 를 선택합니다.**
   
-단계별 지침은 [Hostgator For Microsoft 365에서 DNS 레코드 만들기](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) 를 참조 하십시오.
+단계별 [지침은 Hostgator에서 Microsoft 365용](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) DNS 레코드 만들기를 참조하세요.

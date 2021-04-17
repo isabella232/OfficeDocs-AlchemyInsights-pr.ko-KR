@@ -2,7 +2,7 @@
 title: Stream 품질
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002552"
 - "5104"
-ms.openlocfilehash: d041bec5ba3cd77417c0f38f554560bc291a78a8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36397e42ea55d32e510b49ac70c4371de8914465
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737671"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825053"
 ---
 # <a name="stream-quality"></a>Stream 품질
 

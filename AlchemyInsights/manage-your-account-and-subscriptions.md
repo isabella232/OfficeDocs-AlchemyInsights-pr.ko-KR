@@ -2,7 +2,7 @@
 title: 계정 및 구독 관리
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: c17485c40af22dd30339d819a08818d02e4ac737
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6af9e73bd88d1c4f37a1b7d408f8f89b9423f70
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703089"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823901"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>계정 및 구독 관리
 
@@ -56,4 +56,4 @@ ms.locfileid: "47703089"
 
 - [사용자에게 라이선스 할당](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-이미 라이선스가 할당된 경우에는 [내 계정](https://portal.office.com/account/#installs) 페이지에서 다운로드할 수 있는 응용 프로그램을 찾을 수 있습니다. 이 페이지에서는 할당된 라이선스를 기준으로 다운로드할 수 있는 응용 프로그램 목록을 제공합니다. Office 응용 프로그램을 이미 다운로드한 경우에는 회사 또는 학교 계정을 사용하여 응용 프로그램에 로그인해야 할 수 있습니다. 모든 Office 응용 프로그램(Word, Excel 등)에서 **파일 > 계정**(아래쪽 근처)을 클릭하여 이 작업을 수행할 수 있습니다. 사용자 정보에서 **계정 전환**을 클릭합니다. 자세한 내용은 [Office 응용 프로그램 설치하기](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)를 참조하세요. 
+이미 라이선스가 할당된 경우에는 [내 계정](https://portal.office.com/account/#installs) 페이지에서 다운로드할 수 있는 응용 프로그램을 찾을 수 있습니다. 이 페이지에서는 할당된 라이선스를 기준으로 다운로드할 수 있는 응용 프로그램 목록을 제공합니다. Office 응용 프로그램을 이미 다운로드한 경우에는 회사 또는 학교 계정을 사용하여 응용 프로그램에 로그인해야 할 수 있습니다. 모든 Office 응용 프로그램(Word, Excel 등)에서 **파일 > 계정**(아래쪽 근처)을 클릭하여 이 작업을 수행할 수 있습니다. 사용자 정보에서 **계정 전환** 을 클릭합니다. 자세한 내용은 [Office 응용 프로그램 설치하기](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)를 참조하세요. 

@@ -1,8 +1,8 @@
 ---
-title: Microsoft 양식 활성화
+title: Microsoft Forms 활성화
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2544"
 - "9000672"
-ms.openlocfilehash: a93ba91178ac35c7ff73ee6a820b4e5d22fc5d50
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6b13382a6b33ffe5753f79fea93ad072a201262
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698563"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823181"
 ---
-# <a name="activate-microsoft-forms-for-an-organization"></a>조직에 대 한 Microsoft 양식 활성화
+# <a name="activate-microsoft-forms-for-an-organization"></a>조직에 대한 Microsoft Forms 정품 인증
 
-관리자는 조직에 대해 Microsoft 양식을 설정 하거나 해제할 수 있습니다. 라이선스 정품 인증 및 테 넌 트에 대 한 [Azure CollabDBService의 상태를 확인 하](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43) 는 방법에 대해 알아봅니다.
+관리자는 조직에 대해 Microsoft Forms를 설정하거나 해제할 수 있습니다. 테넌트에 대한 라이선스 정품 인증 및 [Azure CollabDBService](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43) 상태를 확인합니다.

@@ -2,7 +2,7 @@
 title: Teams 수업
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001725"
 - "3829"
-ms.openlocfilehash: 68e78abcedecbf2f0e81426fa584fe70a7e04ce6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 23ed3bc86ef1f81aed11eb3083554750c4ea425e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691221"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824801"
 ---
 # <a name="teams-classes"></a>Teams 수업
 
-EDU 테넌트가 있는 경우 Microsoft Teams를 수동으로 활성화해야 합니다. 활성화하려면 Microsoft 365 **관리 센터 설정 > 설정 > Microsoft Teams**로 이동하세요. Microsoft Teams가 서비스 목록에 표시되지 않는 경우 **새 관리 센터에서 시도**를 해제하여 **설정 > 서비스 및 추가 기능 > Microsoft Teams**를 찾으세요. 자세한 내용은 [학교에 대한 Microsoft Teams 활성화하기](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1)를 참조하세요. 
+EDU 테넌트가 있는 경우 Microsoft Teams를 수동으로 활성화해야 합니다. 활성화하려면 Microsoft 365 **관리 센터 설정 > 설정 > Microsoft Teams** 로 이동하세요. Microsoft Teams가 서비스 목록에 표시되지 않는 경우 **새 관리 센터에서 시도** 를 해제하여 **설정 > 서비스 및 추가 기능 > Microsoft Teams** 를 찾으세요. 자세한 내용은 [학교에 대한 Microsoft Teams 활성화하기](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1)를 참조하세요. 
 
 **중요**: 변경 내용이 적용되는 데 최대 24시간까지 기다려야 할 수 있습니다. 
 

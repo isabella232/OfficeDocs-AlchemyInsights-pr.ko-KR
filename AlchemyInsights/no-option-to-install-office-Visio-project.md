@@ -2,7 +2,7 @@
 title: Office, Visio 또는 Project를 설치하는 옵션 없음
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: 8f8efc5e888560965bf65c67c82c7deb2043ed01
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 894a6ae8d097391f04d91e2303f23a85ae450cc6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708500"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825161"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Office, Visio 또는 Project를 설치하는 옵션 없음
 

@@ -2,7 +2,7 @@
 title: 다른 비즈니스용 Microsoft 365 요금제로 전환
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -18,12 +18,12 @@ ms.custom:
 - "5160"
 - "9002663"
 - "5168"
-ms.openlocfilehash: 605e4cd00287178455877c8652af2034147e1ade
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 830a719d3851f4d0c293ec86dff1b412b50b2692
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700497"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824837"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>다른 비즈니스용 Microsoft 365 요금제로 전환
 

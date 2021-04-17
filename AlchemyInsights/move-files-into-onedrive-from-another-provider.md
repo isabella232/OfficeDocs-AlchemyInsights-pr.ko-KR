@@ -2,7 +2,7 @@
 title: 다른 클라우드 공급자에서 비즈니스용 OneDrive로 파일 이동
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003086"
 - "5851"
-ms.openlocfilehash: ea1b8212a00d8863d55a10d839d0a15c379ab5fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c54a2c665b6ed8761bdcee8c88044a4bc840483d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799678"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825341"
 ---
 # <a name="move-files-into-onedrive-for-business-from-another-cloud-provider"></a>다른 클라우드 공급자에서 비즈니스용 OneDrive로 파일 이동
 

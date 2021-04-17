@@ -2,7 +2,7 @@
 title: Exchange Online의 Multi-Geo 기능
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001088"
 - "5695"
-ms.openlocfilehash: d3c189d29e36ec013c4a0ee08bf6d253cc00b4ff
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67028211f9aab0e982cfdd0307673e6235001d4d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702513"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825269"
 ---
 # <a name="multi-geo-capabilities-in-exchange-online"></a>Exchange Online의 Multi-Geo 기능
 

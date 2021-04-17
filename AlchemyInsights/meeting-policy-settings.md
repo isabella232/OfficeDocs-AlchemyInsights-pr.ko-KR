@@ -2,7 +2,7 @@
 title: 모임 정책 설정
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39151d3a56cc09a8ae2dd77fb7bf1e99066cc77a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704612"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825449"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Microsoft Teams에서 모임 정책 관리
 
