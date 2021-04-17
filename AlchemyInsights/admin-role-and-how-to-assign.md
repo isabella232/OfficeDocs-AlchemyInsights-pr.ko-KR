@@ -2,7 +2,7 @@
 title: 관리자 역할 및 할당 방법
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 116b92824b4046766d9c8b869ef0cfc655ee2395
-ms.sourcegitcommit: ce1a381ca3b24b8b4e60c5b83fae3ec7609eaf9d
+ms.openlocfilehash: 6679f67b5f3059a5a152ee492ca2973f15a9b932
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51585981"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821885"
 ---
-# <a name="admin-roles"></a><span data-ttu-id="34e08-102">관리자 역할</span><span class="sxs-lookup"><span data-stu-id="34e08-102">Admin roles</span></span>
+# <a name="admin-roles"></a><span data-ttu-id="ac717-102">관리자 역할</span><span class="sxs-lookup"><span data-stu-id="ac717-102">Admin roles</span></span>
 
-- <span data-ttu-id="34e08-103">역할을 할당하려면 [관리 센터](https://admin.microsoft.com/Adminportal/Home#/users)에서 **활성 사용자** 를 선택하고 사용자 이름을 선택한 다음 **역할 관리** 를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="34e08-103">To assign a role, select **Active Users** in the [admin center](https://admin.microsoft.com/Adminportal/Home#/users), select a user name, and then select  **Manage Roles**.</span></span>
+- <span data-ttu-id="ac717-103">역할을 할당하려면 [관리 센터](https://admin.microsoft.com/Adminportal/Home#/users)에서 **활성 사용자** 를 선택하고 사용자 이름을 선택한 다음 **역할 관리** 를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="ac717-103">To assign a role, select **Active Users** in the [admin center](https://admin.microsoft.com/Adminportal/Home#/users), select a user name, and then select  **Manage Roles**.</span></span>
 
-- <span data-ttu-id="34e08-104">역할에 대한 자세한 내용을 알아보려면 역할 옆에 **i** 를 클릭하거나 [관리자 역할 정보](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="34e08-104">For more information about a role, click the **i** next to the role, or see [About admin roles](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span></span>
+- <span data-ttu-id="ac717-104">역할에 대한 자세한 내용을 알아보려면 역할 옆에 **i** 를 클릭하거나 [관리자 역할 정보](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="ac717-104">For more information about a role, click the **i** next to the role, or see [About admin roles](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span></span>
