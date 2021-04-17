@@ -2,7 +2,7 @@
 title: 기본 Yammer 도메인 변경
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002662"
 - "5162"
-ms.openlocfilehash: 93c82b7e60838e0127062e8bf5ab394bb29650d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6a7215ef7187e8dc6c834470b4724692b239efd4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793872"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817989"
 ---
 # <a name="changing-the-defaultprimary-yammer-domain"></a>기본/주 Yammer 도메인 변경
 

@@ -2,7 +2,7 @@
 title: 예약 취소
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 04875e33f07c6d0a4306b3579ef81f2d28c7f506
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791480"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819698"
 ---
 # <a name="cancelling-reservation"></a>예약 취소
 
 - **셀프 서비스:**[Azure 포털](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)을 사용하여 직접 예약된 인스턴스를 취소하거나 교환할 수 있습니다. 예약을 선택하고 환불 또는 교환을 클릭합니다. 교환 또는 환불을 하려면 예약 순서에 대한 소유자 액세스 권한이 있어야 합니다. 예약으로만 액세스하는 경우에는 환불이나 교환 처리를 진행할 수 없습니다. 예약 순서 소유자에게 예약 순서에 대한 소유자 액세스 권한을 요청합니다.
-- **교환 정책:** 동일한 유형의 다른 예약으로 교환할 수 있습니다. 예약 변경에 대한 **벌금은 없습니다** . 새 예약을 사용하는 총 약정 금액은 교환되는 예약의 환불 금액과 차후의 월간 지불액(해당하는 경우)의 합계를 초과해야 합니다. 
+- **교환 정책:** 동일한 유형의 다른 예약으로 교환할 수 있습니다. 예약 변경에 대한 **벌금은 없습니다**. 새 예약을 사용하는 총 약정 금액은 교환되는 예약의 환불 금액과 차후의 월간 지불액(해당하는 경우)의 합계를 초과해야 합니다. 
 - **환불 정책:** 환불 금액의 합계와 취소된 차후의 지불액은 12개월의 상환 기간에 $50,000을 초과할 수 없습니다. **현재는 환불에 대한 벌금이 없지만** 차후에는 청구할 수 있습니다.  
     **예외 사항:** 셀프 서비스 교환 및 취소 기능은 미국 정부 기업 계약 고객에게는 제공되지 않습니다.
 - **API / PS / CLI** 지원은 취소 및 환불에 대해서는 제공되지 않음 [Azure 예약에 대한 셀프 서비스 교환 및 환불](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)

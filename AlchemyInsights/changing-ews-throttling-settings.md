@@ -2,7 +2,7 @@
 title: EWS 제한 설정 변경
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9000752"
 - "5653"
 - "5760"
-ms.openlocfilehash: 4f0bea884153dc1ed8699ce12e0d017d18f5e57c
-ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
+ms.openlocfilehash: 16916d5f16f763d87ce0d5ef830e741279c9f4df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50075903"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818042"
 ---
 # <a name="changing-ews-throttling-settings"></a>EWS 제한 설정 변경
 

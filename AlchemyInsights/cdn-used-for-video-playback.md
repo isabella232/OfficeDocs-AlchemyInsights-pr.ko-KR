@@ -2,7 +2,7 @@
 title: 비디오 재생에 사용되는 CDN
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002552"
 - "5146"
-ms.openlocfilehash: 6bc87783375a206a84c96eb7ddd58db5bfd31728
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d9c5f8f586e7f5aa079b28584375516ec8401ca7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756973"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819374"
 ---
 # <a name="cdn-used-for-video-playback"></a>비디오 재생에 사용되는 CDN
 

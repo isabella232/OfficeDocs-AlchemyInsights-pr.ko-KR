@@ -2,7 +2,7 @@
 title: 강력한 암호 요구 사항 변경
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: 8ce331275e066b5a4f177ae27178ec726f90762f
-ms.sourcegitcommit: aa35d2e1829f7d07f64fb891bf73b1fd80f0864c
+ms.openlocfilehash: cf5cab9a1c2dd4226997d93417dc7104347f8a6e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48804429"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818474"
 ---
 # <a name="change-strong-password-requirement"></a>강력한 암호 요구 사항 변경
 
-Microsoft는 기본적으로 강력한 암호를 요구 합니다.
+Microsoft에는 기본적으로 강력한 암호가 필요합니다.
 
-PowerShell을 사용 하 여 다음 명령을 사용 하 여 특정 사용자에 대해 강력한 암호를 사용 하지 않도록 설정할 수 있습니다.
+PowerShell을 사용하여 다음 명령을 사용하여 특정 사용자에 대해 강력한 암호를 사용하지 않도록 설정할 수 있습니다.
 
 `Set-MsolUser –UserPrincipalName <UserPrincipalName> –StrongPasswordRequired  $false`
 
-모든 사용자에 대해 강력한 암호를 사용 하지 않도록 설정 하려면 다음을 사용 합니다.
+모든 사용자에 대해 강력한 암호를 사용하지 않도록 설정하기 위해 다음을 사용하세요.
 
 `Get-MsolUser | Set-MsolUser -StrongPasswordRequired $false`
 
-- [암호 정책에 대 한 추가 정보](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
-- [PowerShell을 사용 하 여 Microsoft 365에 연결 하는 방법](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
-- [PowerShell Get-msoluser 명령에 대 한 추가 정보](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [암호 정책에 대한 자세한 정보](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
+- [PowerShell을 사용하여 Microsoft 365에 연결하는 방법](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
+- [PowerShell MsolUser 명령에 대한 자세한 정보](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
