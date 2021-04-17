@@ -2,7 +2,7 @@
 title: Teams 모임 및 전화 접속
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 451695c5dec738503bde15a0dcc4f10bf2c25469
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 340d25a3b9cfb12df367f9836928c608fcd7fa4d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451442"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835061"
 ---
 # <a name="microsoft-teams-meetings-and-dial-in"></a>Teams 모임 및 전화 접속
 

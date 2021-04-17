@@ -1,8 +1,8 @@
 ---
-title: Microsoft 팀 사용 권한
+title: Microsoft Teams 사용 권한
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: e4acfcfdb65bbe5310f062f4f6cd21889159ec4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6ce1a6344c70f43f76164612bc55b95a61e97d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777718"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833765"
 ---
-# <a name="microsoft-teams-permissions"></a>Microsoft 팀 사용 권한
+# <a name="microsoft-teams-permissions"></a>Microsoft Teams 사용 권한
 
-Microsoft 팀에는 소유자와 구성원 이라는 두 개의 사용자 역할이 포함 되어 있습니다. 새 팀을 만든 사용자에게는 기본적으로 소유자 상태가 부여됩니다. 또한 소유자 및 구성원은 채널에 대 한 중재자 기능을 포함할 수 있습니다 (중재가 설정 된 경우). 기존 Microsoft 365 그룹에서 만든 팀은 사용 권한을 상속 받습니다. 자세한 내용은 다음을 참조하세요.
+Microsoft Teams에는 소유자와 구성원의 두 가지 사용자 역할이 포함됩니다. 새 팀을 만든 사용자에게는 기본적으로 소유자 상태가 부여됩니다. 또한 소유자와 구성원은 채널에 대한 중재자 기능을 사용할 수 있습니다(중재가 설정된 경우). 기존 Microsoft 365 그룹에서 팀을 만든 경우 사용 권한이 상속됩니다. 자세한 내용은 다음을 참조하세요.
 
 - [Microsoft Teams에서 팀 소유자 및 구성원 할당](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [Microsoft 팀 앱 사용 권한 및 고려 사항](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [팀의 채널에 대 한 게스트 사용 권한 설정](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [Microsoft Teams 앱 사용 권한 및 고려 사항](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [Teams의 채널에 대한 게스트 권한 설정](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

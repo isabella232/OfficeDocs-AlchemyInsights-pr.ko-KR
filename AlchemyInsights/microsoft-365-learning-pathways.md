@@ -2,7 +2,7 @@
 title: Microsoft 365 학습 경로
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002632"
 - "5054"
-ms.openlocfilehash: 8da865beecef8a6c3a36c2d7973e424d6cc8da50
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64424a843d82c2d669ba924ccac49de4f4f414bb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742707"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834017"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 학습 경로
 

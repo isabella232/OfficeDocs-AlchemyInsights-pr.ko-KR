@@ -2,7 +2,7 @@
 title: 문서의 맞춤법 검사
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002912"
 - "5590"
-ms.openlocfilehash: 7a811473a6653c066b402f466abb99591dd6e1d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e7cc5fbc85853eaecbc1914af137025b76ee9e9d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758214"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835241"
 ---
 # <a name="spell-check-documents"></a>문서의 맞춤법 검사
 

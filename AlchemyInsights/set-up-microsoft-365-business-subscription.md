@@ -2,7 +2,7 @@
 title: Microsoft 365 Business 구독 설정
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4776"
-ms.openlocfilehash: 16cf26135c45b4a395dd7fb826f67394ae2b0da9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 61b7f044e4b66ed49500b903b15d48c42c79ff9b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800938"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835565"
 ---
 # <a name="set-up-a-microsoft-365-business-subscription"></a>Microsoft 365 Business 구독 설정
 

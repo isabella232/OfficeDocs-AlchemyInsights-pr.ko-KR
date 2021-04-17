@@ -2,7 +2,7 @@
 title: 최신 상거래 사용자 역할
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 74108b22e06fc6b3b53f7e027fca094bfd9db869
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 54a2315af50bd6c5df189e7b92f5af1a3cff9304
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667020"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833621"
 ---
 # <a name="modern-commerce-user-role"></a>최신 상거래 사용자 역할
 
-최신 상거래 사용자 역할은 특정 사용자에게 Microsoft 365 관리 센터에 액세스하여 왼쪽 탐색 항목 **홈**, **청구** 및 **지원**을 확인할 수 있는 권한을 부여합니다. 이러한 영역에서 사용할 수 있는 콘텐츠는 사용자가 자신 혹은 조직을 위해 구입한 제품을 관리할 수 있도록 할당된 상거래별 역할을 통해 컨트롤됩니다. 여기에는 청구서 지불 또는 청구 계정 및 청구 프로필에 대한 액세스 등의 작업이 포함될 수 있습니다.
+최신 상거래 사용자 역할은 특정 사용자에게 Microsoft 365 관리 센터에 액세스하여 왼쪽 탐색 항목 **홈**, **청구** 및 **지원** 을 확인할 수 있는 권한을 부여합니다. 이러한 영역에서 사용할 수 있는 콘텐츠는 사용자가 자신 혹은 조직을 위해 구입한 제품을 관리할 수 있도록 할당된 상거래별 역할을 통해 컨트롤됩니다. 여기에는 청구서 지불 또는 청구 계정 및 청구 프로필에 대한 액세스 등의 작업이 포함될 수 있습니다.
 
 최신 상거래 사용자 역할이 있는 사용자는 일반적으로 다른 Microsoft 구매 시스템에서 관리 권한을 보유하지만 전역 관리자 또는 청구 관리자 권한은 없습니다.
 

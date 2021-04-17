@@ -2,7 +2,7 @@
 title: Microsoft Teams의 탐색 환경
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: 1402f0f0e65fcc4201e65f2a8d1c3b09c12a0023
-ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
+ms.openlocfilehash: ed076b37010c9946838acbf2a2d641200b9ed5c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50480725"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833801"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams의 탐색 환경
 

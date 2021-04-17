@@ -1,8 +1,8 @@
 ---
-title: 두 번 클릭 하면 Word 파일이 열리지 않음
+title: Word 파일을 두 번 클릭할 때 열 수 없습니다.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 15ace133c344020e0056eff32d77911a9c23d376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794809"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834125"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word 문서가 잘못 된 앱에서 열리거나 열리지 않음
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>잘못된 앱에서 열리거나 열지 않은 Word 문서
 
-다음 제안 중 하나를 사용해 보세요.
+다음 제안 중 하나를 시도해 보아야 합니다.
 
-**Word를 기본으로 선택**
+**Word를 기본값으로 선택**
 
-- 문서를 마우스 오른쪽 단추로 클릭 하 고 **연결 프로그램**을 선택한 다음 **Word** 를 선택 합니다.
+- 문서를 마우스 오른쪽 단추로 클릭하고 에서 **열기** 를 선택한 다음 **Word를 선택**
 
 **빠른 복구 실행**
 
-1. **제어판 > 프로그램 > 프로그램 및 기능**으로 이동합니다.
+1. **제어판 > 프로그램 > 프로그램 및 기능** 으로 이동합니다.
 
-2. 복구할 Office 제품을 선택 하 고 **변경을**선택 합니다.
+2. Select the Office product you want to repair, and then choose **Change**.
 
-3. **빠른 복구** 옵션을 선택한 다음 **복구**를 선택 합니다.
+3. 빠른 복구 **옵션을** 선택한 다음 복구를 **선택합니다.**
 
-**사용 하지 않는 버전의 Office 제거**
+**사용하지 않는 Office 버전 제거**
 
-1. **제어판 > 프로그램을 제거**하 고 제거할 Office의 버전을 선택 합니다.
+1. **제어판> 프로그램** 제거로 이동한 다음 제거할 Office 버전을 선택합니다.
 
-2. **제거**를 클릭합니다.
+2. **제거** 를 클릭합니다.
 
 3. Restart your computer.
 
-**Office에서 Office 파일 확장명을 열도록 설정 하려면이 문제 해결사를 실행 합니다.**
+**이 문제 해결사 실행을 통해 Office 파일 확장명을 Office에서 열리게 설정**
 
-1. 이 문제 해결사를 실행 https://aka.ms/diag_officefile 합니다.
+1. 이 문제 해결사 를 https://aka.ms/diag_officefile 실행합니다. .
 
-2. 브라우저에 따라 문제 해결사를 **열거나** 데스크톱에 **저장** 한 다음 **실행** 합니다.
+2. 브라우저에 따라 **문제** 해결 **프로그램을** 열거나 바탕 화면에 저장한 다음 **실행합니다.**

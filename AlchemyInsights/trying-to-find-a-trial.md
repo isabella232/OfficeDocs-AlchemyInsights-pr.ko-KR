@@ -2,7 +2,7 @@
 title: 평가판을 찾으려고 하나요?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 37670ede6c60292282c16a8da3a888c10e96bc76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb6d6dc4aad5e5b00b34f93211a51ba6edcdbeec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658380"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834701"
 ---
 # <a name="trying-to-find-a-trial"></a>평가판을 찾으려고 하나요?
 
-새 서비스를 사용해 보려면 Microsoft 365 관리 센터에서 평가판에 사용할 수 있는 구독 목록을 확인 하면 됩니다.
+새 서비스를 체험하려는 경우 Microsoft 365 관리 센터에서 평가판에 사용할 수 있는 구독 목록을 찾을 수 있습니다.
   
-1. 관리 센터에서 **결제** \> [구매 서비스](https://go.microsoft.com/fwlink/p/?linkid=868433) 페이지로 이동 합니다.
+1. 관리 센터에서 청구 구매  서비스 \> [페이지로](https://go.microsoft.com/fwlink/p/?linkid=868433) 이동합니다.
 
-2. 사용자의 요구에 맞는 구독을 선택 하 고  **무료 평가판 가져오기를**선택 합니다.
+2. 요구 사항을 충족하는 구독을 선택한 다음 무료 평가판 **다운로드 를 선택합니다.**
 
     > [!NOTE]
-    > 일부 구독은 평가판으로 사용할 수 없습니다. 구독 위에 마우스를 놓으면 **무료 평가판 받기** 단추가 표시 되지 않는 경우에는 평가판을 사용할 수 없습니다.
+    > 일부 구독은 평가판으로 사용할 수 없습니다. 구독을 마우스로 클릭할 때 무료 평가판 다운로드 단추가 없는 경우 평가판을 사용할 수 없습니다. 
   
-3. 보안 조치로 추가 확인을 제공 하기 위해 신용 카드 또는 기타 결제 방법을 입력 하 라는 메시지가 표시 될 수 있습니다. 이 무료 평가판에 대해서는 요금이 부과 되지 않습니다. 결제 정보는 파일에 보관 되며, 승인 없이는 구매할 때 사용 하지 않습니다.
+3. 보안 조치로 추가 확인을 제공하기 위해 신용 카드 또는 기타 결제 방법을 입력해야 할 수 있습니다. 이 무료 평가판에는 요금이 청구되지 않습니다. 결제 정보는 파일에 보관하며 승인 없이는 구매에 사용하지 않습니다.
 
-4. **지금 사용해 보기**를 선택 합니다.
+4. 지금 **시도 를 선택하세요.**

@@ -2,7 +2,7 @@
 title: 장치 동작 문제 해결
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9002274"
 - "4388"
 - "4389"
-ms.openlocfilehash: 689d8a0a3f765ffa8cb6ff8869eecae0e1f96fed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e9ed287e1d02a8b0997416faf069f0af26a5ae7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750061"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834989"
 ---
 # <a name="troubleshoot-device-actions"></a>장치 동작 문제 해결
 

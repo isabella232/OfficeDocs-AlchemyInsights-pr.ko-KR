@@ -2,7 +2,7 @@
 title: Teams 및 클라우드 비디오 상호 운용성
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002894"
 - "5540"
-ms.openlocfilehash: 9cd5e06b96ee3a4d1d6ccf151c6ec5d59589d06a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2458849f0333b87a51935d076d0a7ca916c472a4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670118"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835169"
 ---
 # <a name="teams-and-cloud-video-interop-cvi"></a>Teams 및 CVI(클라우드 비디오 상호 운용성)
 

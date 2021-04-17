@@ -1,8 +1,8 @@
 ---
-title: 'Yammer-Microsoft 365 그룹 관리 '
+title: 'Yammer - Microsoft 365 그룹 관리 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 543972a81a8958951e31d63a632283d07c06de4c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb5959f74793ce146d326d2ddc32c359daecc3ba
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668893"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834089"
 ---
-# <a name="manage-microsoft-365-groups-in-yammer"></a>Yammer에서 Microsoft 365 그룹 관리
+# <a name="manage-microsoft-365-groups-in-yammer"></a>Microsoft 365 그룹 Yammer
 
-다음은 Yammer의 Microsoft 365 그룹에서 발생 하는 일반적인 문제에 대 한 몇 가지 대답입니다.
+다음은 Microsoft 365 그룹의 가장 일반적인 문제에 대한 몇 가지 Yammer.
 
-* **Microsoft 365 그룹** 은 전자 메일, 대화, 파일 및 그룹 구성원이 공동 작업을 수행할 수 있는 이벤트에 대 한 공유 작업 영역입니다. Yammer를 사용 하는 경우 Microsoft 365 그룹은 연결 되지 않은 Yammer 그룹에 비해 많은 이점을 제공 합니다. 예를 들어 라이브 이벤트를 만들고 호스트 하 고, 삭제 된 그룹을 복원 하 고, 동적 그룹 구성원 자격을 사용 하 고, Sharepoint, OneNote 및 Planner와 같은 공유 리소스에 액세스할 수 있습니다.
+* **Microsoft 365 그룹은** 그룹 구성원이 공동 작업을 할 수 있는 전자 메일, 대화, 파일 및 이벤트에 대한 공유 작업 영역입니다. 이 Yammer Microsoft 365 그룹은 연결되지 않은 그룹과는 여러 가지 Yammer 있습니다. 예를 들어 라이브 이벤트를 만들고 호스트하고, 삭제된 그룹을 복원하고, 동적 그룹 구성원 자격, 자동 보관을 사용하며, Sharepoint, OneNote 및 Planner와 같은 공유 리소스에 액세스할 수 있습니다.
 
-* 그룹의 오른쪽 탐색 창에 **Office 365 Resources** 섹션 (Sharepoint, OneNote, Planner)이 표시 되 면 Yammer 그룹이 Microsoft 365 그룹과 연결 되어 있는지 여부를 확인할 수 있습니다. 리소스를 사용할 수 없는 경우 다음을 확인 합니다.
+* 그룹의 오른쪽 탐색에 **Office 365** 리소스 섹션(Sharepoint, OneNote, Planner)이 표시되면 Yammer 그룹이 Microsoft 365 그룹에 연결되어 있는지 알 수 있습니다. 리소스를 사용할 수 없는 경우 다음을 검사합니다.
 
-  1. Yammer 네트워크가 1 테 넌 트 인 경우 1 개 네트워크 구성 이어야 합니다. 1:1 구성에 있는지 확인 하려면 [네트워크 마이그레이션-여러 Yammer 네트워크 통합](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)에 설명 된 대로 **네트워크 마이그레이션 도구** 를 사용 합니다.
+  1. Yammer 네트워크는 1개 테넌트:1 네트워크 구성에 있어야 합니다. 1:1 구성에 있는지 확인하려면 네트워크  마이그레이션 - 여러 네트워크 통합에 설명된 Yammer [사용합니다.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
 
-  2. **네트워크 관리자, 보안 설정**으로 이동 하 여 Yammer 사용자에 대해 **Office 365 id** 가 적용 되었는지 확인 합니다.
+  2. 네트워크 **관리자,** 보안 설정으로 를 찾아 해당 사용자에 대해 **Office 365** ID가 Yammer 확인합니다.
 
-Microsoft 365 그룹 및 Yammer에 대 한 자세한 내용은 [yammer 및 Microsoft 365 그룹](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)을 참조 하세요. 그룹을 관리 하는 방법에 대 한 자세한 내용은 [Yammer에서 그룹 관리](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2) 를 참조 하세요.
+Microsoft 365 그룹 및 Yammer 자세한 내용은 Yammer [및 Microsoft 365 그룹을 참조하세요.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) 그룹 관리에 대한 자세한 내용은 [Manage a group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

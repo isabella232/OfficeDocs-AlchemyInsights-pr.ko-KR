@@ -2,7 +2,7 @@
 title: Microsoft Stream Storage
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001510"
 - "3570"
-ms.openlocfilehash: 448052dba14e42d21ec965c9b38d85a498ac4b82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ee4c331cf706574df5a52ed66c72b775e2eed1d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675304"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833945"
 ---
 # <a name="microsoft-stream-storage"></a>Microsoft Stream Storage
 
-Microsoft Stream 테 넌 트에는 500 개의 저장소에 대 한 고정 할당과 라이선스가 있는 사용자 당 0.5의 추가 저장소가 수신 됩니다.
-저장소에 대 한 자세한 내용은 다음 항목을 참조 하십시오.
+Microsoft Stream 테넌트는 500GB의 저장소와 라이선스가 있는 사용자당 0.5GB의 추가 저장소를 고정적으로 할당받습니다.
+저장소에 대한 자세한 내용은 다음을 참조합니다.
 
 - [Microsoft Stream Storage 개요](https://docs.microsoft.com/stream/license-overview#storage)
 - [Microsoft Stream에 저장소 추가](https://docs.microsoft.com/stream/storage-add-on)
