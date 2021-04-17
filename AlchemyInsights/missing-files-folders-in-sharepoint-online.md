@@ -2,7 +2,7 @@
 title: SharePoint Online에 파일/폴더 누락
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002302"
 - "4465"
-ms.openlocfilehash: 22dc27acae4297dc67620e2ab3977cf2ea2e592a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4895eeacf0a766efc3684acb4ea36461853e9822
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667416"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831704"
 ---
 # <a name="missing-filesfolders-in-sharepoint-online"></a>SharePoint Online에 파일/폴더 누락
 

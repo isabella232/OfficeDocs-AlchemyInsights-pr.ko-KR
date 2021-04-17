@@ -2,7 +2,7 @@
 title: Apple APNS 인증서 갱신
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "3542"
-ms.openlocfilehash: 74d2e6ffa91be3caaa3e5b1104814870d05e404d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 655fbec4d0722316babcfaed1be6a4cdffcb3072
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701181"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830768"
 ---
 # <a name="renew-apple-apns-certificate"></a>Apple APNS 인증서 갱신
 

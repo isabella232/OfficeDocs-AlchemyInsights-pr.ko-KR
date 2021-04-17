@@ -2,7 +2,7 @@
 title: 저장소 확대 또는 축소
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002330"
 - "4543"
-ms.openlocfilehash: deebbace12a281c5b56c8736f812fb0e107bd2e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7dfd46d2fa2daaaafe90c3398929ef6ec64b1fcc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755929"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830147"
 ---
 # <a name="increase-or-decrease-storage"></a>저장소 확대 또는 축소
 

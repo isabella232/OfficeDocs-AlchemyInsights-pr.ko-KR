@@ -1,8 +1,8 @@
 ---
-title: SharePoint 자동 요약 전자 메일
+title: SharePoint 자동 다이제스트 전자 메일
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751177"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831200"
 ---
-# <a name="sharepoint-auto-digest-email"></a>SharePoint 자동 요약 전자 메일
+# <a name="sharepoint-auto-digest-email"></a>SharePoint 자동 다이제스트 전자 메일
 
-SharePoint 자동 뉴스 다이제스트는 아직 읽지 않은 최신 뉴스 게시물에 대 한 자동화 된 전자 메일을 회사 사용자에 게 보냅니다.
+SharePoint 자동 뉴스 다이제스트는 회사 내 사용자에게 관련성 있는 최신 뉴스 게시물을 아직 읽지 않은 자동화된 전자 메일을 전송합니다.
 
-자세한 내용을 보려면 [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+자세한 내용은 [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
 - Microsoft 365 로드맵 ID:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- 타이밍: 지정 된 릴리스 고객을 대상으로 지정 합니다  **(이전 6**  월  **)**.
+- 타이밍: 7월  중순(이전 6월 중순 및 8월 중순까지 모든 고객에 대해 완료)을 대상으로 **합니다.**
 - 롤아웃: 사용자 수준 롤아웃
-- 컨트롤 형식: User control, * * PowerShell을 통한 관리 제어 (출시 예정)
+- 컨트롤 유형: 사용자 컨트롤, **PowerShell을 통한 관리자 컨트롤(출시 예정)

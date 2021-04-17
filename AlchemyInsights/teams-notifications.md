@@ -2,7 +2,7 @@
 title: Teams 알림
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: 4821fb67a95264c5258d265b9f1d13cea0a321d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 281ddc7d729a8749084925b85568d441bf8e7502
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736069"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830984"
 ---
 # <a name="teams-notifications-faq"></a>Teams 알림 FAQ
 

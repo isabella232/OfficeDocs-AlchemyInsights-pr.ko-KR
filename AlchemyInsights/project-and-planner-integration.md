@@ -2,7 +2,7 @@
 title: Project 및 Planner 통합
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002569"
 - "5025"
-ms.openlocfilehash: bfa37ce3ddd7e72b772026383008415e7db8e83f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78abbba396cef2020c69d40069daaacc37a11efc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701901"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830876"
 ---
 # <a name="project-and-planner-integration"></a>Project 및 Planner 통합
 

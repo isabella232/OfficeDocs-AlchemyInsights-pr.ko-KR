@@ -2,7 +2,7 @@
 title: PowerPoint 파일을 열 때 발생하는 문제 해결하기
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5144"
-ms.openlocfilehash: f2d60107bccc5471c45d9e6175daee1526f1b9d0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 363d08c033b33ebdd1abd3e5d30674ac274b9e24
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797842"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830715"
 ---
 # <a name="resolve-issues-opening-powerpoint-files"></a>PowerPoint 파일을 열 때 발생하는 문제 해결하기
 

@@ -2,7 +2,7 @@
 title: 신용카드 정보 업데이트
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 514bd6a448333c72776b387869c08915b637a3f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b39c30406924acb3c1b943b81a2719c41b19432
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735061"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830327"
 ---
 # <a name="update-credit-card-information"></a>신용카드 정보 업데이트
 
@@ -29,13 +29,13 @@ ms.locfileid: "47735061"
 2. 업데이트하려는 신용 카드를 선택합니다.
 
     > [!NOTE]
-    > 다른 관리자가 결제 수단을 추가한 경우 신용 카드 또는 은행 계좌 정보를 업데이트 할 수 없습니다. 신용 카드가 곧 만료되고 다른 관리자가 업데이트 할 수없는 경우 **지불 방법 추가**를 선택하여 가입에 대한 다른 신용 카드 또는 새 은행 계좌를 추가하여 서비스 중단을 방지할 수 있습니다.
+    > 다른 관리자가 결제 수단을 추가한 경우 신용 카드 또는 은행 계좌 정보를 업데이트 할 수 없습니다. 신용 카드가 곧 만료되고 다른 관리자가 업데이트 할 수없는 경우 **지불 방법 추가** 를 선택하여 가입에 대한 다른 신용 카드 또는 새 은행 계좌를 추가하여 서비스 중단을 방지할 수 있습니다.
   
-3. **결제 방법 세부 정보** 창에서 **편집**을 선택합니다. 
+3. **결제 방법 세부 정보** 창에서 **편집** 을 선택합니다. 
 
-4. 업데이트를 선택한 다음 **저장**을 선택합니다.
+4. 업데이트를 선택한 다음 **저장** 을 선택합니다.
 
-5. 결제 방법을 제거 하려면 **삭제**를 선택합니다.
+5. 결제 방법을 제거 하려면 **삭제** 를 선택합니다.
 
 **문제 해결**
 
