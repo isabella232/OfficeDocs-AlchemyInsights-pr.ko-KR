@@ -2,7 +2,7 @@
 title: 구독 취소 후 청구
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500019"
 - "5584"
-ms.openlocfilehash: db34bbf73cead34d533c4654e9bfa8024f5a58f5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be524e88999b8b35cced290daf87fc7f3a4088c5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686252"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820436"
 ---
 # <a name="billed-after-canceling-subscription"></a>구독 취소 후 청구
 

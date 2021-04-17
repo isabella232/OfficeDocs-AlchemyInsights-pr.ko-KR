@@ -2,7 +2,7 @@
 title: 'AIP: 정책이 예상대로 작동하지 않음'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 0dfaae776ec551fe12919e8a8e69f2e7a58d67d0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7baa010cc0b18b5d2a295623639fabf2bc5f88ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663195"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821633"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>AIP: 정책이 예상대로 작동하지 않음
 
@@ -32,8 +32,8 @@ Azure Information Protection: 정책이 예상대로 작동하지 않습니다. 
 문제가 계속 발생하는 경우 Azure Information Protection 클라이언트 로그를 수집하고 내보낸 로그를 해당 티켓에 첨부하세요.
 
 1. Office 문서를 열거나 Outlook에서 새 전자 메일을 작성합니다.
-2. **보호/민감도** > **도움말 및 피드백**을 클릭합니다.
-3. **로그 내보내기**를 클릭합니다.
+2. **보호/민감도** > **도움말 및 피드백** 을 클릭합니다.
+3. **로그 내보내기** 를 클릭합니다.
 4. 원하는 위치에 로그를 저장하고 해당 서비스 요청에 첨부합니다.
 
 추가 리소스:

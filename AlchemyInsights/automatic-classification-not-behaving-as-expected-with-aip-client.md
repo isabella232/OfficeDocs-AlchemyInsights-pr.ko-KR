@@ -2,7 +2,7 @@
 title: AIP 클라이언트에서 자동 분류가 예상대로 작동하지 않음
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: d7a2246d78cbd6c4ab40c2a4e5a21807933b619a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7ab09fe8430a54dacf2cd1ba076414a5f562541
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715207"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820904"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>AIP 클라이언트에서 자동 분류가 예상대로 작동하지 않음
 
@@ -31,8 +31,8 @@ ms.locfileid: "47715207"
 6. 이전에 수동으로 레이블을 지정했거나, 이전에 상위 분류로 레이블이 자동으로 지정된 문서 및 전자 메일에는 자동 분류를 사용할 수 없습니다.  자세한 내용은 [자동 또는 권장 레이블이 적용되는 방식](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied)을 참조하세요.
 7. 문제가 계속 발생하는 경우 Azure Information Protection 클라이언트 로그를 수집하고 내보낸 로그를 지원 티켓에 첨부하세요. Azure Information Protection 로그를 내보내려면 다음을 수행합니다.
     - Office 문서를 열거나 Outlook에서 새 전자 메일을 작성합니다.
-    - **보호/민감도** > **도움말 및 피드백**을 클릭합니다.
-    - **로그 내보내기**를 클릭합니다.
+    - **보호/민감도** > **도움말 및 피드백** 을 클릭합니다.
+    - **로그 내보내기** 를 클릭합니다.
     - 원하는 위치에 로그를 저장하고 서비스 요청에 첨부합니다.
 
 자세한 내용은 다음 항목을 참조하세요.

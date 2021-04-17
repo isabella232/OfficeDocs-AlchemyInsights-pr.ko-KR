@@ -1,8 +1,8 @@
 ---
-title: 스팸 방지-5.7.23
+title: Antispam - 5.7.23
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: ecbce4f0077dc9acab63575c19d40c0675a406ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e494e8017f24d65a94d1a7490be4d67c46a2120b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717331"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821417"
 ---
-# <a name="fix-email-delivery-issues-for-error-code-5723"></a>오류 코드 5.7.23에 대 한 전자 메일 배달 문제 해결
+# <a name="fix-email-delivery-issues-for-error-code-5723"></a>오류 코드 5.7.23에 대한 전자 메일 배달 문제 해결
 
-공개적으로 사용 가능한 SPF 또는 웹의 DNS 레코드 검사기에서 도메인에 대 한 SPF DNS 레코드를 확인 합니다.
+웹에서 공개적으로 사용할 수 있는 SPF 또는 DNS 레코드 검사기에서 도메인의 SPF DNS 레코드를 확인해야 합니다.
 
-아웃 바운드 메시지가 Microsoft의 스팸으로 식별 되지 않아 [위험성이 높은 배달 풀](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages)을 통해 라우팅됩니다. 높은 위험 배달 풀의 메시지는 SPF 검사를 통과 하지 않으므로 대상 전자 메일 조직에서 허용 되지 않습니다.
+아웃바운드 메시지가 Microsoft에서 스팸으로 식별되지 않은지와 높은 위험 배달 풀을 통해 [라우팅되지 않는지 확인](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages) 위험 배달 풀의 메시지는 SPF 검사를 통과하지 못하므로 대상 전자 메일 조직에서 수락되지 않습니다.
 
-문제가 계속 되 면 전자 메일을 보내려고 시도 하는 메일 호스트의 관리자에 게 문의 해야 할 수도 있습니다. 바운스 메시지에서 사용할 수 있는 자세한 외부 오류를 기록 합니다. Microsoft support가 더 이상 지원 하지 않을 수 있습니다.
+문제가 계속되면 전자 메일을 보내고 있는 메일 호스트의 관리자에게 문의해야 할 수 있습니다. 반송 메시지에서 자세한 외부 오류를 메모해 두어야 합니다. Microsoft 지원은 더 이상 지원하지 않을 수 있습니다.

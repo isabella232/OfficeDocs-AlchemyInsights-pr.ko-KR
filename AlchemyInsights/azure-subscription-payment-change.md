@@ -2,7 +2,7 @@
 title: Azure의 결제 정보 변경
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6813"
-ms.openlocfilehash: c46f1cd65ae5a07a4aab33c641ebfcb7ef6fd42d
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 3366603742560817eb722bd90c04fba2935bb110
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791521"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820724"
 ---
 # <a name="change-payment-information-in-azure"></a>Azure의 결제 정보 변경
 
@@ -36,7 +36,7 @@ Azure 포털에서 계정 관리자는 새 신용 카드를 추가하거나 기�
 2. **결제 방법** 을 선택합니다. 편집하려는 신용 카드 또는 직불 카드를 클릭합니다. 오른쪽에 신용 카드 양식이 나타납니다. 3. 신용 카드 또는 직불 카드 세부 정보를 업데이트합니다. **저장** 을 선택합니다.
 4. **제거** 하려면 제거하려는 카드 옆의 확인란을 선택합니다. 5. **삭제** 를 클릭합니다.
 
-_참고_ : 다른 활성 Microsoft 구독과 연결된 경우 신용 카드를 제거할 수 없습니다. Microsoft와 함께 보유하고 있는 모든 활성 구독에서 신용 카드를 제거하고 다시 시도해야 합니다.
+_참고_: 다른 활성 Microsoft 구독과 연결된 경우 신용 카드를 제거할 수 없습니다. Microsoft와 함께 보유하고 있는 모든 활성 구독에서 신용 카드를 제거하고 다시 시도해야 합니다.
 
 자세한 정보: [결제 방법 업데이트, 변경 또는 제거](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 

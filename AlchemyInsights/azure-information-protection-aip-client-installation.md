@@ -2,7 +2,7 @@
 title: 'Azure Information Protection: AIP 클라이언트 설치'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: 230f857bd35f4cf381fc71de04231834fb8d0ee6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 97316befa65bad54d5de603aae804a22af7688c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714910"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820760"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure Information Protection: AIP 클라이언트 설치
 

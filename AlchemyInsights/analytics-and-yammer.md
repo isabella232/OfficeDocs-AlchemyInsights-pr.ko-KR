@@ -2,7 +2,7 @@
 title: 분석 및 Yammer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000311"
 - "1935"
-ms.openlocfilehash: 51ce0519cbeb3728ce92e1a9c605413b775c5471
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1dd8d9dd394293d8e3293005aaa625b8310cab21
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717979"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821489"
 ---
 # <a name="analytics-and-yammer"></a>분석 및 Yammer
 

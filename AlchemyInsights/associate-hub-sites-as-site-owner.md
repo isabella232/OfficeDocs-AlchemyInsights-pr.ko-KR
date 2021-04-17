@@ -1,8 +1,8 @@
 ---
-title: 사이트 소유자로 허브 사이트 연결
+title: 허브 사이트를 사이트 소유자로 연결
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000717"
 - "2638"
-ms.openlocfilehash: 9dd2faff114be063bfac0455c7ac13202b5b20cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e08bed31171bfcb4420b86c225542515d5e1e819
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715639"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821012"
 ---
-# <a name="associate-hub-sites-as-site-owner"></a>사이트 소유자로 허브 사이트 연결
+# <a name="associate-hub-sites-as-site-owner"></a>허브 사이트를 사이트 소유자로 연결
 
-[메시지 센터 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) 공유 SharePoint 허브에 가입 하는 방법을 사이트 소유자가 수행할 수 있는 방법을 설명 합니다. 조직에서 허브에 연결할 수 있는 특정 사용자를 관리 하려는 경우 다음 단계를 수행 합니다. 
+[메시지 센터 186626은](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) 이제 사이트 소유자가 SharePoint 허브 가입을 수행할 수 있는 방법을 공유했습니다. 조직에서 허브에 연결될 수 있는 특정 개인을 관리하고자 하는 경우 다음 단계를 수행합니다. 
 
-1. [https://portal.office.com](https://portal.office.com)관리자 권한으로 ()에 로그인 합니다.
-2. 화면 왼쪽 위에 있는 **앱 시작 관리자** (9 개의 사각형이 있는 아이콘)를 선택 하 고 **관리자**를 선택 합니다.
-3. 화면 왼쪽의 메뉴에서 **관리 센터** 를 선택 하 고 **SharePoint**를 선택 합니다.
-4. 화면 맨 위에 있는 파란색 배너에서 **지금 앱 시작** 을 선택 하 여 새 Sharepoint 관리 센터를 표시 합니다.
-5. 화면의 왼쪽 화면에 있는 메뉴에서 **사이트** 를 선택한 다음 **활성 사이트**를 선택 합니다.
-6. 설정을 변경 하려는 허브 사이트를 선택 합니다.
-7. 화면 맨 위에 있는 메뉴에서 **허브** 를 선택 하 고 **허브 사이트 설정 편집**을 선택 합니다.
-8. "이 허브에 사이트를 연결할 수 있는 사용자" 항목에서 작업을 허용할 사용자 또는 보안 그룹을 지정 합니다.
-9. 화면 아래쪽에 있는 **저장** 을 선택 합니다.
+1. 관리자 권한으로 [https://portal.office.com](https://portal.office.com) ()에 로그인합니다.
+2. 화면 왼쪽 **상단에서** 앱 시작 관리자(사각형이 9개 있는 아이콘)를 선택하고 관리자 를 **선택합니다.**
+3. 화면 **왼쪽의** 메뉴에서 관리 센터를 선택한 다음 **SharePoint 를 선택합니다.**
+4. 화면 맨 위에 있는 파란색 배너에서 지금 앱 실행을 선택하여 새 Sharepoint 관리 센터를 표시합니다. 
+5. 화면 왼쪽의 표시에서 메뉴에서  사이트를 선택한 다음 활성 사이트를 **선택합니다.**
+6. 설정을 변경할 허브 사이트를 확인합니다.
+7. 화면 **위쪽의** 메뉴에서 허브를 선택하고 허브 사이트 설정 **편집을 선택합니다.**
+8. "이 허브와 사이트를 연결 할 수 있는 사용자" 항목에서 작업할 수 있도록 허용할 사용자 또는 보안 그룹을 지정합니다.
+9. 화면 **아래쪽에서** 저장을 선택합니다.
 
-자세한 내용은 [SharePoint 사이트와 허브 사이트 연결](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05)을 참조 하세요. 
+자세한 내용은 SharePoint 사이트를 허브 사이트와 [연결 을 참조하세요.](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) 

@@ -2,7 +2,7 @@
 title: Bitlocker 복구 키
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505074"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820292"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Bitlocker 복구 키 액세스
 

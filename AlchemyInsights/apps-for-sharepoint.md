@@ -2,7 +2,7 @@
 title: SharePoint 앱 설치
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5796"
-ms.openlocfilehash: 19010179dd7e40139678ea3eaf7baae237d304f2
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 32706420d15eb1cffa4b5e35bb836ff0b93d67df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707348"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821228"
 ---
 # <a name="install-sharepoint-apps"></a>SharePoint 앱 설치
 

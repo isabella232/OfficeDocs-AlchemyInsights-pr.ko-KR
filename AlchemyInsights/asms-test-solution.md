@@ -2,7 +2,7 @@
 title: ASMS 테스트 솔루션
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003544"
 - "6460"
-ms.openlocfilehash: 7bca50d709f139d87105a3622ea7a85f92afb899
-ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
+ms.openlocfilehash: 77ad79da91ab0949973c5b2f8e19e5e9d4015d95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48296274"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821156"
 ---
 # <a name="asms-test-solution"></a>ASMS 테스트 솔루션
 
-Azure 고객 (예를 들어, Microsoft 고객 계약 (MCA) 또는 Microsoft 파트너 계약 (MPA)을 통해 azure portal에서 해당 가격 산정을 확인 하 고 다운로드할 수 있습니다.
+EA(Azure 기업계약), MCA(Microsoft 고객 계약) 또는 MPA(Microsoft 파트너 계약)가 있는 Azure 고객은 Azure Portal에서 해당 가격을 보고 다운로드할 수 있습니다.

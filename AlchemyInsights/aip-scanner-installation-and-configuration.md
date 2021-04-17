@@ -2,7 +2,7 @@
 title: 'AIP 스캐너: 설치 및 구성'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5119"
-ms.openlocfilehash: be5b63ffccd5bbd83e7802e4ef5aa657ed921ae6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c32f3f10e2e17cf67e73ec8404be293eeefb68a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686648"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821669"
 ---
 # <a name="aip-scanner-installation-and-configuration"></a>AIP 스캐너: 설치 및 구성
 

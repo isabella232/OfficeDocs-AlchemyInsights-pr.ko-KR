@@ -2,7 +2,7 @@
 title: 공유 링크에서 다운로드 차단
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: ddd74f3875a586b4fbf49db2f01c8efb180cb005
-ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
+ms.openlocfilehash: a3641d96029154921a98502c5eb9b2f2bf668588
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49353476"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820256"
 ---
 # <a name="block-download-on-sharing-links"></a>공유 링크에서 다운로드 차단
 

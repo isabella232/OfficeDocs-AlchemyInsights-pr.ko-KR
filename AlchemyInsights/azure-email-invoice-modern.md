@@ -2,7 +2,7 @@
 title: 최신 Azure 이메일 송장 발부
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6866"
-ms.openlocfilehash: 65df6091a97d4937379ded384a78b5d07aa76e42
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: 4df8c49880fe638c1659f76edc0905532d091e45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48840629"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820832"
 ---
 # <a name="email-invoicing-in-azure"></a>Azure에서 이메일 송장 발행
 

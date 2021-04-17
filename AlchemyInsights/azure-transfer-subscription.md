@@ -2,7 +2,7 @@
 title: Azure 청구 소유권 이전
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: fc02a64807cad61cfeecf04d1f8e38666402583f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755553"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820616"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Azure 청구 소유권 이전
 
