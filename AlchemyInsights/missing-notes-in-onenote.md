@@ -1,8 +1,8 @@
 ---
-title: 메모 누락
+title: 누락된 메모
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2501"
-ms.openlocfilehash: 7a7e70de2ec1ef5158d8149b635ce7f90814c6b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8dd9e2a36fb89c10dd610e275cf7c42b8b093d5f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667200"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831632"
 ---
-# <a name="missing-notes-in-notebook"></a><span data-ttu-id="2ddc2-102">전자 필기장에 메모 없음</span><span class="sxs-lookup"><span data-stu-id="2ddc2-102">Missing notes in notebook</span></span>
+# <a name="missing-notes-in-notebook"></a><span data-ttu-id="2f892-102">전자 필기장에 메모 누락</span><span class="sxs-lookup"><span data-stu-id="2f892-102">Missing notes in notebook</span></span>
 
-<span data-ttu-id="2ddc2-103">전자 필기장에서 누락 된 페이지나 섹션의 가장 일반적인 원인 중 하나는 동기화 오류입니다.</span><span class="sxs-lookup"><span data-stu-id="2ddc2-103">One of the most common causes of missing pages or sections in a notebook is a sync error.</span></span> <span data-ttu-id="2ddc2-104">이 이벤트에서 데이터는 손실 되지 않으며 동기화가 정상적으로 작동 하는 경우 복구할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2ddc2-104">In this event, the data is not lost and can be recovered once the sync is working.</span></span> <span data-ttu-id="2ddc2-105">모든 OneNote 클라이언트 사용자가 전자 필기장에 오류가 표시 되는지 여부를 확인 하는 데 사용 되었으며, 오류가 있는 경우 [onenote를 동기화 할 수 없는 경우 문제 해결](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="2ddc2-105">Check every OneNote client users have used to identify if any of them shows an error for the notebook, and if there is an error, see [Fix issues when you can't sync OneNote](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45).</span></span>
+<span data-ttu-id="2f892-103">전자 필기장에서 페이지 또는 섹션이 누락되는 가장 일반적인 원인 중 하나는 동기화 오류입니다.</span><span class="sxs-lookup"><span data-stu-id="2f892-103">One of the most common causes of missing pages or sections in a notebook is a sync error.</span></span> <span data-ttu-id="2f892-104">이 이벤트에서는 데이터가 손실되지 않습니다. 동기화가 작동하면 복구할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2f892-104">In this event, the data is not lost and can be recovered once the sync is working.</span></span> <span data-ttu-id="2f892-105">OneNote 클라이언트 사용자가 전자 필기장에 오류가 표시하는지 확인하는 데 사용한 모든 OneNote 클라이언트를 확인하고, 오류가 있는 경우 [OneNote를](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45)동기화할 수 없는 경우 문제 해결을 참조합니다.</span><span class="sxs-lookup"><span data-stu-id="2f892-105">Check every OneNote client users have used to identify if any of them shows an error for the notebook, and if there is an error, see [Fix issues when you can't sync OneNote](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45).</span></span>
 
-- <span data-ttu-id="2ddc2-106">Windows 10 용 OneNote에서 전자 필기장 옆에는 노란색 삼각형 경고 아이콘이 표시 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2ddc2-106">In OneNote for Windows 10, a yellow triangular warning icon will most likely be displayed next to the notebook.</span></span>
-- <span data-ttu-id="2ddc2-107">OneNote 2016에서 리본 아래의 전자 필기장 이름을 마우스 오른쪽 단추로 클릭 하 고 "전자 필기장 동기화 상태"를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="2ddc2-107">In OneNote 2016, right click on the notebook name below the ribbon, and click “Notebook Sync Status”</span></span>
-- <span data-ttu-id="2ddc2-108">Mac 용 OneNOte에서 전자 필기장 아이콘 근처에 노란색 느낌표가 있는지 확인 하세요.</span><span class="sxs-lookup"><span data-stu-id="2ddc2-108">In OneNOte for Mac, check for a yellow exclamation mark near the notebook icon</span></span>
-- <span data-ttu-id="2ddc2-109">IPhone 용 OneNote에서 전자 필기장으로 이동한 후 오른쪽 위 모서리에 있는 작업 단추를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="2ddc2-109">In OneNote for iPhone, navigate to your notebook, and click the action button in the top right corner</span></span>
-- <span data-ttu-id="2ddc2-110">Android 용 OneNote에서 더 많은 전자 필기장으로 이동->동기화 오류 보기</span><span class="sxs-lookup"><span data-stu-id="2ddc2-110">In OneNote for Android, navigate to More Notebooks->View Sync Errors</span></span>
+- <span data-ttu-id="2f892-106">Windows 10용 OneNote에서는 전자 필기장 옆에 노란색 삼각형 경고 아이콘이 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="2f892-106">In OneNote for Windows 10, a yellow triangular warning icon will most likely be displayed next to the notebook.</span></span>
+- <span data-ttu-id="2f892-107">OneNote 2016에서 리본 아래의 전자 필기장 이름을 마우스 오른쪽 단추로 클릭하고 "전자 필기장 동기화 상태"를 클릭합니다.</span><span class="sxs-lookup"><span data-stu-id="2f892-107">In OneNote 2016, right click on the notebook name below the ribbon, and click “Notebook Sync Status”</span></span>
+- <span data-ttu-id="2f892-108">In OneNOte for Mac, check for a yellow exclamation mark near the notebook icon</span><span class="sxs-lookup"><span data-stu-id="2f892-108">In OneNOte for Mac, check for a yellow exclamation mark near the notebook icon</span></span>
+- <span data-ttu-id="2f892-109">In OneNote for iPhone, navigate to your notebook, and click the action button in the top right corner</span><span class="sxs-lookup"><span data-stu-id="2f892-109">In OneNote for iPhone, navigate to your notebook, and click the action button in the top right corner</span></span>
+- <span data-ttu-id="2f892-110">Android용 OneNote에서 더 많은 전자 필기장-전자 필기장 >동기화 오류 보기로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="2f892-110">In OneNote for Android, navigate to More Notebooks->View Sync Errors</span></span>
 
-<span data-ttu-id="2ddc2-111">검색에 대 한 [손실 된 메모 찾기](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) , 파일 동기화 또는 노트 복구의 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="2ddc2-111">Follow the steps in [Find my lost notes](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) to search, sync your file, or recover your notes.</span></span>
+<span data-ttu-id="2f892-111">분실한 메모 [](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) 찾기의 단계에 따라 노트를 검색, 파일 동기화 또는 복구합니다.</span><span class="sxs-lookup"><span data-stu-id="2f892-111">Follow the steps in [Find my lost notes](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) to search, sync your file, or recover your notes.</span></span>
 
-<span data-ttu-id="2ddc2-112">OneNote 2016을 사용 하는 경우 백업에서 [삭제 된 노트를 복구할](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2ddc2-112">If you are using OneNote 2016, you may be able to [Recover deleted notes](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) from backups.</span></span>
+<span data-ttu-id="2f892-112">OneNote 2016을 사용하는 경우 백업에서 [](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) 삭제된 메모를 복구할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2f892-112">If you are using OneNote 2016, you may be able to [Recover deleted notes](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) from backups.</span></span>
