@@ -2,7 +2,7 @@
 title: 다른 별칭에서 메일 보내기
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 045dd451adcb66f84a1aa3f20b7c0b6550e8f2ff
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd41ecaf53d926880c5949892f7751906b549b8a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720760"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823685"
 ---
-# <a name="send-email-from-an-alias-or-secondary-address"></a><span data-ttu-id="cf7c6-102">별칭 또는 보조 주소에서 전자 메일 보내기</span><span class="sxs-lookup"><span data-stu-id="cf7c6-102">Send email from an alias or secondary address</span></span>
+# <a name="send-email-from-an-alias-or-secondary-address"></a><span data-ttu-id="bb68d-102">별칭 또는 보조 주소에서 전자 메일 보내기</span><span class="sxs-lookup"><span data-stu-id="bb68d-102">Send email from an alias or secondary address</span></span>
 
-<span data-ttu-id="cf7c6-103">Microsoft 365에서는 현재 별칭 또는 보조 전자 메일 주소로 전자 메일을 보낼 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="cf7c6-103">Microsoft 365 does not currently support sending email from an alias or secondary email address.</span></span> <span data-ttu-id="cf7c6-104">전자 메일 별칭을 사용 하 여 전자 메일이 수신 됩니다.</span><span class="sxs-lookup"><span data-stu-id="cf7c6-104">Email aliases can be used to receive emails only.</span></span> <span data-ttu-id="cf7c6-105">다른 전자 메일 주소에서 전자 메일을 보내려면 공유 사서함을 만들어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="cf7c6-105">If you want to send email from another email address, you need to create a shared mailbox.</span></span> <span data-ttu-id="cf7c6-106">공유 사서함은 다른 라이선스를 요구 하지 않고 다른 전자 메일 주소를 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="cf7c6-106">The shared mailbox will give you another email address, without requiring another license.</span></span>
+<span data-ttu-id="bb68d-103">Microsoft 365는 현재 별칭 또는 보조 전자 메일 주소에서 전자 메일 전송을 지원하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="bb68d-103">Microsoft 365 does not currently support sending email from an alias or secondary email address.</span></span> <span data-ttu-id="bb68d-104">전자 메일 별칭은 전자 메일을 받는 데만 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="bb68d-104">Email aliases can be used to receive emails only.</span></span> <span data-ttu-id="bb68d-105">다른 전자 메일 주소에서 전자 메일을 보내고 싶은 경우 공유 사서함을 만들어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="bb68d-105">If you want to send email from another email address, you need to create a shared mailbox.</span></span> <span data-ttu-id="bb68d-106">공유 사서함은 다른 라이선스 없이 다른 전자 메일 주소를 부여합니다.</span><span class="sxs-lookup"><span data-stu-id="bb68d-106">The shared mailbox will give you another email address, without requiring another license.</span></span>
   
-- [<span data-ttu-id="cf7c6-107">여기로 이동 하 여 공유 사서함 만들기</span><span class="sxs-lookup"><span data-stu-id="cf7c6-107">Go here to create a shared mailbox</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [<span data-ttu-id="bb68d-107">공유 사서함을 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="bb68d-107">Go here to create a shared mailbox</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-<span data-ttu-id="cf7c6-108">공유 사서함을 사용 하는 방법을 비롯 하 여 알고 있어야 하는 모든 정보를 확인할 수 있는 [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) 문서를 읽을 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="cf7c6-108">You can also read the [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span>
+<span data-ttu-id="bb68d-108">공유 사서함 사용 [](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) 방법을 포함하여 공유 사서함에 대해 알아야 할 모든 것을 알려 주어 공유 사서함 만들기 문서를 읽을 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="bb68d-108">You can also read the [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span>
