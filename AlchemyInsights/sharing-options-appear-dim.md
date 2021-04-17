@@ -1,8 +1,8 @@
 ---
-title: 공유 옵션이 흐리게 표시 되거나 사용할 수 없음
+title: 공유 옵션이 희미하게 표시되거나 사용할 수 없습니다.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: 86d14adff3967a11fadf057302233764512e5b46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 217c18ddaf12d688f61f030f4c650183aa1e2a2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758539"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832604"
 ---
-# <a name="sharing-options-appear-dim-or-are-not-available"></a>공유 옵션이 흐리게 나타나거나 사용할 수 없음
+# <a name="sharing-options-appear-dim-or-are-not-available"></a>공유 옵션이 희미하게 표시되거나 사용할 수 없습니다.
 
-SharePoint Online 또는 OneDrive에서 공유 하려고 할 때 일부 공유 옵션이 나 사용할 수 없는 경우 [공유 옵션은 Sharepoint online 또는 onedrive에서 공유할 때 흐리게 표시 됩니다](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).
+일부 공유 옵션 또는 SharePoint Online 또는 OneDrive에서 공유하려고 할 때 사용할 수 없는 경우 SharePoint Online 또는 [OneDrive에서](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)공유할 때 공유 옵션이 회색으로 표시 를 참조하세요.

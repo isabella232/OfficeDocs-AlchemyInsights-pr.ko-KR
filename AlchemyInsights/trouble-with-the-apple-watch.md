@@ -1,8 +1,8 @@
 ---
-title: Apple 시청의 문제
+title: Apple Watch 문제
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700029"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832280"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Apple 시청의 문제
+# <a name="trouble-with-the-apple-watch"></a>Apple Watch 문제
 
-Apple 시청에서 Outlook을 사용 하는 데 문제가 있는 경우 다음과 같은 몇 가지 문제 해결 단계를 수행 하세요. 
+If you're having trouble using Outlook on the Apple Watch, here are some troubleshooting steps: 
 
-1. IPhone의 시청 앱으로 이동 합니다.
+1. iPhone의 앱 감시로 이동하세요.
 
 2. Outlook 앱으로 스크롤합니다.
 
-3. 제거 하려면 "Apple Watch에서 앱 표시"를 **해제** 합니다.
+3. "Apple Watch에 앱 표시"를 **OFF로** 전환하여 제거합니다.
 
-4. 시청에 다시 설치 하려면 "Apple Watch에서 앱 표시 **"를 설정** 합니다.
+4. "Apple Watch에서 앱 표시"를 **ON으로** 전환하여 Watch에 다시 설치합니다.
 
-5. Apple Watch에서 Outlook 앱을 시작 하 고 데이터가 최신 상태로 동기화 될 때까지 기다립니다. 
+5. Apple Watch에서 Outlook 앱을 시작하고 데이터가 최신과 동기화될 때까지 기다렸다가 실행합니다. 
 
-문제가 해결 되지 않으면 지원 팀이 도움을 드립니다. **기술 지원 서비스에 문의 하 여 의견 > & > 설정**으로 이동 합니다. 
+문제가 해결되지 않으면 지원 팀에서 도움을 줄 수 있습니다. 지원에 **문의할 > 도움말 & > 로 이동합니다.** 

@@ -2,7 +2,7 @@
 title: Microsoft 365 앱 메시지 - 구독에 문제 발생
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 43a0bae34c22fc99b3bebdc4999f325d76f9d0c4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c7907c43fcaa74146c379c2a1cae3f43416ae7d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802711"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832892"
 ---
 # <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Microsoft 365 앱 메시지 - 구독에 문제 발생
 
@@ -27,7 +27,7 @@ ms.locfileid: "47802711"
 
 - [Office 라이선스](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)를 제거한 후 알림 표시된 사용자에게 다시 할당합니다. 
 
-- Office 앱을 열고 **파일 > 계정**으로 이동하여 모든 계정에서 로그아웃합니다. 유효한 라이선스가 있는 사용자 계정을 사용하여 다시 로그인합니다. 자세한 내용은 [Office의 계정](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)을 참조하세요.
+- Office 앱을 열고 **파일 > 계정** 으로 이동하여 모든 계정에서 로그아웃합니다. 유효한 라이선스가 있는 사용자 계정을 사용하여 다시 로그인합니다. 자세한 내용은 [Office의 계정](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)을 참조하세요.
 
 - [정품 인증 문제 해결사](https://aka.ms/SARA-OfficeActivation-Alchemy)를 실행하고 컴퓨터를 다시 시작합니다.
 

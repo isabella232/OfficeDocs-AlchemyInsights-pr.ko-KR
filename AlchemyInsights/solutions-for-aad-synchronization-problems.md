@@ -2,7 +2,7 @@
 title: AAD 동기화 문제에 해결 방법
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002418"
 - "4695"
-ms.openlocfilehash: 43d2ef88503c5c0f3d8a82bccb9d401fada0b961
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa4fc0ece7de2a98b571e96c8a825e0df106c1a9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691473"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832532"
 ---
 # <a name="solutions-for-aad-synchronization-problems"></a>AAD 동기화 문제에 해결 방법
 

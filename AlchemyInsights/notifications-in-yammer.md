@@ -2,7 +2,7 @@
 title: Yammer의 알림
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002878"
 - "5480"
-ms.openlocfilehash: c1fbeea7bf4269e90e52cf5c129e904c99714926
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e7c03f2b557a7d3c409b2ee418df055d0569ee6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662799"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833585"
 ---
 # <a name="notifications-in-yammer"></a>Yammer의 알림
 

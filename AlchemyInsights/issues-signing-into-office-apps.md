@@ -2,7 +2,7 @@
 title: Microsoft 365 앱에 로그인하는 문제
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2559"
-ms.openlocfilehash: d736c6c687695824f0ab37b8ffdc8456065353b0
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c64cf2c9dbf63caad22e54ae801adc3ed8ff0f62
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709112"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833009"
 ---
 # <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Microsoft 365 앱 수정 "컴퓨터의 신뢰할 수 있는 플랫폼 모듈이 제대로 작동하지 않습니다." 메시지
 

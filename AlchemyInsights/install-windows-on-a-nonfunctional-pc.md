@@ -2,7 +2,7 @@
 title: 작동하지 않는 PC에 Windows 설치
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001473"
 - "3501"
-ms.openlocfilehash: 2793234c4601c20efb1510970608816c48de1a5e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e741b99dcc01aaabce001c8b8fe45161a1d3badd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696195"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831992"
 ---
 # <a name="install-windows-on-a-nonfunctional-pc"></a>작동하지 않는 PC에 Windows 설치
 
@@ -41,10 +41,10 @@ ms.locfileid: "47696195"
 
     - 만든 설치 미디어를 작동하지 않는 PC에 연결한 후 켭니다.
 
-    - 초기 설정 화면에서 언어와 기타 기본 설정을 입력하고 **다음**을 클릭합니다. 설정 화면이 표시되지 않는 경우 PC가 드라이브에서 부팅되도록 설정되어 있지 않을 수 있습니다. PC 제조업체의 웹 사이트에서 PC의 부팅 순서를 변경하는 방법에 대한 정보를 확인한 후 다시 시도하세요.
+    - 초기 설정 화면에서 언어와 기타 기본 설정을 입력하고 **다음** 을 클릭합니다. 설정 화면이 표시되지 않는 경우 PC가 드라이브에서 부팅되도록 설정되어 있지 않을 수 있습니다. PC 제조업체의 웹 사이트에서 PC의 부팅 순서를 변경하는 방법에 대한 정보를 확인한 후 다시 시도하세요.
 
-    - **컴퓨터 복구**를 클릭합니다.
+    - **컴퓨터 복구** 를 클릭합니다.
 
-    - **옵션 선택** 화면에서 **문제 해결**을 클릭합니다. 이 옵션을 사용하여 시스템 복원 지점에서 복원할 수 있습니다.
+    - **옵션 선택** 화면에서 **문제 해결** 을 클릭합니다. 이 옵션을 사용하여 시스템 복원 지점에서 복원할 수 있습니다.
 
 **중요**: 작동하는 PC에 Windows를 설치하려는 경우 3단계를 다르게 수행할 수 있습니다. 다양한 시나리오에 대한 자세한 내용은 [Windows 10의 복구 옵션](https://support.microsoft.com/help/12415/windows-10-recovery-options)을 참조하세요.

@@ -2,7 +2,7 @@
 title: SharePoint Online 일정 오버레이
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 052330e0cf84c2dbb1586803806b8d013e53dd12
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1cd18da6e7091153abeeadb83f6f9d95e615dea2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665508"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833477"
 ---
 # <a name="sharepoint-online-calendar-overlay"></a>SharePoint Online 일정 오버레이
 
