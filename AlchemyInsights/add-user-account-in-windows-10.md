@@ -2,7 +2,7 @@
 title: Windows 10에서 사용자 계정 추가
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3448"
 - "9001447"
-ms.openlocfilehash: acb32edbda28669ce388c54dbe445523849d1da6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 74182d6b2b287b614624baabd20ce3abecb5a191
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687548"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822317"
 ---
 # <a name="add-a-user-account-in-windows-10"></a>Windows 10에서 사용자 계정 추가
 
-Windows 10에서 계정을 추가 하는 방법은 다음과 같습니다.
+Windows 10에서 계정을 추가하는 방법:
 
-1. **시작**  >  **설정**으로 이동  >  **Accounts**  >  **다른 사람** (또는 Windows 10 Enterprise를 사용 하는 경우 **다른 사용자**) & **이 PC에**다른 사용자 추가 > 합니다.
-2. 지침에 따라 Microsoft 계정 또는 로컬 계정을 추가 합니다.
+1. 시작 **설정 계정**& 다른 사용자(또는  >    >    >   Windows 10 Enterprise를 사용하는 경우 다른 사용자)로 이동한 > 이 PC에 다른 사람을 **추가합니다.**
+2. 지침에 따라 Microsoft 계정 또는 로컬 계정을 추가합니다.
 
-[계정 설정에 대 한 자세한 정보](https://support.microsoft.com/help/17197/)
+[계정 설정에 대해 자세히 알아보시다](https://support.microsoft.com/help/17197/)

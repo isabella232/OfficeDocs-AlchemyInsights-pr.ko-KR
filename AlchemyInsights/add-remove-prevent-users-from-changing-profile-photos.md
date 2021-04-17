@@ -2,7 +2,7 @@
 title: 사용자가 프로필 사진을 변경하지 못하게 추가, 제거 또는 차단
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 4fcd6682b2676e724ab6628b28e3b82afbbf0c8b
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 71c959da8d74a282023f9fbacf14dc4305ed708e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704756"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822389"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>사용자가 프로필 사진을 변경하지 못하게 추가, 제거 또는 차단
 

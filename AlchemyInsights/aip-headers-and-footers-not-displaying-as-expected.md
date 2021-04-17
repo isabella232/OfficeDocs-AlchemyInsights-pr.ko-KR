@@ -2,7 +2,7 @@
 title: 'AIP: 머리글 및 바닥글이 제대로 표시되지 않음'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 811a48587272776c8ece5e654a921c15cf52af5f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f50fc1d38618017bca61b4e9290d9893983534e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696554"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821705"
 ---
 # <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: 머리글 및 바닥글이 제대로 표시되지 않음
 
@@ -32,8 +32,8 @@ ms.locfileid: "47696554"
 **Azure Information Protection 로그 내보내기**
 
 1. Office 문서를 열거나 Outlook에서 새 전자 메일을 작성합니다.
-2. **보호/민감도** > **도움말 및 피드백**을 클릭합니다.
-3. **로그 내보내기**를 클릭합니다.
+2. **보호/민감도** > **도움말 및 피드백** 을 클릭합니다.
+3. **로그 내보내기** 를 클릭합니다.
 4. 원하는 위치에 로그를 저장하고 해당 서비스 요청에 첨부합니다.
 
 자세한 내용은 다음을 참조하세요.

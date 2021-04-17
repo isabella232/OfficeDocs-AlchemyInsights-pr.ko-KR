@@ -2,7 +2,7 @@
 title: Microsoft 365 앱 정품 인증
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 0e4fe5401663eaf7a332b7dac6a786a05656f63f
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236059"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823037"
 ---
 # <a name="activating-microsoft-365-apps"></a>Microsoft 365 앱 정품 인증
 
@@ -42,9 +42,9 @@ Microsoft 365 앱에 로그인 할 수 없는 경우 아래의 단계를 따릅�
 
 1. Office 앱을 열고 기존 사용자 계정을 [로그아웃](https://go.microsoft.com/fwlink/?linkid=2114082)합니다.
 
-2. Windows **설정 > 계정 > 전자 메일 및 계정**을 사용하여, 오래되거나 사용하지 않는 회사 계정을 제거합니다.
+2. Windows **설정 > 계정 > 전자 메일 및 계정** 을 사용하여, 오래되거나 사용하지 않는 회사 계정을 제거합니다.
 
-3. Windows **설정 > 계정 > 회사 또는 학교에 액세스**를 사용하여, 오래되거나 사용하지 않는 회사 계정을 연결 해제합니다.
+3. Windows **설정 > 계정 > 회사 또는 학교에 액세스** 를 사용하여, 오래되거나 사용하지 않는 회사 계정을 연결 해제합니다.
 
 4. [Office 정품 인증 상태를 재설정](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)한 후 새 계정을 사용하여 [Office 앱에 로그인](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426)합니다.
 

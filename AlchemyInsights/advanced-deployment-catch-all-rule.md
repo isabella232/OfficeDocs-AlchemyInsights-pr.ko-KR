@@ -2,7 +2,7 @@
 title: 고급 배포 Catch 모든 규칙
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 audience: ITPro
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: bc340bb0242315eb46767074ce846df9393bc426
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: ec85676df299227a895c2755e8c26f9227fd113b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51122993"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821777"
 ---
 # <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Microsoft 365 앱 배포 관리자를 사용하여 Office 설치
 
