@@ -2,7 +2,7 @@
 title: AADConnect 설치를 위한 필수 요구 사항
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1300023"
 - "4533"
-ms.openlocfilehash: b0b95296ef6e5cbdd27d36969d09a57dcc554e51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc17da9781c4960f91e76f2c60b7067cdd24e473
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720976"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828986"
 ---
 # <a name="pre-requisites-for-installing-aadconnect"></a>AADConnect 설치를 위한 필수 요구 사항
 

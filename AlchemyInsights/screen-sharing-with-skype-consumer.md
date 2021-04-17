@@ -2,7 +2,7 @@
 title: Skype 소비자와 화면 공유
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000009"
 - "1433"
-ms.openlocfilehash: ebe07d46aa5c5d63bba0403bf05cf57e613bcd0f
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 67ac7d31e3e0aafe088bf05867b1cb1e55ccf77b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709400"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828590"
 ---
 # <a name="screen-sharing-with-skype-consumer-users"></a>Skype 소비자 사용자와 화면 공유
 

@@ -2,7 +2,7 @@
 title: Exchange Online PowerShell의 마이크로 지연 또는 제한
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "5106"
-ms.openlocfilehash: 55844747be27ea4ff8f538492e576195b3a5f0bb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 680df9e6e2404ff6b60b17d6ac88e202e9a7bb25
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743920"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830039"
 ---
 # <a name="micro-delays-or-throttling-in-exchange-online-powershell"></a>Exchange Online PowerShell의 마이크로 지연 또는 제한
 

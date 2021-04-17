@@ -2,7 +2,7 @@
 title: 일반적인 AAD 동기화 문제에 대 한 해결 방법
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002418"
 - "4867"
-ms.openlocfilehash: 0ca019322ff4ccb2ad1b7dcc109082cc6b55eb18
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d26e49421b1b0c1d8ce79121f8dbdea16a06c552
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738139"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828230"
 ---
 # <a name="solutions-to-common-aad-synchronization-problems"></a>일반적인 AAD 동기화 문제에 대 한 해결 방법
 
-**관리 센터의 알림 또는 **에 알림이 표시되거나, 최근 동기화 이벤트가 없다는 자동 전자 메일을 받습니다.
+**관리 센터의 알림 또는** 에 알림이 표시되거나, 최근 동기화 이벤트가 없다는 자동 전자 메일을 받습니다.
 
 - [Azure AD Connect 연결 문제 해결](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
 

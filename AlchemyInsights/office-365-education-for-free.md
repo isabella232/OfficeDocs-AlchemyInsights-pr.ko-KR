@@ -1,8 +1,8 @@
 ---
-title: 무료 Office 365 교육 기관
+title: Office 365 Education 무료
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,15 +13,15 @@ ms.custom:
 - "1426"
 - "1500009"
 ms.assetid: 8e48c645-8df6-4fb5-8da6-f13b0a3bb0cc
-ms.openlocfilehash: 3769774271ac88d359071e8ea741f2a0faa4dc7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca1d0674fb246b0bf7b3899b21fac503675c0a23
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729949"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829634"
 ---
-# <a name="office-365-education-for-free"></a>무료 Office 365 교육 기관
+# <a name="office-365-education-for-free"></a>Office 365 Education 무료
 
-[무료 Office 365 교육 기관](https://products.office.com/student/office-in-education?ms.officeurl=students)
+[Office 365 Education 무료](https://products.office.com/student/office-in-education?ms.officeurl=students)
   
-평가판이 아닙니다. 학생 및 교사는 Word, Excel, PowerPoint, OneNote 및 Microsoft 팀과 함께 추가 교실 도구를 포함 하는 Office 365 교육을 받을 수 있습니다.
+평가판이 아니요! 학생 및 교사는 Word, Excel, PowerPoint, OneNote 및 현재 Microsoft Teams와 추가 강의실 도구를 포함하는 Office 365 Education을 사용할 수 있습니다.

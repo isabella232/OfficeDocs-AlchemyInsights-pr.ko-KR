@@ -2,7 +2,7 @@
 title: 부재 중 자동 회신 설정
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002390"
 - "4658"
-ms.openlocfilehash: 0363572720855ad938019d1e7b58234570869114
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b89646f9a231e24d038df61e50777072dc8db33d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798814"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828518"
 ---
 # <a name="setting-up-out-of-office-automatic-replies"></a>부재 중 자동 회신 설정
 

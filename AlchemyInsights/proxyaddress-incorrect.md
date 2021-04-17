@@ -1,8 +1,8 @@
 ---
-title: ProxyAddress 잘못 됨
+title: ProxyAddress 올바르지 않습니다.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
-ms.openlocfilehash: e0552b9d4ba1beeda14f6a46773060aede43e928
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1cb2b9f1980a121c21285e54e52f8403a48e4906
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801514"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828942"
 ---
-# <a name="proxyaddress-incorrect"></a>ProxyAddress 잘못 됨
+# <a name="proxyaddress-incorrect"></a>ProxyAddress 올바르지 않습니다.
 
-개체가 Azure AD와 동기화 되 면 Active Directory의 proxyAddresses 특성에 지정 된 값이 Azure AD 규칙과 비교 된 다음 proxyAddresses 특성이 Azure AD에 채워집니다. 따라서 Active Directory에 있는 개체에 대 한 proxyAddresses 특성의 값이 Azure AD의 proxyAddresses 특성 값과 같을 수 없습니다.
+개체가 Azure AD와 동기화될 때 Active Directory의 proxyAddresses 특성에 지정된 값을 Azure AD 규칙과 비교한 다음 proxyAddresses 특성이 Azure AD에 채워지게 됩니다. 따라서 Active Directory의 개체에 대한 proxyAddresses 특성 값은 Azure AD의 proxyAddresses 특성 값과 다를 수 있습니다.
   
-Proxyaddress가 채워지는 방식에 대 한 자세한 내용은 [AZURE AD에서 proxyaddress 특성이 채워지는 방법을](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad)참조 하세요.
+proxyaddress가 채워지는 방법에 대한 자세한 내용은 [Azure AD에서 proxyAddress](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad)특성이 채워지는 방법을 참조하세요.
   
 

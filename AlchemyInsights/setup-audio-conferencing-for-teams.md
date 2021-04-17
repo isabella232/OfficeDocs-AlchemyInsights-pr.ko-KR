@@ -2,7 +2,7 @@
 title: Teams용 오디오 회의 설정
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: 1234963d16c011a010cf2b6c99be098edce2dfb6
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: d773d371759b857044fc61f2b8f133d88f32e9aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692688"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828482"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Teams용 오디오 회의 설정
 
