@@ -2,7 +2,7 @@
 title: 통신 크레딧
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: e35454836320c5aee23f80aa6f6c04414fb127ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8e2fe0502f21286ebe3b272ed33e0eafb10632c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733405"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817466"
 ---
 # <a name="communication-credits"></a>통신 크레딧
 

@@ -1,8 +1,8 @@
 ---
-title: 팀에서 모임 예약
+title: Teams에서 모임 예약
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: d75f3a1d83845609ff4a41788ce9dbf92fbfc3d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76921d4111f8e5f268ea5a2196e0a209b5dbe16d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746909"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815981"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>팀에서 모임 예약
+# <a name="schedule-a-meeting-in-teams"></a>Teams에서 모임 예약
 
-**중요** 모임을 만드는 데 문제가 있거나 팀에서 모임 옵션을 찾을 수 없는 경우 영향을 받는 사용자에 게 지원 되는 Microsoft 팀 버전에서 Exchange 사서함이 사용 하도록 설정 되어 있는지 확인 합니다. Exchange Online이 권장 되는 동안 exchange 온-프레미스 사서함은 온라인 및 온-프레미스 간에 완료 된 OAuth와 함께 Exchange Server 2016 C U 3 이상에서 지원 됩니다. 자세한 내용은 [Exchange Online에서 사용자 사서함 만들기](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) 및 [온-프레미스에서 호스트 되는 사서함에 대 한 요구 사항](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises)를 참조 하세요. 
+**중요** 모임을 만드는 데 문제가 있는 경우 또는 Teams에서 모임 옵션을 찾을 수 없는 경우 영향을 받는 사용자에게 Microsoft Teams의 지원되는 버전에 Exchange 사서함이 활성화되어 있는지 확인합니다. Exchange Online을 권장하는 동안 Exchange Exchange Server 2016 CU3 이상에서 OAuth가 온라인과 On-Premises 간에 성공적으로 구성될 때 지원됩니다. 자세한 내용은 [Create user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) 및 Requirements for [mailboxes hosted on-premises을 참조하세요.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises) 
 
-1. 다음을 선택 하 여 모임을 예약할 수 있습니다.
+1. 다음을 선택하여 모임을 예약할 수 있습니다.
 
-    - 대화 상자 아래의 채팅에서 **모임 예약** 아이콘을 사용 하 여 채팅 참가자와 회의를 예약할 수 있습니다.
+    - **채팅의** 사용자와 모임을 예약하기 위해 작성 상자 아래의 채팅에서 모임 아이콘을 예약합니다.
 
-    - 앱 왼쪽의 **일정** 아이콘 일정에서 일정 관리 양식을 열려면 오른쪽 위에 있는 **새로 만들기** 또는 시간 범위를 선택 합니다.
+    - **앱** 왼쪽의 일정 아이콘입니다. 오른쪽 **상단에서** 새 모임을 선택하거나 일정에서 시간 범위를 선택하여 일정 양식을 열 수 있습니다.
 
-2. Outlook에서 모임 예약과 마찬가지로 모임에 제목을 지정 하 고, 초대 하 고, 모임 세부 정보를 추가할 수 있습니다.
+2. Outlook에서 모임을 설정하는 경우와 마찬가지로 모임 제목을 입력하고, 다른 사용자들을 초대하고, 모임 세부 정보를 추가할 수 있습니다.
 
-3. 일정 양식의 오른쪽에서 채널 또는 개별 사용자를 추가 하거나 둘 다를 비워 두어 비공개 약속을 예약할 수 있습니다.
+3. 일정 양식의 오른쪽에서 채널이나 개별 사용자 또는 채널을 추가하거나 둘 다 비워서 비공개 약속을 예약할 수 있습니다.
 
-Microsoft 팀에서 모임을 만들고 예약 하는 방법에 대 한 자세한 내용은 [팀에서 모임 예약](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)을 참조 하십시오.
+Microsoft Teams에서 모임을 만들고 예약하는 데 대한 자세한 내용은 Teams에서 모임 예약을 [참조하세요.](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)
 
-모임에 대 한 제한 및 사양에 대 한 자세한 내용은 [Microsoft 팀에 대 한 제한 및 사양을](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)참조 하십시오.
+모임의 제한 및 사양에 대한 자세한 내용은 Microsoft Teams의 제한 및 사양을 [참조하세요.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)
 
-특히 위임 일정 문제에 대 한 팀 및 Exchange 상호 작용 문제 해결에 대 한 자세한 내용은 [Microsoft 팀 및 Exchange 서버 상호 작용 문제 해결](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)을 참조 하세요.
+Teams 및 Exchange 상호 작용을 해결하는 데 도움이 되는 경우, 특히 위임된 스위치 문제의 경우 Microsoft Teams 문제 해결 및 상호 [작용 Exchange Server 참조합니다.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

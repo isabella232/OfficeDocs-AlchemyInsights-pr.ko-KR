@@ -2,7 +2,7 @@
 title: 조건부 액세스 정책
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 25dc98397920e4fbf28895f5961f154381e11c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af95627d07d41add54f03c9254562b9be4e05d9b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812265"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817286"
 ---
 # <a name="conditional-access-policies"></a>조건부 액세스 정책
 
@@ -33,6 +33,6 @@ ms.locfileid: "47812265"
 
 2. [Azure Active Directory 속성](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties)으로 이동합니다.
 
-3. 페이지 맨 아래에서 **보안 기본값 관리**를 클릭합니다.
+3. 페이지 맨 아래에서 **보안 기본값 관리** 를 클릭합니다.
 
-4. 보안 기본값을 사용하도록 설정하려면 **예**를 클릭하고, 사용하지 않도록 설정하려면 **아니요**를 클릭합니다.
+4. 보안 기본값을 사용하도록 설정하려면 **예** 를 클릭하고, 사용하지 않도록 설정하려면 **아니요** 를 클릭합니다.

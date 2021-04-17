@@ -1,8 +1,8 @@
 ---
-title: 'Defender 클라이언트 변조 방지 '
+title: 'Defender 클라이언트 변조 보호 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4873b026839b7cde8221bf8389cd33023056e605
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680510"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815585"
 ---
-# <a name="defender-tamper-protection"></a>Defender 변조 방지 
+# <a name="defender-tamper-protection"></a>Defender 변조 보호 
 
-무단 보호를 통해 악성 앱은 다음과 같은 작업을 수행할 수 없습니다.
+변조 방지를 사용하여 악성 앱은 다음 작업을 수행할 수 없습니다.
 
-- 바이러스 및 위협 방지 사용 안 함
-- 실시간 보호 사용 안 함
-- 동작 모니터링 해제
-- 바이러스 검사 기능 해제 (예: IOfficeAntivirus (IOAV))
-- 클라우드 배달 보호 사용 안 함
+- 바이러스 및 위협 방지를 사용 안 하게
+- 실시간 보호를하지 않습니다.
+- 동작 모니터링 끄기
+- 바이러스 백신 비활성화(예: IOfficeAntivirus(IOAV))
+- 클라우드 제공 보호를 사용 안 하게
 - 보안 인텔리전스 업데이트 제거
 
-자세한 내용은 [변조 방지를 사용한 보안 설정 보호](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)를 참조 하세요.
+자세한 내용은 [Tamper Protection으로 보안 설정 보호를 참조하세요.](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)

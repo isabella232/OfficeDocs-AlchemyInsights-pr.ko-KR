@@ -2,7 +2,7 @@
 title: 매핑된 네트워크 드라이브 구성 및 문제 해결
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300002"
 - "3180"
-ms.openlocfilehash: 48fc45ea6a307e6eb6468b04b0b19889c4aaa01c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a47ee5cc3f8599c850e59e46c0f636715f1d12bc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812193"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817178"
 ---
 # <a name="configure-and-troubleshoot-mapped-network-drives"></a>매핑된 네트워크 드라이브 구성 및 문제 해결
 

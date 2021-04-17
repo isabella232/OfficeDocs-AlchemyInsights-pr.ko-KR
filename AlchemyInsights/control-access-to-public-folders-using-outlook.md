@@ -2,7 +2,7 @@
 title: Outlook을 사용하여 공용 폴더에 대한 액세스 제어하기
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 4ef62fe8c9cc438c48ed8897a8b3385b15669cdc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f528044ca7f6f2ee2812f9f831093c44eca26fe1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680488"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816746"
 ---
 # <a name="control-access-to-public-folders-using-outlook"></a>Outlook을 사용하여 공용 폴더에 대한 액세스 제어하기
 

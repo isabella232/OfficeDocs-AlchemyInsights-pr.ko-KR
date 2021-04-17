@@ -2,7 +2,7 @@
 title: 사용자 삭제
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: b14c1f32ccfb5eda2345b302edeef1ff817cfe42
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b1de72c37e53ed91000b2c7fc95fc27c5b9a8942
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679888"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815441"
 ---
 # <a name="deleting-users"></a>사용자 삭제
 
-사용자 액세스를 즉시 차단 하 고 정보를 유지 해야 하는 경우에 [는 Microsoft 365 데이터에 대 한 이전 직원의 액세스 차단](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data)를 참조 하세요.
+사용자 액세스를 즉시 차단하고 해당 정보를 유지해야 하는 경우 Microsoft 365 데이터에 대한 이전 직원의 액세스 [차단을 참조하세요.](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data)
   
-사용자를 삭제 하 고 해당 데이터에 상관 하지 않으려면 [조직에서 사용자 삭제](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user)를 참조 하세요. 이렇게 하면 라이선스를 즉시 사용할 수 있습니다.
+사용자를 삭제하려는 경우 해당 데이터와 관련이 없는 경우 조직에서 사용자 [삭제를 참조하시기 바랍니다.](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) 그러면 라이선스가 즉시 비어 있습니다.
   
