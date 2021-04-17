@@ -2,7 +2,7 @@
 title: DNS 레코드를 업데이트하여 현재 호스팅 공급자에 웹 사이트 유지
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,16 +14,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 1d8654bc2dfb9063d0203992d624285eb646027d
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 89bce2aa5931c0c20706efabd42d2351be43938b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815791"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827530"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>DNS 레코드를 업데이트하여 현재 호스팅 공급자에 웹 사이트 유지
 
-1. Microsoft 365 관리 센터에서 **설치**  >  [도메인](https://admin.microsoft.com/Adminportal#/Domains) 페이지로 이동 하 여 도메인 목록에서 웹 사이트에 사용 중인 도메인을 선택 합니다.
+1. Microsoft 365 관리 센터에서 설치 도메인 페이지로 이동한 다음 도메인 목록에서 웹 사이트에 사용중인 도메인을  >  [](https://admin.microsoft.com/Adminportal#/Domains) 선택합니다.
 
 2. **+ 새 사용자 지정 레코드** 를 선택하고 다음을 입력합니다.
 
@@ -47,4 +47,4 @@ ms.locfileid: "47815791"
 
   - **대상 주소** 에 웹 사이트의 FQDN(정규화된 도메인 이름)을 contoso.com과 같이 입력합니다.
 
-2. **저장**을 선택합니다.
+2. **저장** 을 선택합니다.

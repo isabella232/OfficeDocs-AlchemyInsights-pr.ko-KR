@@ -2,7 +2,7 @@
 title: SMTP 인증 문제 해결
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 3eaab2c601f78e20f2ee67bc21a9598cb45a24f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737995"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826421"
 ---
 # <a name="solving-smtp-authentication-issues"></a>SMTP 인증 문제 해결
 

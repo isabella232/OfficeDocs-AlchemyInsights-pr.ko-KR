@@ -2,7 +2,7 @@
 title: Dynamics 365 지원 요청 제출
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "274"
 - "6200001"
-ms.openlocfilehash: 453745d04adfafbf8a60e71f6600475726b6cef1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5a1eae36e1eb55b3460a311e5f4f38c5783fe60
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670442"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828014"
 ---
 # <a name="submit-dynamics-365-support-requests"></a>Dynamics 365 지원 요청 제출
 

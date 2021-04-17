@@ -2,7 +2,7 @@
 title: 오디오 회의 옵션
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002334"
 - "4542"
-ms.openlocfilehash: ceac25d7014ea536a0d35d26ddc75ea1b14b8205
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 07ff250174872b373017a3d829bdb275fb09bbea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707672"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827006"
 ---
 # <a name="options-for-audio-conferencing"></a>오디오 회의 옵션
 

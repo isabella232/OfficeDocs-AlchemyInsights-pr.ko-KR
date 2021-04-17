@@ -1,8 +1,8 @@
 ---
-title: 서비스 중단으로 인 한 신용 요청
+title: 서비스 정전으로 인한 신용 요청
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 504df2dd1c09ed2b42d936e974f5993e459a23c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d71712aa863dda10896407acc5a8c5f8c3760ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726853"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826457"
 ---
-# <a name="credit-request-due-to-a-service-outage"></a>서비스 중단으로 인 한 신용 요청
+# <a name="credit-request-due-to-a-service-outage"></a>서비스 정전으로 인한 신용 요청
 
-서비스 중단으로 인해 신용 요청에 대해 적용할 서비스 요청을 엽니다.
+서비스 정전으로 인한 신용 요청을 신청하기 위해 서비스 요청을 열기 바랍니다.
 
-Microsoft 365 관리 센터의 [서비스 상태 페이지](https://docs.microsoft.com/office365/enterprise/view-service-health) 에 있는 인시던트 ID가 있는지 확인 하세요.
+문제 ID가 Microsoft 365 [](https://docs.microsoft.com/office365/enterprise/view-service-health) 관리 센터의 서비스 상태 페이지에 있는지 확인하십시오.
 
-요청이 처리 됨에 따라 중단이 미치는 영향을 확인 하기 위해 유효성 검사를 진행 하는 것이 좋습니다.
+요청이 처리될 때 유효성 검사를 통해 정전이 미치는 영향을 확인하게 됩니다.

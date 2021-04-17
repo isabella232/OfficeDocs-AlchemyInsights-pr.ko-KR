@@ -1,8 +1,8 @@
 ---
-title: 카메라 분리 및 다시 연결
+title: 카메라 언플러 및 다시 연결
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 8cd57e5df85717cb7814f7652f3a8cecaed2e031
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 9c733c69b1430c9a5439caf99cf8f6fddff60ef5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334268"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827726"
 ---
-# <a name="unplug-and-reconnect-camera"></a>카메라 분리 및 다시 연결
+# <a name="unplug-and-reconnect-camera"></a>카메라 언플러 및 다시 연결
 
-죄송 합니다. 카메라가 외부 카메라 이면 장치를 분리 한 후 다시 연결 하는 것이 도움이 될 수 있습니다.
+죄송합니다. 카메라가 외부 카메라인 경우 디바이스의 언플러깅을 언플러하고 다시 연결하면 도움이 될 수 있습니다.
 
-기본 제공 카메라 인 경우 컴퓨터를 다시 시작 하는 것이 도움이 될 수 있습니다.
+기본 제공 카메라인 경우 컴퓨터를 다시 시작하는 것이 도움이 될 수 있습니다.

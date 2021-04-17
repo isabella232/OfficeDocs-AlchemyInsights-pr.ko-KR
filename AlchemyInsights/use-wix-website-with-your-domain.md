@@ -2,7 +2,7 @@
 title: Office 365에서 구입했거나 관리되는 도메인으로 Wix 웹 사이트 사용
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: b45923ef112917fb95263dc2690672847129b05f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef2e7278b1a70aedca1b2ad9c13c249bf8b09c00
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795061"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825953"
 ---
 # <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>Office 365에서 구입했거나 관리되는 도메인으로 Wix 웹 사이트 사용
 

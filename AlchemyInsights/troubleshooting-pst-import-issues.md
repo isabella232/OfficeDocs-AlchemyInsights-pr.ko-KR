@@ -2,7 +2,7 @@
 title: PST 가져오기 문제 해결
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 5fdb713f321e5c9f67a6078739c31a90571b913d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 07609b39149c003b029f3ea5669f4044af43c25d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757746"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826169"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>PST 가져오기 문제 해결
 

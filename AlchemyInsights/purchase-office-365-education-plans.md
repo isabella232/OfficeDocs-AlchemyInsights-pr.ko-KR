@@ -2,7 +2,7 @@
 title: 교육용 Microsoft 365 - 승인됨
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 422823c3cf26570facecd408af3a9b43f578e029
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: e0efffdf37118aec0abeaf47107d3cf120082cc9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708788"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826817"
 ---
 # <a name="microsoft-365-for-education---approved"></a>교육용 Microsoft 365 - 승인됨
 

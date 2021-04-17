@@ -2,7 +2,7 @@
 title: 'Planner: 알림이 작동하는 방식'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3809"
 - "9001716"
-ms.openlocfilehash: 6349d0a04934495b1f6992af68231a5a0402e014
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b549fe9e625752718aa9cce0f5a730cd60039a24
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701865"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826853"
 ---
 # <a name="planner-how-notifications-work"></a>Planner: 알림이 작동하는 방식
 

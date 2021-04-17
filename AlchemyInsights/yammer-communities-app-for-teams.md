@@ -2,7 +2,7 @@
 title: Microsoft Teams용 Yammer 커뮤니티 앱
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "5134"
 - "9002653"
 - "5129"
-ms.openlocfilehash: 89d71126b5663ea11f7ca9166b2e72e854953dcf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94c2b184d433c918bc1cf04e0547734e65fb3568
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664392"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825845"
 ---
 # <a name="yammer-communities-app-for-microsoft-teams"></a>Microsoft Teams용 Yammer 커뮤니티 앱
 
@@ -29,7 +29,7 @@ Microsoft Teams에서 작업하는 동안 팀들과 전체 조직 간에 관계�
 
 **Yammer 커뮤니티 앱으로의 직접 링크**
 
-- Teams 내에서 사용자와 [https://aka.ms/YammerInTeams](https://aka.ms/YammerInTeams)를 공유하여 Yammer 커뮤니티 앱에 직접 연결하고 **추가**할 수 있습니다.
+- Teams 내에서 사용자와 [https://aka.ms/YammerInTeams](https://aka.ms/YammerInTeams)를 공유하여 Yammer 커뮤니티 앱에 직접 연결하고 **추가** 할 수 있습니다.
 
 **회사 전체에 배포**
 

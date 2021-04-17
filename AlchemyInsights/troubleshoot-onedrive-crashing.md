@@ -2,7 +2,7 @@
 title: OneDrive 충돌 문제 해결
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003084"
 - "5885"
-ms.openlocfilehash: 1155d370911b28bbb1ba83a15eace66d1daea28f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4bf45e7780dcbabb95b3eecfb2df55beffde11d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665004"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826205"
 ---
 # <a name="troubleshoot-onedrive-crashes"></a>OneDrive 충돌 문제 해결
 

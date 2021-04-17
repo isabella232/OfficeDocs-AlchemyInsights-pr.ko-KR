@@ -2,7 +2,7 @@
 title: 공유 정책 및 조직 관계에 PowerShell 사용
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: cd1d34e4dae474e61c799ca9234b2f18c718f27b
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9c52b876160f9577e6cefe7644c29d6fdf3b23fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709472"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826061"
 ---
 # <a name="use-powershell-for-sharing-policies-and-organization-relationships"></a>공유 정책 및 조직 관계에 PowerShell 사용
 

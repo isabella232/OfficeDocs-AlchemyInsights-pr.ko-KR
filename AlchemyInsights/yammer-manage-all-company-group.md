@@ -2,7 +2,7 @@
 title: Yammer 그룹 관리
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 158ebc4992d3dbea1c337ebf3a4768aaee8e0e2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505434"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825809"
 ---
 # <a name="all-company-group"></a>모든 회사 그룹
 

@@ -2,7 +2,7 @@
 title: Teams 클라이언트의 작동이 중지되나요?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 39310233eae83ceb18c6ff82451ae747f3c50048
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691113"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826277"
 ---
 # <a name="teams-client-crashing"></a>Teams 클라이언트의 작동이 중지되나요?
 

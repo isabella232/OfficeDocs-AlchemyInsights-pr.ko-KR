@@ -1,8 +1,8 @@
 ---
-title: 데스크톱 분석 계정을 닫는 방법
+title: Desktop Analytics 계정을 닫는 방법
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: 00a15b83c1bdb4b480b3e25d297b4e7afe58905b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a7550e651db1ea0b4e4a7c4f6fc43964b8d9bb09
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725629"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827078"
 ---
-# <a name="working-with-desktop-analytics"></a>데스크톱 분석 작업
+# <a name="working-with-desktop-analytics"></a>Desktop Analytics 작업
 
-데스크톱 분석에 대해 묻는 것 같습니다. 질문을 다시 한 번 때 보다 정확한 답을 얻을 수 있습니다.
+Desktop Analytics에 대해 질문하는 것 같습니다. 질문을 다시 고치면 더 정확한 답변을 하여 도움을 줄 수 있습니다.
 
-- [데스크톱 분석 이란?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
-- [데스크톱 분석을 설정 하는 방법](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Desktop Analytics란?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Desktop Analytics를 설정하는 방법](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
 - [질문과 대답](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [데스크톱 분석 문제 해결](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [Desktop Analytics 문제 해결](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

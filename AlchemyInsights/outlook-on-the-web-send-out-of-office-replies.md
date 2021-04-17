@@ -2,7 +2,7 @@
 title: '웹에서 Outlook: 부재 중 회신 보내기'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: f9a33534000b6ceec2bd71e933b36c2af48816c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2aa47f7da34c1039925d12a51b4f906d6333abaa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702189"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826934"
 ---
 # <a name="outlook-on-the-web-send-out-of-office-replies"></a>웹에서 Outlook: 부재 중 회신 보내기
 
@@ -25,11 +25,11 @@ ms.locfileid: "47702189"
 
 1. [웹용 Outlook에 로그인합니다](https://support.office.com/article/how-to-sign-in-to-outlook-on-the-web-763fab4d-0138-4814-b450-37fc286bcb79).
 
-2. 페이지 상단에서 **설정> 모든 Outlook 설정보기> 메일> 자동 회신**을 클릭하세요.
+2. 페이지 상단에서 **설정> 모든 Outlook 설정보기> 메일> 자동 회신** 을 클릭하세요.
 
 3. **자동 회신 켜기** 토글을 선택합니다.
 
-4. **다음 기간 동안만 회신 보내기** 확인란을 선택하고 시작 시간과 종료 시간을 입력합니다. 기간을 설정하지 않으면 토글에서 **자동 회신**을 클릭하여 자동 회신을 끌 때까지 자동 회신이 켜진 상태로 유지됩니다.
+4. **다음 기간 동안만 회신 보내기** 확인란을 선택하고 시작 시간과 종료 시간을 입력합니다. 기간을 설정하지 않으면 토글에서 **자동 회신** 을 클릭하여 자동 회신을 끌 때까지 자동 회신이 켜진 상태로 유지됩니다.
 
 5. 다음 중 관심 있는 옵션 중 하나의 확인란을 선택합니다.
     - **이 기간에 내 일정 차단**
@@ -40,6 +40,6 @@ ms.locfileid: "47702189"
 
 7. 조직 외부의 보낸 사람이 자동 회신을 받게 하려면 **조직 외부에 회신 보내기** 확인란을 선택합니다.
 
-8. 완료되면 창 위쪽에 있는 **저장**을 클릭합니다.
+8. 완료되면 창 위쪽에 있는 **저장** 을 클릭합니다.
 
-자동 회신 기간을 설정하지 않은 경우(4단계) 수동으로 자동 회신을 꺼야 합니다. 자동 회신을 해제하려면 웹용 Outlook에 로그인하고 **설정 > 전체 설정 보기 > 자동 회신**을 클릭한 다음 **자동 회신 설정** 토글을 클릭합니다.
+자동 회신 기간을 설정하지 않은 경우(4단계) 수동으로 자동 회신을 꺼야 합니다. 자동 회신을 해제하려면 웹용 Outlook에 로그인하고 **설정 > 전체 설정 보기 > 자동 회신** 을 클릭한 다음 **자동 회신 설정** 토글을 클릭합니다.

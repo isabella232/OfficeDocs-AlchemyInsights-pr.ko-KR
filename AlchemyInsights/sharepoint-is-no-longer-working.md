@@ -2,7 +2,7 @@
 title: SharePoint가 더 이상 작동하지 않음
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003047"
 - "5801"
-ms.openlocfilehash: 1880ef923a1e0f2b2c8ce8eb539cba485f8601da
-ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
+ms.openlocfilehash: 42e8cab99f21b55ce463ac431df1e17b22f9460c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49002707"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826637"
 ---
 # <a name="sharepoint-is-no-longer-working"></a>SharePoint가 더 이상 작동하지 않음
 
