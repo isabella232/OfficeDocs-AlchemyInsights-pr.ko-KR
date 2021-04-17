@@ -1,8 +1,8 @@
 ---
-title: 평면도
+title: Floor Plans
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003034"
 - "5789"
-ms.openlocfilehash: 33711a2f0e7b8d5e26fe8ac5f9d7c5f704f76faf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 265db958b856bf06ac9344662070370e2be0a92c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724729"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836393"
 ---
-# <a name="floor-plans"></a>평면도
+# <a name="floor-plans"></a>Floor Plans
 
-**Microsoft 검색** 평면도에 대 한 자세한 내용은 다음 지원 문서를 검토 하십시오.
-- [Microsoft 검색 평면도에 대 한 모범 사례](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
-- [평면도 관리](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
-- **Visio**에서 평면도를 만드는 방법에 대 한 자세한 내용은 [평면도 만들기](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791) 을 검토 하십시오.
+Microsoft Search floor **계획에 대한**  자세한 내용은 다음 지원 문서를 검토하세요.
+- [Microsoft Search 바닥 계획에 대한 모범 사례](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
+- [계획 관리](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
+- **Visio에서** 바닥 계획을 만드는 방법에 대한 자세한 내용은 바닥 계획 [만들기를 참조하세요.](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)

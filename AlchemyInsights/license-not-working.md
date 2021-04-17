@@ -2,7 +2,7 @@
 title: 라이선스가 작동하지 않음
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "4764"
-ms.openlocfilehash: 78a42b389b9f1d417db6a6602f3a3c1072f9c1f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e915860046dd66c7d7642c0b031717c2113681f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676240"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836501"
 ---
 # <a name="license-not-working"></a>라이선스가 작동하지 않음
 

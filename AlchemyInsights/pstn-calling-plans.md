@@ -2,7 +2,7 @@
 title: PSTN 통화 요금제
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: 5371f41f5becd50eb19bd3359e82e171cdf7f80d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692472"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835925"
 ---
 # <a name="pstn-calling-plans"></a>PSTN 통화 요금제
 

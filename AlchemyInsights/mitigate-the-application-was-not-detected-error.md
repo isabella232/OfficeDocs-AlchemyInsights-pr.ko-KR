@@ -2,7 +2,7 @@
 title: 응용 프로그램이 검색되지 않음 오류 완화
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000171"
 - "1712"
-ms.openlocfilehash: 498c2ec78bc9f4a7bc7d77d12b488be2cf0bf79a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e0599f9bdf2c7d16d009627f44b3691c2c250b7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666984"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836357"
 ---
 # <a name="mitigate-the-application-was-not-detected-error"></a>"응용 프로그램이 검색되지 않았습니다" 오류 완화
 
@@ -30,7 +30,7 @@ Intune에서 보고되는 "설치가 완료된 후 응용 프로그램이 검색
 
 이 문제를 완화하려면 먼저 영향을 받는 장치에 대한 검토를 수행하여 오류가 발생하는 시나리오를 확인합니다.
 
-- 앱이 Intune 외부에서 업데이트된 경우 응용 프로그램 버전을 무시하도록 앱 배포를 설정할 수 있습니다. 설정하려면 **앱 구성 > 앱 정보**에서 **앱 버전 무시**를 **예**로 설정합니다.
+- 앱이 Intune 외부에서 업데이트된 경우 응용 프로그램 버전을 무시하도록 앱 배포를 설정할 수 있습니다. 설정하려면 **앱 구성 > 앱 정보** 에서 **앱 버전 무시** 를 **예** 로 설정합니다.
 - 클라이언트를 대상으로 하는 경우 응용 프로그램을 "필수"로 배포하고 최신 버전을 배포하는 것이 적적할 수 있습니다.
 - 또는 iOS 플랫폼에서 새 응용 프로그램 버전이 사용할 수 있게 되는 대로 자동으로 업데이트하도록 구성할 수 있는 Apple Volume Purchase 프로그램에 연결된 **자동 업데이트** 기능을 사용할 수 있습니다.
 
