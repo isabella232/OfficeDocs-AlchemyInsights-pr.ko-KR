@@ -2,7 +2,7 @@
 title: 단어 또는 구 바꾸기
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001453"
 - "3465"
-ms.openlocfilehash: 47a631bd045d3a3ae889d00d8e4ac615948a0d0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e278b15f552639332e576389ce10dbb0dc2d34fa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692697"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835745"
 ---
 # <a name="replace-a-word-or-phrase"></a>단어 또는 구 바꾸기
 
-Word 문서에서 단어 또는 구의 여러 인스턴스를 바꾸려면 다음을 실행 합니다.
+Word 문서에서 단어나 구의 여러 인스턴스를 바꾸기 위해
 
-1. **홈**  >  **교체**로 이동 하거나 Ctrl + H를 누릅니다.
-2. **찾을 내용** 상자에 바꿀 단어 또는 구를 입력 합니다. 
-3. **바꿀** 내용 상자에 새 텍스트를 입력 합니다.
-3. 단어 또는 구의 모든 항목을 변경 하려면 **모두 바꾸기를** 선택 하 고, 업데이트할 항목을 찾을 때까지 **다음 찾기를** 선택한 다음 **바꾸기를**선택 합니다.
+1. 홈   >  **바꾸기 로 이동하거나** Ctrl+H를 누르고 있습니다.
+2. 찾을 **단어 찾기 상자에** 바꿀 단어나 구를 입력합니다. 
+3. 바꾸기 **상자에** 새 텍스트를 입력합니다.
+3. 모두 **바꾸기** 를 선택하여 단어나 구를  모두 변경하거나, 업데이트할 단어를 찾을 때까지 다음 찾기를 선택한 다음 바꾸기 를 **선택합니다.**

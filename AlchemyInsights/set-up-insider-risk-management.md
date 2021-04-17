@@ -2,7 +2,7 @@
 title: 내부자 위험 관리 설정
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 90655fea0b8a7debabdd986bf0f89244d509e8d9
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 8ae85afe240c7dd7af91b41c497fffe118dd615a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49951831"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835601"
 ---
 # <a name="set-up-insider-risk-management"></a>내부자 위험 관리 설정
 

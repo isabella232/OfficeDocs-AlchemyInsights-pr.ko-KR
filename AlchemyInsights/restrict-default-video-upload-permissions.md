@@ -2,7 +2,7 @@
 title: 기본 비디오 업로드 권한 제한
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002650"
 - "5101"
-ms.openlocfilehash: 5059f9ed565df5c97157371fe17e9bde7a384d1b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6622deada7e652bdad86cd95f1564f22634e7b8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692013"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835673"
 ---
 # <a name="restrict-default-video-upload-permissions"></a>기본 비디오 업로드 권한 제한
 
-사용자가 그룹 또는 그룹 채널 컨텍스트 외부의 Stream portal을 통해 Microsoft Stream에 비디오를 업로드 하는 경우에는 "회사의 모든 사용자에 게이 비디오를 볼 수 있도록 허용" 확인란이 기본적으로 선택 되어 있습니다. 이렇게 하면 회사의 모든 사용자가 비디오를 볼 수 있습니다.
+사용자가 그룹 또는 그룹 채널의 컨텍스트 외부에서 Stream 포털을 통해 비디오를 Microsoft Stream에 업로드하면 기본적으로 "회사의 모든 사용자가 이 비디오를 볼 수 있도록 허용" 확인란이 선택됩니다. 이렇게 하면 회사의 모든 사람이 비디오를 볼 수 있습니다.
 
 - [기본 비디오 업로드 권한 설정](https://docs.microsoft.com/stream/default-video-permissions)
