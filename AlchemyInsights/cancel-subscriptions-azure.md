@@ -3,7 +3,7 @@ title: Azure에서 구독 취소
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 83fab49ccafd23352fe28569289a709a198fd402
+ms.sourcegitcommit: 80a36e6447953b3f65e45c05607dbfc585fbf8b0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819590"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51936160"
 ---
 # <a name="cancel-subscription"></a>구독 취소
 
-구독에 대해 계정 관리자 혹은 소유자 권한만 더 이상 구독이 필요하지 않은 경우 Azure 포털에서 Azure 구독을 취소할 수 있습니다. 아래 단계를 수행합니다.
+Azure 구독이 더 이상 필요하지 경우 Azure Portal에서 취소할 수 있습니다. Azure 구독은 계정 관리자 또는 구독에 대한 소유자 권한이 있는 사용자만 취소할 수 있습니다.
 
 1. [Azure 포털의 구독 페이지](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)에서 구독을 선택합니다.
 2. 취소하려는 구독을 선택합니다.
