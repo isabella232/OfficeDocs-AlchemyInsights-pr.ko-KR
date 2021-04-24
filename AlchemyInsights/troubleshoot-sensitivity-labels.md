@@ -1,6 +1,6 @@
 ---
 title: 민감도 레이블이 나타나지 않는 문제 해결
-ms.author: pebuam
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/21/2021
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11017"
 - "9000181"
-ms.openlocfilehash: 5becf88bb70e24c830dd959329920e2f8ca41de9
-ms.sourcegitcommit: 69206a3d292d681c81f0ac74b1fcec3ae50912de
+ms.openlocfilehash: ae6829dbb16d5f76795325da939bf1591734c398
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51937841"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952176"
 ---
 # <a name="troubleshoot-sensitivity-labels-not-appearing"></a>민감도 레이블이 나타나지 않는 문제 해결
 
