@@ -1,6 +1,6 @@
 ---
 title: 민담도 레이블을 게시하는 방법
-ms.author: pebuam
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/21/2021
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: c466cf3477a4276272fd12c4270fdc75b532ae06
-ms.sourcegitcommit: 69206a3d292d681c81f0ac74b1fcec3ae50912de
+ms.openlocfilehash: 2f09de066bf234bcc92935f662f2d3b1077d0217
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51937846"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233792"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>민담도 레이블을 게시하는 방법
 

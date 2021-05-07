@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10935"
 - "9001435"
-ms.openlocfilehash: 4fc592ed3bf9da97ae22c19054d424015c1c0b09
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6799b2112458a7ab3715c9b63e03c2c7ca3fe6be
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51805346"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233510"
 ---
 # <a name="401-unauthorized-error-in-sharepoint"></a>SharePoint에서 401 권한 없음 오류
 
@@ -27,3 +27,5 @@ SharePoint에서 "(401) 권한 없음"이라는 오류가 표시될 경우, 이 
 [Office 365 및 Office 365 GCC에서 TLS 1.2 준비](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
 
 [클라이언트에 TLS 1.2가 지원되지 않는 경우 인증 오류 발생](https://review.docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support)
+
+사용자가 Windows 7을 사용하는 경우 [Windows 7에서 TLS Cipher Suites](https://docs.microsoft.com/windows/win32/secauthn/tls-cipher-suites-in-windows-7)를 확인해야합니다.

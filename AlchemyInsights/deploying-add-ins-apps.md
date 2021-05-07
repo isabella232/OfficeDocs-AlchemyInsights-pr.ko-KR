@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52107531"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233540"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>사용자용 추가 기능 Microsoft 365 앱
 
 중앙 집중식 배포는 조직 내의 사용자 및 그룹에 Office 추가 기능을 배포하는 데 권장되는 방법입니다. 추가 기능을 배포하기 위해 다음 단계를 따르세요.
 
-**참고:** 개별 사용자로 사용할 추가 기능을 Office 프로그램 에서 추가 기능 [보기, 관리 및 설치를 Office 참조합니다.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) 또한 스토어 추가 기능의 개별 Office 사용하도록 설정되어 있는지 확인합니다. 
+**참고:** 개별 사용자로 사용할 추가 기능을 Office 프로그램 에서 추가 기능 [보기, 관리 및 설치를 Office 참조합니다.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) 또한 스토어 추가 기능의 개별 Office 사용하도록 설정되어 있는지 확인합니다. 자세한 내용은 모든 클라이언트에서 Office Store를 해제하여 추가 기능 다운로드 [방지(Outlook)를 참조합니다.](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)
 
 1. 환경이 중앙 집중식 배포를 사용하여 추가 기능을 배포하기 위한 요구 사항을 충족하는지 확인합니다. 자세한 내용은 Requirements을 [참조하세요.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements)
 2. 통합 **설정** 추가 기능을 배포하려면 Microsoft 365 관리 센터에서 앱  >    >   다운로드로 이동하세요. 

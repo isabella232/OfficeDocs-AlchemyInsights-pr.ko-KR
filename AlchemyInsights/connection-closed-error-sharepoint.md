@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10802"
 - "9006390"
-ms.openlocfilehash: 762b000fd9c63e0913a88402150055e8ee7c56de
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: b64215b5b83ef1092eb58791e6dbb015b72d422d
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505876"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233432"
 ---
 # <a name="the-underlying-connection-was-closed-error-in-sharepoint"></a>SharePoint의 "기본 연결이 닫혀 있습니다" 오류
 
@@ -27,3 +27,5 @@ SharePoint에서 "기존 연결이 닫혔습니다"라는 오류가 표시될 �
 - [Office 365 및 Office 365 GCC에서 TLS 1.2 준비](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365?view=o365-worldwide)
 
 - [클라이언트에 TLS 1.2가 지원되지 않는 경우 인증 오류 발생](https://review.docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support)
+
+사용자가 Windows 7을 사용하는 경우 [Windows 7에서 TLS Cipher Suites](https://docs.microsoft.com/windows/win32/secauthn/tls-cipher-suites-in-windows-7)를 확인해야합니다.

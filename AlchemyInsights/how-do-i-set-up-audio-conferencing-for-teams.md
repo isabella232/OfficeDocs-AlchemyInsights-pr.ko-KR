@@ -13,12 +13,12 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0c9e7a5bed309e473cc626f2572f902f1a581234
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811066"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261766"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – 오디오 회의
 
@@ -40,4 +40,4 @@ ms.locfileid: "51811066"
 
 7. 해당 사용자를 선택하고 사용자에게 **기본 유료 전화 번호** 가 있는지 확인합니다.
 
-**Microsoft 오디오 회의** 를 위한 라이선스 구매에 대한 도움이 필요한 경우 [Microsoft 청구 지원](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)에 문의하세요.
+**Microsoft 오디오 회의** 를 위한 라이선스 구매에 대한 도움이 필요한 경우 [Microsoft 청구 지원](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)에 문의하세요.

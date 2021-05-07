@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 0bc705cd595268b14a169d002859706cae404ebb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a5cb61f750b0233a8b73a36aa35f26d4b3640e1d
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821300"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261756"
 ---
 # <a name="apply-for-tax-exempt-status"></a>면세 자격 신청
 
-다음 문서를 준비하세요. 면세 자격을 가지려면 [서비스 요청을 시작](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)해야 합니다.
+다음 문서를 준비하세요. 면세 자격을 가지려면 [서비스 요청을 시작](/microsoft-365/admin/contact-support-for-business-products)해야 합니다.
 
 - **미국** - **판매세 면제 인증서** 를 준비하세요.
 
