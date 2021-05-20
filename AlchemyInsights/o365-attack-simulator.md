@@ -1,5 +1,5 @@
 ---
-title: 2681 Microsoft 365의 공격 시뮬레이터
+title: 2681 공격 시뮬레이터의 Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,31 +12,31 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: e7d71fdb77b4a047c1998e9aba75cdd469a936a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801557"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545732"
 ---
-# <a name="attack-simulator-in-microsoft-365"></a>Microsoft 365의 공격 시뮬레이터
+# <a name="attack-simulator-in-microsoft-365"></a>공격 시뮬레이터를 Microsoft 365
 
-- 공격 시뮬레이터가 누락 되었습니까? Attack 시뮬레이터 **에는 Microsoft Defender For Office 365 계획 2 (ATP 계획 2)** 또는 **Office 365 Enterprise E5** 가 필요 합니다. Attack 시뮬레이터는 Microsoft Defender for Office 365 계획 1 (ATP 계획 1), Office 365 Enterprise E3 또는 기타 Microsoft 365 앱 구독에 포함 되어 **있지** 않습니다.
+- 공격 시뮬레이터가 누락된 경우 공격 시뮬레이터를 사용하려면 **Microsoft Defender for Office 365** 요금제 2 또는 Office 365 Enterprise **필요합니다.** 공격 **시뮬레이터는** Microsoft Defender for Office 365 플랜 1, E3 Office 365 Enterprise 또는 모든 비즈니스용 Microsoft 365 앱 포함되어 있지 않습니다.
 
-- 시뮬레이트된 공격을 시작 하는 데 사용 하는 계정에는 전역 관리자 또는 보안 관리자 권한 및 MFA (multi-factor authentication)가 필요 합니다. 공격 시뮬레이터 요구 사항에 대 한 자세한 내용은 [이 항목](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)을 참조 하십시오.
+- 시뮬레이트된 공격을 시작하려면 전역 관리자 또는 보안 관리자 권한 및 MFA(다단계 인증)가 필요합니다. 공격 시뮬레이터 요구 사항에 대한 자세한 내용은 이 [항목을 참조하세요.](/microsoft-365/security/office-365-security/attack-simulator)
 
-- **무작위 암호** 공격 시뮬레이션에 대해 알아야 할 중요 한 사항은 다음과 같습니다.
+- Brute Force **Password** 공격 시뮬레이션에 대해 알아야 할 중요한 사항:
 
-  - 대상 계정에 MFA를 사용 하 고 암호가 올바르게 추측 되 면 해당 계정에 손상 된 것으로 표시 되지 않습니다 (두 번째 인증 요인은 불완전 함).
+  - 대상 계정이 MFA를 사용하도록 설정한 경우 암호를 올바르게 추측한 경우 계정이 손상된 것으로 표시되지 않습니다(두 번째 인증 요소가 불완전합니다).
 
-  - 암호 파일의 크기는 10mb를 넘을 수 없습니다. 한 줄에 하나씩 암호를 사용 하 고 목록의 마지막 암호 다음에 빈 줄 (캐리지 리턴)을 포함 합니다.
+  - 암호 파일은 10MB보다 클 수 없습니다. 한 줄에 하나의 암호를 사용하며 목록의 마지막 암호 다음에 빈 줄(캐리지 리턴)을 포함합니다.
 
-- **스피어 피싱** 연결 시뮬레이션에 대해 알아야 할 중요 한 사항은 다음과 같습니다.
+- 스피어 피싱 연결 시뮬레이션에 대해 알아야 할 **중요한** 사항:
 
-  - 기본적으로 **피싱 로그인 서버 URL** 에는 사용자 지정 값을 제공할 수 없습니다.
+  - 기본적으로 피싱 로그인 서버 URL에 대한 사용자 지정 값을 제공할 **수 없습니다.**
 
-  - 받는 사람이 [보고서 메시지 추가 기능을 사용](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) 하 여 피싱로 메시지를 보고 하는 경우 시뮬레이트된 공격 이므로 메시지에 대 한 알림을 받지 못할 수 있습니다.
+  - 받는 사람이 보고서 [](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) 메시지 추가 기능을 사용하여 메시지를 피싱으로 보고하는 경우 시뮬레이트된 공격이기 때문에 메시지에 대한 경고가 수신되지 않을 수 있습니다.
 
-- 보고서: 시뮬레이트된 공격이 완료 되 면 **공격 세부 정보** 를 클릭 하 여 보고서를 볼 수 있습니다.
+- 보고서: 시뮬레이션된 공격이 완료되면 공격 **세부 정보를** 클릭하여 보고서를 볼 수 있습니다.
 
-- 자세한 지침 및 Attack 시뮬레이터의 새로운 기능은 [Microsoft 365의 Attack 시뮬레이터](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)를 참조 하세요.
+- 공격 시뮬레이터의 자세한 지침과 새로운 기능은 에서 [공격 시뮬레이터를 Microsoft 365.](/microsoft-365/security/office-365-security/attack-simulator)

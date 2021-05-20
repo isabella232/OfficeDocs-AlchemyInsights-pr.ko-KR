@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 73edb04a186f81e1745ac1758f0d89f9d23af1e0
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 4ab3fb7929fe9c00c2e07985e95b9cc821579576
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489175"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545454"
 ---
 # <a name="unable-to-access-my-account"></a>내 계정에 액세스할 수 없음
 
@@ -26,8 +26,8 @@ ms.locfileid: "48489175"
 **구독 다시 활성화**
 
 1. 관리 센터에서 **청구** > [제품](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하세요.
-2. **제품** 탭에서 다시 활성화하려는 구독을 찾으세요. **추가 작업**(점 3개)을 선택한 다음 **이 구독 다시 활성화**를 선택합니다.
-3. **이 구독 다시 활성화** 창의 드롭다운 목록에서 결제 방법을 선택하거나 **결제 방법 추가**를 선택합니다.
-4. **저장**을 선택합니다.
+2. **제품** 탭에서 다시 활성화하려는 구독을 찾고 세 개의 점(추가 작업)을 선택한 다음 **구독 다시 활성화** 를 선택합니다.
+3. **이 구독 다시 활성화** 창의 드롭다운 목록에서 결제 방법을 선택하거나 **결제 방법 추가** 를 선택합니다.
+4. **저장** 을 선택합니다.
 
-자세한 내용은 [구독 다시 활성화](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)를 참조하세요.
+자세한 내용은 [구독 다시 활성화](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)를 참조하세요.
