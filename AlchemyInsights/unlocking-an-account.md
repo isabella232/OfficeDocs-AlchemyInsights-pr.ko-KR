@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 532b273154a31c024825b150d9b0edd42eb6130c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cf2431cb49902b3f7625ab96bc6d4e2121e51fdd
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827762"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544150"
 ---
 # <a name="unlocking-an-account"></a>계정 잠금 해제
 
@@ -25,7 +25,7 @@ ms.locfileid: "51827762"
 
 **전자 메일 제한됨**
 
-사용자 중 누군가 전자 메일을 보낼 수 없도록 제한이 된 경우, 관리자는 계정을 [직접 차단 해제](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)할 수 있습니다. 사용자는 제한이 해제된 후 1시간 이내에 전자 메일을 보낼 수 있습니다.
+사용자 중 누군가 전자 메일을 보낼 수 없도록 제한이 된 경우, 관리자는 계정을 [직접 차단 해제](/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)할 수 있습니다. 사용자는 제한이 해제된 후 1시간 이내에 전자 메일을 보낼 수 있습니다.
 
 **사용자 암호 재설정**
 
@@ -37,8 +37,8 @@ ms.locfileid: "51827762"
 
 1. 관리 센터에서 **사용자 > [활성 사용자](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)** 로 이동합니다.
 
-2. 사용자를 선택하고 **추가 작업(...)** 을 클릭한 후 **로그인 상태 편집** 을 클릭합니다.
+2. 사용자를 선택하고 세 개의 점(추가 작업)을 클릭한 다음 **로그인 상태 편집** 을 클릭합니다.
 
-셀프 서비스 암호 재설정을 비롯한 더 많은 암호 재설정 시나리오는 [온라인 결제 수단으로 청구할 수 있는 다양한 시도를 위한Microsoft 365 Business 암호 재설정](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide)을 참조하세요.
+셀프 서비스 암호 재설정을 비롯한 더 많은 암호 재설정 시나리오는 [온라인 결제 수단으로 청구할 수 있는 다양한 시도를 위한Microsoft 365 Business 암호 재설정](/microsoft-365/admin/add-users/reset-passwords)을 참조하세요.
 
-이 서비스는 손상된 계정 및/또는 스팸 발신의 증거를 감지하여 사용자가 전자 메일을 보내지 못하도록 합니다. 예방 조치로 사용자를 위해 [Microsoft 365에서 손상된 전자 메일 계정에 응답](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)의 단계를 따릅니다.
+이 서비스는 손상된 계정 및/또는 스팸 발신의 증거를 감지하여 사용자가 전자 메일을 보내지 못하도록 합니다. 예방 조치로 사용자를 위해 [Microsoft 365에서 손상된 전자 메일 계정에 응답](/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)의 단계를 따릅니다.

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 49f690a08ed39e5132f9e23b514d3e353b126840
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 486ac58b9b5b88b11fe45b7ace5b084190cfcee2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737811"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543727"
 ---
 # <a name="increase-protection-from-advanced-threats"></a>고급 위협으로부터 보호 강화
 
-Office 365용 Microsoft Defender를 설정하거나 관리:
+사용자에 대해 Microsoft Defender를 설정하거나 관리 Office 365.
 
-1. Office 365용 Microsoft Defender 기능은 Enterprise E5, Education A5 및 Microsoft 365 Business에서 사용할 수 있습니다. 다른 모든 요금제에는 추가 기능 ATP 구독이 필요합니다. Office 365용 Defender에 액세스하려면 전역 관리자 또는 보안 관리자 권한이 있어야 합니다.  
+1. Microsoft Defender for Office 365 E5, Education A5 및 Enterprise 사용할 수 Microsoft 365 Business. 다른 모든 요금제에는 추가 기능 Microsoft Defender for Office 365 필요합니다. Microsoft Defender에서  Microsoft Defender에 액세스하려면 전역 관리자 또는 보안 관리자 권한이 Office 365. 
 2. 관리 센터에서 설치 를 [선택합니다.](https://go.microsoft.com/fwlink/p/?linkid=2075721)
 3. 로그인 **및** 보안 고급 위협으로부터 보호 강화로  >  **이동한** 다음 보기 를 [선택합니다.](https://go.microsoft.com/fwlink/?linkid=2109302)
 4. 관리를 선택한 다음 변경할 사용 가능한 정책 유형 중 하나를 선택합니다.

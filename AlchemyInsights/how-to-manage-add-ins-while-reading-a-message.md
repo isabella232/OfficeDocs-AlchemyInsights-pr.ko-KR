@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5890"
 - "9003117"
-ms.openlocfilehash: 163dfcc720cb15800ec6a6ae8a0ea909e588f191
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 772f7b8d3c88c38ad8a14585af398325349dc99a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "49768479"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544006"
 ---
 # <a name="how-to-manage-add-ins-while-reading-a-message"></a>메시지를 읽는 동안 추가 기능을 관리하는 방법
 
 1. 웹용 Outlook에서 메시지를 선택합니다.
     
-2. 메시지 맨 위에 **추가 작업** 을 선택합니다.
+2. 메시지 맨 위에 있는 세 개의 점(추가 작업)을 선택합니다.
 
 3. 목록의 맨 아래로 이동하여 **추가 기능 다운로드** 를 선택합니다.
     

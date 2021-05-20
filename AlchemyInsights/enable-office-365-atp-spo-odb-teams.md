@@ -1,5 +1,5 @@
 ---
-title: SharePoint, OneDrive 및 Microsoft 팀에 Office 365 ATP 사용
+title: 사용자 Office 365, SharePoint 및 OneDrive ATP를 사용하도록 Microsoft Teams
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bef43656097c6f27677172899df1ada7900a9b64
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: dd367176f8d6f38f1f94ae6627229234f15c81ff
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801056"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543934"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>SharePoint Online, OneDrive 및 Microsoft 팀에서 Microsoft Defender for Office 365을 사용 하도록 설정
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>온라인, Office 365, SharePoint 및 사용자에 대해 Microsoft Defender를 OneDrive Microsoft Teams
 
 1. https://protection.office.com으로 이동하여 로그인합니다.
-2. **위협 관리**  >  **정책**  >  **안전한 첨부 파일** 을 선택 합니다.
-3. **SharePoint, OneDrive 및 Microsoft 팀에 대해 ATP 설정을** 선택 하 고 **저장** 을 클릭 합니다.
-4. 는 전역 관리자 또는 SharePoint Online 관리자는 **DisallowInfectedFileDownload** 매개 변수를 *true* 로 설정 하 여 [set-spotenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet을 실행 합니다.
-5. 는 검색 된 파일에 대 한 [경고를 설정](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) 합니다.
+2. 위협 **관리 정책**  >  **안전한** 첨부 파일을 선택  >  **합니다.**
+3. 에 **대해 Defender 켜기** 를 Office 365, SharePoint, OneDrive 및 Microsoft Teams 를 클릭한 다음 저장을 **클릭합니다.**
+4. (권장) 전역 관리자 또는 SharePoint Online 관리자로서 **DisallowInfectedFileDownload** 매개 변수를 true로 설정하여 [Set-SPOTenant](/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet을 *실행합니다.*
+5. (권장) [검색된 파일에](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) 대한 알림을 설정합니다.
 
 > [!NOTE]
-> ATP는 SharePoint Online, OneDrive 또는 Microsoft 팀의 모든 단일 파일을 검색 합니다. 파일은 공유 및 게스트 활동 이벤트를 사용 하는 프로세스 및 악의적인 파일을 식별 하기 위한 스마트 추론 및 위협 신호로 함께 비동기적으로 검색 됩니다. [SharePoint, OneDrive 및 Microsoft 팀에 대 한 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)를 참조 하세요.
+> Microsoft Defender for Office 365 Online, SharePoint, OneDrive 또는 Microsoft Teams. 파일은 공유 및 게스트 활동 이벤트를 사용하는 프로세스를 통해 비동기적으로 검색하고 스마트 휴러틱 및 위협 신호와 함께 악성 파일을 식별합니다. 자세한 [내용은 microsoft Defender에서 Office 365, SharePoint OneDrive 및](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)Microsoft Teams.

@@ -13,17 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "11171"
-ms.openlocfilehash: afc84866a3dd9ecb30562bd185239c3d1695fd10
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 17e25e4d017f8a829c18a7987dfa332783efc0b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261903"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543786"
 ---
 # <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a>AutoComplete list scrolls off the screen in Outlook Desktop
 
-After updating to Outlook Desktop version 2104 (Build 13929.20296), the AutoComplete list unexpectedly goes up and may scroll off the screen. 목록에 자동 고치기 항목이 일부만 표시될 수 있으며, 해당 항목에 액세스하기 위해 위로 스크롤할 수 없습니다.
+This issue is fixed in Version 2104 Build 13929.20386. 고정 빌드의 업데이트는 5월 17일 주 현재 채널 프로덕션으로 이동될 것으로 예상됩니다. 
 
-**STATUS: INVESTIGATING**  Outlook 팀에서 문제를 조사 중으로 추가 정보를 사용할 수 있는 경우 이 문서를 업데이트할 것입니다.
-
-최신 상태에 대한 자세한 내용은 목록 자동 고치기 화면에서 화면에서 스크롤을 [Outlook.](https://support.microsoft.com/office/autocomplete-list-scrolls-off-the-screen-in-outlook-0247f165-697f-4238-b424-b03cd2582e2d?ui=en-US&rs=en-US&ad=US)
+고정 빌드를 사용할 수 있는 경우를 확인하기 위해 업데이트 기록을 [Microsoft 365 앱(날짜로 나열)를 참조합니다.](/officeupdates/update-history-microsoft365-apps-by-date)
