@@ -1,5 +1,5 @@
 ---
-title: 네트워크 드라이브에 SharePoint 라이브러리 매핑
+title: 네트워크 SharePoint 라이브러리 매핑
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 9115a3ab8d1234127a95628a9a49679ef06f6d39
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b7cb38362baa26bd39fe7478ef6dd1971b5b063
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806189"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542827"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="5833f-102">네트워크 드라이브에 SharePoint 라이브러리 매핑</span><span class="sxs-lookup"><span data-stu-id="5833f-102">Map a SharePoint library to a network drive</span></span>
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="16c27-102">네트워크 SharePoint 라이브러리 매핑</span><span class="sxs-lookup"><span data-stu-id="16c27-102">Map a SharePoint library to a network drive</span></span>
 
-<span data-ttu-id="5833f-103">라이브러리를 네트워크 드라이브로서 매핑하는 것은 임시적이며 Internet Explorer를 통해서만 지원됩니다.</span><span class="sxs-lookup"><span data-stu-id="5833f-103">Mapping a library as a network drive is temporary and supported only through Internet Explorer.</span></span> <span data-ttu-id="5833f-104">가끔 Internet Explorer에서 SharePoint 사이트를 열고 **로그인 상태 유지** 를 선택 하 여 세션이 만료 되지 않도록 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="5833f-104">You must occasionally open the SharePoint site in Internet Explorer and select **Stay signed in** to prevent the session from expiring.</span></span> <span data-ttu-id="5833f-105">대신 파일을 주문형으로 제공 하는 [새 OneDrive 동기화 클라이언트와 SharePoint 파일을 동기화](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> 합니다. [Files On-Demand](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)</span><span class="sxs-lookup"><span data-stu-id="5833f-105">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a> which provides [Files On-Demand](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e).</span></span> <span data-ttu-id="5833f-106">로컬 저장소 공간을 사용하지 않고 OneDrive에서 모든 파일에 액세스합니다.</span><span class="sxs-lookup"><span data-stu-id="5833f-106">Access all your files in OneDrive without using local storage space.</span></span>
+<span data-ttu-id="16c27-103">네트워크 드라이브를 매핑하는 SharePoint 요청 시 파일을 제공하는 새 OneDrive 동기화 클라이언트와 동기화합니다.</span><span class="sxs-lookup"><span data-stu-id="16c27-103">Instead of mapping a network drive, sync SharePoint files with the new OneDrive sync client, which provides Files On-Demand.</span></span> <span data-ttu-id="16c27-104">로컬 저장소 공간을 사용하지 않고 OneDrive에서 모든 파일에 액세스합니다.</span><span class="sxs-lookup"><span data-stu-id="16c27-104">Access all your files in OneDrive without using local storage space.</span></span> <span data-ttu-id="16c27-105">자세한 내용은 [동기화](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88) SharePoint 및 Teams 파일 동기화 및 OneDrive 파일을 위한 OneDrive 파일을 사용하여 디스크 [공간 Windows 10.](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e)</span><span class="sxs-lookup"><span data-stu-id="16c27-105">For more information, see [Sync SharePoint and Teams files with your computer](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88) and [Save disk space with OneDrive Files On-Demand for Windows 10](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e).</span></span>
 
-<span data-ttu-id="5833f-107">[새 OneDrive 동기화 클라이언트를 사용](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)하지 않고 드라이브를 매핑하도록 선택한 경우 아래 문서의 단계를 수행 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="5833f-107">If you choose to map a drive instead of [using the new OneDrive sync client](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), ensure you follow the steps in the article below.</span></span> 
+<span data-ttu-id="16c27-106">새 OneDrive 클라이언트를 사용하는 [대신](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88)드라이브를 매핑하기로 선택한 경우 다음 단계를 따라야 합니다.</span><span class="sxs-lookup"><span data-stu-id="16c27-106">If you choose to map a drive instead of using [the new OneDrive sync client](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88), make sure you follow these steps:</span></span>
 
+- [<span data-ttu-id="16c27-107">SharePoint Online에 연결하는 매핑된 네트워크 드라이브 문제 해결</span><span class="sxs-lookup"><span data-stu-id="16c27-107">Troubleshoot mapped network drives that connect to SharePoint Online</span></span>](/sharepoint/support/administration/troubleshoot-mapped-network-drives)
 
-<span data-ttu-id="5833f-108">**매핑된 네트워크 드라이브를 구성 하 고 문제를 해결 하는 방법**</span><span class="sxs-lookup"><span data-stu-id="5833f-108">**How to configure and troubleshoot mapped network drives**</span></span>
+- [<span data-ttu-id="16c27-108">클라이언트가 TLS 1.2를 지원하지 않는 경우 인증 오류가 발생합니다.</span><span class="sxs-lookup"><span data-stu-id="16c27-108">Authentication errors occur when client doesn't have TLS 1.2 support</span></span>](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
 
-
-<span data-ttu-id="5833f-109">[SharePoint Onlines에 연결 되는 매핑된 네트워크 드라이브 문제 해결을](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="5833f-109">See [Troubleshoot mapped network drives that connect to SharePoint Onlines](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).</span></span>
-
-<span data-ttu-id="5833f-110">참고: Windows 8 또는 Windows 7이 포함 된 Internet Explorer 10을 사용 하는 경우 드라이브를 매핑하면 **액세스 거부** 또는 **경로에 액세스할 수 없는** 경우이 문제를 해결 하려면 [이 핫픽스](https://support.microsoft.com/help/2846960) 를 설치 합니다.</span><span class="sxs-lookup"><span data-stu-id="5833f-110">NOTE:  If you use Internet Explorer 10 with Windows 8 or Windows 7, and receive **Access denied** or **Path is not accessible** when mapping a drive, install [this hotfix](https://support.microsoft.com/help/2846960) to resolve this problem.</span></span> 
+<span data-ttu-id="16c27-109">**참고:** Internet Explorer 10 또는 Windows 8 Windows 7과 함께 Windows 드라이브를 매핑할 때 **Access가** 거부되거나 **경로에** 액세스할 수 없는 경우 이 핫픽스를 설치하여 이 문제를 [해결합니다.](https://support.microsoft.com/topic/error-when-you-open-a-sharepoint-document-library-in-windows-explorer-or-map-a-network-drive-to-the-library-after-you-install-internet-explorer-10-96e640ba-059f-9b09-bb91-2a0319ee8b1d)</span><span class="sxs-lookup"><span data-stu-id="16c27-109">**NOTE:** If you use Internet Explorer 10 with Windows 8 or Windows 7, and receive **Access denied** or **Path is not accessible** when mapping a drive, resolve this problem by installing this [hotfix](https://support.microsoft.com/topic/error-when-you-open-a-sharepoint-document-library-in-windows-explorer-or-map-a-network-drive-to-the-library-after-you-install-internet-explorer-10-96e640ba-059f-9b09-bb91-2a0319ee8b1d).</span></span>
