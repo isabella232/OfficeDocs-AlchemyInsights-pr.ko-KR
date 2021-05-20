@@ -1,5 +1,5 @@
 ---
-title: Teams Outlook 추가 기능
+title: Teams Outlook 추가 기능(공유를 통해 Teams, 모임 시작, 새 Teams 모임, 모임에 Teams)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835025"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542755"
 ---
-# <a name="teams-outlook-add-in"></a>Teams Outlook 추가 기능
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook 추가 기능(공유를 Teams , 모임 시작, 새 Teams 모임, 모임에 Teams)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Teams Outlook 추가 기능 누락 문제를 해결합니다.
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>추가 기능의 누락된 Teams Outlook 해결
 
-1. 관리 포털에서 서비스 진단을 실행합니다. 
-2. 서비스 진단에 문제가 없는 경우 [Microsoft](https://aka.ms/SaRA-TeamsAddInScenario)지원 및 복구 도우미 Teams Outlook 추가 기능 시나리오 를 다운로드하여 실행하여 영향을 받는 사용자 컴퓨터의 클라이언트 문제를 진단하고  >  **해결합니다.**
+1. "팀 추가 기능을 사용할 수 Outlook 있습니다." 진단을 실행하여 사용자에게 추가 기능을 사용하도록 설정하는 데 올바른 정책이 Teams Outlook 실행합니다. 진단에 액세스하기  위해 검색 상자에 Teams 추가 기능 Outlook 입력합니다.
 
-Teams Outlook 추가 기능 누락 문제를 수동으로 해결하려면 Teams 추가 기능을 나열하지 않을 수 있는 잠재적인 요인 목록을 검토하세요. 자세한 내용은 Windows용 Outlook의 Teams 모임 추가 기능을 [표시하지 않습니다.를 참조하세요.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
+1. 서비스 진단에 문제가 없는 경우 Microsoft 2016 추가 기능 시나리오 를 다운로드하고 실행하여 영향을 받는 사용자 컴퓨터의 클라이언트 문제를 [지원 및 복구 도우미](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook 해결합니다.**
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>다른 사람을 대신하여 Teams 모임을 진행하는 문제를 해결(대리인)
+누락된 추가 Teams Outlook 문제를 수동으로 해결하려면 추가 기능의 잠재적 요인 목록을 검토하여 Teams 추가 기능을 표시하지 않습니다. 자세한 내용은 Teams 에 대한 Outlook 모임 추가 Windows [을 참조하세요.](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
 
-다른 사람을 대신하여 Teams 모임을 예약하는 방법은 Microsoft Teams 문제 해결 및 상호 [Exchange Server 참조합니다.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>다른 사람을 대신하여 Teams 모임을 진행하는 문제를 해결(위임)
+
+다른 사람을 Teams 모임을 예약하는 방법은 문제 해결 및 상호 Microsoft Teams [Exchange Server 참조합니다.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

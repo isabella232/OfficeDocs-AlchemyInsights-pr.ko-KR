@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: d90645758100e3ff29d77dd09848b36f33c3f526
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233396"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543655"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>민감도 레이블을 만드는 방법
 
@@ -30,8 +30,8 @@ ms.locfileid: "52233396"
 
     자동 레이블 지정에 대핸 자세한 정보는 [민감도 레이블을 콘텐츠에 자동으로 적용](https://go.microsoft.com/fwlink/?linkid=2105837)을 방문하세요.
 
-1. 이러한 단계를 반복하여 더 많은 레이블을 만들 수 있습니다. 그러나 하위 레이블을 만들려는 경우 먼저 상위 레이블을 선택하고 **추가 작업** 에서 **...** 을 선택한 다음 **하위 레이블 추가** 를 선택합니다.
+1. 이러한 단계를 반복하여 더 많은 레이블을 만들 수 있습니다. 그러나 하위 레이블을 만들려는 경우 먼저 상위 레이블을 선택하고 세 개의 점(추가 작업)을 선택한 다음 **하위 레이블 추가** 를 선택합니다.
 
 1. 필요한 레이블을 모두 만든 경우 해당 주문을 검토하고 필요한 경우 해당 항목을 위나 아래로 이동합니다. 
     
-    레이블 순서를 변경하려면 **추가 작업** 에 대해 **...** 를 선택한 다음 **위로 이동** 또는 **아래로 이동** 을 선택합니다.
+    레이블 순서를 변경하려면 세 개의 점(추가 작업)을 선택한 다음 **위로 이동** 또는 **아래로 이동** 을 선택합니다.

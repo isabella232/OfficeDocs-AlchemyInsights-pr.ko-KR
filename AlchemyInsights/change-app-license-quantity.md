@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 6b4256c1bd466ced0ad8b9f1d8eb6ae160d9961b
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 3e892e4754b959851fe82e15ee2f4c1eb355fd32
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232265"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543151"
 ---
 # <a name="change-app-license-quantity"></a>앱 라이선스 수량 변경
 
-사용중인 라이선스 수를 보거나 변경하여 Microsoft 365 관리 센터의 사용자에게 할당할 수 있습니다.
+사용중인 라이선스 수를 보거나 변경하고 해당 라이선스를 Microsoft 365 있습니다.
 
 ## <a name="to-change-license-quantity"></a>라이선스 수량을 변경하는 경우
 
-**이 작업을 하는** 방법을 보여주는 비디오 [시청:](https://go.microsoft.com/fwlink/p/?linkid=2154857) 새 라이선스 구입 또는 기존 라이선스 [제거](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**새 라이선스** 구입 또는 기존 [](https://go.microsoft.com/fwlink/p/?linkid=2154857) 라이선스 [제거를](https://go.microsoft.com/fwlink/p/?linkid=2154938) 보여 주신 비디오 시청
 
-1. 청구 **제품**  >  **[페이지로](https://go.microsoft.com/fwlink/p/?linkid=842054)** 이동합니다.
-2. 제품 **탭의** **앱** 섹션에서 관리할 앱을 찾으십시오. 추가 **작업(3개** 점)을 선택한 다음 라이선스 **구입을 선택합니다.**
-3. 라이선스 수를 줄이면 라이선스 구입 창 맨  위에 있는 라이선스 **제거를 선택합니다.**
-4. 라이선스를 구입하거나 제거하려면  총 라이선스  상자에 새 수량 아래에 이 구독에 대해 원하는 총 라이선스 수를 입력합니다. 예를 들어 라이선스가 100개가 있으며 5개 이상 추가하려는 경우 105를 입력합니다. 이 중 다섯 개를 제거하려면 95를 입력합니다.
+1. 청구 제품   >  **[페이지로](https://go.microsoft.com/fwlink/p/?linkid=842054)** 이동합니다.
+2. 제품 **탭의** 앱 **섹션에서** 관리할 앱을 찾습니다. 세 점(추가 작업)을 선택한 다음 라이선스 **구입 을 선택합니다.**
+3. 라이선스 수를 줄이면 라이선스 구입 창 위쪽에서 라이선스 **제거를 선택합니다.** 
+4. 라이선스를 구입하거나 제거하려면  총 라이선스  수량 상자에 이 구독에 대해 원하는 총 라이선스 수를 입력합니다. 예를 들어 라이선스가 100개가 있으며 5개 이상 추가하려는 경우 105를 입력합니다. 이 중 5개만 제거하려면 95를 입력합니다.
 5. **저장** 을 선택합니다.
 
 ## <a name="to-assign-app-licenses"></a>앱 라이선스를 할당하기 위해
 
-1. 청구 **제품**  >  **[페이지로](https://go.microsoft.com/fwlink/p/?linkid=842054)** 이동합니다.
-2. 제품 **탭의** **앱** 섹션에서 관리할 앱을 찾으십시오.
-3. 설정 **& 작업에서** 게시자의 포털에서 관리 링크를 **선택합니다.**
+1. 청구 제품   >  **[페이지로](https://go.microsoft.com/fwlink/p/?linkid=842054)** 이동합니다.
+2. 제품 **탭의** 앱 **섹션에서** 관리할 앱을 찾습니다.
+3. 다음 **설정 &** 에서 게시자의 **포털에서 관리로 연결되는 링크를 선택합니다.**
