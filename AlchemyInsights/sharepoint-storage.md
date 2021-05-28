@@ -1,5 +1,5 @@
 ---
-title: SharePoint 저장소
+title: 온라인 SharePoint 관리
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
+ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773745"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52689864"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>SharePoint Online 저장소 관리
+# <a name="manage-your-sharepoint-online-storage"></a>온라인 SharePoint 관리
 
-요금제를 기반으로 [테 넌 트 저장소를 계산](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) 하는 방법을 알아봅니다.
+대부분의 조직에서는 SharePoint 자동으로 관리하기 때문에 사이트 모음당 제한을 설정할 필요가 없습니다. 계획에 따라 테넌트 저장소를 계산하는 방법에 대한 자세한 내용은 계획에 따라 [제한을 참조하세요.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)
 
-대부분의 조직에서 SharePoint 저장소가 자동으로 관리 되므로 사이트 모음 당 제한을 설정할 필요가 없습니다.
+자세한 내용은 다음을 참조하세요.
 
-[조직의 전체 및 사용 가능한 저장 공간을 보는](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)방법을 알아봅니다.
+- [사이트 저장 용량 제한](/sharepoint/manage-site-collection-storage-limits)
 
-[개별 사이트 모음 저장 용량 제한을 관리](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)하는 방법에 대해 알아봅니다.
+- [개별 사이트 저장소 용량 한도 관리](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-사이트의 공간이 부족 하거나, 공간을 활용 하는 라이브러리나 목록을 알아보려면 **사이트 설정**  >  **저장소 메트릭으로** 이동 합니다 (사이트 모음 관리자 권한이 필요 함).
+사이트의 공간이 비어 있는 경우 또는 공간을 활용하는 라이브러리 또는 목록이 필요한 경우 사이트 설정 Storage 메트릭으로 이동하세요(사이트 모음 관리자 권한  >   필요).
 
-[PowerShell을 사용 하 여 사이트 저장 용량 제한을 모니터링](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)하는 방법을 알아봅니다.
+자세한 내용은 다음을 참조하세요.
 
-[추가 저장소를 구입](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)하는 방법을 알아보세요. 
+- [PowerShell을 사용하여 사이트 저장소 용량 한도 모니터링](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+
+- [구독에 대한 추가 저장소 공간](/microsoft-365/commerce/add-storage-space) 
   
