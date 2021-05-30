@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
-ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
+ms.openlocfilehash: 2290950f6a6b4680b3c436307f5c2dbaa1be527d
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52573752"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696892"
 ---
 # <a name="disable-chat"></a>대화를 사용 불가능으로 설정.
 
@@ -26,7 +26,7 @@ ms.locfileid: "52573752"
 
 - **모임**: Teams 관리 센터에서 [모임 정책](https://admin.teams.microsoft.com/) - 채팅 설정이 **모임에서 채팅 허용** 입니다. 사용자 지정 모임 정책 만들기에 대한 자세한 내용은 [Teams에서 모임 정책 관리](/microsoftteams/meeting-policies-in-teams) 및 [모임에서 대화 허용](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)을 참조하세요.
 
-- **메*시지**: Teams 관리 센터에서 [메시지 정책](https://admin.teams.microsoft.com/)으로 이동한 후 **채팅 켬** 또는 **끔** 으로 전환합니다. 사용자 지정 메시징 정책과 사용자에게 정책을 할당하는 방법에 대한 자세한 내용은 [Teams](/microsoftteams/messaging-policies-in-teams)에서 메시징 정책 관리를 참조하시기 바랍니다.
+- **메시지 보내기**: Teams 관리 센터에서 [메시지 정책](https://admin.teams.microsoft.com/)으로 이동한 후 **채팅 켜기** 또는 **끄기** 로 전환합니다. 사용자 지정 메시징 정책과 사용자에게 정책을 할당하는 방법에 대한 자세한 내용은 [Teams](/microsoftteams/messaging-policies-in-teams)에서 메시징 정책 관리를 참조하시기 바랍니다.
 
 - [학생](/microsoftteams/policy-packages-edu): 학생용 채팅을 사용하지 않도록 설정하려면 **Teams 패키지 및 교육용 정책 패키지** 의 1:1 채팅 허용뿐만 아니라, 모임에서 채팅을 허용하는 옵션을 참조하세요. 
 
