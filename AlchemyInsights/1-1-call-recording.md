@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
-ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.openlocfilehash: 8cdadf34a059856338d7f40528446b70373465e4
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 05/28/2021
-ms.locfileid: "52696964"
+ms.locfileid: "52702096"
 ---
 # <a name="11-call-recording"></a>1:1 통화 기록
 
-녹음 **시작 단추가** 1:1 통화에서 회색으로 표시되어 있는 경우 영향을 미치는 사용자에 대한 정책 설정을 변경해야 합니다.   
+녹음 **시작 단추가** 1:1 통화에서 회색으로 표시되어 있는 경우 영향을 미치는 사용자에 대한 정책 설정을 변경해야 합니다. 정책 설정을 확인하기 위해 위의 1:1 통화 기록: 진단: Teams **1:1** 통화 기록을 입력하여 영향을 Teams 진단을 실행합니다.     
 
 2021년 5월 31일부터 새 통화 정책 *AllowCloudRecordingForCalls* Teams 적용을 시작할 것입니다. 이 변경 이전에는 1:1 통화 기록이 *AllowCloudRecording* 및 모임 정책에 Teams 제어됩니다. 이 변경은 메시지 센터 게시물: [(업데이트) 1:1](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)통화 기록 정책 소개에 설명되어 있습니다.  
 
 *AllowCloudRecordingForCalls*   통화 정책 옵션은 기본적으로 $False **설정되어** 있습니다. 모든 사용자가 1:1 통화를 녹음하지 못하게 차단하려면 조치를 취할 필요가 없습니다.  
 
-1:1 통화의 모든 사용자에 대해 통화 기록을 사용하도록 설정하려면 powerShell에서 Teams cmdlet을 실행합니다. 
+1:1 통화의 모든 사용자에 대해 통화 기록을 사용하도록 설정하려면 [powerShell에서](/microsoftteams/teams-powershell-install) Teams cmdlet을 실행합니다. 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
