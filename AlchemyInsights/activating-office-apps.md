@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46a9be285ec7e0eb491ec73651f81ea5a33654d2
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823037"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798614"
 ---
 # <a name="activating-microsoft-365-apps"></a>Microsoft 365 앱 정품 인증
+
+**참고**: 이전 버전의 Windows(예: Windows 7)를 사용하는 경우 TLS 1.2가 기본값으로 사용하도록 설정되어 있는지 확인하세요. 자세한 내용은 [Windows의 WinHTTP에서 기본 보안 프로토콜로 TLS 1.1 및 TLS 1.2를 사용하도록 업데이트](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)를 참조하세요.
 
 Office 정품 인증을 받으려면 다음을 참조하세요.
 
@@ -27,7 +29,7 @@ Office 정품 인증을 받으려면 다음을 참조하세요.
 
 - [Mac에서 Office 정품 인증](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**참고:** [Office 클라이언트 앱을 포함](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)하는 Office 365 또는 Microsoft 365 구독(예: Microsoft 365 Business Standard, 비즈니스용 Microsoft 365 앱 또는 엔터프라이즈용 Microsoft 365 앱)이 있어야 합니다. 또한 Office 앱에 로그인하는 데 사용 하는 사용자 계정에[할당된 라이선스](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)가 있는지 확인합니다.
+**참고:** [Office 클라이언트 앱을 포함](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)하는 Office 365 또는 Microsoft 365 구독(예: Microsoft 365 Business Standard, 비즈니스용 Microsoft 365 앱 또는 엔터프라이즈용 Microsoft 365 앱)이 있어야 합니다. 또한 Office 앱에 로그인하는 데 사용 하는 사용자 계정에[할당된 라이선스](/microsoft-365/admin/manage/assign-licenses-to-users)가 있는지 확인합니다.
 
 Office 정품 인증 문제를 해결하려면 다음을 참조하세요.
 
@@ -46,6 +48,6 @@ Microsoft 365 앱에 로그인 할 수 없는 경우 아래의 단계를 따릅�
 
 3. Windows **설정 > 계정 > 회사 또는 학교에 액세스** 를 사용하여, 오래되거나 사용하지 않는 회사 계정을 연결 해제합니다.
 
-4. [Office 정품 인증 상태를 재설정](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)한 후 새 계정을 사용하여 [Office 앱에 로그인](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426)합니다.
+4. [Office 정품 인증 상태를 재설정](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)한 후 새 계정을 사용하여 [Office 앱에 로그인](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426)합니다.
 
 문제 해결 작업에 대한 자세한 내용은 [Office 365 애플리케이션을 열면 구독 알림이 나타남](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)을 참조하세요.

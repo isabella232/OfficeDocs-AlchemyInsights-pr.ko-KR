@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: c5b0721d286b07d7e0f84199885b6f527a2b42a2
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 0db6f434fa74970ac6083501ab26762cc6b7885f
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52783142"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798650"
 ---
 # <a name="manage-webinar-registration"></a>웹비나 등록 관리
 
 Teams PowerShell 명령을 사용하여 Teams 웨비나에 등록할 수 있는 사용자를 관리합니다. Teams Powershell을 설치하려면 [Teams PowerShell](/microsoftteams/teams-powershell-install)을 참조하세요. 
 
-기본적으로 *WhoCanRegister* 는 사용하도록 설정되고 **EveryoneInCompany** 로 설정됩니다. 익명 사용자를 포함한 모든 사용자가 등록할 수 있도록 하려면 Powershell 명령을 사용하여 모임 정책을 **모든 사용자** 로 설정해야 합니다.
+기본적으로 *WhoCanRegister* 는 사용하도록 설정되고 **모든 사용자** 로 설정됩니다. 
+
+모임 초대에서 모든 사용자에 대한 등록을 허용하는 옵션이 표시되지 않으면 *WhoCanRegister* 설정을 다시 실행하고 24시간 기다리세요. *WhoCanRegister* 를 다시 실행하려면 Powershell 명령을 사용하세요.
 
 `Set-CsTeamsMeetingPolicy -WhoCanRegister Everyone`
 
