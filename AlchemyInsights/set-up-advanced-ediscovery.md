@@ -2,6 +2,7 @@
 title: Advanced eDiscovery 설정하기
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: f3a74bf74fb0786227e3f6c9bd53af1c8bebe098
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 928eac7dc5455a96d8f49f60a368f098f8e322bb
+ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795538"
+ms.lasthandoff: 06/10/2021
+ms.locfileid: "52882695"
 ---
 # <a name="set-up-advanced-ediscovery"></a>Advanced eDiscovery 설정하기
 
-Advanced eDiscovery를 사용하면 비구조적 데이터를 분석하여 eDiscovery 비용을 절감할 수 있습니다. 텍스트 분석, 기계 학습, 관련성/예측 코드를 적용할 수 있습니다.  Advanced eDiscovery 기능을 사용하려면 다음이 필요합니다.
+Advanced eDiscovery를 사용하면 텍스트 분석, 기계 학습, 관련성/예측 코드를 적용할 수 있습니다. Advanced eDiscovery 기능을 사용하려면 다음 중 하나가 필요합니다.
 
 - Microsoft 365 E5 또는 Office 365 E5 구독
 
@@ -39,4 +40,6 @@ Advanced eDiscovery를 사용하면 비구조적 데이터를 분석하여 eDisc
 
 **4. Advanced eDiscovery 사례 만들기**
 
-Advanced eDiscovery를 설정하는 데 필요한 단계에 대한 자세한 내용은 [Advanced eDiscovery 시작하기](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide)를 참조하세요.
+Advanced eDiscovery를 설정하는 데 필요한 단계에 대한 자세한 내용은 [Advanced eDiscovery 시작하기](/microsoft-365/compliance/get-started-with-advanced-ediscovery)를 참조하세요.
+
+사례를 만들고 관리하는 방법에 대한 자세한 내용은 [Microsoft 365에서 Advanced eDiscovery 사례 만들기 및 관리](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case)를 참조하세요.
