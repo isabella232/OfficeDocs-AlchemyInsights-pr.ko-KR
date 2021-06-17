@@ -12,13 +12,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9142"
+- "11090"
 - "9005291"
-ms.openlocfilehash: 149fd99d1c8e62e568e1e8fbff87ab00fba86f76
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+- "9006490"
+ms.openlocfilehash: b10b15c9274dc028819788e4e338b44992c2c0cc
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50530141"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989831"
 ---
 # <a name="determine-your-deployment-method"></a>배포 방법 결정
 
