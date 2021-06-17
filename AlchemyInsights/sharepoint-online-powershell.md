@@ -1,5 +1,5 @@
 ---
-title: Sharepoint Online PowerShell
+title: Sharepoint PowerShell에 연결할 수 없습니다.
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
-ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
+ms.openlocfilehash: ceb14ac484508480c771dd8406bc56220d7541ec
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52774365"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52931017"
 ---
-# <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
+# <a name="sharepoint-powershell-unable-to-connect"></a>Sharepoint PowerShell에 연결할 수 없습니다.
 
-Sharepoint Online 내에서 PowerShell 또는 스크립트를 사용하나요? 자세한 내용은 아래 링크를 방문하세요.
-- [SharePoint Online 관리 셸 시작](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [커넥트 인증(MFA)을 통해 SPO PowerShell에 등록](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- SharePoint 및 모범 [사례(PnP)에는](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) SPO에 대해 복잡한 관리 작업을 수행할 수 있는 PowerShell 명령 라이브러리가 포함되어 있습니다.
+온라인 PowerShell 모듈에 연결하는 데 문제가 SharePoint 온라인 관리 셸에 연결할 때 SharePoint [참조하세요.](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)
