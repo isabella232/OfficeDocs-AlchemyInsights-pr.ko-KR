@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721642"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023109"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 서비스 가져오기
 
@@ -29,9 +29,9 @@ ms.locfileid: "52721642"
 
 1. 솔루션 아래 M365 준수 센터의 왼쪽 창에서 **정보** **거버넌스 가져오기 를**  >  **선택합니다.**
 
-1. 가져오기 **페이지에서** 새 가져오기 **작업 을 선택합니다.**
+1. 가져오기 **페이지에서** 새 가져오기 **작업 을 선택합니다.** 작업 이름을 입력하고 다음 을 **선택합니다.**
 
-1. 마법사의 단계를 완료하려면 네트워크 업로드를 사용하여 조직의 [PST](/compliance/use-network-upload-to-import-pst-files)파일 가져오기 를 Microsoft 365.
+1. 데이터 **업로드 가져오기** 작업 유형에 대한 네트워크 업로드 옵션을 사용하려면 **이 옵션을 선택합니다.** 자세한 단계는 네트워크 업로드를 사용하여 조직의 [PST](/compliance/use-network-upload-to-import-pst-files)파일을 로 가져오기 Microsoft 365.
 
 가져오기 **페이지에** 액세스하려면 적절한 사용 권한이 할당되어 있는지 확인하십시오. 자세한 내용은 네트워크 업로드를 사용하여 [PST 파일 가져오기 를 참조하세요.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
