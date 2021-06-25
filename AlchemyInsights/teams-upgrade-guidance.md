@@ -1,5 +1,5 @@
 ---
-title: 팀 업그레이드 지침
+title: Teams 업그레이드 지침
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333934"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095406"
 ---
-# <a name="microsoft-teams-upgrade"></a><span data-ttu-id="4dd8b-102">Microsoft 팀 업그레이드</span><span class="sxs-lookup"><span data-stu-id="4dd8b-102">Microsoft Teams upgrade</span></span>
+# <a name="microsoft-teams-upgrade"></a><span data-ttu-id="ce80b-102">Microsoft Teams 업그레이드</span><span class="sxs-lookup"><span data-stu-id="ce80b-102">Microsoft Teams upgrade</span></span>
 
-<span data-ttu-id="4dd8b-103">**중요**: 비즈니스용 Skype Online에서 Microsoft 팀으로 팀 전용 모드로 업그레이드 했지만 아직 준비 되지 않은 경우 지원 진단을 사용 하 여이 문제를 해결할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4dd8b-103">**Important**: If you have been upgraded from Skype for Business Online to Microsoft Teams in Teams Only mode, but find you aren’t ready yet, we can help fix this for you using a support diagnostic.</span></span> <span data-ttu-id="4dd8b-104">새 관리 센터를 사용 하는 경우 오른쪽 상단에 있는 토글을 이동 하 여 오른쪽 위 **를 확인**합니다.</span><span class="sxs-lookup"><span data-stu-id="4dd8b-104">Make sure you are using the new Admin Center by sliding the toggle in the top right that says **new Admin Center**to the right.</span></span> <span data-ttu-id="4dd8b-105">새 관리 센터를 사용 하 여 **도움이 필요 하신가요?** widget을 클릭 하 고 "**팀 업그레이드**"를 입력 한 다음 화면의 지시에 따라 진단 프로그램을 실행 합니다.</span><span class="sxs-lookup"><span data-stu-id="4dd8b-105">Using the new Admin Center, click the **Need Help?** widget, type "**Teams Upgrade**", then follow the prompts to run the diagnostic.</span></span>
+<span data-ttu-id="ce80b-103">Teams를 이제 시작하고 있던지 비즈니스용 Skype와 함께 이미 Teams를 사용하고 있던지 혹은 업그레이드할 준비가 된 경우 모두 당사는 귀하가 Teams의 효과적인 사용법을 탐색하는 데 필요한 모든 사항을 갖추고 있는지 확인하고자 합니다.</span><span class="sxs-lookup"><span data-stu-id="ce80b-103">Whether you’re just getting started with Teams, already using Teams alongside Skype for Business, or ready to upgrade, we want to ensure you have everything you need to navigate a successful journey to Teams.</span></span> <span data-ttu-id="ce80b-104">자세한 내용은 아래 링크를 방문하세요.</span><span class="sxs-lookup"><span data-stu-id="ce80b-104">For more information please visit the links below.</span></span>
 
-<span data-ttu-id="4dd8b-106">Teams를 이제 시작하고 있던지 비즈니스용 Skype와 함께 이미 Teams를 사용하고 있던지 혹은 업그레이드할 준비가 된 경우 모두 당사는 귀하가 Teams의 효과적인 사용법을 탐색하는 데 필요한 모든 사항을 갖추고 있는지 확인하고자 합니다.</span><span class="sxs-lookup"><span data-stu-id="4dd8b-106">Whether you’re just getting started with Teams, already using Teams alongside Skype for Business, or ready to upgrade, we want to ensure you have everything you need to navigate a successful journey to Teams.</span></span> <span data-ttu-id="4dd8b-107">자세한 내용을 보려면 아래 링크를 방문 하세요.</span><span class="sxs-lookup"><span data-stu-id="4dd8b-107">For more information please visit the links below.</span></span>
+[<span data-ttu-id="ce80b-105">Microsoft Teams 업그레이드 시작하기</span><span class="sxs-lookup"><span data-stu-id="ce80b-105">Getting started with your Microsoft Teams upgrade</span></span>](/MicrosoftTeams/upgrade-start-here)
 
-[<span data-ttu-id="4dd8b-108">Microsoft Teams 업그레이드 시작하기</span><span class="sxs-lookup"><span data-stu-id="4dd8b-108">Getting started with your Microsoft Teams upgrade</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[<span data-ttu-id="ce80b-106">업그레이드 계획</span><span class="sxs-lookup"><span data-stu-id="ce80b-106">Plan for your upgrade</span></span>](/MicrosoftTeams/upgrade-plan-journey)
 
-[<span data-ttu-id="4dd8b-109">업그레이드 계획</span><span class="sxs-lookup"><span data-stu-id="4dd8b-109">Plan for your upgrade</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[<span data-ttu-id="ce80b-107">공존 Microsoft Teams 비즈니스용 Skype 이해</span><span class="sxs-lookup"><span data-stu-id="ce80b-107">Understand Microsoft Teams and Skype for Business coexistence</span></span>](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[<span data-ttu-id="4dd8b-110">Microsoft 팀 및 비즈니스용 Skype를 사용 하 여 비즈니스 환경 이해</span><span class="sxs-lookup"><span data-stu-id="4dd8b-110">Understand Microsoft Teams and Skype for Business coexistence</span></span>](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[<span data-ttu-id="ce80b-108">온라인 비즈니스용 Skype 업그레이드 Teams</span><span class="sxs-lookup"><span data-stu-id="ce80b-108">Performing the upgrade from Skype for Business Online to Teams</span></span>](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[<span data-ttu-id="4dd8b-111">비즈니스용 Skype Online에서 팀으로 업그레이드 수행</span><span class="sxs-lookup"><span data-stu-id="4dd8b-111">Performing the upgrade from Skype for Business Online to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[<span data-ttu-id="4dd8b-112">비즈니스용 Skype에서 온-프레미스로 업그레이드 수행</span><span class="sxs-lookup"><span data-stu-id="4dd8b-112">Performing the upgrade from Skype for Business on-premises to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[<span data-ttu-id="ce80b-109">비즈니스용 Skype 프레미스에서 Teams</span><span class="sxs-lookup"><span data-stu-id="ce80b-109">Performing the upgrade from Skype for Business on-premises to Teams</span></span>](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[<span data-ttu-id="4dd8b-113">PowerShell을 사용 하 여 팀의 비즈니스용 Skype Online 상태 확인</span><span class="sxs-lookup"><span data-stu-id="4dd8b-113">Check the status of Skype for Business Online to Teams upgrade with PowerShell</span></span>](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[<span data-ttu-id="ce80b-110">PowerShell을 비즈니스용 Skype 온라인 Teams 상태 확인</span><span class="sxs-lookup"><span data-stu-id="ce80b-110">Check the status of Skype for Business Online to Teams upgrade with PowerShell</span></span>](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
