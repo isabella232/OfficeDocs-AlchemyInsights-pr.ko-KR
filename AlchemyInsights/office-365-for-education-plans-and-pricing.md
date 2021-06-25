@@ -1,5 +1,5 @@
 ---
-title: Office 365 for Education 요금제 및 가격
+title: Office 365 교육용 요금제 및 가격 책정
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,17 +14,19 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 95d398a7f287899d11dc069e9874db805c5f51a8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6abec5038c8b0e0089ed3080f5b06db85766791f
+ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829598"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53104608"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a>전체 학교에 대한 Microsoft 365 무료 다운로드
+# <a name="get-microsoft-365-free-for-your-entire-school"></a>전체 Microsoft 365 무료로 다운로드
 
-무료 생산성 도구를 사용하여 교실 및 학교 공동 작업을 개선합니다. 이러한 혜택의 활용을 위해 공인 교육 기관이 있는지 확인해야 합니다.
+무료 생산성 도구를 사용하여 교실 및 학교 공동 작업을 개선합니다. 이러한 혜택의 활용을 위해 공인 교육 기관인지 확인해야 합니다.
   
 - [교육 계획 검토](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [모든 Microsoft 365 구독 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [시작 Office 365 Education](https://support.office.com/article/get-started-with-office-365-education-ab02abe5-a1ee-458c-b749-5b44416ccf14?wt.mc_id=o365_portal_mmaven&ui=en-US&rs=en-US&ad=US)
+
+- [모든 Microsoft 365 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)
