@@ -13,12 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007390"
 - "12322"
-ms.openlocfilehash: d4033202ca49b9049b141f62169d1cd4f6e69bc7
-ms.sourcegitcommit: 90544da1ad6f50f673add8dc46f89f328b1f24eb
+- "12354"
+- "9007399"
+ms.openlocfilehash: 054174e44122d6ac028a1b4a220ef411cdbdc32e
+ms.sourcegitcommit: 47f0190146d385d0a9e42a049e014e657877ac19
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53362817"
+ms.lasthandoff: 07/10/2021
+ms.locfileid: "53366248"
 ---
 # <a name="microsoft-defender-for-identity"></a>ID용 Microsoft Defender
 
