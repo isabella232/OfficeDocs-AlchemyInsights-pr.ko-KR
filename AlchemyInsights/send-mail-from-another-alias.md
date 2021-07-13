@@ -1,7 +1,7 @@
 ---
 title: 다른 별칭에서 메일 보내기
-ms.author: cmcatee
-author: cmcatee-MSFT
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,17 +14,17 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: dd41ecaf53d926880c5949892f7751906b549b8a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8bb9d2667ca8d08120b0d4dd7dc8f362212c39e6
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823685"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389259"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>별칭 또는 보조 주소에서 전자 메일 보내기
 
-Microsoft 365는 현재 별칭 또는 보조 전자 메일 주소에서 전자 메일 전송을 지원하지 않습니다. 전자 메일 별칭은 전자 메일을 받는 데만 사용할 수 있습니다. 다른 전자 메일 주소에서 전자 메일을 보내고 싶은 경우 공유 사서함을 만들어야 합니다. 공유 사서함은 다른 라이선스 없이 다른 전자 메일 주소를 부여합니다.
+Microsoft 365 현재 별칭 또는 보조 전자 메일 주소에서 전자 메일 보내기가 지원되지 않습니다. 전자 메일 별칭은 전자 메일을 받는 데만 사용할 수 있습니다. 다른 전자 메일 주소에서 전자 메일을 보내고 싶은 경우 공유 사서함을 만들어야 합니다. 공유 사서함은 다른 라이선스 없이 다른 전자 메일 주소를 부여합니다.
   
 - [공유 사서함을 만들 수 있습니다.](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-공유 사서함 사용 [](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) 방법을 포함하여 공유 사서함에 대해 알아야 할 모든 것을 알려 주어 공유 사서함 만들기 문서를 읽을 수도 있습니다.
+공유 사서함 사용 [](/microsoft-365/admin/email/create-a-shared-mailbox) 방법을 포함하여 공유 사서함에 대해 알아야 할 모든 것을 알려 주어 공유 사서함 만들기 문서를 읽을 수도 있습니다.
