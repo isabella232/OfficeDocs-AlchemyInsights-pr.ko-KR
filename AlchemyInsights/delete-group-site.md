@@ -13,21 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "567"
 - "5200006"
+- "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 6087240b0615d4d0d6fcfdbbb77fdc15dbafd289
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49b727ea5d08fff3101b3ab1d00631aaaa74f400
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745828"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532117"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Microsoft 365 그룹에 속한 SharePoint 사이트 삭제
+# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>SharePoint 그룹에 속한 Microsoft 365 사이트 삭제
 
-그룹 연결 사이트를 삭제 하면 해당 그룹 및 모든 해당 자원 (Outlook 사서함과 일정, 팀 채널 등)이 삭제 됩니다.
+그룹 연결 사이트를 삭제하면 그룹과 모든 리소스(Outlook 사서함 및 일정 포함) 및 모든 Teams 삭제됩니다.
   
 중요:
 
-- 93 일 동안 삭제 된 사이트를 복구할 수 있습니다. 삭제 된 그룹은 30 일 이내에 복원 해야 합니다. SharePoint 관리 센터에서 삭제 된 사이트를 직접 [보고 복원](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) 합니다. [ **삭제 된 그룹**을 보고 복원](https://outlook.office.com/people/group/deleted)하려면 **그룹 관리**를 선택 하 고 **삭제 됨**을 선택 합니다.
-- 사이트가 보존 정책의 일부인 경우 사이트가 [보안 & 준수 관리 센터](https://protection.office.com/?rfr=AdminCenter#/retention)에서 제거 될 때까지 해당 사이트를 삭제 하지 못할 수 있습니다. 자세한 내용은 [보존 정책 개요](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)를 참조 하세요.
+- 삭제된 사이트는 93일 동안 복구할 수 있습니다. 삭제된 그룹은 30일 이내에 복원해야 합니다. [사이트 관리 센터에서](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) 직접 삭제된 SharePoint 복원합니다. 삭제된 [그룹을 **보고 복원하려면**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups)그룹 관리를 **선택한** 다음 **삭제를 선택합니다.**
+- 사이트가 보존 정책의 일부인 경우 사이트가 보안 및 준수 관리 센터에서 제거될 때까지 & [수 있습니다.](https://protection.office.com/?rfr=AdminCenter#/retention) 자세한 내용은 보존 정책 [개요를 참조하세요.](/microsoft-365/compliance/retention-policies)
   
-자세한 내용은 [새 SharePoint 관리 센터에서 사이트 관리](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)를 참조 하세요.
+자세한 내용은 새 사이트 관리 센터에서 [사이트 SharePoint 참조하세요.](/sharepoint/manage-sites-in-new-admin-center)

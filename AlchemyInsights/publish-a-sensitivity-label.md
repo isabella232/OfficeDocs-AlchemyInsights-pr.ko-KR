@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539650"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532261"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>민담도 레이블을 게시하는 방법
 
-1. Office 365 보안 및 준수 센터 > **분류** > **민감도 레이블** 로 이동합니다.
+1. Microsoft 365 준수 센터 > **Information Protection** > **레이블 정책** 으로 이동합니다.
 
-1. 민감도 레이블 페이지에서 **레이블 정책** 탭을 선택하고 **레이블 게시** 를 선택합니다.
+1. **+ 레이블 게시** 를 선택하여 새 민감도 레이블 마법사를 시작합니다.
 
 1. **민감도 레이블을 선택하여 게시** 를 선택합니다. 앱과 서비스에서 사용할 수 있도록 설정할 레이블을 선택한 다음 **추가** 를 선택합니다.
 

@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 69beadfaaa9303ddb4b89d288da38b7f7f9a925c
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543655"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532189"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>민감도 레이블을 만드는 방법
 
-1. Office 365 보안 및 준수 센터 > **분류** > **민감도 레이블** 로 이동합니다.
+1. Microsoft 365 준수 센터 > **Information Protection** > **레이블** 로 이동합니다.
 
 1. **+레이블 만들기** 를 선택하고 새 민감도 레이블 마법사를 시작합니다.
 
