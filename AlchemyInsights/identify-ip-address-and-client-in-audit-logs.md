@@ -13,27 +13,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 295418f3c433df2ba1004f4bec4377c68e6bb155
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a596dd4bed90a0d777dcf19c4c82b41c67fac812
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668316"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630291"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>감사 로그에서 IP 주소 및 클라이언트 식별
 
-Microsoft 365 사용자 또는 관리자가 수행한 활동에 해당 하는 IP 주소가 감사 로그에 표시 됩니다. 클라이언트 정보도 기록 됩니다. 이러한 정보를 식별 하는 단계는 다음과 같습니다.
+사용자 또는 관리자가 Microsoft 365 활동에 해당하는 IP 주소가 감사 로그에 표시됩니다. 클라이언트 정보도 기록됩니다. 이러한 정보를 식별하는 단계는 다음과 같습니다.
 
-1. [Microsoft 365 보안 & 준수 센터](https://protection.office.com/)에 로그인 합니다.
+1. Microsoft 365 [센터에 로그인합니다.](https://protection.office.com/)
 
-2. **검색**  >  **감사 로그 검색** 페이지로 이동 합니다.
+2. 검색 감사 **로그 검색**  >  **페이지로** 이동합니다.
 
-   특정 활동에 관심이 있는 경우 **작업** 목록에서 선택 합니다. 그렇지 않으면 선택한 사용자에 대 한 모든 작업이 반환 됩니다 (기본 설정).
+   특정 활동에 관심이 있는 경우 활동 목록에서 해당 **활동을** 선택합니다. 그렇지 않은 경우 선택한 사용자에 대한 모든 활동이 반환됩니다(기본 설정).
 
-   **참고**: 특정 활동은 **활동** 메뉴에서 사용 하지 못할 수 있습니다. 그러나 **모든 작업에 대 한 결과 표시** (기본 설정)가 선택 되어 있으면 이러한 감사 항목이 반환 됩니다.
+   **참고:** 활동 메뉴에서 특정 활동을 사용할 수 없는 **경우도** 있습니다. 그러나 모든 활동에 대한 결과  표시를 선택한 경우(기본 설정) 해당 감사 항목이 반환됩니다.
 
-3. **사용자** 필드에서 사용자 이름을 지정 하 고 활동에 적합 한 날짜 범위를 선택한 다음 **검색**을 클릭 합니다.
+3. 사용자 필드에 사용자 이름을 **지정하고** 활동에 적합한 날짜 범위를 선택한 다음 검색을 **클릭합니다.**
 
-결과 창에서 해당 활동의 IP 주소를 확인할 수 있습니다. 감사 레코드를 선택 하 여 **세부** 정보 플라이 아웃 (예: 클라이언트, 작업을 수행한 사용자)에서 자세한 내용을 확인 합니다.
+결과 창에서 해당 활동에 대한 IP 주소를 볼 수 있습니다. 감사 레코드를 선택하여 세부 정보  플라이아웃에서 자세한 정보(예: 클라이언트, 작업을 수행한 사용자 등)를 볼 수 있습니다.
 
-자세한 내용은 [손상 된 계정에 액세스 하는 데 사용 되는 컴퓨터의 IP 주소 찾기를](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)참조 하십시오.
+자세한 내용은 손상된 계정에 액세스하는 데 사용되는 컴퓨터의 IP 주소 [찾기를 참조하세요.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)
