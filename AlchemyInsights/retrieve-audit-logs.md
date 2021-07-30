@@ -1,6 +1,6 @@
 ---
 title: 감사 로그 검색
-ms.author: pebuam
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/16/2021
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "10964"
 - "3100005"
-ms.openlocfilehash: ec772e925436aff4924889211f2219f255bb57f1
-ms.sourcegitcommit: 974bf19f4262841ab2bfd81c10a243eab05484c4
+ms.openlocfilehash: 49743b1e9158319ecb80f0a007d8d73930888df1
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51871436"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630111"
 ---
 # <a name="retrieve-the-audit-logs"></a>감사 로그 검색
 
 감사 로그를 처음 열면, 해당 로그가 비어 있습니다. 내용을 확인하려면 검색을 수행해야 합니다. 다음은 모든 활동에 대해 일반 검색을 수행하는 방법입니다.
 
-1. 감사 로그 검색 페이지(또는 관리 센터> **보안 및 준수 센터** > **검색 및 조사** > **감사 로그 검색**)로 이동합니다.
+1. 감사 로그 검색 페이지(또는 관리 센터> **Microsoft 365 규정 준수 센터** > **검색 및 조사** > **감사 로그 검색**)로 이동합니다.
 
 1. **활동** 상자에서 기본값인 **모든 활동에 대한 결과 표시** 를 수락합니다.
 
