@@ -4,6 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,15 +12,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: 8fdd92779f009626afb8e9158e09c8254f089e42
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dcad436c5aa5793560a758d1b5806ecd412f09cd
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811606"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685992"
 ---
 # <a name="help-understanding-your-bill"></a>청구서 이해 지원
 
@@ -33,4 +35,4 @@ ms.locfileid: "51811606"
 
 - 구독이 변경된 새 기간 및 라이선스 가격으로 갱신되었습니다.
 
-송장에 대한 자세한 내용은 [다음을 참조하세요. 송장 이해](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+송장에 대한 자세한 내용은 [다음을 참조하세요. 송장 이해](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

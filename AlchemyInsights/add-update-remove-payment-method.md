@@ -3,20 +3,23 @@ title: 결제 방법 추가, 업데이트 또는 제거하기
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce_billing
 - "9002348"
 - "4574"
-ms.openlocfilehash: 12b0eee609f684332dbae1b88c5d43f550ea6e02
-ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
+ms.openlocfilehash: 72278f41f2c29039d407a1ff0ad5680e99dbe45c
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2021
-ms.locfileid: "52882659"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53680592"
 ---
 # <a name="add-update-or-remove-payment-method"></a>결제 방법 추가, 업데이트 또는 제거하기
 

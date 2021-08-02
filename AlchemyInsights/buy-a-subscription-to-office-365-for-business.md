@@ -1,8 +1,10 @@
 ---
-title: 무료 평가판에서 Microsoft 365 비즈니스에 대 한 구독 구입
+title: 무료 평가판에서 Microsoft 365 비즈니스용 구독 구입
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,32 +12,33 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: e4e2024031ea539ae5107569481eb30e20649067
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: b45615a13d566c4c66b55bc989971864890ded9c
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416202"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686064"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>무료 평가판에서 Microsoft 365 구독 구입
 
-Microsoft 365를 사용해 보았지만 이제 구매할 준비가 되었습니다. 평가판에서 Microsoft 365을 구매할 때는 다음과 같은 두 가지 옵션을 사용할 수 있습니다.
+You've tried Microsoft 365, and now you're ready to buy. 평가판에서 구매할 Microsoft 365 두 가지 옵션이 있습니다.
   
  **평가판과 동일한 계획 구입**
   
-1. 관리 센터에서 **결제**\> [내 상품](https://go.microsoft.com/fwlink/p/?linkid=842054)페이지로 이동하세요.
-2. **제품** 탭에서 구매할 구독을 선택 합니다.
-3. 구독 정보 페이지의 **라이선스** 섹션에서 **지금 유료 구독 구입**을 선택 하 고 단계에 따라 확인 합니다.
+1. 관리 센터에서 **청구** \> [내 상품](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동합니다.
+2. 제품 **탭에서** 구입하려는 구독을 선택합니다.
+3. 구독 세부 정보 페이지의 라이선스 **섹션에서** 지금 유료 구독 구입을 선택하고 단계에 따라 체크 아웃합니다.
  
 **다른 구독 구입**
   
-1. 관리 센터에서 **결제** \> [구매 서비스](https://go.microsoft.com/fwlink/p/?linkid=868433) 페이지로 이동 합니다.
-2. 구매할 구독을 찾고, **구매**를 선택 하 고, 단계에 따라 체크 아웃 합니다.
+1. 관리 센터에서 청구 구매  서비스 \> [페이지로](https://go.microsoft.com/fwlink/p/?linkid=868433) 이동합니다.
+2. 구입하려는 구독을 찾고 구입을 선택하고 단계에 따라 체크 아웃합니다.
 
-자세한 내용은 [무료 평가판에서 구독 구매](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)를 참조 하세요.
+자세한 내용은 무료 [평가판에서 구독 구입을 참조하세요.](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
 
 **문제 해결**
 

@@ -3,6 +3,8 @@ title: 소매 선불 카드
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: commerce_purchase
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,21 +12,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: 1785cc69d00211cf025814e66ae317fc5b69e8bd
-ms.sourcegitcommit: 84f0aebdb278703f642a0c33fe260e3aee849be9
+ms.openlocfilehash: a6876ee3e10f970e01b35f4e74198f94e03e5b7f
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51217962"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688620"
 ---
 # <a name="retail-prepaid-card"></a>소매 선불 카드
 
-소매점에서 Microsoft 365 Business Standard를 구매한 경우 다음 단계에 따라 만료 날짜를 연장하거나 기존 구독에 라이선스를 추가합니다.
+소매점에서 Microsoft 365 Business Standard 구입한 경우 다음 단계에 따라 만료 날짜를 연장하거나 기존 구독에 라이선스를 추가합니다.
 
 > [!NOTE]
-> 제품 키를 사용하여 만료 날짜를 연장하거나 기존 Microsoft 365 Business Standard 구독에 라이선스를 추가하려면 동일한 Microsoft 365 구독에 대한 새 키와 사용되지 않은 키가 필요합니다. 이미 교환된 키를 다시 사용할 수 없는 원래 Microsoft 365 제품 키를 입력하면 작동하지 않습니다.
+> 제품 키를 사용하여 만료 날짜를 연장하거나 기존 Microsoft 365 Business Standard 구독에 라이선스를 추가하려면 동일한 구독에 대해 새 키와 사용되지 않는 Microsoft 365 필요합니다. 이미 교환된 키를 다시 사용할 수 Microsoft 365 원래 제품 키를 입력하면 작동하지 않습니다.
 
 1. 관리 센터에서 **청구** > **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** 페이지로 이동하세요.
 2. 라이선스를 확장하거나 추가할 구독을 찾아야 합니다. 종료 [날짜 연장을 선택하거나](https://go.microsoft.com/fwlink/p/?linkid=842054) [라이선스를 더 추가합니다.](https://go.microsoft.com/fwlink/p/?linkid=842054)

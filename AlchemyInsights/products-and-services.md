@@ -3,20 +3,22 @@ title: 제품
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_subscriptions
 - "9001669"
 - "3736"
-ms.openlocfilehash: 33eef4182cce2f84275368b3cad88fa94db40e58
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: a4f8f9cfa7b9d41c74ce9ffdf6a2cd3eef71fa08
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602262"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688908"
 ---
 # <a name="your-products"></a>제품
 

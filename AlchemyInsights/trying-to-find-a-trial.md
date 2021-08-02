@@ -4,6 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,19 +12,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: eb6d6dc4aad5e5b00b34f93211a51ba6edcdbeec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1243139fadb62b17bee217ecdf6e4f977f539a2e
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834701"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685200"
 ---
 # <a name="trying-to-find-a-trial"></a>평가판을 찾으려고 하나요?
 
-새 서비스를 체험하려는 경우 Microsoft 365 관리 센터에서 평가판에 사용할 수 있는 구독 목록을 찾을 수 있습니다.
+새 서비스를 체험하려는 경우 해당 서비스에서 평가판에 사용할 수 있는 구독 목록을 Microsoft 365 관리 센터.
   
 1. 관리 센터에서 청구 구매  서비스 \> [페이지로](https://go.microsoft.com/fwlink/p/?linkid=868433) 이동합니다.
 

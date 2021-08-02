@@ -3,6 +3,7 @@ title: 만료된 구독
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: f8e317f5911105e495d17f1242da86fe590651f9
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 23deea0e03b1d9a2208de38d16018a3679e8add3
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544188"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686784"
 ---
 # <a name="expired-subscription"></a>만료된 구독
 
@@ -26,8 +28,8 @@ ms.locfileid: "52544188"
   
 **다시 활성화**
   
-1. 관리 센터에서 **결제**\> [내 상품](https://go.microsoft.com/fwlink/p/?linkid=842054)페이지로 이동하세요.
-2. **제품** 탭에서 다시 활성화하려는 구독을 찾으세요. 세 점(추가 작업)을 선택한 다음 이 구독 다시 **활성화 를 선택합니다.**
+1. 관리 센터에서 **청구** \> [내 상품](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동합니다.
+2. **제품** 탭에서 다시 활성화하려는 구독을 찾고 세 개의 점(추가 작업)을 선택한 다음 **구독 다시 활성화** 를 선택합니다.
     > [!NOTE]
     > 이 구독 다시 활성화가 **표시되지 않는 경우** 지원에 문의하세요.
 3. **이 구독 다시 활성화** 창의 드롭다운 목록에서 결제 방법을 선택하거나 **결제 방법 추가** 를 선택합니다.

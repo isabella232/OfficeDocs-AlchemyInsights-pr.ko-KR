@@ -3,6 +3,8 @@ title: 신용카드 정보 업데이트
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 2b39c30406924acb3c1b943b81a2719c41b19432
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8aa177ed01fbd6c3b5c3e99ce5300111b19c76d5
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830327"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685524"
 ---
 # <a name="update-credit-card-information"></a>신용카드 정보 업데이트
 
@@ -29,7 +32,7 @@ ms.locfileid: "51830327"
 2. 업데이트하려는 신용 카드를 선택합니다.
 
     > [!NOTE]
-    > 다른 관리자가 결제 수단을 추가한 경우 신용 카드 또는 은행 계좌 정보를 업데이트 할 수 없습니다. 신용 카드가 곧 만료되고 다른 관리자가 업데이트 할 수없는 경우 **지불 방법 추가** 를 선택하여 가입에 대한 다른 신용 카드 또는 새 은행 계좌를 추가하여 서비스 중단을 방지할 수 있습니다.
+    > 다른 관리자가 결제 수단을 추가한 경우 해당 신용 카드 또는 은행 계좌 정보를 업데이트할 수 없습니다. 신용 카드가 곧 만료되고 다른 관리자가 이를 업데이트할 수 없는 경우 **결제 수단 추가** 를 선택하여 구독에 대해 다른 신용 카드나 새 은행 계좌를 추가하여 서비스 중단을 막을 수 있습니다.
   
 3. **결제 방법 세부 정보** 창에서 **편집** 을 선택합니다. 
 
@@ -41,4 +44,4 @@ ms.locfileid: "51830327"
 
 페이지를 로드하는 데 문제가 발생한 경우 다른 브라우저에서 웹 페이지를 열거나 Google Chrome의 시크릿 모드나 Microsoft Edge의 InPrivate 등의 개인 브라우저 창에서 페이지를 열어 보세요. 
 
-자세한 내용은 [결제 방법 관리하기](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)를 참조하세요.
+자세한 내용은 [결제 방법 관리하기](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)를 참조하세요.

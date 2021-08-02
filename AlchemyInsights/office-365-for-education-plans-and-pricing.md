@@ -4,6 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,15 +12,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: f796bc65baccfe4d424a3a690eced472a0ca3561
-ms.sourcegitcommit: 00a9c41575be54dccac6c423f2de824b47a4ee9e
+ms.openlocfilehash: 6a90754b0cedb1c50334ece8340f4bbaf7c8eb88
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53176563"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686280"
 ---
 # <a name="get-microsoft-365-free-for-your-entire-school"></a>전체 Microsoft 365 무료로 다운로드
 

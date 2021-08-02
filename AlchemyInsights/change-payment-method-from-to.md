@@ -3,26 +3,29 @@ title: 결제 방법 변경
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: 7651ca75cc954e222b45fe1172554de0174fb4e0
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: b32e4e99e576a2aa118fa6a5f5b968c30709ea8b
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601388"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685344"
 ---
 # <a name="change-payment-method-fromto"></a>(에서/로)결제 방법 변경
 
 1. **송장에서 신용 카드 또는 은행 계좌로 변경**
 
-    - 송장 결제에서 다른 결제 방법으로 자동 변경할 수 없습니다. 대신 신용 카드 또는 직불 카드 또는 은행 계좌로 결제된 [다른 구독을 구입](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)하고 [모든 사용자를 새 구독으로 이동](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)한 다음 [이전 구독을 취소](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)해야 합니다.
+    - 송장 결제에서 다른 결제 방법으로 자동 변경할 수 없습니다. 대신 신용 카드 또는 직불 카드 또는 은행 계좌로 결제된 [다른 구독을 구입](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)하고 [모든 사용자를 새 구독으로 이동](/microsoft-365/commerce/subscriptions/move-users-different-subscription)한 다음 [이전 구독을 취소](/microsoft-365/commerce/subscriptions/cancel-your-subscription)해야 합니다.
 
 2. **신용 카드 또는 은행 계좌에서 송장으로 변경**
 
@@ -32,4 +35,4 @@ ms.locfileid: "50601388"
 
     - [어떻게 신용 카드 결제에서 송장 결제로 변경할 수 있나요?](how-do-i-change-from-credit-card-payments-to-invoice.md)의 단계를 따라 수동 변경을 완료합니다.
 
-자세한 내용은 [구독 결제 방법](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)을 참조하세요.
+자세한 내용은 [구독 결제 방법](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)을 참조하세요.

@@ -13,20 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "11513"
 - "9006672"
-ms.openlocfilehash: 5a732e6746e9fd23e54a0b2ffeabb59623012a0e
-ms.sourcegitcommit: 9de78b30602f917d58705057cdcce31fec349969
+ms.openlocfilehash: a56abdaae182b840a1a96466e0581ef49b2b0075
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52760856"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688980"
 ---
 # <a name="enable-teams-webinars"></a>Teams 웨비나 사용
 
-웨비나는 기본적으로 사용하도록 설정됩니다. Teams PowerShell 명령을 사용하여 Teams 웨비나를 예약하고 등록할 수 있는 사용자를 관리할 수 있습니다.
+웹 세미나 등록은 기본적으로 사용할 수 있습니다. 모임 등록을 끄려면 Teams 관리 센터를 사용할 수 있습니다. 
 
-- 모임을 만들 수 있는 모든 사용자는 웨비나 모임도 만들 수도 있습니다. Teams 웨비나를 예약할 수 있는 사용자를 관리하려면 *AllowMeetingRegistration* 을 사용합니다. 
-- 기본적으로 *WhoCanRegister* 사용하도록 설정되고 **Everyone** 로 설정됩니다. 모임 등록을 끄려면 *AllowMeetingRegistration* 을 **False** 로 설정합니다.
+1. [Teams 관리 센터](https://admin.teams.microsoft.com/policies/meetings)로 이동합니다. 
 
-이러한 설정을 변경하려면 [Teams PowerShell](/microsoftteams/teams-powershell-install)을 설치해야 합니다. 또한 모임 정책이 Teams 웨비나에 적용됩니다. 예를 들어 모임 설정에서 익명 참가가 해제된 경우 익명 사용자는 웨비나에 참가할 수 없습니다.
+2. **글로벌(조직 전체 기본값) 정책** 또는 기타 정책을 선택합니다. 
 
-웨비나에 등록할 수 있는 사용자를 구성하는 방법에 대한 자세한 내용은 [웨비나에 등록할 수 있는 사용자 구성](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars)을 참조하세요. Microsoft Lists의 설정에 대한 자세한 내용은 [Microsoft Lists에 대한 컨트롤 설정](/sharepoint/control-lists)을 참조하세요.
+3. **일반** 에서 **모임 등록 허용** 을 **끔** 으로 설정합니다. 
+
+모임 등록이 **켜기** 로 설정된 경우 Teams 관리 센터를 사용하여 Teams 웹 세미나에 등록하는 사람을 관리할 수도 있습니다. 
+
+1. [Teams 관리 센터](https://admin.teams.microsoft.com/policies/meetings)로 이동합니다. 
+
+2. **글로벌(조직 전체 기본값) 정책** 또는 기타 정책을 선택합니다. 
+
+3. **일반** 에서 **등록할 수 있는 사람** 설정으로 이동하여 **모든 사람** 또는 **회사 내 모든 사람** 을 선택합니다. 
+
+**참고**: 모임 설정에서 익명 참가가 해제된 경우 익명 사용자는 웨비나에 참가할 수 없습니다. 이 설정을 사용하는 방법에 대한 자세한 내용은  [Microsoft Teams에서 모임 설정 관리](/microsoftteams/meeting-settings-in-teams)를 참조하세요. 
+
+웨비나에 등록할 수 있는 사람을 구성하고 Teams PowerShell을 사용하여 이러한 정책을 관리하는 방법에 대해 자세히 알아보려면  [웹 세미나에 등록할 수 있는 사람 구성](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars)을 참조하세요. Microsoft Lists의 설정에 대한 자세한 내용은  [Microsoft Lists에 대한 컨트롤 설정](/sharepoint/control-lists)을 참조하세요. 

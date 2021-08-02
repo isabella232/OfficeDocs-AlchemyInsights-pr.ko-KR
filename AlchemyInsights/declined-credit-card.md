@@ -1,9 +1,10 @@
 ---
-title: 거절 한 신용 카드
+title: 거절된 신용 카드
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 7e060ffa586d7b2dc6b64d7fcd6a672645e09096
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 76ce53116ef0bcfaf382dfde4b0bc0fa7829c5c8
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416674"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688656"
 ---
-# <a name="declined-credit-card"></a>거절 한 신용 카드
+# <a name="declined-credit-card"></a>신용 카드 거부
 
-신용 카드로 결제하려다가 신용 카드가 거부된 경우에는 결제를 처리하지 못했다는 내용의 전자 메일을 받습니다. 신용 카드 [정보](https://go.microsoft.com/fwlink/p/?linkid=842054) -카드 번호, 만료 날짜, 신용 카드의 이름, 주소 (구/군/시, 시/도, 우편 번호 등)가 신용 카드 및 신용 카드 명세서와 정확히 일치 하는지 확인 합니다. 신용 카드 정보를 업데이트 하 고 제품 청구 페이지의 **임금** **잔액** 옵션을 사용 하 여 결제를 즉시 제출할 수 있습니다  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+신용 카드로 결제하려다가 신용 카드가 거부된 경우에는 결제를 처리하지 못했다는 내용의 전자 메일을 받습니다. 신용 카드 정보(카드 번호, 만료 날짜, 신용 카드의 이름 및 주소(도시, 시 및 우편 번호 포함)가 신용 카드 및 신용 카드 명세서와 동일하게 나타나는지 다시 한 번 확인하십시오. [](https://go.microsoft.com/fwlink/p/?linkid=842054) 청구 제품 페이지의 잔액 결제 옵션을 사용하여  신용 카드 정보를 업데이트하고 즉시 **결제를**  >  [제출할 수](https://go.microsoft.com/fwlink/p/?linkid=842054) 있습니다.
 
-자세한 내용은 "신용 카드의 만료 및 지불 기한이 끝난 경우"를 참조 하세요. [Microsoft 365 for business 구독에 대 한 결제](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
+자세한 내용은 "신용 카드가 만료되고 결제 기한이 지난 경우 어떻게 됩니까?"를 참조합니다. 에서 [비즈니스용 Microsoft 365 대한 결제를 선택합니다.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
   
 "거부"되었다는 메시지가 계속 표시되면 해당 은행에 문의하세요. 신용 카드가 활성화되지 않았을 수 있습니다. 예를 들어 최근에 만료 날짜가 업데이트된 신용 카드를 우편으로 받은 경우 신용 카드를 활성화해야 할 수 있습니다. 또한 해당 은행에서 신용 카드가 온라인 거래, 국제 거래 또는 반복 거래에 대해 승인되지 않았는지 여부를 알려줄 수 있습니다.  
   
-자세한 내용은 [결제 방법 관리](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)를 참조 하세요.
+자세한 내용은 [결제 방법 관리를 참조하세요.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

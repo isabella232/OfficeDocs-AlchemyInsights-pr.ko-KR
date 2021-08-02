@@ -3,6 +3,8 @@ title: 청구 및 결제
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820400"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686892"
 ---
 # <a name="billing-and-payment"></a>청구 및 결제
 
@@ -52,10 +55,10 @@ ms.locfileid: "51820400"
 
 7. 드롭다운 목록에 새 결제 방법이 이미 선택되어 있습니다. **변경** 을 선택합니다.
 
-자세한 내용은 [결제 방법 관리](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)를 참조하세요.
+자세한 내용은 [결제 방법 관리하기](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)를 참조하세요.
 
 **청구 주기**
 
 청구는 체크 아웃 시 선택한 청구 주기에 따라 월간 또는 매년 생성됩니다.  
 
-**참고:** 라이선스 추가 또는 제거와 같이 변경된 경우 연간 청구가 있는 주문에 중간에 청구서를 받을 수 있습니다. [청구 주기를 변경합니다.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**참고:** 라이선스 추가 또는 제거와 같이 변경된 경우 연간 청구가 있는 주문에 중간에 청구서를 받을 수 있습니다. [청구 주기를 변경합니다.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

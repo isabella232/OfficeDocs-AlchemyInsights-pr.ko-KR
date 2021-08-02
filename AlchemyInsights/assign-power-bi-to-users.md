@@ -3,6 +3,8 @@ title: 사용자에게 Power BI 할당
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, sinakassaw
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9002564"
 - "4964"
-ms.openlocfilehash: 85e6105483a6b493753cdea48262d3e3a2141a50
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: c14734e848ebd381d76a985d93d04a7be4b51e45
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601794"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688188"
 ---
 # <a name="assign-power-bi-to-users"></a>사용자에게 Power BI 할당
 
@@ -30,4 +33,4 @@ ms.locfileid: "50601794"
 5. **앱 및 서비스를 설정 또는 해제** 를 클릭하여 할당하거나 제거합니다.
 6. **할당** 에 이어 **닫기** 를 클릭합니다.
 
-라이선스를 더 구매하거나 라이선스를 제거하려면 [라이선스 구입 또는 제거](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)를 참조하세요.
+라이선스를 더 구매하거나 라이선스를 제거하려면 [라이선스 구입 또는 제거](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)를 참조하세요.

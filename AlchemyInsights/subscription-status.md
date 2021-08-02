@@ -3,6 +3,7 @@ title: 구독 상태
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,20 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9001519"
 - "3586"
-ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 9d26786b1d1643278b50d25fd52f8eb46b4cfbef
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542791"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689556"
 ---
 # <a name="subscription-status"></a>구독 상태
 
-구독 상태, 만료 날짜 및 라이선스 수는 Microsoft 365  관리 센터의 제품 페이지에서 찾을 수 있습니다.
+구독 상태, 만료 날짜 및 라이선스 수는 해당  구독의 제품 페이지에서 Microsoft 365 관리 센터.
 
-1. 관리 센터에서 **빌링** > [제품](https://go.microsoft.com/fwlink/p/?linkid=842054)페이지로 이동합니다.
+1. 관리 센터에서 **청구** > [제품](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하세요.
 2. 제품 **탭에는** 기본적으로 모든 구독 및 해당 상태(활성, 만료, 비활성화 또는 삭제)가 표시됩니다. 모든 구독의 하위 집합을 표시하려면 필터 아이콘을 선택한 다음 표시하려는 **구독** 상태를 선택합니다.
 3. 만료되었거나 비활성화된 구독을 다시 활성화하려면 세 점(추가 작업)을 선택한 다음 이 구독 다시 활성화 **를 선택합니다.**
 4. 제품 **페이지에는** 다음 정보도 표시됩니다.
