@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5119"
-ms.openlocfilehash: c32f3f10e2e17cf67e73ec8404be293eeefb68a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 75fd61e18503292bd5fa9e48c7cdba7692282925a419b3230d17448eab928ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821669"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934263"
 ---
 # <a name="aip-scanner-installation-and-configuration"></a>AIP 스캐너: 설치 및 구성
 

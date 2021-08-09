@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 53aeac4c-00cb-4395-9d9b-b344cc5ada6f
-ms.openlocfilehash: a5554a45b3b295500e34ea13016b4b07a844c8f4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bb4b0702daf4352b9ce4da6ee78bc473964c30be29558db045d53821f6b035fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821849"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934443"
 ---
 # <a name="become-an-admin"></a>관리자 되기
 

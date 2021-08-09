@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "5643"
-ms.openlocfilehash: 4f12747bbc872e3215fd727c774263985f8d85ad
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8bac8e1c219640aa11ed3cd0d3a5b7dd6b1d6282b9a626997f18431b037d2cdb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824405"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006500"
 ---
 # <a name="users-cant-access-a-shared-folder-in-sharepoint-online"></a>사용자가 SharePoint Online에서 공유 폴더에 액세스할 수 없음
 

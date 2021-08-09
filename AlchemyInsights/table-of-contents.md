@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3042"
 - "9000592"
-ms.openlocfilehash: c44e18d349624d9fed172bc3ffecc59b41717dda
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 35e56f7175e94b24cb4ee5401d121bc05150ae5aa37d1f89e4da5989a80906e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831056"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909103"
 ---
 # <a name="table-of-contents"></a>목차
 

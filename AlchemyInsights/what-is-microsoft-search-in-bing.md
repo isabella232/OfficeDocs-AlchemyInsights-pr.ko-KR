@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9291"
 - "9005423"
-ms.openlocfilehash: cc502ef60814e798de2d2376983b86032afbec1a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 697e19801c8f6829a5d318de0b9f5a0b86b26b2e3d4390b0fd05bee5ffa81080
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898322"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907960"
 ---
 # <a name="what-is-microsoft-search-in-bing"></a>Bing의 Microsoft Search란 무엇일까요?
 

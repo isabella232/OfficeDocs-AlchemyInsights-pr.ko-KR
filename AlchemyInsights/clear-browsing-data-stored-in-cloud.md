@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9425"
 - "9005491"
-ms.openlocfilehash: c79cc5affb4e58e911cba0b4fb4a0d601eef6ce9
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.openlocfilehash: 531e12faeeaf3abe9c6a3f017186049cc1003c491802bb4306f441774ed99a11
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51441167"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006464"
 ---
 # <a name="clear-the-browsing-data-stored-in-the-cloud-if-youve-turned-on-sync-or-personalization"></a>클라우드에 저장된 데이터 검색 지우기(동기화 또는 개인 설정을 사용하는 경우)
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 7baa010cc0b18b5d2a295623639fabf2bc5f88ec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 90448bf57297ce59ba222efd1927b5de588bfbfdb1206b6403764d7f43fed690
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821633"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934299"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>AIP: 정책이 예상대로 작동하지 않음
 

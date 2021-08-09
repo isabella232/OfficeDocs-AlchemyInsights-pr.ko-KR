@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "12305"
 - "9007383"
-ms.openlocfilehash: acd9373a563cb936205ad76e653eedecc30157f7
-ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
+ms.openlocfilehash: 93d2f568de570ef995b966e8a941cf1724335e733fed5521280396516437d698
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53533009"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909126"
 ---
 # <a name="sync-users-from-your-windows-server-active-directory"></a>Windows Active Directory에서 사용자 동기화
 

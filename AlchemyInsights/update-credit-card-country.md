@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10966"
 - "1500016"
-ms.openlocfilehash: bd0d7ab2832f554cadafd4513763196d724da5e1
-ms.sourcegitcommit: 974bf19f4262841ab2bfd81c10a243eab05484c4
+ms.openlocfilehash: e23181b5258bd94752a53ca02a7df07eb268602e29dd8171dd1a04f58a45b75f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51871439"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908536"
 ---
 # <a name="update-credit-card-country-information"></a>신용 카드 국가 정보 업데이트
 

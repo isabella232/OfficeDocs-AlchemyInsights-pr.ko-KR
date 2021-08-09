@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: 70472d6a25a386eff623389d29a4463098adb45a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2742b0d85a80bcca91997adf2b95f1e6b9f5a1a796d8111a961f545f2364613d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830399"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060682"
 ---
 # <a name="unable-to-receive-email-from-gmail-accounts"></a>Gmail 계정에서 전자 메일을 받을 수 없습니다.
 

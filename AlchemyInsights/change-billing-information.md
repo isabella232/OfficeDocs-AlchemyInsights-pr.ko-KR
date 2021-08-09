@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9002555"
 - "4942"
-ms.openlocfilehash: 736cf7124474c4e6b2349b1e93a328ba43b1ed81
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 841a1ffef8b6bcc381cddb82993fa0fc391b33aa7429b52b73cd0c0da3b879f7
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687072"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54498906"
 ---
 # <a name="change-billing-information"></a>대금 청구 정보 변경
 

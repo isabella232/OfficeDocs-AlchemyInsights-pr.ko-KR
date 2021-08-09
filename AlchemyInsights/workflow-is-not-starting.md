@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 77a3c022a9a3a82041b4a4a70c72c2e0940c0fba27f296f07881e3abebf1e464
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403749"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907744"
 ---
 # <a name="workflow-is-not-starting"></a>워크플로가 시작되지 않습니다.
 
@@ -28,7 +28,7 @@ ms.locfileid: "51403749"
 
     - 이 문제가 처음 확인된 후 24시간 이상이 지난 경우 지원 티켓을 기록하세요. 대부분의 경우 당사는 이미 해결 방법에 대한 작업을 하고 있습니다. 솔루션을 완료하는 데 최소 24시간을 기다렸다가 해결합니다.
 
-- 시작 시 SharePoint 2010 워크플로가 지연됩니다.
+- SharePoint 2010 워크플로가 지연됩니다.
 
     - 워크플로가 대규모 일괄 처리에서 트리거되는 경우 발생합니다. 예를 들어 한에 여러 항목이 추가된 경우입니다.
 
@@ -44,6 +44,6 @@ ms.locfileid: "51403749"
 
 
 ## <a name="related-topics"></a>관련 항목
-SharePoint Online에서 Microsoft Flow를 사용해 보시겠습니까?
-- [흐름 만들기](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+온라인에서 Microsoft Flow SharePoint 싶나요?
+- [사용자 Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint 및 Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
