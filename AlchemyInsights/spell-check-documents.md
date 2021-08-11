@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002912"
 - "5590"
-ms.openlocfilehash: e7cc5fbc85853eaecbc1914af137025b76ee9e9d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0db7c6bfd6b73c8cf8642493ea1c2c55fa238b20b7f9e029d290339b9b30c126
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835241"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909868"
 ---
 # <a name="spell-check-documents"></a>문서의 맞춤법 검사
 

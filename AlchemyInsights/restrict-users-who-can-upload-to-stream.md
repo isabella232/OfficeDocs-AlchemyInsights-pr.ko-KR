@@ -13,12 +13,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5096"
-ms.openlocfilehash: d13cf65ff7508897a8f30140bab858c7b6c70e36
-ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
+ms.openlocfilehash: 76d389698f082608d2cf7e2f21033f764757873be24e330c0596e053b4a85ea6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53389367"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943129"
 ---
 # <a name="restrict-users-who-can-upload-to-stream"></a>Stream에 업로드할 수 있는 사용자 제한
 

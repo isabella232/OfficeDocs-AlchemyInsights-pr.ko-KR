@@ -1,5 +1,5 @@
 ---
-title: 1575-PowerApps 및 Microsoft Flow 계획 확장
+title: 1575-PowerApps 및 Microsoft Flow 확장
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728401"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960445"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps 및 Microsoft Flow plan extension
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps 및 Microsoft Flow 확장
 
-**Microsoft Flow** 또는 **PowerApps** 에 대 한 계획 확장을 요청 하 고 테 넌 트에 이미 다음 기능 중 하나의 활성 사용자가 있는 경우에는 지원 요청을 파일 할 필요가 없습니다.
+Microsoft Flow **또는 PowerApps에** 대한 계획 확장을 요청하려는 경우 **테넌트에** 다음 기능 중 하나에 대한 활성 사용자가 이미 있는 경우 지원 요청을 제출할 필요가 없습니다.
 
-- PowerApps 및 Microsoft Flow에서 사용자 지정 커넥터 만들기 및 게시
-- SharePoint 및 OneDrive 외부에 흐름에 통합 된 HTTP 사용자 지정 작업
-- 온-프레미스 데이터 게이트웨이를 통한 온-프레미스 데이터 통합
+- PowerApps 및 2013에서 사용자 지정 커넥터 만들기 및 Microsoft Flow
+- HTTP 사용자 지정 작업은 Flow 및 외부 SharePoint 통합된 OneDrive
+- 사내 데이터 게이트웨이를 통한 사내 데이터 통합
 
-사용자가 이러한 기능을 사용 하는 고객은 더 이상 기존 Microsoft 365 구독 기간이 만료 2020 될 때까지 자동 확장을 받게 됩니다.
+이러한 기능의 활성 사용자가 있는 고객은 2020년 1월 31일까지 자동 확장 또는 기존 Microsoft 365 구독 기간 만료(더 길게)를 얻게 됩니다.

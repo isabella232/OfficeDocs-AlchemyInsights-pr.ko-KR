@@ -1,5 +1,5 @@
 ---
-title: Alchemy-Outlook 충돌 문제 해결 단계
+title: 연금술 - Outlook 문제 해결 단계
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 01179dde29cd07256a5f6e0ece539c5c02c25dfd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69c606e0987b5025a5c1e7340159ec06afe4b8e084c61615778a90114f9b4ecb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718663"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933687"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook 충돌 문제 해결 단계
 
-Outlook 데스크톱 충돌 문제가 발생 하는 경우 다음의 세 단계를 시작 합니다 (이 문서에서 자세히 설명 됨). [outlook이 충돌 하거나 응답을 중지 하는 문제를 해결](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues) 하는 방법입니다.
+데스크톱 충돌 Outlook 문제가 있는 경우 이 문서에 자세히 나열된 아래 세 단계를 수행하여 시작하세요. 이 문서에 나와 있는 문제 해결 방법: Outlook 충돌 또는 응답 [중지.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-1 단계: 추가 기능에서 발생할 수 있는 문제를 조사 합니다.
+1단계: 추가 기능에서 가능한 문제를 조사합니다.
   
-2 단계: Outlook을 복구 하 고 [지원 및 복구 도우미 도구](https://aka.ms/SaRA-OutlookWontStart) 를 실행 하 여 영향을 받는 시스템에서 outlook 시작 오류 문제를 해결 합니다.
+2단계: Outlook 복구하고 지원 및 복구 도우미 [](https://aka.ms/SaRA-OutlookWontStart) 도구를 실행하여 영향을 받는 Outlook 시작 오류를 해결합니다.
   
-3 단계: 새 Outlook 프로필을 만들거나 영향을 받는 시스템에서 [outlook 프로필 도구](https://aka.ms/SaRA-OutlookSetupProfile) 를 실행 합니다.
+3단계: 새 Outlook 프로필을 만들거나 영향을 받는 Outlook [프로필](https://aka.ms/SaRA-OutlookSetupProfile) 도구를 실행합니다.
   
-업데이트 후에 문제가 발생했고 위의 단계로 해결되지 않는 경우에는 이전 빌드로 되돌려야 할 수 있습니다. [이전 버전의 Office로 되돌리는 방법을](https://support.microsoft.com/help/2770432)참조 하십시오. 2016 간편 실행을 선택 합니다.
+업데이트 후에 문제가 발생했고 위의 단계로 해결되지 않는 경우에는 이전 빌드로 되돌려야 할 수 있습니다. 이전 [버전의 Office 2016 Click-to-Run으로](https://support.microsoft.com/help/2770432)되전하는 방법을 참조하세요.
   

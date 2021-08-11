@@ -1,5 +1,5 @@
 ---
-title: Alchemy-Outlook 연결 문제를 진단 하 고 해결 합니다.
+title: Alchemy - 연결 Outlook 진단 및 해결
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,16 +14,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: b2cce7e7d87558a773e63f518e1a52192fefd92c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f10eb569be90ba8f5f5fafc50f70c79e15a4c693c7798f804da4206846eccecc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718699"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933723"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Outlook 연결 문제 진단 및 해결
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>연결 문제 Outlook 진단 및 해결
 
-Outlook 연결 문제를 진단 하 고 해결 하려면 영향을 받는 컴퓨터에서 [outlook 연결 도구](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) 를 실행 하면 됩니다.
+연결 문제를 Outlook 해결하려면 영향을 받는 Outlook 연결 [](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) 도구를 실행하면 됩니다.
   
-이 도구는 진단 검사를 수행 하 고 Outlook 연결 문제를 해결 하기 위한 가능한 솔루션을 제시 합니다.
+이 도구는 진단 검사를 수행하고 연결 문제를 해결하기 위한 가능한 Outlook 제안합니다.
   
