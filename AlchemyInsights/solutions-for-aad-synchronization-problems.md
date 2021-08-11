@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002418"
 - "4695"
-ms.openlocfilehash: fa4fc0ece7de2a98b571e96c8a825e0df106c1a9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dc8aa402d1c6f0329119c959795773825961ab9d9dcd283cd64810a901594ac2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832532"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093110"
 ---
 # <a name="solutions-for-aad-synchronization-problems"></a>AAD 동기화 문제에 해결 방법
 

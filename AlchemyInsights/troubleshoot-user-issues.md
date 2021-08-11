@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7813"
 - "9004358"
-ms.openlocfilehash: d9964e50bdea0c41ac14ab3783b579034b5f2c8c
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: 0c4ee54a6f1d00e7fd3794539ba185afa4327af1124d8057550806f7fa87de7f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886908"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092956"
 ---
 # <a name="announcements"></a>공지 사항
 
@@ -47,11 +47,11 @@ Azure AD에서 새 사용자를 생성할 수 없는 문제를 해결하려면 �
 셀프 서비스 등록과 관련된 문제를 해결하려면 다음 단계를 수행하세요.
 
 1. 응용 프로그램과 함께 셀프 서비스 등록을 사용하려면 먼저 테넌트에 대해 셀프 서비스 등록을 사용하도록 설정하세요. 
-2. 응용 프로그램이 셀프 서비스 등록을 지원하도록 하려면 해당 응용 프로그램을 사용자 흐름에 추가하세요. 다음에 해당 응용 프로그램의 로그인 페이지로 이동하면 **_계정이 없습니까? 계정을 하나 만들어 보세요!_* 라는 옵션이 나타납니다. 셀프 서비스 등록 프로세스가 시작됩니다.
+2. 응용 프로그램이 셀프 서비스 등록을 지원하도록 하려면 해당 응용 프로그램을 사용자 흐름에 추가하세요. 다음에 해당 응용 프로그램의 로그인 페이지로 이동하면 ***계정이 없습니까? 계정을 하나 만들어 보세요!*** 라는 옵션이 나타납니다. 셀프 서비스 등록 프로세스가 시작됩니다.
 3. Azure AD에서 셀프 서비스 등록을 사용하여 조직을 채우는 방법에 대한 자세한 내용은 [Azure AD ](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-self-service-signup)에 대한 셀프 서비스 등록을 참조하세요.
 4. 사용자 흐름을 하나 이상의 응용 프로그램과 연결하면 해당 앱을 방문한 사용자가 사용자 흐름에 구성된 옵션을 사용하여 게스트 계정을 등록하고 얻을 수 있습니다. 게스트 계정 등록 및 가져오기에 대한 자세한 내용을 확인하기 위해 사용자는 [게스트 사용자에 대한 셀프 서비스 등록](https://docs.microsoft.com/azure/active-directory/external-identities/self-service-sign-up-user-flow)을 참고할 수 있습니다.
 
-_ *외부 사용자 초대 관련 문제**
+**외부 사용자 초대 관련 문제**
 
 외부 사용자 초대와 관련된 문제를 해결하려면 다음 단계를 수행하세요.
 

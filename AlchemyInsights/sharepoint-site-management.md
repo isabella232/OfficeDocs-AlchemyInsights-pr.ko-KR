@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online 사이트 관리
+title: SharePoint 온라인 사이트 관리
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "5808"
-ms.openlocfilehash: 3226579bcd505699ff595bffb70548e0767229b1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2cac667b7d662c50834c1e726fdec2cb73342fac11a16289b9ef928925fd173e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093172"
 ---
-# <a name="sharepoint-online-site-management"></a>SharePoint Online 사이트 관리
+# <a name="sharepoint-online-site-management"></a>SharePoint 온라인 사이트 관리
 
-SharePoint Online 사이트 관리에 대해 자주 요청되는 몇 가지 항목은 다음과 같습니다.
+온라인 사이트 관리에 대해 자주 SharePoint 항목은 다음과 같습니다.
 
 - [사이트 관리](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)
 - [사이트 저장 용량 제한](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)

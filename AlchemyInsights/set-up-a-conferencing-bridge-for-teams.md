@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002264"
 - "4385"
-ms.openlocfilehash: 0ab3ee85866795b655d7838884658d6f4727503f
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: d13147da50af293e08839252617977ea731a1103e4b1732268aff645721d5f73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692815"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060826"
 ---
 # <a name="set-up-a-conferencing-bridge-for-teams"></a>Teams에 대한 회의 브리지 설정
 

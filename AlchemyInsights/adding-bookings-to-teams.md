@@ -14,12 +14,12 @@ ms.custom:
 - "5041"
 - "9002238"
 - "4344"
-ms.openlocfilehash: ec9501bedc4eb2f06fc306215c6898d2bde29c4c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 73df6cdd12dc2c219bd93bed868af6dd80455c3f65b5984ad7dbc65682b54bf2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822173"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934947"
 ---
 # <a name="adding-bookings-to-teams"></a>Teams에 Microsoft Bookings 추가
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4448"
-ms.openlocfilehash: 66a110962cab3532cb0322f500bb09a137d1192c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b1f433c4fb8f4170c30e877da5cee49b233b04bd414350746e814f592c15b2ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827258"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007076"
 ---
 # <a name="upload-your-files-to-onedrive"></a>OneDrive에 파일 업로드하기
 

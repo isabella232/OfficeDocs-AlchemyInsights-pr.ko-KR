@@ -1,5 +1,5 @@
 ---
-title: Windows 10 버전 1903의 새로운
+title: 1903 버전 Windows 10 새로운 버전
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003945"
 - "7003"
-ms.openlocfilehash: 582af6dd48460869998ff41c9e2cc4230fc82b4b
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: f7b88788ae74f967f112e67d3fc80b80d3d93fc2e4af9efa3a977d16d1d70350
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49681481"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970661"
 ---
-# <a name="whats-new-in-windows-10-version-1903"></a>Windows 10 버전 1903의 새로운
+# <a name="whats-new-in-windows-10-version-1903"></a>1903 버전 Windows 10 새로운 버전
 
-Windows 10 2019년 5월 업데이트라고도 하는 Windows 10 버전 1903의 새로운 기능과 업데이트된 기능 및 콘텐츠는 다음과 같습니다. 이 업데이트에는 Windows 10 버전 1809의 이전 누적 업데이트에 포함된 모든 기능 및 수정 사항도 포함되어 있습니다.
+다음은 Windows 10 버전 1903의 새로운 기능 및 업데이트된 기능 및 콘텐츠로 Windows 10 2019년 5월 업데이트. 또한 이 업데이트에는 다음과 같은 이전 누적 업데이트에 포함된 모든 기능 및 수정 Windows 10, 버전 1809.
 
 1. [배포](https://go.microsoft.com/fwlink/?linkid=2114296)
 1. [서비스](https://go.microsoft.com/fwlink/?linkid=2114493)

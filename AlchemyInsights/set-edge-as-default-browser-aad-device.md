@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10363"
 - "9006005"
-ms.openlocfilehash: 9ad0064a56378d30a84fb2266208ae83f3bfe044
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: a9ed5b3c6ffd7e7abba88826ecacf8a61d263a8ae04660243c7e4de0d30f7995
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426933"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061114"
 ---
 # <a name="set-microsoft-edge-as-the-default-browser-on-an-azure-active-directoryjoined-device"></a>Azure Active Directory에 조인된 장치에서 Microsoft Edge를 기본 브라우저로 설정
 

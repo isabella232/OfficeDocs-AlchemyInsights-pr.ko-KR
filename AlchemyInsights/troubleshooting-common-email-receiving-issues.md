@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11135"
 - "3100010"
-ms.openlocfilehash: e31e6f5c6db727a00d56c48d284e1defef10728f
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: e86450be8285138887b187460817ad251336ff6e2c88b155a38f0a716b01a921
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233845"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092848"
 ---
 # <a name="troubleshooting-common-email-receiving-issues"></a>일반적인 전자 메일 수신 문제 해결
 
