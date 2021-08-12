@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, micurn
+ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002424"
 - "5103"
-ms.openlocfilehash: 4938f3e20f5540091ee0b255e7b3f752c07d13fd
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: d1cea417d9c119a4d67ad704837622c6077e056d4abd28d2bf89e71f4edefee1
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688584"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54499590"
 ---
 # <a name="assign-project-to-users"></a>사용자에게 Project 할당하기
 

@@ -15,12 +15,12 @@ ms.custom:
 - "11062"
 - "9002254"
 - "9002536"
-ms.openlocfilehash: 0832f886d3f5c0bfbfe138647403e4e215deaacb
-ms.sourcegitcommit: d822377ec76adf9ef6d13bc761a16c9900a3e7cb
+ms.openlocfilehash: 9dbdb47092640b97444923a5d332cdbd303e36346723ce87ff39afee19ee1e9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52027306"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061582"
 ---
 # <a name="screen-sharing-quality"></a>화면 공유 품질
 

@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: b6e47b352ed0ea0d40af19a54b79fafd1a431aaa
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 14bbb6ed3a174435a2112be2eeb794a79cd13f8677270878e0fc5036509c8e08
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685164"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54499734"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>청구서가 생성된 경우
 

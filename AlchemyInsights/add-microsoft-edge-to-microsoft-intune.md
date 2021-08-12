@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8240"
 - "9004604"
-ms.openlocfilehash: d56c65910d1c2170d3e0ce9676e913663701db96
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+ms.openlocfilehash: 19e933e3029b7b809389815026faa63ea5dc36e81c1d4eb61b52b848fa1461a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50178000"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935811"
 ---
 # <a name="add-microsoft-edge-to-microsoft-intune"></a>Microsoft Intune에 Microsoft Edge 추가
 

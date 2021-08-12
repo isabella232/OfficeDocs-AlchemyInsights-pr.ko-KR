@@ -14,12 +14,12 @@ ms.custom:
 - "78"
 - "1200017"
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: d86cf5a2a4aa59399af5a1555d16f53e1df18028
-ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
+ms.openlocfilehash: c4343c3fc413e4ebcf1f311947ba6d5430cd3bd702f698010f6ba20a0ff71280
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53389151"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936243"
 ---
 # <a name="add-contacts-to-a-microsoft-365-group"></a>연락처를 그룹으로 Microsoft 365 추가
 

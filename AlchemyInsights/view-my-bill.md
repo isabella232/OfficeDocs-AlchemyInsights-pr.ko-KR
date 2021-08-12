@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 738db9f208659c4b9ecfdb2d7fd1e8409913938f
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 963fb2af103f40e6b235edef2c9eb966ae11f098bb0d9ac4db544bb2f289813c
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686136"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54499518"
 ---
 # <a name="view-my-bill-or-invoice"></a>내 청구서 또는 송장 보기
 

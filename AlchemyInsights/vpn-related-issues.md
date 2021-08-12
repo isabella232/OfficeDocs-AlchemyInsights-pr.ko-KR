@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1545"
 - "9000076"
-ms.openlocfilehash: 3c031725c92f5d7af7c0dd0c37ea34fecf4792c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d9c34350d16d96329d1ed56666119dba0433c93ccb7547da5dba4894531e1b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726097"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970985"
 ---
 # <a name="vpn-related-issues"></a>VPN 관련 문제
 
@@ -51,7 +51,7 @@ Intune의 모든 VPN 연결 유형에 대한 자세한 내용은 [Intune에서 V
 
 연결할 것인지 선택합니다: **필요한 경우 연결**
 
-사용자가 이러한 도메인에 액세스 하는 경우: **대상*** 도메인 이름*
+사용자가 이러한 도메인에 액세스 하는 경우: **대상***도메인 이름*
 
 위의 구성이 실패할 경우 다음 요소를 추가 합니다:
 

@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, argani
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 69725ebffbe26525784580715a5469a8572ef130
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 1623ea2269e18a0333b0bfddef7c5797ce3db57bb74ee4646a3aa94b8e821fa1
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688764"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54499554"
 ---
 # <a name="too-many-licenses"></a>라이선스가 너무 많나요?
 

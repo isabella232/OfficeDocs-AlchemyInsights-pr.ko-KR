@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, tugu
+ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9000175"
 - "1714"
-ms.openlocfilehash: be270d66c4c57da67e4af7ff08a63b6d0745b89e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 08a19a57c5366a1e45a5dc24d3572dce0e9ec51694f4671bd0881218f5cd4b89
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685920"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54499698"
 ---
 # <a name="change-organization-profile"></a>조직 프로필 변경
 

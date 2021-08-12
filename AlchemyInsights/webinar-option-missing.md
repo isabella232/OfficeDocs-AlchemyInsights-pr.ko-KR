@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11545"
-ms.openlocfilehash: 95fa27dda3878d2a2b15d8b683b6b24dd548f7e0
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: c4807b4e055bf57e3393310d0e144798599c29366c0649aac989b1f802f51c76
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52783216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970769"
 ---
 # <a name="webinar-option-missing-in-new-meeting-drop-down"></a>새 모임 드롭다운에서 웨비나 옵션 누락
 

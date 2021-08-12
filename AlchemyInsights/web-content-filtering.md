@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12383"
 - "9005487"
-ms.openlocfilehash: 9d5f3b331553cef615e7b25681eca90a59b9508d
-ms.sourcegitcommit: 38f987eeb05ea876dcd3ab8427afe614563c47b5
+ms.openlocfilehash: 7c238c69db7da93345cbf988e4d8d9cf30d2e2f9027d35ad147fef6968130108
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2021
-ms.locfileid: "53438580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970841"
 ---
 # <a name="web-content-filtering"></a>웹 컨텐츠 필터링
 

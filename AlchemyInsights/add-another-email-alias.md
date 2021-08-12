@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: fc3f73e1c186b9296a6780b5438ec85a66dee713
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3009984f0582453cd9d37ee8240efcf71f93383c0cee7b7a26a629a963ba0091
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822677"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936351"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>사용자에 대한 전자 메일 별칭 만들기 또는 추가
 
 사용자의 전자 메일 별칭을 만들거나 추가 전자 메일 주소를 추가해야 하나요? 다음 단계를 수행하면 됩니다.
   
-1. Microsoft 365 관리 센터에서 사용자 페이지로 [이동하거나](https://go.microsoft.com/fwlink/p/?linkid=834822) 사용자 활성 **사용자를**  >  **선택합니다.**
+1. In the Microsoft 365 관리 센터, go to the [Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users**  >  **Active Users**.
     
 2. **활성 사용자** 페이지에서 편집할 사용자 이름을 선택합니다. 
     

@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, sinakassaw
+ms.reviewer: sinakassaw, nicholak
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: 96677aa7ad38185e35999dac4f18e65e88624ed8
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: a7c749095478a227f7981b7057a92690d90b9195802bde3a8f784e25d1ac03a7
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689196"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54499662"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>사용자 구독에 대한 라이선스를 구입하는 비즈니스용 Microsoft 365 앱 방법
 

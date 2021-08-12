@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001459"
 - "5639"
-ms.openlocfilehash: 4ee235e0aeb8271075d643825d9ce07fd333ce12
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 70a35a4cfe7422b700820c27baeb5c93ebd5437c739690d0a86714e7697c92ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835421"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910480"
 ---
 # <a name="sharepoint-admin-center"></a>SharePoint 관리 센터
 
