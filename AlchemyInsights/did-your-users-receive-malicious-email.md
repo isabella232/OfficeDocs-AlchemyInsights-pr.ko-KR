@@ -14,12 +14,12 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 425f9ba488fd69b8c5ea29636bccccd995bf48fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929203"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>사용자가 악성 이메일을 받았습니까?
 
@@ -32,7 +32,7 @@ ms.locfileid: "51815252"
 - 메시지에 포함된 URL 또는 파일이 악의적인지 여부를 확인하는 현재 데토네이션 결과입니다.
 - 채점자 피드백
 
-재정의가 발견되면 몇 분 후에 다시 검색이 완료됩니다. 전자 메일 인증에 문제가 없는 경우 또는 전송이 재정의의 영향을 받지 않았다면 성적에 대한 피드백은 최대 하루가 소요됩니다.
+재정의가 발견되면 몇 분 후에 다시 검사가 완료되어야 합니다. 전자 메일 인증에 문제가 없는 경우 또는 전송이 재정의의 영향을 받지 않았다면 성적에 대한 피드백은 최대 하루가 소요됩니다.
 
 메시지, URL 또는 파일(차단되거나 차단되지 않은 파일)에 최종 평가 결과에 동의하지 않는 경우 다시 검색하기 위해 하루 후에 메시지를 다시 제출합니다. 메시지를 다시 제출한 후에 평가 결과가 변경될 가능성이 높습니다.
 

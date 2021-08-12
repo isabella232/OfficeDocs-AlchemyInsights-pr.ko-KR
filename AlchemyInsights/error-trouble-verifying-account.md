@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9824"
 - "9005394"
-ms.openlocfilehash: 05826d9831f128493a27075d001891290ccb8e45
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: fa58a718d6bd4983b8255d263bc203fc295b00309e835dbcf7423143cbda64c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898125"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946549"
 ---
 # <a name="error-were-having-trouble-verifying-your-account-on-this-computer"></a>오류: 이 컴퓨터에서 계정을 확인하는 데 문제가 있습니다.
 

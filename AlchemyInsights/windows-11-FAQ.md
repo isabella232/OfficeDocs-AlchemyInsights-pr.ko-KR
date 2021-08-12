@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12068"
 - "9007192"
-ms.openlocfilehash: 5f75c9442fbf5fa59c0eb94ae8ecd28bd7772e92
-ms.sourcegitcommit: 93292c46464ac94971d11adfb808d066ab8bc406
+ms.openlocfilehash: 94412b6bff18cbc60fba3c380860d9ad208dbd600a0fa0f6d0c72a22e27de620
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53118170"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907858"
 ---
 # <a name="windows-11-frequently-asked-questions-faq"></a>Windows 11 질문과 대답(FAQ)
 
@@ -32,12 +32,12 @@ Windows 11이 사전 설치된 PC는 2021년 말에 출시될 예정입니다.
 
 **Windows 11을 사용하는 PC의 비용은 얼마인가요?**
 
-제품에 따라 다릅니다. 다양한 제조업체들이 Windows 11을 실행하는 다양한 장치를 각기 다른 가격으로 제공할 것입니다.
+경우에 따라 다릅니다! 다양한 제조업체들이 Windows 11을 실행하는 다양한 장치를 각기 다른 가격으로 제공할 것입니다.
 
 
 **Windows 11을 사용하는 PC를 어디에서 구입할 수 있나요?**
 
-Windows 11이 사전 설치되어 제공되는 PC는 2021년 후반에 다양한 소매점에서 구입할 수 있습니다. 세부 사항은 제공될 예정입니다.
+Windows 11이 사전 설치되어 제공되는 PC는 2021년 후반에 다양한 소매점에서 구입할 수 있습니다. 세부 정보는 아래에서 확인하세요.
 
 
 **내 액세서리가 Windows 11에서 작동할까요?**
@@ -52,7 +52,7 @@ Windows 11이 사전 설치되어 제공되는 PC는 2021년 후반에 다양한
 
 **새 Windows 10 PC가 최소 요구 사항을 충족하는지 어떻게 알 수 있나요?**
 
-알아낼 수 있는 몇 가지 방법이 있습니다. 현재 새 PC를 구입하고 있다면 팩트 태그에서 "Windows 11로 무료 업그레이드"를 찾으세요. 소매 판매 전문가에게 확인을 요청할 수도 있습니다.
+알아낼 수 있는 몇 가지 방법이 있습니다. 현재 새 PC를 구입하고 있다면 팩트 태그에서 "Windows 11로 무료 업그레이드"를 찾으세요. 소매 영업 전문가에게 확인을 요청할 수도 있습니다.
 
 
 **Windows 10 디바이스에서 언제 Windows 11로 업그레이드할 수 있나요?**

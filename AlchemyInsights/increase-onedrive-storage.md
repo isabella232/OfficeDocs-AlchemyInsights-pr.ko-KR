@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000354"
 - "6214"
-ms.openlocfilehash: 99bce287f2775b1d5c4621e0b0248b09edfd5d31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90c7a44d643e3736d6532e2df24fc7b4409632ad09228533df920325a9d75331
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755965"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912694"
 ---
 # <a name="increase-onedrive-storage"></a>OneDrive 저장소 늘리기
 

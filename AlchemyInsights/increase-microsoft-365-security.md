@@ -13,12 +13,12 @@ ms.custom:
 - "9001681"
 - "3746"
 - "3821"
-ms.openlocfilehash: 7e7b175267d1839c46f5dd2ca524e66ae6034c4f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e6bef7e17a1647073f9dcda06f152ba0d32be5e082d89f7fff714561babeacff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830183"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912784"
 ---
 # <a name="increase-microsoft-365-security"></a>강화된 Microsoft 365 보안
 

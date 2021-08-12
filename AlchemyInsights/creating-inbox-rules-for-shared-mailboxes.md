@@ -1,5 +1,5 @@
 ---
-title: 공유 사서함에 대 한 받은 편지함 규칙 만들기
+title: 공유 사서함에 대한 받은 편지함 규칙 만들기
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -13,16 +13,16 @@ ms.custom:
 - "1800021"
 - "3500003"
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
-ms.openlocfilehash: 6398367ac94a1d3cf4f03165c4d4decb7ff9beb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e5e4a0aabb76123ea98b91f84a76d56132695c2361f125b769a6f7fff7bdbaa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732237"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929275"
 ---
-# <a name="creating-inbox-rules-for-shared-mailboxes"></a>공유 사서함에 대 한 받은 편지함 규칙 만들기
+# <a name="creating-inbox-rules-for-shared-mailboxes"></a>공유 사서함에 대한 받은 편지함 규칙 만들기
 
-자체 계정에 규칙을 추가 하는 방법에 대 한 액세스 권한이 있는 공유 사서함에 규칙을 추가할 수 있습니다.
+액세스 권한이 있는 공유 사서함에 규칙을 추가하는 방법은 자신의 계정에 규칙을 추가하는 방법과 비슷합니다.
   
-해당 공유 사서함의 구성원 이어야 하 고, [공유 사서함에 규칙 추가](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164) 문서에 나와 있는 단계를 수행 합니다.
+해당 공유 사서함의 구성원인지 확인한 다음 이 문서의 단계를 [따릅니다. 공유](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164) 사서함에 규칙 추가
   

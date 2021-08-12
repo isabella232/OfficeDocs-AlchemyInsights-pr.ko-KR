@@ -13,12 +13,12 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: 72f6ba61c8b898643aa967bb7c6ddaebf6c977de
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 652c9e5b51253b5ce3964b822be28f198ba289deb552984a3d124166484fa84d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51796863"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908644"
 ---
 # <a name="understand-your-bill"></a>청구서 이해
 
@@ -38,7 +38,7 @@ ms.locfileid: "51796863"
 
 1. 구독에서 추가 또는 제거 된 라이선스; 계약 중간에 라이선스가 변경되면 이러한 변경은 다음 송장에 반영됩니다.  이러한 변경에 대해 크레딧을 확인하고 이전 서비스 기간에 대해 계정에 다시 청구할 수 있습니다.
 
-2. 구독이 취소되었습니다.  취소 후 미결 잔액에서 크레딧을 뺀 송장을 받습니다.
+2. 구독이 취소되었습니다. 취소 후 미결제 잔액에서 크레딧을 뺀 청구서를 받게 됩니다.
 
 3. 구독이 변경된 새 기간 및 라이선스 가격으로 갱신되었습니다.  
 

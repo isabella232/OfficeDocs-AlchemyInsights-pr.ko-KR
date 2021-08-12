@@ -15,12 +15,12 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 5d70499d61ccf34caa6efd42bc75ace2c33ed3f250fed11a4eba0ae040caa9bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233468"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955828"
 ---
 # <a name="about-exchange-server-updates"></a>업데이트 Exchange Server
 

@@ -14,12 +14,12 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: da27ea5fdb0126486de9957bc82ef6e8d4a47d93
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e50fac3bba87481acdba15102063300366fce12528802bcdf7d8cdf146807e3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814342"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946776"
 ---
 # <a name="block-access-to-a-former-employee"></a>이전 직원에 대한 액세스 차단
 

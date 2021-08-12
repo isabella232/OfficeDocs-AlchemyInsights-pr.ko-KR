@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002542"
 - "4909"
-ms.openlocfilehash: c5362c5150f7c6d70d37b60e90e48a39d8716645
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5d0ba481144c132174411ba24fc6c821f84164f412ea9d02359e520e33187862
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823325"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938521"
 ---
 # <a name="action-pack-licenses"></a>작업 팩 라이선스
 
