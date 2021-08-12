@@ -15,12 +15,12 @@ ms.custom:
 - "11088"
 - "9005291"
 - "9006490"
-ms.openlocfilehash: 9a51b0cbf6ccb0254ea2ef162530067bbfb5f215
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: 1340a86087612ae052ad549dae2a2a2ddfea6df274190ed18cd37aeb7af2de54
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989759"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948133"
 ---
 # <a name="deploy-microsoft-edge"></a>Microsoft Edge 배포
 

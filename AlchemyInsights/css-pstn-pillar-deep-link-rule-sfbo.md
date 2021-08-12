@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2593"
 - "9000698"
-ms.openlocfilehash: 51190e74e22208b7229a5295adbcbbf98e1c6a6a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 055d0fc75cfda123fe3b5abfb28f530ef1f14a58ed3875fae01fc41c50e7ca84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815837"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914837"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>비즈니스용 Skype Online을 통해 PSTN 통화
+# <a name="pstn-calling-with-skype-for-business-online"></a>온라인을 통해 PSTN 비즈니스용 Skype
 
-Microsoft 365에서 PSTN 통화를 하려는 경우 [Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) 통화 플랜 또는 사내 PSTN 전화 통신 인프라와의 연결이 필요합니다. 자세한 내용은 다음을 참조하세요.
+PSTN 통화를 Microsoft 365 통화 플랜 또는 Microsoft 365 PSTN 전화 통신 인프라와의 연결이 필요합니다. [](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) 자세한 내용은 다음 항목을 참조하세요.
 
-- [오디오 회의 및 Microsoft Teams 통화 플랜의 국가 및 지역 가용성](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
-- [Microsoft 365 오디오 회의와 관련된 일반적인 질문](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [오디오 회의 및 통화 플랜의 국가 및 Microsoft Teams 지역 가용성](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
+- [오디오 회의와 관련된 Microsoft 365 질문](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [자금 추가 및 통신 크레딧 관리](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [PSTN 발신자는 비즈니스용 Skype 전화 접속 전화 회의에 참가할 수 없습니다.](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [PSTN 발신자는 전화 접속 회의에 비즈니스용 Skype 수 없는 경우](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

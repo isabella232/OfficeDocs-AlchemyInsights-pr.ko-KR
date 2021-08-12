@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: d6670f24ee9597f71663725d7917fed602e70dbd
-ms.sourcegitcommit: 270a1ca9c35b50b8be6b06f432c9c90e4090fb57
+ms.openlocfilehash: 844f595033b3a7ea87d8224e1a75c4b135d790fad21ad43e35784b951f312cc5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "53339989"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955720"
 ---
 # <a name="about-threat-analytics"></a>위협 분석
 

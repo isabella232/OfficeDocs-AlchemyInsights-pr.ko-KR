@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 524e87ab57e29823361053093708c83831f19687
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+ms.openlocfilehash: 56ccfc2bff811d0a70582ace6278af76d2339cd7ddb14fe3488c15c1d4e9340b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50178003"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914153"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>iOS, iPadOS 및 Android에 Microsoft Edge 배포
 

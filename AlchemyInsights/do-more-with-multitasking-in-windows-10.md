@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002958"
 - "5660"
-ms.openlocfilehash: 18259192bd5e6aeb85abaf6aa988cfcbbebd88af
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0f980b93337d2a0d3af06876ac14015546b850f80205d66cdb5c4a6fce162c2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814964"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948004"
 ---
 # <a name="do-more-with-multitasking-in-windows-10"></a>Windows 10에서 멀티태스킹 작업을 수행하세요.
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9800"
 - "9005744"
-ms.openlocfilehash: 14555dfcb1406fd3a3977012393714a713ff80dc
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: ac25548b0110834c877ae53be097d6b6c0f13c4091040a901abd56fb2a3cbba3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939961"
 ---
 # <a name="troubleshoot-azure-ad-authentication-and-authorization-aadsts-error-codes"></a>AADSTS(Azure AD 인증 및 권한 부여) 오류 코드 문제 해결
 
@@ -48,7 +48,7 @@ valid. The scope https://example.contoso.com/activity.read is not valid.\r\nTrac
 ```
 2. **현재 오류 코드 정보 보기**
 
-- 오류 코드와 메시지는 변경될 수 있습니다. 최신 정보는 https://login.microsoftonline.com/error 페이지에서 AADSTS 오류 설명, 수정 및 제안된 해결 방법을 확인하세요.
+- 오류 코드 및 메시지는 변경될 수 있습니다. 최신 정보는 https://login.microsoftonline.com/error 페이지에서 AADSTS 오류 설명, 수정 및 제안된 해결 방법을 확인하세요.
 - [AADSTS 오류 코드](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#aadsts-error-codes)는 게시물 [Azure AD 인증 및 권한 부여 오류 코드](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#handling-error-codes-in-your-application)에 목록이 기재되어 있으며, 검색하여 문제를 해결할 수 있습니다.
 
 3. **도움말 보기**

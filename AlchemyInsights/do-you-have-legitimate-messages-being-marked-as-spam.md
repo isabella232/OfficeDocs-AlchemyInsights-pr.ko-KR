@@ -12,12 +12,12 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: d0dafe58717cdb8c59fe558e32ca118c0a8f3e2b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b40d4cc6524a207889bf8ec0e2459c5d3077e7911a0b173a5ac87bb330d5d2cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679014"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947917"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>정상적인 메시지가 스팸으로 표시되고 있나요?
 
@@ -29,5 +29,5 @@ ms.locfileid: "47679014"
 
 2. 사용자에게 [메시지를 정크가 아닌 것으로 보고](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2)하도록 합니다.
 
-지원 티켓을 열려면 아래에서 최소한 **하나의 전체 원본 메시지**의 전체 이메일 헤더를 첨부합니다.
+지원 티켓을 열려면 아래에서 최소한 **하나의 전체 원본 메시지** 의 전체 이메일 헤더를 첨부합니다.
   

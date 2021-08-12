@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001484"
 - "3520"
-ms.openlocfilehash: a1dc7bb93be0ca224b2c1e5fde98d4af393d2004
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d686e38e171e215055f6c5200f02bf52ad4ebc1c0fb502e86c9515a8658e0904
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815765"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914759"
 ---
 # <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>메시지 추적을 다운로드할 때 "사용자 지정 오류 모듈에서 이 오류를 인식하지 못합니다."
 
