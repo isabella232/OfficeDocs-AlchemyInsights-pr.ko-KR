@@ -1,5 +1,5 @@
 ---
-title: 500 앱 암호
+title: 앱 암호 500개
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -15,25 +15,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 13d83b4d97a2bab2251acb8eaf08cf80a769b639
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a384ea0de9b4f6ed58215fd988f9520ba0031af041eb326fda467b80d28406ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717043"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931959"
 ---
 # <a name="app-passwords"></a>앱 암호
 
-앱 암호는 앱 또는 장치에 Microsoft 직장 또는 학교 계정에 액세스할 수 있는 권한을 부여 하는 코드입니다. 계정에 MFA (다단계 인증)가 필요 하 고 앱이 사용자의 계정에 연결 하는 경우 앱이 Microsoft에 연결할 수 있도록 앱 암호를 생성 해야 합니다. 예를 들어, outlook 2016 및 이전 버전의 Outlook에는 앱 암호가 필요 합니다.
+앱 암호는 앱 또는 디바이스에서 Microsoft 직장 또는 학교 계정에 액세스할 수 있는 권한을 부여하는 코드입니다. 계정에 MFA(다단계 인증)가 필요하고 앱이 계정에 연결하는 경우 앱이 Microsoft에 연결할 수 있도록 앱 암호를 생성해야 합니다. 예를 들어 Outlook 2016 이전 버전에는 Outlook 암호가 필요합니다.
 
- **참고**: 다음 단계를 수행 하기 전에 Microsoft 365 관리자에 게 문의 하 여 사용자 계정에 MFA가 필요한 지 확인 합니다. 그렇지 않은 경우에는이 단계에서 설명 하는 옵션을 사용할 수 없습니다.
+ **참고:** 다음 단계를 수행하기 전에 Microsoft 365 계정에 MFA가 필요한지 관리자에게 문의하세요. 그렇지 않은 경우 단계에 설명된 옵션을 사용할 수 없습니다.
 
-1. 회사 또는 학교 계정 및 암호를 사용 하 여 로그인 합니다.
+1. 직장 또는 학교 계정과 암호로 로그인합니다.
 
-2. **지금 설정**을 선택 합니다.
+2. 지금 **설정 을 선택하세요.**
 
-3. 인증 방법을 선택 하 고 화면의 지시를 따릅니다.
+3. 인증 방법을 선택하고 프롬프트를 따르습니다.
 
-4. 대체 대화 상대 방법을 확인 한 후에 **다음**을 선택 합니다.
+4. 대체 연락처 방법을 확인한 후 다음 을 **선택하십시오.**
 
-5. Outlook, Apple Mail 및 기타 응용 프로그램을 필요로 하는 기타 앱에서 사용할 수 있는 앱 암호를 받게 됩니다. **복사** 를 선택 하 여 암호를 복사 하 여 다른 위치에 붙여 넣을 수 있습니다 (하면 필요는 없음).
+5. 앱, Apple 메일 및 필요한 기타 앱과 함께 사용할 Outlook 암호를 얻게 됩니다. **복사를** 선택하면 암호를 복사하여 다른 곳에 붙여넣을 수 있습니다(기억할 필요가 없습니다).

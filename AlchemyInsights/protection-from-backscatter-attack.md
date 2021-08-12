@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9779"
 - "9005743"
-ms.openlocfilehash: 8d9214fe2f5d55a21c72296421dd837d7f1d7e7d
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 8c6b1cfe79d322702279877ff351397a366fa246710c04e25181a675ad2fdeab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911236"
 ---
 # <a name="protection-from-backscatter-attack"></a>백스캐터 공격으로부터 보호
 

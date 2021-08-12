@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1372"
 - "3100005"
-ms.openlocfilehash: f84a86331ffe714ffb5154d55608a91725a2fbfb
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 3e0da3b75fd4c10b41fcc5e0f47dda143c2c2edd4d9687595759c1fa2b4804eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233612"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942211"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint 및 OneDrive 감사 로그
 

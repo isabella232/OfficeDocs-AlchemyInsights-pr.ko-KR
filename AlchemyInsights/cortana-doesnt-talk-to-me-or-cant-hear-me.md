@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002960"
 - "5662"
-ms.openlocfilehash: c37ab73efcb39e9615397b3e84cb6e02efc0e4cb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5a7cc013dc2e414306f9f8cb3eb0f3fd948b7e32438b82a71c31219b65a180e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816530"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965878"
 ---
 # <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana가 사용자와 이야기하지 않고 사용자 말을 듣지 못함
 

@@ -1,5 +1,5 @@
 ---
-title: 모바일 장치에서의 공용 폴더 액세스
+title: 모바일 장치에서 공용 폴더 액세스
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -13,16 +13,16 @@ ms.custom:
 - "634"
 - "3500007"
 ms.assetid: 3a0915f6-9f4e-4049-82e2-804a498e70ee
-ms.openlocfilehash: 8be6ae5faec7bf2703dcd4582c60e5d98d7f87af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31a18174c92716b1e94396fea9a772fc8f2d3e655142029247e6e99dae18b03a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768469"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911272"
 ---
-# <a name="public-folder-access-from-mobile-devices"></a>모바일 장치에서의 공용 폴더 액세스
+# <a name="public-folder-access-from-mobile-devices"></a>모바일 장치에서 공용 폴더 액세스
 
-공용 폴더에 대 한 액세스는 모바일 장치를 사용 하 여 작동 하지 않으며, 웹에서 Outlook을 사용 하거나 Windows 데스크톱 또는 outlook for Mac 클라이언트용 Outlook에서 공용 폴더에 액세스 해야 합니다.
+공용 폴더에 대한 액세스는 모바일 장치를 사용하여 작동하지 않습니다. OWA(웹용 Outlook) 또는 Outlook 데스크톱용 Windows 또는 mac용 Outlook 클라이언트에서 공용 폴더에 액세스하십시오.
 
-모바일 장치에서 콘텐츠를 액세스할 수 있고 공용 폴더와 유사한 기능을 사용할 경우에는 [Microsoft 365 그룹에 대 한](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) 자세한 내용은 더 나은 대안을 참조 하십시오.
+공용 폴더와 유사한 기능을 사용 하 고 모바일 장치에서 액세스할 수 있는 콘텐츠를 사용 하 고 더 나은 대안에 대 한 Microsoft 365 [그룹에](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) 대 한 자세한 내용을 문의하세요.
   

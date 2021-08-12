@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 23a6533f0ae759a7b8bc4a668f1f6d11e297da26
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 6e5b47a01d80726f772111b42f2c4cff3efcb295a36070b44fcb6901800e71fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403137"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915989"
 ---
 # <a name="remove-the-users-from-the-admin-roles"></a>관리자 역할에서 사용자 제거
 
