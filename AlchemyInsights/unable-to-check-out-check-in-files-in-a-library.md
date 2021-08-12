@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300029"
 - "1688"
-ms.openlocfilehash: 5c92abece3696cde81a3268bd5cbd122fb518667
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a4af2385ae06f42fd4769b6ef87b44f4a1a3e2de5f5ad6c39c0c06d72a8cdc07
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920149"
 ---
 # <a name="unable-to-check-out-or-check-in-files-in-a-library"></a>라이브러리에서 파일을 체크 아웃 또는 체크 인할 수 없음
 

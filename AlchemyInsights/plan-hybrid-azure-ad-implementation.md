@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6138"
 - "9003244"
-ms.openlocfilehash: a5756977f9dc485342a1f0f79610d42857790fa2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ac96031d4afd4b47357cca416b199c0bd895cfce5369e73aadf6bcf7138f2f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741921"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911740"
 ---
 # <a name="plan-hybrid-azure-ad-implementation"></a>하이브리드 Azure AD 구현 계획
 

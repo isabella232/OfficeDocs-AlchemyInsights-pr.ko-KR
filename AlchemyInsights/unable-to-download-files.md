@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5731"
-ms.openlocfilehash: 6da85d8ed7fed65508c42ec9d077f82cfa7dde78
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 43ff45523a5f611dc9ec585a35e4f1a89640540047a78d33d40629e6525c6927
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826133"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920077"
 ---
 # <a name="unable-to-download-files"></a>파일을 다운로드할 수 없음
 

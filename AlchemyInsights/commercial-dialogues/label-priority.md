@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 2ed92401399466e41349066cb4c9250c4da3c2c9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: ebd5bfa9eb542bb42dd96d2fae03806dec6ecb86215dfc2cfb46d8c618b616b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736602"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948997"
 ---
 # <a name="label-priority-order-matters"></a>레이블 우선 순위(순서가 중요함)
 

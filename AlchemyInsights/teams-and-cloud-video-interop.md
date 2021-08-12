@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002894"
 - "5540"
-ms.openlocfilehash: 2458849f0333b87a51935d076d0a7ca916c472a4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ee886742e6ef642c2f826aafcbe904001a83eb16b498d9bc4a39ae4297a3ccfb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835169"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940573"
 ---
 # <a name="teams-and-cloud-video-interop-cvi"></a>Teams 및 CVI(클라우드 비디오 상호 운용성)
 

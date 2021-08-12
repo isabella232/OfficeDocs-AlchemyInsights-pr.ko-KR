@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: dd367176f8d6f38f1f94ae6627229234f15c81ff
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 61ca448ef146f3f6fb930f0dc6f09f41bde72087f56ffba820f0a2d517cddb31
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543934"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964639"
 ---
 # <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>온라인, Office 365, SharePoint 및 사용자에 대해 Microsoft Defender를 OneDrive Microsoft Teams
 
 1. https://protection.office.com으로 이동하여 로그인합니다.
-2. 위협 **관리 정책**  >  **안전한** 첨부 파일을 선택  >  **합니다.**
+2. 위협 **관리 정책**  >  **금고**  >  **를 선택 합니다.**
 3. 에 **대해 Defender 켜기** 를 Office 365, SharePoint, OneDrive 및 Microsoft Teams 를 클릭한 다음 저장을 **클릭합니다.**
 4. (권장) 전역 관리자 또는 SharePoint Online 관리자로서 **DisallowInfectedFileDownload** 매개 변수를 true로 설정하여 [Set-SPOTenant](/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet을 *실행합니다.*
 5. (권장) [검색된 파일에](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) 대한 알림을 설정합니다.

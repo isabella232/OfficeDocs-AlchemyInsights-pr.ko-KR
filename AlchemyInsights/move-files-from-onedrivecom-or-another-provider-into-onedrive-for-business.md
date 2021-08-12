@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2588"
 - "9000668"
-ms.openlocfilehash: 83841de4411ccd6843e0d2c7761930704b08a3b3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a2e347859f08396c183f7a8ff0fb2c6f78bd557184a14abf13b46f5f834e54
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799714"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911884"
 ---
 # <a name="move-files-from-onedrivecom-or-another-provider-into-onedrive-for-business"></a>OneDrive.com 또는 다른 공급자의 파일을 비즈니스용 OneDrive로 이동
 

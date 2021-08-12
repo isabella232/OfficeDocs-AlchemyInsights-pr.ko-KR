@@ -1,5 +1,5 @@
 ---
-title: 연결 되지 않은 매핑된 드라이브
+title: 연결이 끊어진 매핑된 드라이브
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c6e78799-5baa-4e27-8def-29db01118209
-ms.openlocfilehash: a2ae83edb0749e9776382b6818b23bae5c4900bf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bbf7ba2168555374d4ef5e63a7c8bed3cfca7dbb35b3a3c5602d3b0d1d2fda0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812661"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911956"
 ---
-# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>네트워크 드라이브에 매핑된 SharePoint 라이브러리의 연결 해제
+# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>SharePoint 드라이브에 매핑된 라이브러리의 연결이 끊어집니다.
 
-SharePoint 문서 라이브러리를 네트워크 드라이브에 매핑하는 것은 일시적입니다. 가끔 Internet Explorer에서 SharePoint 사이트를 열고 **로그인 상태 유지** 를 선택 하 여 세션이 만료 되지 않도록 해야 합니다. 
+문서 SharePoint 라이브러리를 네트워크 드라이브에 매핑하는 것은 일시적입니다. 세션이 만료되지 않도록 SharePoint 사이트 Internet Explorer 로그인 유지를 선택해야 합니다.  
   
-[매핑된 네트워크 드라이브를 구성 하 고 문제를 해결 하기 위한 도움말을](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)확인 합니다.
+매핑된 네트워크 드라이브 구성 및 [문제 해결에 대한 도움말을 확인합니다.](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
   
-파일 탐색기에서 라이브러리로 작업 하려면 SharePoint 파일을 [주문형 파일](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)을 포함 하는 [새 OneDrive 동기화 클라이언트와 동기화](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) 합니다. 로컬 저장소 공간을 사용하지 않고 OneDrive에서 모든 파일에 액세스합니다.
+파일 탐색기에서 라이브러리를 [](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) 사용하려면 요청 시 파일을 SharePoint 포함된 새 OneDrive 동기화 클라이언트와 [동기화합니다.](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx) 로컬 저장소 공간을 사용하지 않고 OneDrive에서 모든 파일에 액세스합니다.
   
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9795"
 - "9005496"
-ms.openlocfilehash: 913f2d54f80b762856d540c22d02c27e5a77d2cb
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 2d397e135a87b78f9ee9ab3015e0a941be08d75544468066b6f8f9857b7db016
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897886"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964819"
 ---
 # <a name="are-you-trying-to-download-photos-and-files-from-your-phone"></a>휴대폰에서 사진과 파일을 다운로드하려고 하나요?
 
