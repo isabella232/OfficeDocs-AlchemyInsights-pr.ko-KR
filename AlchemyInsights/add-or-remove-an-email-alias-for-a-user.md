@@ -12,16 +12,16 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: 7275cf99a92f0eedeeb86f7beb555120c5649453
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd398ebe9200615044f30304b6bd4cd61e00c8c2bbfac027ad50c9f5489b1734
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687944"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954019"
 ---
 # <a name="add-or-remove-an-email-address-for-a-user"></a>사용자의 전자 메일 주소 추가 또는 제거
 
-Microsoft 365 관리 센터에서 [다음 단계에 따라](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) 시작 하세요.
+[시작을 위해 Microsoft 365 관리 센터](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) 단계를 수행합니다.
 
- **참고**: 사용자에 대해 둘 이상의 전자 메일 주소를 사용할 수 있지만 추가  *전자 메일 별칭*  은 전자 메일을 받는 데만 사용할 수 있습니다. 별칭을 사용 하 여 전자 메일을 보내야 하는 경우 [공유 사서함](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)을 만듭니다. 이 방법을 통해 메일을 보내고 받을 수 있는 별칭이 제공 됩니다.
+ **참고:** 사용자에 대해 두 개 이상의 전자  메일 주소를 사용할 수 있지만 추가 전자 메일 별칭은 전자 메일을 받는 데만 사용할 수 있습니다. 별칭을 사용하여 전자 메일을 보내야 하는 경우 공유 [사서함을 만드시오.](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) 이렇게 하면 메일을 보내고 받을 별칭을 얻게 됩니다.
   

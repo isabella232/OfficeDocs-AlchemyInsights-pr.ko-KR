@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7814"
 - "9004358"
-ms.openlocfilehash: 7e2957a27305e8fb0bfd10e21189cef9870c5aaa
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: 47f00118a5a4b446b6a3b06f0fc6101d00d11b626eaf249bb6ca962a55f7f4d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "50716110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939349"
 ---
 # <a name="troubleshoot-group-issues"></a>그룹 문제 해결
 
@@ -49,7 +49,7 @@ Azure AD 역할에 Azure AD(Active Directory) 그룹을 할당하는 경우 다�
 3. 기본 제공 사용자 및 장치 특성 외에도 [확장 특성](https://docs.microsoft.com/azure/active-directory/enterprise-users/groups-dynamic-membership#extension-properties-and-custom-extension-properties)도 사용할 수 있습니다. 확장 특성을 온-프레미스 Windows Server AD 또는 연결된 SaaS 응용 프로그램에서 동기화하면 규칙 작성기 드롭다운 목록에 특성이 표시됩니다. PowerShell을 사용하여 사용자 특성을 쿼리하고 특성 이름을 검색하여 사용자 지정 특성 이름을 디렉터리에서 찾을 수 있습니다. 규칙 구문에서 규칙을 구성할 때도 이러한 규칙을 사용할 수 있습니다.
 4. 테넌트에 적절한 라이선스가 부여되었는지 확인합니다. 동적 그룹을 사용하려면 테넌트에 Azure AD P1 Premium 라이선스가 필요합니다. [여기](https://azure.microsoft.com/pricing/details/active-directory/)에서 Azure AD 라이선스 계획 목록에 액세스할 수 있습니다. Enterprise Mobility + Security 라이선스 계획은 [여기](https://www.microsoft.com/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing)에서 액세스할 수 있습니다.
 5. 동적 그룹을 만드는 사용자의 역할이 전역 관리자, intune 관리자, 그룹 관리자 또는 사용자 관리자인지 합니다.
-6. 그룹이 채워질 시간을 충분히 줍니다. 그룹은 테넌트의 크기에 따라 처음 또는 규칙 변경 후 채우는 데 최대 24시간이 걸릴 수 있습니다.
+6. 그룹이 채워지도록 시간을 허용하세요. 그룹은 테넌트의 크기에 따라 처음 또는 규칙 변경 후 채우는 데 최대 24시간이 걸릴 수 있습니다.
 7. 자세한 내용은 [그룹 구성원 자격에 대한 특성 기반 규칙 만들기](https://docs.microsoft.com/azure/active-directory/enterprise-users/groups-dynamic-membership)를 참조하세요.
 
 **그룹을 삭제해야 하는 경우**
@@ -62,7 +62,7 @@ Azure AD 역할에 Azure AD(Active Directory) 그룹을 할당하는 경우 다�
 
 1. Office 365 그룹이 삭제된 경우 영구 삭제가 발생하기 최대 30일 전까지만 복원할 수 있습니다. 영구적으로 삭제된 그룹은 더 이상 복원할 수 없습니다. [여기](https://docs.microsoft.com/azure/active-directory/enterprise-users/groups-restore-deleted)에서 그룹 복원에 대해 자세히 알아보세요.
 2. 이 기능은 보안 그룹 및 메일 그룹에서 지원되지 않습니다.
-3. Office 365 그룹을 복원할 권한이 부여되어 있는지 확인합니다. 전역 관리자, 그룹 관리자, 사용자 계정 관리자, intune 서비스 관리자, 파트너 티어 1 또는 티어 2 지원 및 그룹 소유자는 그룹을 복원할 수 있습니다.
+3. Office 365 그룹을 복원할 수 있는 권한이 있는지 확인합니다. 전역 관리자, 그룹 관리자, 사용자 계정 관리자, intune 서비스 관리자, 파트너 티어 1 또는 티어 2 지원 및 그룹 소유자는 그룹을 복원할 수 있습니다.
 4. 동적 그룹이 삭제 및 복원되면 해당 그룹이 새 그룹으로 표시되고 규칙에 따라 다시 채워집니다. 이 프로세스는 최대 24시간이 걸릴 수 있습니다.
 5. 삭제된 그룹 복원에 대한 자세한 내용은 [Azure Active Directory에서 삭제된 Office 365 그룹 복원](https://docs.microsoft.com/azure/active-directory/enterprise-users/groups-restore-deleted)을 참조하세요.
 

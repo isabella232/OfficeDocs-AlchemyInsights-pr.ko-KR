@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1577"
 - "9000088"
-ms.openlocfilehash: 1afaba71eb3b5b102476b4e3bd3172311427a86b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 216e8f108bcea04220484991a4ca8fc4cd3707afbdba13b248b44296064a5159
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913937"
 ---
 # <a name="fix-authentication-failed-errors-in-microsoft-flow"></a>Microsoft Flow의 “인증 실패” 오류 수정
 

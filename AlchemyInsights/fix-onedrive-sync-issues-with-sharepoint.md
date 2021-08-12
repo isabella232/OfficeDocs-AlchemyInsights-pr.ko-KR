@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5800003"
 - "5724"
-ms.openlocfilehash: 7b9b496534fbff77776c935d401d49208b0355b8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fa08fd39f625c902b5bf2b36a56b46fef48c49a5765fbd2dbd23dc5b820c5c9f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812758"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913829"
 ---
 # <a name="fix-onedrive-sync-issues-with-sharepoint"></a>SharePoint에서 OneDrive 동기화 문제 해결
 

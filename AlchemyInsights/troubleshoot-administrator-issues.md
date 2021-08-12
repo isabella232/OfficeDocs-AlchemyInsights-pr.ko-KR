@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7820"
 - "9004358"
-ms.openlocfilehash: 8c38f879e491d8f50cdb60bae3f756306fbc6f57
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: 2ae2fc8097ff8f7534f8d32462889d1eb6ab65d4753b75d88240d2f899a8b01b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "50716092"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939457"
 ---
 # <a name="troubleshoot-administrator-issues"></a>관리자 문제 해결
 
