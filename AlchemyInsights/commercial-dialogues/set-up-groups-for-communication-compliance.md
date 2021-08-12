@@ -1,5 +1,5 @@
 ---
-title: 통신 규정 준수를 위한 그룹 설정
+title: 커뮤니케이션 규정 준수를 위한 그룹 설정
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 6550e9a7ec675607565640741f9527688116e5b4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1f9205bf06460ea395611d8dd7dc875d49fa7ac1a5dd3654d372e670fb84e4fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736342"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966763"
 ---
-# <a name="set-up-groups-for-communication-compliance"></a>통신 규정 준수를 위한 그룹 설정
+# <a name="set-up-groups-for-communication-compliance"></a>커뮤니케이션 규정 준수를 위한 그룹 설정
 
 이 단계는 선택 사항입니다. 소수의 사용자만 시작하여 통신 규정 준수의 작동 방식에 대해 보고 싶은 경우 이 단계를 건너뛰어도 됩니다.  
   

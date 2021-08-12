@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: de7ea8011af792cd01963c44f8a60915747c3c11
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 222df14754501e54b9a551f705f95ee9cce853ef6479ac21dad4b01bdc5a96f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737930"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966583"
 ---
 # <a name="what-happens-to-quarantined-messages"></a>어떻게 하나요?
 

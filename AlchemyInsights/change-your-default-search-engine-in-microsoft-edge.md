@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8215"
 - "9004596"
-ms.openlocfilehash: f2974854db467017641d638c8613d2ac8e6b1777
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 1f19c5052064261e2382e309dc55f0f74a949863098c560f19befbec78ec0cba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897950"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916781"
 ---
 # <a name="change-your-default-search-engine-in-microsoft-edge"></a>Microsoft Edge에서 기본 검색 엔진 변경
 

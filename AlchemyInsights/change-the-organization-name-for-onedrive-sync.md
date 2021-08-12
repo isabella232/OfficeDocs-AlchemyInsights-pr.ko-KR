@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003077"
 - "5850"
-ms.openlocfilehash: ca545ba51e39209f3302acdee1c24048515e2c1b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 217998f1c2912d74c89c676e4375769d2c0eb3f5b8e5df303071bc3c51ef74d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818330"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916853"
 ---
 # <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>OneDrive 동기화 클라이언트의 조직 이름 변경
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5065"
-ms.openlocfilehash: 26369a89b46cc9bb4e32b22b6e314575b69671c2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f6368bd204bb05d817686217f6ed1b20d33f1dce6b6c60dfd85f1c962e5df65d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818294"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916817"
 ---
 # <a name="change-the-partner-for-a-subscription"></a>구독 파트너 변경
 

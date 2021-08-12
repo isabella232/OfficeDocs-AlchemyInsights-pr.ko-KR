@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 42fcf8e2cff62a40770c34b2883f0f215ff7bbed
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c27a7046454a2d1c644a8d6bda172130ec1203aefc8b7a4bb484ffb892602920
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966655"
 ---
 # <a name="sublabels-grouping-labels"></a>하위 레이블(레이블 그룹화)
 

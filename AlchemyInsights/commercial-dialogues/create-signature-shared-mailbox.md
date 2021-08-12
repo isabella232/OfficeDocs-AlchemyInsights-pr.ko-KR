@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: b584ac2351b7ea6e0abe14db18af8785591cb5d6
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: f1b880455fdd96da7b20292a998d8e51db57f0cb7a196d5ff9dcb5ad2e484e25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50465022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916313"
 ---
 # <a name="create-an-email-signature-for-a-shared-mailbox"></a>공유 사서함에 대한 전자 메일 서명 만들기
 

@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002870"
 - "5407"
-ms.openlocfilehash: 07aaccb4442afd2eea09b7220676eb586d25e4db
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 0a93db6dff637d4f930e11645edb194a36ed0b1164474d8a2d69ee97d5d5a6c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925063"
 ---
 # <a name="microsoft-365-e1-subscription-and-license-management-faq"></a>Microsoft 365 E1 구독 및 라이선스 관리 FAQ
 

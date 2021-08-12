@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3488"
-ms.openlocfilehash: d5480389c3bf50cee9fe30f7ec8d8ff28ef694ca
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6df196fc0bde37c962e3aa84dd602ee414dad3d329addfd16cb6e3dcc40fc2ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809445"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943381"
 ---
 # <a name="restore-a-deleted-public-folder"></a>삭제된 공용 폴더 복원
 
 **공용 폴더에서 삭제된 항목을 복원하려면**:
 
-- [Outlook 2016에서](https://aka.ms/pfrec)메일이 없는 공용 폴더에서 삭제된 항목을 복구할 수 없습니다를 참조합니다.
+- 에서 메일이 없는 공용 폴더에서 삭제된 항목을 [복구할 수 Outlook 2016.](https://aka.ms/pfrec)
  
 삭제된 공용 폴더(모든 **형식)를 복원하려면**: 
 
