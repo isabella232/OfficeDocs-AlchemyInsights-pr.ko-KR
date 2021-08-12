@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9753"
 - "9005678"
-ms.openlocfilehash: fc2c06387b91e05c0d6308805882ec4db53519c5
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c570ffbf338749a5c9e6fcab5d0e8f472d8b23fb3fe97783b06b97990b8af10b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898095"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940789"
 ---
 # <a name="submit-a-repair-request-for-a-surface-or-xbox-device"></a>Surface 또는 Xbox 장치에 대한 복구 요청 제출
 

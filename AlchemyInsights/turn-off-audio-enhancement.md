@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3477"
 - "9001463"
-ms.openlocfilehash: 2ef63ec3a2358fc1c1aedfe1e280c46b3d0eb029
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3988cee3abf809d4a4b2eeb990372ac6765d0797a5ba735ab1c089abb6e81bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920293"
 ---
 # <a name="turn-off-audio-enhancement"></a>오디오 향상 끄기
 

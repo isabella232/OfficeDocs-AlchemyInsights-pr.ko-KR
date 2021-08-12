@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: 2290950f6a6b4680b3c436307f5c2dbaa1be527d
-ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.openlocfilehash: 65b1de3c7cde8d22fde803cbc12e076957fdfde79216236e16f22ad0ba2222ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52696892"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929095"
 ---
 # <a name="disable-chat"></a>대화를 사용 불가능으로 설정.
 

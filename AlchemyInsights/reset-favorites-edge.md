@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11937"
 - "9007099"
-ms.openlocfilehash: 88e2a43511dc61ec00768ee8fdb3c90189c33d3d
-ms.sourcegitcommit: 6fecd0e8a59b61e0948ac93471f5c943dec1e4de
+ms.openlocfilehash: a76234d17e39c7122fc5eedcb5a08df5af6d4197f71168434806ebd9f2a92346
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53569197"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972961"
 ---
 # <a name="reset-favorites-in-microsoft-edge"></a>Microsoft Edge에서 즐겨찾기 다시 설정
 

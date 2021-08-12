@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
-ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
+ms.openlocfilehash: f6f0228f6cdf7e07c9f439c54a7a2bd5364381c0e47dc80117bd964c5eafea61
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53077657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957214"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>SMTP 인증 활성화 및 문제 해결
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001728"
 - "3826"
-ms.openlocfilehash: 36f8da40bfa7cffb886e25ea89a7a3772733e1f4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fef28f0ef63c4c143761c6b1c8f9e9e122db2dffaf63f5ec01c914f89c9a7592
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810526"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912028"
 ---
 # <a name="manage-guest-access-in-microsoft-365"></a>Microsoft 365에서 게스트 액세스 관리하기
 

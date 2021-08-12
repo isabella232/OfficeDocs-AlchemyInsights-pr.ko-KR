@@ -1,5 +1,5 @@
 ---
-title: 텍스트 예측 해제
+title: 텍스트 예측 끄기
 ms.author: v-smandalika
 author: v-smandalika
 manager: v-aiyengar
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000059"
 - "6217"
-ms.openlocfilehash: 3ee4aecabb8fc534bc45d40a7546928eee679bc8
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: df62814d3fcd843faf6c6e1a227963a5c682cb1799498433ade15ab1b9e9a6fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49371808"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920257"
 ---
-# <a name="turn-off-text-predictions"></a>텍스트 예측 해제
+# <a name="turn-off-text-predictions"></a>텍스트 예측 끄기
 
-1. **설정 > 모든 Outlook 설정 보기 > 메일 > 작성 및 회신을** 선택 합니다.
-2. **텍스트 예측** 에서 **입력할 때 구의 단어 추천** 을 선택 취소 합니다.
+1. 메일 설정 > 및 회신 Outlook 모든 > **보기를 > 선택합니다.**
+2. 텍스트 **예측에서** 를 입력할 때 구 단어 **추천을 선택하지 않습니다.**
 
-자세한 내용은 [웹용 Outlook에서 지능형 기술 사용 및 Outlook.com](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70)을 참조 하세요.
+자세한 내용은 웹용 Outlook 및 [Outlook.com에서 지능형 기술 사용을 참조하세요.](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70)

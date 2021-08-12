@@ -15,12 +15,12 @@ ms.custom:
 - "6166"
 - "9003233"
 - "9002573"
-ms.openlocfilehash: 45df4381688335f10f6699d8b5ff1aaafd6f7257
-ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
+ms.openlocfilehash: c9c4eb811c93f6d11ebf606ba4bd20cddc2901d6616700ebfe6ef597dd8dc006
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2021
-ms.locfileid: "52582076"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940681"
 ---
 # <a name="teams-add-in-for-mac"></a>Mac용 Teams 추가 기능
 

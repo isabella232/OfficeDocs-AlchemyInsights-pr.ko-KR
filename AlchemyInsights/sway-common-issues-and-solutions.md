@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002626"
 - "5044"
-ms.openlocfilehash: aa77462394fb029646547c4daf2336385fa6a965
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f781e060f0054531b935b42a1dcc045c503ceda4a860f510771e6cd01ec4f399
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824945"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940753"
 ---
 # <a name="sway-common-issues-and-solutions"></a>Sway 일반적인 문제 및 해결 방법
 

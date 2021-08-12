@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7852"
 - "9004348"
-ms.openlocfilehash: 6c7f97ef32117e68ed6ace91aa9163b6bc7a7b2a
-ms.sourcegitcommit: 953a8567ebcd9835f8c5c49472b223107c92549b
+ms.openlocfilehash: 909939e1ee8371223aa853010b20cfa224a6cfe7266a6971ace10aceadb74e7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49935367"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973019"
 ---
 # <a name="provisioning-users-and-groups"></a>사용자 및 그룹 프로비전
 

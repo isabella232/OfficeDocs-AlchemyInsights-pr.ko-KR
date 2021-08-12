@@ -14,12 +14,12 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 232aa6ea3f4dae92b84436ef2441be095c858a3b65ca33e754d802f39edc2097
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828770"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972983"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Microsoft ToDo에 필요한 라이선스
 
@@ -31,7 +31,7 @@ Microsoft ToDo를 사용하려면 사용자에게 다음 라이선스 중 하나
 
 - Business Premium
 
-- Microsoft 365 일선 F1
+- Microsoft 365 F1
 
 - 모든 Office 365 Enterprise 계획
 
@@ -47,7 +47,7 @@ Microsoft ToDo를 사용하려면 사용자에게 다음 라이선스 중 하나
 
 - Microsoft 365 A5
 
-ToDo에서 사용자 데이터를 동기화하려면 유효한 제품 라이선스 외에 다음 Exchange Online 버전 중 하나가 필요합니다.
+ToDo에서 사용자 데이터를 동기화하려면 유효한 제품 라이선스 외에 Exchange Online 버전 중 하나가 필요합니다.
   
 - Exchange Online 요금제 1
 
