@@ -16,12 +16,12 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: 4320da6224145e68c8757f316cdc012a1d4f2f6c
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 003ebe35594a522151b1fa2dbc30e0419113a7f987ace1c6dcf01e2ba733dde8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53680527"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933471"
 ---
 # <a name="all-subscriptions-are-active"></a>모든 구독이 활성 상태입니다.
 

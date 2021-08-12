@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6813"
-ms.openlocfilehash: 3366603742560817eb722bd90c04fba2935bb110
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e5a0719aecc34dd3cbf0368ba3df3eed312997a392a87b220fbafc8b21b19aa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917609"
 ---
 # <a name="change-payment-information-in-azure"></a>Azure의 결제 정보 변경
 
@@ -26,7 +26,7 @@ Azure 포털에서 계정 관리자는 새 신용 카드를 추가하거나 기�
 **Azure 구독에 새 신용 카드 또는 직불 카드 추가**
 
 1. [Azure 포털](https://portal.azure.com/)에 [계정 관리자](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)로 로그인합니다. **비용 관리 + 청구** 에서 검색합니다.
-2. 신용 카드나 직불 카드를 추가하려는 구독을 선택합니다. **결제 방법** 선택
+2. 신용 카드 또는 직불 카드를 추가할 구독을 선택합니다. **결제 수단** 선택
 3. 왼쪽 상단 모서리에서 +를 선택하여 카드를 추가합니다. 오른쪽에 신용 카드 양식이 나타납니다. 신용 카드나 직불 카드 세부 정보를 입력합니다. 4. 이 카드를 활성 결제 방법으로 설정하려면 양식 위에 해당 항목을 내 활성 결제 방법으로 설정하기 옆의 확인란을 선택합니다. 해당 카드는 선택한 구독과 동일한 카드를 사용하는 모든 구독에 대한 활성 결제 방법이 됩니다. **다음** 을 선택합니다. 5. **다른 신용 카드를 사용** 하려면 활성 결제 방법으로 설정하려는 카드 옆의 확인란을 선택합니다.
 6. **활성 설정** 을 클릭합니다.
 

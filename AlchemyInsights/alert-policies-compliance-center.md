@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006571"
 - "11243"
-ms.openlocfilehash: 4c23bb7963086f08321fbf9a764b2d9975ea72a4
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1aa9f898555b440b55707889bc85358986a6568ee6a159985d2e60041cff7750
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543862"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933507"
 ---
 # <a name="alert-policies-in-the-security-and-compliance-center"></a>보안 및 준수 센터의 경고 정책
 

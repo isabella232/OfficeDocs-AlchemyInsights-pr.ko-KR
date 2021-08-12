@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000567"
 - "4500"
-ms.openlocfilehash: fa45fbaca4727d3e14cc28b62bcd4c3b20824283
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b4b0d4d9e7d33cfc02a239c96b621fd6ee9404f4839438b3f2b194ceda54658c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820544"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917537"
 ---
 # <a name="backup-notebooks-in-onenote"></a>OneNote에서 전자 필기장 백업하기
 
@@ -29,4 +29,4 @@ OneNote는 모든 작업에 대한 백업을 유지할 수 있지만, 현재 웹
 4. **폴더 선택** 대화 상자에서 백업 폴더로 이동합니다.
 5. **선택** 을 클릭하여 새 위치를 적용한 다음 **확인** 을 클릭합니다.
 
-Windows 10용 OneNote를 사용하면 전자 필기장이 OneDrive 또는 SharePoint에 저장됩니다. OneNote의 모든 버전에서 전자 필기장의 캐시된 복사본을 유지하므로 오프라인 상태에서도 액세스할 수 있고, 연결되면 모든 변경 내용이 동기화됩니다.
+Windows 10 OneNote를 사용하면 전자 필기장이 OneDrive 또는 SharePoint에 저장됩니다. OneNote의 모든 버전에서 전자 필기장의 캐시된 복사본을 유지하므로 오프라인 상태에서도 액세스할 수 있고, 연결되면 모든 변경 내용이 동기화됩니다.

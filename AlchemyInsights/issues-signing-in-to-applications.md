@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7788"
 - "9004355"
-ms.openlocfilehash: 2d073367dc1c3e8e117c0b68e205297a65024872
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: e1fd31366f24331e74b7e35887c3275549a7a394b128da560ba7a76437979553
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886903"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925675"
 ---
 # <a name="issues-signing-in-to-applications"></a>응용 프로그램 로그인 문제
 
@@ -32,7 +32,7 @@ ms.locfileid: "49886903"
 
 1. 사용자 또는 다른 사용자가 **Azure AD 로그인을 완료했지만 예기치 않은 메시지가 나타나는 경우** [응용 프로그램에 로그인할 때 예기치 않은 동의 프롬프트](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 및 [응용 프로그램에 대한 동의를 수행할 때 예기치 않은 오류](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error) 문서를 참조하세요.
 2. 사용자 또는 다른 사용자가 **응용 프로그램에 직접 로그인했지만 사용자 포털 또는 액세스 패널의 딥 링크에서 응용 프로그램에 로그인할 수 없는 경우** [Azure AD 내 앱에서 응용 프로그램에 로그인하는 문제 해결](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)을 참조하세요.
-3. 사용자 또는 다른 사용자가 **Azure AD 로그인을 완료했지만, 응용 프로그램에 오류 메시지가 표시되어 상요자가 로그인 흐름을 완료할 수 없는 경우** 문제는 앱이 Azure AD가 낸 응답을 수락하지 않았다는 것입니다. 문제를 해결하려면 [다음 단계](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-application-error)를 따르세요.
+3. 귀하 또는 사용자가 **Azure AD 로그인을 완료했지만 애플리케이션에 오류 메시지가 표시되고 사용자가 로그인 흐름을 완료할 수 없음**: 문제는 앱이 승인하지 않았다는 것입니다. Azure AD가 발행한 응답입니다. 문제를 해결하려면 [이 단계](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-application-error)를 따르세요.
 4. 사용자 또는 다른 사용자가 **암호 Single Sign-On에 대해 구성된 비암호 응용 프로그램에 로그인할 수 없는 경우** 문제를 해결하려면 [다음 단계](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso)의 지침을 따르세요.
 5. 사용자 또는 다른 사용자가 **암호 Single Sign-On에 대해 구성된 Azure AD 암호 응용 프로그램에 로그인할 수 없는 경우** 문제를 해결하려면 [다음 단계](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso)의 지침을 따르세요.
 6. 사용자나 다른 사용자가 **Microsoft 응용 프로그램에 로그인할 수 없는 경우** 문제를 해결하려면 [다음 단계](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft)를 따르세요.

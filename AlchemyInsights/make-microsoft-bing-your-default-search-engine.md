@@ -1,5 +1,5 @@
 ---
-title: Microsoft Bing을 기본 검색 엔진으로 만들기
+title: Microsoft Bing 검색 엔진으로 만들기
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9289"
-ms.openlocfilehash: 96cf8e223921ef175a31cf0a55e7390d313a5478
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: e8d4e46da4dfb6b742452371cfd1b0054eb2a9118092821bcd7b66ef4121d02f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51379887"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925495"
 ---
-# <a name="make-microsoft-bing-your-default-search-engine"></a>Microsoft Bing을 기본 검색 엔진으로 만들기
+# <a name="make-microsoft-bing-your-default-search-engine"></a>Microsoft Bing 검색 엔진으로 만들기
 
-Microsoft Edge, Google Chrome 또는 Internet Explorer Bing을 기본 검색 엔진으로 설정의 지침을 [따르세요.](https://go.microsoft.com/fwlink/?linkid=2148834)
+Bing, Google Chrome 또는 Microsoft Edge 기본 검색 엔진을 만들 Internet Explorer 기본 검색 엔진으로 설정의 지침을 Bing [따르세요.](https://go.microsoft.com/fwlink/?linkid=2148834)

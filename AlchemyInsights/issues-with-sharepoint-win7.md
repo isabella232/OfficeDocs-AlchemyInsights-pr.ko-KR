@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006484"
 - "11070"
-ms.openlocfilehash: 5329a1cadf5ca38e479040fe1f400129e51e783f
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 6cdc946c44bcabfd0ee3d6c0641adb1bd1d97127f6c0c4f196c9f93139e2fa27
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261562"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925639"
 ---
 # <a name="issues-with-sharepoint-on-windows-7-machines"></a>Windows 7 컴퓨터의 SharePoint 문제
 

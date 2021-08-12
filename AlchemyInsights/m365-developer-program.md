@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12320"
 - "9001669"
-ms.openlocfilehash: 8e403532b60c439e3f589ef89d3de857a6db6230
-ms.sourcegitcommit: ea5b3217c8d8cacc31c6250921d0dcdd8385e863
+ms.openlocfilehash: ad112ee9517169aa4c3884c61842c617ef6980bcc112e4eea5c9ec8b081df1c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53458912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925567"
 ---
 # <a name="microsoft-365-developer-program"></a>Microsoft 365 개발자 프로그램
 

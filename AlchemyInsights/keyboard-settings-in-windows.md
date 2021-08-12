@@ -1,5 +1,5 @@
 ---
-title: 'Windows 10의 키보드 설정 '
+title: '키보드의 Windows 10 '
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: be7203521aa2acf2fcf667c26a2d996eca5f846d14cc6957c0fde6b82d887aa8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832973"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925603"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>Windows 10의 키보드 설정
+# <a name="keyboard-settings-in-windows-10"></a>키보드의 Windows 10
 
 **유형 설정**
 
-맞춤법 검사, 자동 수정, 제안 및 하드웨어 및 터치 키보드의 기타 측면과 관련된 Windows 설정을 변경하려면 설정 > 장치 > **입력으로 이동합니다.** 
+맞춤법 검사Windows 자동 수정, 제안 및 하드웨어 및 터치 키보드의 기타 측면과 관련된 기타 설정을 변경하려면 설정 > **Devices > Typing으로 이동합니다.** 
 
 **언어 및 키보드 설정**
 
