@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001224"
 - "5489"
-ms.openlocfilehash: b52d50bfd703b9ef9c3fddd42f2a5793f5d7b918
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3b332396a1626063369db04dde62b13abadc290c119afdc7bba042da21f7bfba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833261"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921085"
 ---
 # <a name="troubleshoot-call-quality-problems"></a>통화 품질 문제 해결
 

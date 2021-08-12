@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9776"
 - "9004342"
-ms.openlocfilehash: d2f14d4d16bea890b564cdb9bd9ac3875c28d115
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 7584d8f6f2e24812c1fdded76332edc6dd671034011e262c15756567cb467c26
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898250"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921049"
 ---
 # <a name="troubleshoot-oauth-20-and-openid-connect-protocols"></a>OAuth 2.0 및 OpenID Connect 프로토콜 문제 해결
 

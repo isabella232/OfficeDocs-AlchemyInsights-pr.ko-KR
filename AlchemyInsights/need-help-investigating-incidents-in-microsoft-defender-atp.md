@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6025"
 - "9001221"
-ms.openlocfilehash: 39f563e43bf1a315768d3ef198340914142cb75d
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: f01075fed37d25c7455b7eaced8e77b0c07d77052a3c76159986bac4136c06d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801269"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974711"
 ---
 # <a name="need-help-investigating-incidents-in-microsoft-defender-atp"></a>Microsoft Defender ATP에서 인시던트 조사에 대한 도움 필요
 

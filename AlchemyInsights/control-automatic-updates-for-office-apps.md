@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1743"
 - "9000140"
-ms.openlocfilehash: ab3d6e60bc1b67220adbdf7ba61599a6b7aa663a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f162f11f678e8673d85e52cd9e54cedd7bd6e6a3aee87fcb2731a06d2698ea6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929887"
 ---
 # <a name="control-automatic-updates-for-office-apps"></a>Office 앱에 대한 자동 업데이트 제어
 
@@ -30,9 +30,9 @@ ms.locfileid: "47747782"
 
 클라이언트 머신에 적용된 기존 업데이트 설정을 검토하려면 다음 단계를 따릅니다.
 
-1. **시작** > **실행** > **regedit**로 이동하여 레지스트리 편집기를 엽니다.
+1. **시작** > **실행** > **regedit** 로 이동하여 레지스트리 편집기를 엽니다.
 2. 다음 위치로 전환하고 Office 업데이트 설정을 검토합니다.  
     a. HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\  
     b. ClickToRun\Configuration
 
-**참고**  OfficeMgmtCOM 키가 설정되어 있는 경우 **Office** > **계정** > **Office 업데이트**에 "업데이트는 시스템 관리자가 관리합니다."라는 메시지가 표시될 수 있습니다. 자세한 내용은 [Microsoft Endpoint Configuration Manager를 사용하여 Microsoft 365 앱으로의 업데이트 관리하기](https://docs.microsoft.com/deployoffice/manage-updates-to-office-365-proplus-with-system-center-configuration-manager#method-1-use-office-deployment-tool-to-enable-office-365-clients-to-receive-updates-from-configuration-manager)를 참조하세요.  
+**참고**  OfficeMgmtCOM 키가 설정되어 있는 경우 **Office** > **계정** > **Office 업데이트** 에 "업데이트는 시스템 관리자가 관리합니다."라는 메시지가 표시될 수 있습니다. 자세한 내용은 [Microsoft Endpoint Configuration Manager를 사용하여 Microsoft 365 앱으로의 업데이트 관리하기](https://docs.microsoft.com/deployoffice/manage-updates-to-office-365-proplus-with-system-center-configuration-manager#method-1-use-office-deployment-tool-to-enable-office-365-clients-to-receive-updates-from-configuration-manager)를 참조하세요.  

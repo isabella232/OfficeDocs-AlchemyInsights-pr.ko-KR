@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: b8fe293295e161dfc2a6476f16574febfb92bf29
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737013"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966979"
 ---
 # <a name="release-quarantined-messages"></a>격리된 메시지 해제
 

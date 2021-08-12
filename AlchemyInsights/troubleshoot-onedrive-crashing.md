@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003084"
 - "5885"
-ms.openlocfilehash: 4bf45e7780dcbabb95b3eecfb2df55beffde11d6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d5982bafbb8aaa1d240a34c071efe37e92c2ec5c5170dc59337df9a5435e22e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921013"
 ---
 # <a name="troubleshoot-onedrive-crashes"></a>OneDrive 충돌 문제 해결
 
