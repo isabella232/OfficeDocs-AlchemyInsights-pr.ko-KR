@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: c31de2fd6e34ffb4d510bc3bb33525e58c1c6557
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af767f4c2ab03ab4d0757b572085ff77d9a2901ddcde61523c7f314b11726f25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823217"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938043"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>서비스 앱 라이선스로 소프트웨어 활성화 및 할당 
 
@@ -35,4 +35,4 @@ ms.locfileid: "51823217"
 
 2. 관리할 앱을 찾아 선택합니다.  
 
-3. 설정 **& 작업에서** 게시자 포털에서 **관리로 연결되는 링크를 선택합니다.**
+3. 다음 **설정 &** 에서 게시자의 **포털에서 관리로 연결되는 링크를 선택합니다.**

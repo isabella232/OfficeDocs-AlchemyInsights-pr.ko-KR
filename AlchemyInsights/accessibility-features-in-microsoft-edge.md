@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge의 접근성 기능
+title: Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004622"
 - "8369"
-ms.openlocfilehash: 612ebc7913de55d25804789d9fded4291ead6dcc
-ms.sourcegitcommit: bdbe81bbb5beb641b27b974c69207428eb11e60f
+ms.openlocfilehash: 04f6d8d13f437a45b7d69a592610a84c6240236d17b3596c9ac28dcd3c3cacc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50828879"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938557"
 ---
-# <a name="accessibility-features-in-microsoft-edge"></a>Microsoft Edge의 접근성 기능
+# <a name="accessibility-features-in-microsoft-edge"></a>Microsoft Edge
 
-Microsoft Edge에는 요구에 가장 적합한 방식으로 웹을 탐색하는 데 도움이 되는 기본 제공 접근성 옵션이 제공됩니다.
+Microsoft Edge 가장 적합한 방식으로 웹을 탐색하는 데 도움이 되는 기본 제공 접근성 옵션이 제공됩니다.
 
-자세한 내용은 [Microsoft Edge의 접근성 기능을 참조합니다.](https://go.microsoft.com/fwlink/?linkid=2153648)
+자세한 내용은 에서 접근성 기능을 [Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2153648)

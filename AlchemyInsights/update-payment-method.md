@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6462"
-ms.openlocfilehash: cfc4d84c8161c321a981eb5c4b0fb749c0c12047
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: b757aa6ba3aa97e5f0b34d4c25e8778a13d30b9ee9a975ea1eb28a6afba4f8c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707996"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972173"
 ---
 # <a name="manage-card-and-payment-method"></a>카드 및 결제 방법 관리
 
-Azure Portal에서 계정 관리자로서 새 직불/신용 카드를 추가하거나, 기존 직불/신용 카드를 업데이트하거나, 사용하지 않는 직불/신용 카드를 삭제할 수 있습니다. [Microsoft 고객 계약의](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)경우 결제 방법은 청구 프로필과 [연결됩니다.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile) Azure에 등록한 사용자만 결제 방법을 업데이트할 수 있습니다.
+Azure Portal에서 계정 관리자로서 새 직불/신용 카드를 추가하거나, 기존 직불/신용 카드를 업데이트하거나, 사용하지 않는 직불/신용 카드를 삭제할 수 있습니다. [Microsoft 고객 계약](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)의 경우 결제 방법은 [청구 프로필](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)과 연결되어 있습니다. Azure에 등록한 사용자만 결제 방법을 업데이트할 수 있습니다.
 
 **Azure 구독에 새 직불 또는 신용 카드 추가**
 
@@ -45,18 +45,18 @@ Azure Portal에서 계정 관리자로서 새 직불/신용 카드를 추가하�
 
 **결제 문제 해결**
 
-결제 [문제/오류](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-troubleshoot-azure-payment-issues) 시나리오 문제 해결을 참조하여 문제가 해결된 경우를 참조합니다.
+[결제 문제/오류 시나리오 해결](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-troubleshoot-azure-payment-issues)을 참조하여 사용자의 문제 해결 여부를 확인하세요.
 
 금융 기관에서 카드를 거부한 결과 카드에 보류 중인 결제가 있는 경우 금융  기관에 문의하여 문제를 해결해 주세요. 아래 포인터를 사용하세요.
 
 - 은행에 확인하여 다음을 확인해야 할 수 있습니다. 
     - 카드에서 국제 거래를 사용할 수 있는 경우
-    - 잔액을 정산하기 위해 신용 제한이 카드에 있는 경우
-    - 카드에서 재발급을 사용할 수 있는 경우
+    - 카드에 잔액 결제에 대한 신용 한도액이 있는 경우
+    - 카드에서 순환 결제가 가능한 경우
 
 **추천 문서**
 
-- [인보이스 설정](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice)
+- [송장 설정](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice)
 - [결제 방법 변경 - FAQ](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [청구 프로필의 결제 방법 변경](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
+- [청구 프로필에 대한 결제 방법 변경](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
 - [Microsoft 고객 계약에 대한 액세스 확인](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
