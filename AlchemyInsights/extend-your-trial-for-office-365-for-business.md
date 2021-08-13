@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 68dab6e3c3661bcaa93695b2612e4fc46fe43aa1
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 5b460b597a0c5a7875240747c12f20bad2476e1fc37ce817a61e332cc404f9ac
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687540"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54500778"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>비즈니스용 평가판 Microsoft 365 연장
 
