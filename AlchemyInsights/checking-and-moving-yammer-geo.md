@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8419"
 - "9003223"
-ms.openlocfilehash: 89271956b1858ac0eaa20be4f929625d2755f158
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: fff7bdb6201c61c9e7e059c7362e48c0fd6f6c01adf80416d98fd0eb23c36c8a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897947"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979211"
 ---
 # <a name="checking-and-moving-yammer-geo"></a>Yammer 지역 확인 및 이동
 

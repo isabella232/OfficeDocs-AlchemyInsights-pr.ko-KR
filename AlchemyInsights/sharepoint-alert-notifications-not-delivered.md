@@ -1,5 +1,5 @@
 ---
-title: SharePoint 경고 알림이 배달 되지 않음
+title: SharePoint 알림이 배달되지 않습니다.
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05bd913098372a57d3061e8c516a6a6b4f0a9bdafde02acc930062d6281d06dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957907"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint 경고 알림이 배달 되지 않음
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint 알림이 배달되지 않습니다.
 
-가끔씩 경고가 발생할 수 있으므로 전자 메일에서 정크 폴더를 확인 하세요.
+가끔 경고가 표시될 수 있는 경우 전자 메일에서 정크 폴더를 확인합니다.
 
-**모든 경고가 배달 되지** 않거나 특정 파일이 나 라이브러리의 **개별 알림이** 배달 되지 않는 경우를 확인 합니다.
+모든 **경고가 배달되지** 않는지  또는 특정 파일이나 라이브러리의 개별 경고가 배달되지 않는지 여부를 판단합니다.
 
-- **개별 알림이 배달 되지 않음**: 특정 파일 또는 라이브러리의 개별 경고가 배달 되지 않으면 삭제 하 고 다시 만들 수 있습니다. 경고를 다시 만들려면 [SharePoint 알림 관리, 보기 또는 삭제](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) 를 참조 하세요.
-- **모든 경고가 배달 되지 않음**: 여러 파일 또는 라이브러리의 모든 경고가 배달 되지 않으면 [서비스 상태 대시보드](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) 를 방문 하 여 SharePoint 또는 Exchange에서 발생할 수 있는 모든 권고/사고를 확인 합니다. 이 문제는 Exchange를 통한 전자 메일의 SharePoint 알림 기능 또는 지연으로 인해 발생할 수 있습니다. 또한 다른 전자 메일이 배달 되는지 여부를 확인 하는 것이 중요 하 고, 그렇지 않은 경우 Exchange 지연으로 인 한 문제일 가능성이 높습니다.
+- **개별 경고가 배달되지 않습니다.** 특정 파일 또는 라이브러리의 개별 경고가 배달되지 않은 경우 삭제한 후 다시 생성하려고 시도할 수 있습니다. 경고를 [다시 SharePoint 관리,](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) 보기 또는 삭제를 참조합니다.
+- **모든 경고가 배달되지** 않습니다. 여러 파일 또는 라이브러리의 모든 경고가 배달되지 않는 경우 서비스 상태 대시보드를 방문하여 서비스 상태 대시보드에서 SharePoint 또는 라이브러리에서 발생될 수 있는 모든 권고/인시던트가 Exchange. [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) 이 문제는 전자 메일을 통해 SharePoint 경고 기능 또는 지연과 Exchange. 또한 다른 전자 메일이 배달되고 있는지 여부와 배달되지 않은 경우 지연 시간이 Exchange 있습니다.
 
-경고에 대 한 FAQ:
+경고에 대한 FAQ:
 
-- 메일 그룹에 알림을 보낼 수는 없으므로 보안 및 O365 그룹만 지원 됩니다.
-- 경고 전자 메일 템플릿은 사용자 지정할 수 없습니다. 이러한 사항을 구현 하려면 Microsoft FLOW 또는 SharePoint Designer 워크플로를 사용 해야 합니다.
+- 메일 그룹에 알림을 보낼 수 없습니다. 보안 및 O365 그룹만 지원됩니다.
+- 경고 전자 메일 서식 파일은 사용자 지정할 수 없습니다. Microsoft FLOW 또는 SharePoint 워크플로를 사용하여 이러한 작업을 완료해야 합니다.
 
-## <a name="related-topics"></a>관련 항목
+## <a name="related-topics"></a>관련 주제
 
-SharePoint Online에서 Microsoft Flow를 시도 하 고 싶으십니까?
+온라인에서 Microsoft Flow SharePoint 싶나요?
 
-- [흐름 만들기](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [사용자 Flow](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint 및 흐름](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [SharePoint 및 Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)

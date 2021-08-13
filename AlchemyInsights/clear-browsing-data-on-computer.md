@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9424"
 - "9005491"
-ms.openlocfilehash: b40b651edf6254960497b20fa26ef06a9ec0963d
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.openlocfilehash: 6ab26526612a620d1b16012108f8999e12445d3528f8755cbe3b85a265fd0f0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51441166"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995664"
 ---
 # <a name="clear-the-browsing-data-stored-on-your-computer"></a>컴퓨터에 저장된 데이터 검색 지우기
 

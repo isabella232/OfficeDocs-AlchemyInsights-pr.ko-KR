@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
-ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.openlocfilehash: 49fedc0d829d4972f15e9266e7a5519acfbd3eda78bd7f022477060523b9afd3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52696942"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979499"
 ---
 # <a name="cant-find-the-teams-meeting-recording"></a>모임 녹음/녹화를 Teams 수 없는 경우
 

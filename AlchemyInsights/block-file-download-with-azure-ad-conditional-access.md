@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5710"
-ms.openlocfilehash: 9c18d711616e8ae7f1ba469b95524818f0f2a5b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bb7fc0442e232df66a103aa1915b4c85280e98982c47afd5aa2cfbb50136fb0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820220"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968959"
 ---
 # <a name="block-file-download-with-azure-ad-conditional-access"></a>Microsoft Azure AD 조건부 액세스로 파일 다운로드 차단
 
