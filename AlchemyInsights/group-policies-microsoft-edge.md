@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006493"
 - "11108"
-ms.openlocfilehash: 3f4aea7fccf02e6dba19e3eb4d4c6acdc5d42cd4
-ms.sourcegitcommit: d79bc7ef7232bc96d89388f5444a5dd04891817b
+ms.openlocfilehash: c0223511c321a3be441863e72021f67e765748264c60944266ac1bdccdc78896
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52804466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913433"
 ---
 # <a name="group-policies-in-microsoft-edge"></a>그룹의 그룹 Microsoft Edge
 

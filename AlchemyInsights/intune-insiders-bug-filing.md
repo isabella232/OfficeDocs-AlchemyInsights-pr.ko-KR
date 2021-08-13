@@ -1,5 +1,5 @@
 ---
-title: Intune 참가자 버그 파일링
+title: Intune 내부자 버그 보고
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 574a83a97a58d44f2bef66c9caaa16479b085269fc2f9dbf729a23ca8d37bba6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667632"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925927"
 ---
-# <a name="intune-insider-bug-filing"></a>Intune 참가자 버그 파일링
+# <a name="intune-insider-bug-filing"></a>Intune 내부자 버그 보고
 
-Intune 참가자 프로그램에 대 한 관심을 보내주셔서 감사 드립니다. 이미 Intune 참가자 프로그램을 등록 하 고 지원 요청을 파일 해야 하는 경우 다음을 수행 합니다.
+Intune Insiders 프로그램에 참여해 주셔서 감사합니다. Intune Insiders 프로그램에 대해 이미 온보드되어 있으며 지원 요청을 제출해야 하는 경우 다음을 실행합니다.
 
-1. 위의 필드에 문제를 설명 합니다.
-2. 아래 옵션을 사용 하 여 새 서비스 요청을 만듭니다.
+1. 위의 필드에서 문제를 설명합니다.
+2. 아래 옵션을 사용하여 새 서비스 요청을 만들 수 있습니다.
 
-Intune 지원 엔지니어가 연락을 받게 됩니다.
+Intune 지원 엔지니어가 연락을 받습니다.
 
-Intune 참가자 프로그램에 없는 경우 관심을 주셔서 감사 합니다. 현재 새 참가자를 채용 하 고 있지 않습니다.
+Intune Insiders 프로그램에 참여하지 않는 경우 관심해 주셔서 감사합니다. 현재 신규 참가자를 모집하고 있지 않습니다.

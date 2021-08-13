@@ -1,5 +1,5 @@
 ---
-title: Microsoft Intune에서 Windows 장치 등록 문제 해결
+title: 디바이스에서 Windows 등록하는 문제를 Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: a456cc8f2336e6b902de0b7873cb233f4b846140
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a2abb4d0ef5504c496afefe62a80f3fa21c7ec85536e822e402be33b3617b59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808977"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981047"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Microsoft Intune에서 Windows 장치 등록 문제 해결
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>디바이스에서 Windows 등록하는 문제를 Microsoft Intune
 
 아래 나열된 리소스를 검토하여 지금 문제를 해결합니다.
   
@@ -35,7 +35,7 @@ ms.locfileid: "51808977"
 
 -  디바이스가 이미 다른 사용자가 등록했습니다. 이 경우 다시 시도하기 전에 Azure Intune 콘솔에서 장치를 제거하거나 수동으로 디바이스의 구독을 제거합니다.
 
--  디바이스가 Windows 10 Home입니다. Windows 10 Pro, Education 및 Enterprise SKUS만 Azure Active Directory에 가입할 수 있습니다.
+-  디바이스가 Windows 10 Home. SKUS는 Windows 10 Pro, Education 및 Enterprise SKUS만 Azure Active Directory.
 
 문제를 해결하는 데 도움이 되는 추가 리소스:
   
@@ -43,4 +43,4 @@ ms.locfileid: "51808977"
 
 -  다음 문서를 검토하여 등록과 해결 방법을 방지하는 일반적인 오류의 목록을 확인합니다. [문제 해결 가이드](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) 및 [문제 해결 문서](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).
 
-[Microsoft Intune에서 Windows 장치를 등록하는 방법을 학습합니다.](https://docs.microsoft.com/intune/windows-enroll)
+[에서 디바이스를 Windows 등록하는 Microsoft Intune.](https://docs.microsoft.com/intune/windows-enroll)

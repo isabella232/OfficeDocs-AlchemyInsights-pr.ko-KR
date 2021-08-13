@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9803"
 - "9005744"
-ms.openlocfilehash: 945be2b496b98937bfae6d1f573162d1f2ebb4b6
-ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.openlocfilehash: 45d831af2eae8dc7573b0b44bea05dd1348d0b7806ae258f865c6eb36c3d5192
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956089"
 ---
 # <a name="troubleshoot-error-code-aadsts650056"></a>오류 코드 AADSTS650056 문제 해결
 

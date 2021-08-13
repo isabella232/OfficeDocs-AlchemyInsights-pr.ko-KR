@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005502"
 - "9434"
-ms.openlocfilehash: 90ecb6f7656e5f4f0a8c3da3692f0892f4829d10
-ms.sourcegitcommit: c9021d873950e378c927e39e179b5da4ff17b880
+ms.openlocfilehash: e3efbb37e28737c1cf1932abdf03b14f7b7bc295037ca0acc9602d8864b4a8ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52079987"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955459"
 ---
 # <a name="about-universal-print"></a>유니버설 인쇄
 
-유니버설 인쇄는 상업용 및 교육용 Microsoft 365 및 Windows 10 구독에 포함되어 있지만 독립 실행형 구독으로 구입할 수도 있습니다.
+유니버설 인쇄는 상업용 및 교육용 Microsoft 365 Windows 10 포함되어 있지만 독립 실행형 구독으로 구입할 수도 있습니다.
 
 자세한 내용은 유니버설 인쇄 라이선스를 [| Microsoft Docs.](https://docs.microsoft.com/universal-print/fundamentals/universal-print-license)
 

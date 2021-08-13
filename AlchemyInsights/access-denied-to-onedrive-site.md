@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000150"
 - "1663"
-ms.openlocfilehash: ab85f09c91337b8653d433c70c24700306fdaef7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c12af2769036d0c5f220e82f18fb3bd5b6217b79ec5987250b61ea195d7836aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803910"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955279"
 ---
 # <a name="access-denied-to-onedrive-site"></a>OneDrive 사이트에 대한 액세스가 거부됨
 

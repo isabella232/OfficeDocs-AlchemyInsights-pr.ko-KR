@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12336"
 - "3200003"
-ms.openlocfilehash: 8dd44b377b527242909f9ad4c89580dd807c1617
-ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
+ms.openlocfilehash: 05e1192743c5a4c5f6809c3139c09dbd4a1b86e6775aeb0f0c556a9c9102027b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53532974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956067"
 ---
 # <a name="troubleshooting-ediscovery-export-issues"></a>eDiscovery 내보내기 문제 해결
 

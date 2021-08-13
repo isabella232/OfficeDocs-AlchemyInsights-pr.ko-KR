@@ -1,5 +1,5 @@
 ---
-title: Microsoft Intune 등록 옵션 문제 해결
+title: 등록 옵션과 관련한 문제 Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 84159de0f29782d3c2a6a92ac77322e4bec525dd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2328e04497102fbc471b8138bcb734f4f3e07131621ea57599330ffdf545ab1d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981011"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Microsoft Intune 등록 옵션 문제 해결
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>등록 옵션과 관련한 문제 Microsoft Intune
 
 아래 나열된 리소스를 검토하여 지금 문제를 해결합니다.
   
@@ -30,4 +30,4 @@ ms.locfileid: "51830912"
 
 - 이 [문서에서](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) 각 오류에 대한 등록 및 해결을 방지하는 일반적인 오류 목록을 검토합니다.
 
-- [Microsoft Intune의 등록 옵션에 대해 자세히 알아보습니다.](https://docs.microsoft.com/intune/enrollment-options)
+- [에서 등록 옵션에 대해 Microsoft Intune.](https://docs.microsoft.com/intune/enrollment-options)

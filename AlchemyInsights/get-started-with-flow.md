@@ -1,5 +1,5 @@
 ---
-title: 흐름 시작 하기
+title: 시작 Flow
 ms.author: toresing
 author: tomresing
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
-ms.openlocfilehash: c2cb1f6b6621f467f7f626c8fe66d53e7f36601a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52bb7980243cd4eedca500c4809bf49e9f578cf3dd36ea5d543f0780c4606ff2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707393"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964342"
 ---
 # <a name="get-started-with-microsoft-flow"></a>Microsoft Flow 시작
 
-Microsoft 흐름을 사용 하 여 다음을 수행할 수 있습니다.
+이 Microsoft Flow 다음을 할 수 있습니다.
   
-- 서식 파일 및 서비스를 쉽게 검색할 때
+- 서식 파일 및 서비스를 쉽게 검색할 수 있습니다.
     
-- 가장 인기 있는 서비스를 선택 합니다.
+- 가장 인기 있는 서비스에서 선택.
     
-- 각 흐름의 개요를 참조 하세요.
+- 각 흐름에 대한 개요를 참조하세요.
     
-[Microsoft Flow에 대해 자세히 알아보기](https://go.microsoft.com/fwlink/?linkid=874446)
+[자세한 내용은 Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=874446)
   
 
