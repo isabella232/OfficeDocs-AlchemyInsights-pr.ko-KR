@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6453"
-ms.openlocfilehash: c1121a1b945b86d16e01e486000145a2885b7737
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 549dd1b0357bbe35c7a71c2b3fec16a6fea0520275f35845525aa28f8e7980c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813082"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977411"
 ---
 # <a name="find-groups-in-microsoft-stream"></a>Microsoft Stream에서 그룹 찾기
 

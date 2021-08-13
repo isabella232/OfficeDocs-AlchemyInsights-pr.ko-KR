@@ -14,12 +14,12 @@ ms.assetid: ''
 ms.custom:
 - "9007084"
 - "11929"
-ms.openlocfilehash: 416e86b693ced8b3569ebec97c657e28fbe69ce1
-ms.sourcegitcommit: 7f08f13823b5a04cde96e344efa368912c9d0f68
+ms.openlocfilehash: 6f63eed31fda61ea6377c364cfbf63035311864e55637baa5a5838784a03b582
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53617728"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957417"
 ---
 # <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>사용자 및 사용자 SharePoint Microsoft Teams 도움말
 

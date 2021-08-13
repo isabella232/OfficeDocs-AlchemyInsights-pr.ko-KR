@@ -1,5 +1,5 @@
 ---
-title: 외부 사용자가 콘텐츠에 액세스할 수 없음
+title: 외부 사용자가 콘텐츠에 액세스할 수 없습니다.
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 70ae38749bde631000d373a981de2bd1be50084b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6868d8238aa376cace020950490de22ea0fc26d05b8308bfc4d9e5f1fc992bf2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708617"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977663"
 ---
-# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>외부 사용자가 SharePoint 또는 OneDrive 콘텐츠에 액세스할 수 없음
+# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>외부 사용자가 콘텐츠 또는 SharePoint 액세스할 OneDrive 없습니다.
 
-외부 사용자가 초대 되었으며 콘텐츠에 액세스할 수 없는 경우 아래 링크를 방문 하세요.
+외부 사용자가 초대를 하여 콘텐츠에 액세스할 수 없는 경우 아래 링크를 방문해 보세요.
 
-- [외부 사용자가 사이트에 액세스할 때 사용 권한 오류가 수신 되는 경우](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [SharePoint Online 또는 비즈니스용 OneDrive에서 항목 또는 사이트를 공유 하는 경우 "조직의 정책에서 다음 사용자와 공유 하는 것을 허용 하지 않습니다." 오류](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [공유 옵션은 SharePoint Online 또는 OneDrive에서 공유할 때 흐리게 표시 됩니다.](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [사이트에 액세스할 때 외부 사용자에게 사용 권한 오류가 발생합니다.](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [SharePoint Online에서 항목이나 사이트를 공유할 때 조직의 정책으로 이러한 사용자와 공유할 수 비즈니스용 OneDrive](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [공유 옵션은 온라인 또는 SharePoint 공유 시 회색으로 OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)

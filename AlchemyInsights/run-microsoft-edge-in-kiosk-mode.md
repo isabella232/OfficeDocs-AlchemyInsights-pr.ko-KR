@@ -14,12 +14,12 @@ ms.custom:
 - "9006495"
 - "6903"
 - "11118"
-ms.openlocfilehash: 8ca6ab697418371815f821a4e5668c7df07661e0
-ms.sourcegitcommit: 43d33c2bfdf5bab78bc13e7821771ffe7a787336
+ms.openlocfilehash: 12f8aabae40fc1caa3e27a62f14b8b60b73d83d95d7ce95a7101bcc4379e4fbf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52312410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922231"
 ---
 # <a name="run-microsoft-edge-in-kiosk-mode"></a>키오스크 Microsoft Edge 실행
 

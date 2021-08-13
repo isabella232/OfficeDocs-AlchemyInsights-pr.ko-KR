@@ -13,12 +13,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002650"
 - "5101"
-ms.openlocfilehash: 3424d8c4a0e3f34e4b2708eec1c7b2c31ee8c428
-ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
+ms.openlocfilehash: 6a5558b8aa39a5a54f1c060bf655725cf6c9555a2a2fc85c9c0b17ec4d27ed6f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53389079"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922381"
 ---
 # <a name="restrict-default-video-upload-permissions"></a>기본 비디오 업로드 권한 제한
 

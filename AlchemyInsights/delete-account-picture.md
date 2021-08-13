@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: c7baa3267d62ae1bef64b9f7c91b5f8aedfcbc8e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1a9e3fe14e3cd2062b54a2443fdc6dd2f1a7bcccf79538fc439295ce43082149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948221"
 ---
-# <a name="delete-an-account-picture-in-windows-10"></a>Windows 10에서 계정 사진 삭제
+# <a name="delete-an-account-picture-in-windows-10"></a>계정에서 계정 Windows 10
 
-Windows는 가장 최근의 세 사진 사이를 전환할 수 있도록 디자인됩니다. 계정 사진 중 하나를 삭제해야 하는 경우:
+Windows 가장 최근의 세 그림 사이를 전환할 수 있도록 디자인되어 있습니다. 계정 사진 중 하나를 삭제해야 하는 경우:
 
 1. 작업 표시줄에서 파일 탐색기를 니다. 작업 표시줄에 파일 탐색기(폴더 아이콘)가 없는  경우 시작을 선택하고 파일 **탐색기를 입력합니다.**
 

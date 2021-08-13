@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5144"
-ms.openlocfilehash: 363d08c033b33ebdd1abd3e5d30674ac274b9e24
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5297e429e346c1f84e7ecf8fdb99bf0236382da2cb484668dd4b560027736979
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830715"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922453"
 ---
 # <a name="resolve-issues-opening-powerpoint-files"></a>PowerPoint 파일을 열 때 발생하는 문제 해결하기
 

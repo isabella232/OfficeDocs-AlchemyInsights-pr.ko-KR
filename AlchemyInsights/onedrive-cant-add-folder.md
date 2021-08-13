@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11234"
 - "9006575"
-ms.openlocfilehash: 1306efd51bf109f9de6b2b2c8c973f7aed66e7ec
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: d0f2faef81cac521f7890e9dd80e298c8581423bfbd531357d22f9e30ac89898
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545849"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984899"
 ---
 # <a name="onedrive-cant-add-your-folder-right-now"></a>OneDrive에서 폴더를 지금 추가할 수 없음
 

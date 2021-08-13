@@ -1,5 +1,5 @@
 ---
-title: SharePoint 또는 OneDrive에서 삭제 된 항목 복원
+title: 삭제된 항목은 SharePoint 또는 OneDrive
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: c53f8db579b93649e0ea370e63428383469ac60c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d015b6a479e6045eac59c13a430ca903c497a84b12ddaeaa22aeec9fae88f4e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728185"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922309"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>SharePoint 또는 OneDrive에서 삭제 된 항목 복원
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>삭제된 항목은 SharePoint 또는 OneDrive
 
-1. OneDrive 또는 SharePoint 사이트로 이동 합니다.
+1. 사이트 또는 OneDrive 사이트로 SharePoint 있습니다.
     
-2. 왼쪽 창에서 **휴지통** 을 클릭 합니다. 
+2. 왼쪽 창에서 재활용 **Bin을** 클릭합니다. 
     
-3. 복원 하려는 항목 또는 파일의 왼쪽을 클릭 합니다.
+3. 복원할 항목 또는 파일의 왼쪽을 클릭합니다.
     
-4. **복원**을 클릭합니다. 
+4. **복원** 을 클릭합니다. 
     
-SharePoint 사이트에서 파일, 폴더, 라이브러리, 목록 및 목록 항목을 삭제 하면 사용자가 휴지통에서 삭제 한 경우를 제외 하 고는 휴지통으로 이동 하 여 93 일 동안 보관 됩니다. 이 휴지통 (사이트 휴지통 이라고 함)에서 삭제 된 사용자는 남은 시간 동안 사이트 모음 휴지통으로 이동한 다음 영구적으로 삭제 됩니다. 삭제 된 사이트 및 사이트 모음은 93 일간 사이트 모음 휴지통으로 바로 이동 합니다.
+파일, 폴더, 라이브러리, 목록 및 목록 항목이 SharePoint 사이트에서 삭제되면 다른 사람이 이 재활용 보관소에서 삭제하지 않는 한 93일 동안 보관되는 재활용 보관으로 이동합니다. 사이트 재활용 쓰레기 수거란이라고 하는 이 재활용 모음에서 삭제된 경우 남은 시간 동안 사이트 모음의 재활용 Bin으로 이동한 다음 영구적으로 삭제됩니다. 삭제된 사이트 및 사이트 모음은 93일 동안 사이트 모음의 재활용 Bin으로 직접 이동됩니다.
   
-[사이트 모음 휴지통의 항목 복원](https://go.microsoft.com/fwlink/?linkid=867800) (사이트 모음 관리자) 
+[사이트 모음의 항목 복원(사이트](https://go.microsoft.com/fwlink/?linkid=867800) 모음 관리자) 
   
-[삭제 된 사이트 모음 복원](https://go.microsoft.com/fwlink/?linkid=867660) (Microsoft 365의 전역 또는 SharePoint admins) 
+[삭제된 사이트 모음 복원(전역](https://go.microsoft.com/fwlink/?linkid=867660) 또는 SharePoint 관리자)Microsoft 365 
   
-Microsoft 365 그룹에 속하는 사이트의 경우에는 그룹을 복원 하 여 사이트를 복원 해야 합니다. [삭제 된 Microsoft 365 그룹 복원](https://go.microsoft.com/fwlink/?linkid=867802) 참조 (전역 관리자) 
+Microsoft 365 그룹에 속하는 사이트의 경우 그룹을 복원하여 사이트를 복원해야 합니다. 삭제된 [Microsoft 365 그룹 복원(전역](https://go.microsoft.com/fwlink/?linkid=867802) 관리자)을 참조하세요. 
   
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002959"
 - "5661"
-ms.openlocfilehash: ff8f80b3df4e3809e844195128f4d99cbc4667be
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 63ba3afdd8f74b17559484f37e9250587aec9b4a929325d8f82e3c9ad06f1783
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826673"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922577"
 ---
 # <a name="run-windows-memory-diagnostics-in-windows-10"></a>Windows 10에서 Windows 메모리 진단 실행
 
@@ -25,7 +25,7 @@ PC에서 Windows 및 앱이 작동을 중지하거나 멈추거나 또는 불안
 
 작업 표시줄의 검색 상자에 **메모리 진단** 을 입력한 다음, **Windows 메모리 진단** 을 선택합니다. 
 
-진단 도구를 실행하려면 PC를 다시 시작해야 합니다. 즉시 다시 시작하는 옵션(작업을 저장 하고 열린 문서와 전자 메일을 먼저 닫음)을 사용하거나 다음에 PC가 다시 시작될 때 진단이 자동으로 실행되도록 예약하는 옵션이 있습니다.
+진단을 실행하려면 PC를 다시 시작해야 합니다. 즉시 다시 시작(작업을 저장하고 열려 있는 문서와 이메일을 먼저 닫으십시오)하거나 다음에 PC가 다시 시작될 때 진단이 자동으로 실행되도록 예약할 수 있습니다.
 
 ![Windows 메모리 진단](media/windows-memory-diagnostic.png)
 

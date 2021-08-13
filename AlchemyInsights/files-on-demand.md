@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6432"
 - "9003530"
-ms.openlocfilehash: 4e3da81ee048c6257e05b998c0f457fa433738fd
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 10efdb5e1a90b3e279b8e1716e66a544d0ee34465245f5670930d8a9364a8cc3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791300"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977447"
 ---
 # <a name="configure-files-on-demand"></a>요청 기반 파일 관리 구성하기
 
@@ -33,7 +33,7 @@ PC에서 요청 기반 파일 관리를 구성하려면:
 
 레지스트리를 사용하여 요청 기반 파일 관리를 구성할 수도 있습니다.
 
-이 설정을 사용하지 않으면 Windows 10 사용자는 이전 버전의 Windows 사용자와 동일한 동기화 동작을 실행하며 요청 기반 파일 관리를 사용할 수 없습니다. 이 설정을 구성하지 않으면 사용자는 요청 기반 파일 관리를 켜거나 끌 수 있습니다.
+이 설정을 사용하면 동기화 클라이언트를 설정한 새 사용자는 기본적으로 온라인 전용 파일을 다운로드합니다. 이 설정을 사용하지 않도록 설정하면 Windows 10 사용자는 이전 버전의 Windows 사용자와 동일한 동기화 동작을 진행하며, 요청 기반 파일을 설정할 수 없게 됩니다. 이 설정을 구성하지 않으면 사용자는 요청 기반 파일을 설정하거나 해제할 수 있습니다. 이 설정을 구성하지 않으면 사용자는 요청 기반 파일 관리를 켜거나 끌 수 있습니다.
 
 이 정책을 사용하면 다음 레지스트리 키 값을 1로 설정합니다. 이 정책을 사용하지 않으면 다음 레지스트리 키 값을 0으로 설정합니다.
 
