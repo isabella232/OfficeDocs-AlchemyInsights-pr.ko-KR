@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9820"
 - "9005614"
-ms.openlocfilehash: 5ad919059780571a6e09b6a9e277ca8569ebf270
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: eb1dae7e7cf1f14b0ca0a24ffcb90e4dfff04216db27709f1d4b537ff6dd2ef6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898027"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062050"
 ---
 # <a name="recover-reinstall-or-restore-windows"></a>Windows 복구, 다시 설치 또는 복원
 

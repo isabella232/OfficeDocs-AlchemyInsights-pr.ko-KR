@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7878"
 - "9004374"
-ms.openlocfilehash: 6b7ce78586371f159588555ba00ed7ba56751e02
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
+ms.openlocfilehash: 094f0d0c1002c3cba1b881d142fd16230f926505721a9071393145d5a59d63d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51408794"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915269"
 ---
 # <a name="contact-support-or-request-fasttrack-assistance"></a>고객 지원 문의 또는 FastTrack 지원 요청
 

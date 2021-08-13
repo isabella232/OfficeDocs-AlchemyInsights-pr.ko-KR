@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9209"
 - "9005371"
-ms.openlocfilehash: 4b61686381de0cafa38857ca7a96b3a81aa191ec
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 70f8def2a0f3419a9aa6325e376ba52fc35ec48b61f39ede99d7e58cd6c6c464
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898165"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971463"
 ---
 # <a name="user-management-issues"></a>사용자 관리 문제
 

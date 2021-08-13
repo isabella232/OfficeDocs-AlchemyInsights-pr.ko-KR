@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3406"
 - "9001429"
-ms.openlocfilehash: 468d197ae1ad6a3ee13cbcc683a59f0d9f193af7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 90fc3135dcde5073330abb7cfe0e45c799e2154d9cd27c075c2c9ac89c18a641
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822893"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937281"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Microsoft 365 앱 수정 "컴퓨터의 신뢰할 수 있는 플랫폼 모듈이 제대로 작동하지 않습니다." 메시지
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>앱 Microsoft 365 "컴퓨터의 신뢰할 수 있는 플랫폼 모듈이 제대로 작동하지 않습니다." 메시지 수정
 
 이 오류를 해결하려면 다음 단계를 수행하십시오.
 
 1. Office 앱을 열고 기존 사용자 계정을 [로그아웃](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071)합니다.   
-2. Windows **설정**  >  **계정 전자** 메일 &  >  **사용**, 기존 작업 계정을 제거합니다. 
-3. Windows **설정**  >  **계정을 사용하여** 직장 또는  >  **학교에 액세스하고** 기존 계정 연결을 끊습니다. 
-4. Office 정품인증 재설정 [방법을 알아보세요](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+2. 계정 Windows **설정** 전자 메일 & 사용하여 기존 직장 계정을  >    >  제거합니다. 
+3. 계정 Windows **설정** 계정 액세스 를 사용하여  >    >  기존 계정 연결을 끊습니다. 
+4. Office 정품 인증 다시 설정 [방법을 알아보세요](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 ).
 5. 사용자 [복구 프로세스를 시도하여](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) TPM(신뢰할 수 있는 플랫폼 모듈) 오류를 해결합니다.

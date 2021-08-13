@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: bf44c6f283a52fdcef2f231143177dc880b06d8a
-ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
+ms.openlocfilehash: 6ef9cd8005ab8cbd2d69b09cc8192b6359b397e8d5c471d2f958ae1e751d7797
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "52694746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062194"
 ---
 # <a name="recover-deleted-items-from-exchange-admin-center"></a>Exchange 관리 센터에서 삭제된 항목 복구
 

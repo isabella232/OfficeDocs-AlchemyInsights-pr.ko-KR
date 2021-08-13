@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8371"
 - "9004622"
-ms.openlocfilehash: b95454ec8ce8d0d69d1f55f7ce4adc596929e2de
-ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
+ms.openlocfilehash: 3bb93c196dd4717f5ec297e63284c5bc2840dcf5965cd000f336fde1e982a061
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50641622"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971525"
 ---
 # <a name="use-the-microsoft-intune-security-baselines-for-configuring-windows-10-devices"></a>Windows 10 장치 구성에 Microsoft Intune 보안 기준 사용하기
 
