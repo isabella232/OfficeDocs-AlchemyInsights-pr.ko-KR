@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: 02fe79d1cda2bdd853896520fa41b7ef7f9becb4
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: c602b76b82190c981273bfd2473304c20f18cfb94c925e27b6b777cba4a52c40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542971"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952327"
 ---
 # <a name="advanced-hunting-query-best-practices"></a>고급 헌팅 쿼리 모범 사례
 

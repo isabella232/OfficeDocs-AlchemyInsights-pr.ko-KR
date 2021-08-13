@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10184"
 - "9000094"
-ms.openlocfilehash: 502279487063b863d90390997f76d3d304fae9ae
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
+ms.openlocfilehash: cecbac79c72d1d4d753d8f2b20dba8776efc82c081aaeee900210104d011d53d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51408786"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969581"
 ---
 # <a name="apply-site-template-to-sharepoint-sites"></a>SharePoint 사이트에 사이트 템플릿 적용
 

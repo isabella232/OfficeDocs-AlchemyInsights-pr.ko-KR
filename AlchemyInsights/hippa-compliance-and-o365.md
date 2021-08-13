@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002430"
 - "4720"
-ms.openlocfilehash: 3f98c725e2624ddb584dc62321ce48de41e4a127
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 04c86c943956d70111c3183353e36c6aec275a6c7cc703aaa704de7b16298945
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811426"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927835"
 ---
 # <a name="hippa-compliance-and-office-365"></a>HIPPA 규정 준수 및 Office 365
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9748"
 - "9005385"
-ms.openlocfilehash: 5f731154611ff0dd8dea61aa84c8016ceeb63542
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 2bafc33d0c6942fdea976af947b74939f0d60fe612f5796bd80e2ed8fce8b2e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898140"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928015"
 ---
 # <a name="get-help-with-external-monitors"></a>외부 모니터에 대한 도움말
 
