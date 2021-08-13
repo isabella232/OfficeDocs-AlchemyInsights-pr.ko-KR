@@ -14,12 +14,12 @@ ms.assetid: ''
 ms.custom:
 - "3000003"
 - "12465"
-ms.openlocfilehash: 16e16f087c2b13a9ad5fec7223b4f3395e42646e
-ms.sourcegitcommit: 380ee556007d2be389b1a99795bca04bc1f9f60f
+ms.openlocfilehash: ce898981d053c8b5dc080ee83434bdacd7f02a636f0183293915bacdb48ba4ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53604926"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918966"
 ---
 # <a name="451-470-temporary-server-error-please-try-again-later-prx4"></a>451 4.7.0 임시 서버 오류입니다. 나중에 다시 시도하십시오. PRX4
 

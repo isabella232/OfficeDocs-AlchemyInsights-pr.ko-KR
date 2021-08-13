@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8315"
 - "9004429"
-ms.openlocfilehash: aa89cbd58875f418a0a7a9db4b5eb4f0e4c1223a
-ms.sourcegitcommit: e9fcd72e64d35f5ba14dfa0fbde39eae20d86cfe
+ms.openlocfilehash: 710489bd7dcb10f5c953c83e87bdad030c47cfda7dbd38e1eceae78bfe0d8790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53603295"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950325"
 ---
 # <a name="what-to-do-if-azure-features-dont-work-properly-in-microsoft-edge"></a>Azure 기능이 Microsoft Edge에서 제대로 작동하지 않는 경우 수행할 작업
 

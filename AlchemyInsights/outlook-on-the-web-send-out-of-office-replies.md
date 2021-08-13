@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: 2aa47f7da34c1039925d12a51b4f906d6333abaa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a436a4db9a6a2143f3fca77c29b2954caa5c8b9d2bc49b897d533104fc7ddde4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826934"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924739"
 ---
 # <a name="outlook-on-the-web-send-out-of-office-replies"></a>웹에서 Outlook: 부재 중 회신 보내기
 

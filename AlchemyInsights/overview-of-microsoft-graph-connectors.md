@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "6444"
 - "9003287"
-ms.openlocfilehash: 74a82751b7f97b0e195fb0c40ec44c3478af94dd
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 67350ead0eb47c17110f2e8481bec2ec470b0d64c0b9a353bfbeeebb0a04d83a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47941516"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924543"
 ---
 # <a name="overview-of-microsoft-graph-connectors"></a>Microsoft Graph 커넥터 개요
 
-Microsoft Graph 커넥터를 계획 하려면  [커넥터 개요](https://docs.microsoft.com/microsoftsearch/connectors-overview)를 참조 하세요.
+Microsoft Graph 커넥터를 계획하는 경우 [커넥터 개요를 참조하세요.](https://docs.microsoft.com/microsoftsearch/connectors-overview)
 
-- Microsoft 또는 [파트너를 통한](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)커넥터 [를 통해 커넥터](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) 를 참조 하세요.
-- [Microsoft Search에 대 한 커넥터를 관리](https://docs.microsoft.com/microsoftsearch/manage-connector)합니다.
+- [Microsoft의 커넥터 또는](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) [파트너의 커넥터를 참조하세요.](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [에 대한 커넥터를 Microsoft Search.](https://docs.microsoft.com/microsoftsearch/manage-connector)
 
-Microsoft Search를 계획 하려면  [Microsoft Search 개요](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)를 참조 하세요.
+이 기능을 Microsoft Search 자세한 내용은 Overview [of Microsoft Search.](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 1de3027260152dc14e33496af7cfb1dd239447d6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7a165a0fc5fb7baa7b02f3093f784ca17de2fc0d59332d2e70fb0f507bfeb221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770817"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980347"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Snip & 스케치를 사용하여 이미지를 캡처, 표시 및 공유
 
 화면 스케치는 이제 **Snip & 스케치입니다.** **빠르게 snip을 찍기** 위해 :
 
-1. Windows 로고 **키 + Shift + S를 누르고 있습니다.** 화면이 어둡게 표시되고 커서가 십자형으로 표시됩니다. 
+1. 로고 **Windows + Shift + S를 누르고 있습니다.** 화면이 어둡게 표시되고 커서가 십자형으로 표시됩니다. 
 
 2. 복사할 영역 가장자리에 있는 지점을 선택하고 커서를 마우스 왼쪽 단추로 클릭합니다. 
 

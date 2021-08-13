@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 23f136bdadcb892356c6faf8fd8ae8481aa8ff83
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 1fbde50cc77b4ef05c19c8557e3a41b561d1a73043c239eadb0f18a34af5d639
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686928"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950266"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>구독을 Microsoft 365 취소하나요?
 
@@ -31,6 +31,6 @@ ms.locfileid: "53686928"
 2. 청구 제품  \> **[페이지로](https://go.microsoft.com/fwlink/p/?linkid=842054)** 이동합니다.
 3. 제품 **탭에서** 취소할 구독을 찾고 세 개의 점(추가 작업)을 선택한 다음 구독 **취소를 선택합니다.**
 
-**환불:** 일할 계산된 크레딧은 다음 청구 주기 안에 반환됩니다.
+**환불:** 일할 계산된 크레딧은 다음 대금 청구 주기 안에 반환됩니다.
 
 자세한 내용은 구독 [취소를 참조하세요.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

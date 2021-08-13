@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "6443"
 - "9003287"
-ms.openlocfilehash: 8171ec494197abf53a073cc87fce0898d23f9490
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 00eb6c5fdabc56a7d81b27c48bdc1f1e562cbac9bfb6046b9ea7c2c0f4920800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47941507"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924542"
 ---
 # <a name="overview-of-microsoft-search"></a>Microsoft Graph 개요
 
-Microsoft Search를 계획 하려면 [Microsoft Search 개요](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)를 참조 하세요.
+자세한 내용은 Microsoft Search [개요를 Microsoft Search.](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)
 
-- [Microsoft Search 설정](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
-- Microsoft 검색에 대해 [자주 묻는 질문](https://docs.microsoft.com/microsoftsearch/faqs)을 찾습니다.
+- [설정 Microsoft Search](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
+- 질문과 Microsoft Search [질문과 대답을 검색합니다.](https://docs.microsoft.com/microsoftsearch/faqs)

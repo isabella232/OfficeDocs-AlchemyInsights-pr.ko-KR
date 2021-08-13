@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12575"
 - "9007066"
-ms.openlocfilehash: ae0dac444ddfa9ce3e6a19dc7e7abb63ed34a0ba
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: bf6699857f1b8d1796526560ec1aeeb8bce324ef21e87ba0cefa6c3da57e32d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918975"
 ---
 # <a name="403-forbidden-error-on-onedrive-or-sharepoint"></a>OneDrive 또는 SharePoint의 403 금지 오류
 

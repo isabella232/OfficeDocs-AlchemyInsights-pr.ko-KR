@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9361"
 - "9003259"
-ms.openlocfilehash: ed151b436fa2043c610931deeb74a202af88fcf4
-ms.sourcegitcommit: 226fe97678b6be215eda0c278399f8be9be525c1
+ms.openlocfilehash: ab2899cc96fb76705665eff4a535de5ada5bc4dd733723349a6fb649adfb034b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50523087"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960949"
 ---
 # <a name="password-logs"></a>암호 로그
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11139"
-ms.openlocfilehash: 47bcd7630821accb1bac89866f661898822df4b3
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: c578db2ccba7c6831d39b02d10afc50f00904755204866e45aa4eb2ec313a8e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52783224"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980147"
 ---
 # <a name="view-the-april-2020-baseline-for-microsoft-edge-versions-80-and-later"></a>Microsoft Edge 버전 80 이상에 대한 2020년 4월 기준 보기
 
