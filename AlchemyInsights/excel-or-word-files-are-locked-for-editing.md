@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5635"
-ms.openlocfilehash: 6f9d66dc2f4ec4e23972289765abd54888f397cf
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 42b484c54815df013c292483859e6dcdc20c4fac752f38c5a2820332a5c990ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813550"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978059"
 ---
 # <a name="excel-or-word-files-are-locked-for-editing"></a>편집을 위해 Excel 또는 Word 파일이 잠겨 있습니다.
 

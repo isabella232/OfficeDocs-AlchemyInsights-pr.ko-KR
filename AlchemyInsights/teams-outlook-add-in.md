@@ -14,12 +14,12 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: d8335c20da06d4cfde2f92149b560f3829c773cfff10aec1ad160b95049f7139
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956522"
 ---
 # <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook 추가 기능(공유를 Teams , 모임 시작, 새 Teams 모임, 모임에 Teams)
 

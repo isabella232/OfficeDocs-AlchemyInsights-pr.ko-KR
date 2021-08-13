@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005217"
 - "10011"
-ms.openlocfilehash: 7048f8b64929e12ca4a319c67457abeba0f80315
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: c835516002cdc47852a6e0bc080ab0c26681a2c01f9a2788488cad092d347aca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51406761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985979"
 ---
 # <a name="nla-authentication"></a>NLA 인증
 

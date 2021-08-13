@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007400"
 - "12355"
-ms.openlocfilehash: 7a93f94f044779b59181124c7a60762b669c859f
-ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
+ms.openlocfilehash: b668483e9911615c3c85f54361be7767794f2af5d4271c1950b01b401a2e2ef2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53346384"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992842"
 ---
 # <a name="microsoft-information-governance"></a>Microsoft 정보 거버넌스
 

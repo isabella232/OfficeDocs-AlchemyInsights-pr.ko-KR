@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000777"
 - "2718"
-ms.openlocfilehash: e06d88ce5d90e8b3eaf07c621ca62f64e0604fc2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6dc660d0b51a4bd104c25ee8315182eea6db3385e87034226dfc759b2f556728
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813298"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978023"
 ---
 # <a name="exporting-and-importing-data-with-excel"></a>Excel에서 데이터 내보내기 및 가져오기
 

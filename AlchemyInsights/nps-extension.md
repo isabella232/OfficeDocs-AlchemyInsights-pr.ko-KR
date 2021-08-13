@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "8603"
-ms.openlocfilehash: 6e4b4a0f9f891bbe6bc5140e119b55a802bcd7a5
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 26350d0adc665334163c5eff5f27b227bbf4c9312d76c441b2057471e99e0b30
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50417295"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985907"
 ---
 # <a name="network-policy-server-extension"></a>네트워크 정책 서버 확장
 

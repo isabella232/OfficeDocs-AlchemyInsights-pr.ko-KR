@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 09e5b7c40f77f6221acc7c072d3ddf6f072e8d7fafdf29be8262dfeed051dddd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708572"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986087"
 ---
 # <a name="myapps-portal-issues"></a>MyApps 포털 문제
 
