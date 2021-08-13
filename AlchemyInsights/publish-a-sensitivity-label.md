@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
-ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
+ms.openlocfilehash: 1fe426683a8c39d07e59bb4121131ecacf1832075f626b26982ec0ede3c24698
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53532261"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062878"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>민담도 레이블을 게시하는 방법
 

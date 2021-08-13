@@ -1,5 +1,5 @@
 ---
-title: 1385-Office-365-경고-정책
+title: 1385-Office-365-alert-policies
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,36 +13,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 8821a2ee1ae2207de5d1604762badf43808373c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664032"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918365"
 ---
 # <a name="alert-policies"></a>알림 정책
 
-Microsoft 365 보안 & 준수 센터는 Office 365 Enterprise 또는 Office 365 US 정부/G1, E3/G5 구독을 사용 하는 조직에 대 한 경고를 트리거하는 [기본 경고 정책을](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) 제공 합니다. 따라서 관리자는 Office365Alerts@microsoft.com에서 보낸 경고 전자 메일 알림을 "낮은 심각도 경고: *경고 정책 이름*"과 같은 제목 줄과 함께 받을 수 있습니다. 다음과 같은 일반적인 작업에 대 한 경고가 트리거되면 경고 알림이 전송 됩니다.
+Microsoft 365 보안 & 준수 센터는 미국 [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) Government E1/G1, E3/G3 또는 E5/G5 Office 365 Enterprise Office 365 조직에 대해 알림을 트리거하는 기본 경고 정책을 제공합니다. 따라서 관리자는 "심각도 Office365Alerts@microsoft.com: 경고 정책의 이름"과 같은 제목 줄을 사용하여 관리자가 보낸 경고 전자 메일 알림을 받을 *수* 있습니다. 알림 알림은 사용자와 같은 일반적인 활동에 대해 경고가 트리거될 때 전송됩니다.
 
-- 전자 메일을 전달 하는 받은 편지함 규칙을 만듭니다.
-- 사용 권한을 사서함에 할당 합니다.
-- SharePoint 파일 공유에서 많은 수의 파일 공유 또는 삭제
-- EDiscovery 검색을 만들고 검색 결과를 내보냅니다.
+- 전자 메일을 전달하는 받은 편지함 규칙을 만들 수 있습니다.
+- 사서함에 대한 사용 권한을 할당합니다.
+- 파일 공유에서 많은 수의 파일을 SharePoint 삭제합니다.
+- eDiscovery 검색을 만들고 검색 결과를 내보낼 수 있습니다.
 
-경고를 검토 하 고 작업을 수행 하려면
+경고를 검토하고 이에 대한 행동을 위해 다음을 참조합니다.
 
-1. [보안 & 준수 센터로](https://protection.office.com) 이동 하 여 로그인 합니다.
-2. 경고 **Alerts**  >  **보기**를 클릭 합니다.
-3. 알림을 클릭 하 여 경고에 대 한 정보가 포함 된 플라이 아웃 페이지를 표시 합니다.
+1. 보안 및 준수 [& 이동하여](https://protection.office.com) 로그인합니다.
+2. 경고 **경고 보기**  >  **를 클릭합니다.**
+3. 경고를 클릭하여 경고에 대한 정보가 있는 플라이아웃 페이지를 표시합니다.
 
-[의심 스러운 받은 편지함 규칙을 제거](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)하는 등 경고에 대해 작업을 수행할 수 있습니다. 또는 알림 플라이 아웃 페이지에서 **해결** 을 클릭 하 여 알림을 닫아야 합니다.
+의심스러운 받은 편지함 규칙을 제거하는 등 경고에 대한 [작업을 취할 수 있습니다.](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) 또는 경고 플라이아웃 페이지에서  해결을 클릭하여 경고를 닫을 수 있습니다.
 
-경고 정책을 구성 및 관리 하는 방법에 대 한 자세한 내용은  [이 문서](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)를 참조 하십시오.
+경고 정책 구성 및 관리에 대한 자세한 내용은 이 문서를 [참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)
 
-**중요**: Microsoft의 알림 전자 메일 알림에는 다음 작업을 수행 하 라는 메시지가 표시 되지 않습니다.
+**중요:** Microsoft의 알림 전자 메일 알림은 다음을 묻지 않습니다.
 
-- 암호 입력
-- 계정의 보안 정보 확인
-- 자신을 다시 인증
+- 암호 제공
+- 계정의 보안 세부 정보 확인
+- 다시 인증
 
-이와 같은 전자 메일 메시지를 수신 하는 경우 Microsoft에서 보내지 않은 것 이며 피싱 사기로 간주 해야 합니다. 이 경우 [Microsoft에 보고](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)하세요.
+이러한 전자 메일 메시지를 받으면 Microsoft에서 전송하지 않은 것이기 때문에 피싱 사기로 간주해야 합니다. 이 경우 [Microsoft에 보고하시기 바랍니다.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)

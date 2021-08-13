@@ -1,5 +1,5 @@
 ---
-title: SharePoint 그룹에서 사용자 제거
+title: 사용자 그룹에서 SharePoint 제거
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: 7a66c8440ba7eb1bb0794efd94ad4e707b9d2298
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b34042a48baa26a7e2a4b6a29ff864f2eed823893d76fb8837704769b0ce5166
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799167"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094570"
 ---
-# <a name="remove-users-from-a-sharepoint-group"></a>SharePoint 그룹에서 사용자 제거
+# <a name="remove-users-from-a-sharepoint-group"></a>사용자 그룹에서 SharePoint 제거
 
 SharePoint 그룹은 사이트 및 콘텐츠에 모두 동일한 사용 권한 집합을 가진 사용자 모음입니다. 한 번에 한 사람에게 사용 권한을 할당하는 대신, 그룹을 사용하여 한 번에 여러 사람에게 동일한 사용 권한 수준을 편리하게 할당할 수 있습니다.
 

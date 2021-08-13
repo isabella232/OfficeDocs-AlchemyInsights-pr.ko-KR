@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: 1f6c1ae0fe2261bcbc3d7eaad874cd250dcc7eb82a8df89656fec9d5e60843ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630147"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972317"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>보안 및 규정 준수 센터 통합 보존 정책
 

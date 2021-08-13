@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: a2d26da512838ae112c352fe21366074b69fa224
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608007"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972389"
 ---
 # <a name="troubleshooting-voicemail"></a>음성메일 문제 해결
 
-다른 사용자가 사용 중일 때 기능을 의도적으로 사용 중이지 않도록 합니다.
+다른 사용 중 기능이 의도적으로 사용 중이지 않도록 합니다.
 
 이 사용자에게 이 기능이 필요하지 않은 경우:
 
-1. Teams [관리 센터로 이동하세요.](https://admin.teams.microsoft.com/policies/calling)
-1. 왼쪽 레일에서 통화 정책의 **음성** 통화 정책 관리  >    >   **정책을 탐색합니다.**
-1. 사용자 **관리 선택.**
-1. 사용자 검색 및 통화 정책을 다른 통화 중 통화 중이 있는 정책으로 변경하는 것은 해제로 전화를 걸 때 사용할 **수** **있습니다.**
+1. 관리 [Teams 로 이동하세요.](https://admin.teams.microsoft.com/policies/calling)
+1. 왼쪽 레일에서 음성 통화 정책에서 정책을  >    >   **관리합니다.**
+1. 사용자 **관리를 선택합니다.**
+1. 사용자를 검색하고 통화 중 통화 중이 있는 정책으로 통화 정책을 변경하는 것은 해제로 전화를 걸 때 **사용할** 수 **있습니다.**
 1. **적용** 을 클릭합니다.
 > [!NOTE]
 > 정책 변경 내용을 복제하는 데 최대 24시간이 걸릴 수 있습니다.
 
-이 기능에 대한 자세한 내용은 [](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)통화 중 사용 중 사용 가능
+이 기능에 대한 자세한 내용은 통화 중 사용 가능을 [참조하세요.](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)

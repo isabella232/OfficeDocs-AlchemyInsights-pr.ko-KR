@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12086"
 - "9007198"
-ms.openlocfilehash: 0ecbaca4887ea51a7e86ab5b202ddcc59badd51f
-ms.sourcegitcommit: 12d76523799a2fb4c4587657bccad09c3cde74fd
+ms.openlocfilehash: bb0782bffccfe9a46fb42e0649ac98e1a03bf8a499726875ae606c6b1452ccc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2021
-ms.locfileid: "53169958"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008480"
 ---
 # <a name="troubleshoot-your-camera-or-microphone"></a>카메라 또는 마이크 문제 해결
 

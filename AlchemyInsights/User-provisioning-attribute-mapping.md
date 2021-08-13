@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7851"
 - "9004348"
-ms.openlocfilehash: 8bbf554c533d960a304901d7cbb492b87e9bec71
-ms.sourcegitcommit: 953a8567ebcd9835f8c5c49472b223107c92549b
+ms.openlocfilehash: 73da476cc5913a16911839a59b80959d3c99a8bc22471febe421b022ce2c49ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49935366"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918149"
 ---
 # <a name="user-provisioning-attribute-mapping"></a>사용자 프로비저닝 특성 매핑
 
