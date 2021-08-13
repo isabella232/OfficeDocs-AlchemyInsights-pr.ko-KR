@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7084"
 - "6700008"
-ms.openlocfilehash: 497844ebfea8850337407f2b0edfffd7b5b779e0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3446b7ed91af32f0cc9f301b492429f7781501f663f13ff5eb71374d23a65f83
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824081"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926215"
 ---
 # <a name="intune-and-device-actions"></a>Intune 및 장치 작업
 

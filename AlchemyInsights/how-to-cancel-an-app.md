@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9000566"
 - "2424"
-ms.openlocfilehash: 898bdd2831d10c77585143b7ce8f574f516dc0d9
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 504d0af989d93130bca0d91183cbfe608b76fd95d88f46af465e87cff1f052df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689160"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926467"
 ---
 # <a name="how-to-cancel-software-as-a-service-apps"></a>서비스 앱으로 소프트웨어를 취소하는 방법
 

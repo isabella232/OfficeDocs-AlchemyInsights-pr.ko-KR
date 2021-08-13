@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10935"
 - "9001435"
-ms.openlocfilehash: ac2fe27a8e7b277bfaf18303bf5b792410a1ea6a
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 3b81bab22c9deb6498827b01f54fac0be2f7c35b6f912d729b44ddc4f45598cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539938"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919033"
 ---
 # <a name="401-unauthorized-error-in-sharepoint"></a>SharePoint에서 401 권한 없음 오류
 

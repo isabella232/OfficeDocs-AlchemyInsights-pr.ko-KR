@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: 4d55866700b9b8494f1f692cd3b865116b96a1bc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af7085890d295cf0c41e11aaf18e404313413100cb8a1134bfac051d5fa26996
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831884"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926251"
 ---
-# <a name="hide-microsoft-365-group-from-address-list-gal"></a>주소 목록(GAL)에서 Microsoft 365 그룹 숨기기
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>GAL(Microsoft 365 그룹 숨기기)
 
-Outlook 또는 OWA와 같은 Exchange 클라이언트의 GAL(주소 목록)에서 Microsoft 365 그룹을 숨기기 위해 EXO 셸에서 다음 명령을 사용하세요.
+Microsoft 365 클라이언트(예: Outlook 또는 OWA)의 Exchange GAL(주소 목록)에서 Outlook 그룹을 숨기기 위해 EXO 셸에서 다음 명령을 사용하세요.
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-Microsoft 365 그룹이 Exchange 클라이언트에 표시되지 않는 것을 숨기기 위해 EXO 셸에서 다음 명령을 사용 합니다.
+클라이언트에서 Microsoft 365 그룹이 표시되지 Exchange 숨기기 위해 EXO 셸에서 다음 명령을 사용 합니다.
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`

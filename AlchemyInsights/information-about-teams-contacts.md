@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: c855ce4df75cd169719d51f380de2e3f0a348394
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: e32bda19012969d4a6c3a0dfd9c3af912f6eb8479203f4518d55727163266086
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52783119"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926287"
 ---
 # <a name="information-about-teams-contacts"></a>Teams 연락처에 대한 정보
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2549"
 - "9000672"
-ms.openlocfilehash: a5857219d88b7a6c5693940df523b6920abad4cb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 877ff19f68fc6e741f63132d9ecd23fdac6839884c1153ad60dd2ec6f0b6adc6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823829"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975971"
 ---
 # <a name="get-information-about-microsoft-forms"></a>Microsoft Forms에 대한 정보 얻기
 

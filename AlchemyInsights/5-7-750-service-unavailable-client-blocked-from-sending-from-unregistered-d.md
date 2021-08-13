@@ -13,12 +13,12 @@ ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: 5879c5996a28e8e9e61c696c51e7c590d1245ba1
-ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
+ms.openlocfilehash: 0fd0fd730d562fa0313d61c1593d6eab91b3bc8cc15ba277e9cd4e4deb6901bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52774257"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919069"
 ---
 # <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750 클라이언트가 등록되지 않은 도메인에서의 전송을 차단함
 
