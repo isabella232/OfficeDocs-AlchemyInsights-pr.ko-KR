@@ -15,12 +15,12 @@ ms.custom:
 - "9774"
 - "9005390"
 - "9005403"
-ms.openlocfilehash: 2313636307bfddce2810c2d4c4ce9e3b407a7bdf
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: c7d29ab718be8dbdcde61a7de2f158fb3bbd722d2964d8b13cde9936dd1e5ee1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505362"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928087"
 ---
 # <a name="free-up-drive-space-in-windows-10"></a>Windows 10에서 드라이브 공간 절약
 

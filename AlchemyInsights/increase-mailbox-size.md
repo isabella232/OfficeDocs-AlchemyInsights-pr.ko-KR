@@ -13,20 +13,20 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6fd683253dbf6c34a3cea61df2dd3387d8642a409682019aa62ef3b619e84aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830219"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913144"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>사서함 크기를 늘리기 위해 구독 전환
 
 사서함 크기가 이미 100GB인 경우 이를 늘일 방법이 없습니다.
   
-사서함 크기가 50GB인 경우 [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) 또는 Office [365 Enterprise E5로](https://products.office.com/business/office-365-enterprise-e5-business-software)전환하여 100GB로 늘 수 있습니다. 다음은 다른 구독으로 전환하는 단계입니다.
+사서함 크기가 50GB인 경우 E3 또는 E5 에서 Office 365 Enterprise 100GB로 Office 365 Enterprise [있습니다.](https://products.office.com/business/office-365-enterprise-e5-business-software) [](https://products.office.com/business/office-365-enterprise-e3-business-software) 다음은 다른 구독으로 전환하는 단계입니다.
   
-1. Microsoft 365 관리 센터에서 청구  제품 \> **[페이지로](https://go.microsoft.com/fwlink/p/?linkid=842054)** 이동합니다.
+1. In the Microsoft 365 관리 센터, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.
 
 2. 업그레이드할 구독을 선택합니다.
 

@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online을 클래식 모드로 제한
+title: 온라인 SharePoint 모드로 제한
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,26 +13,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: 1887bf64df98bf90a1902250633d5774178dfa2f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6315a83ac825f96ceea60798d441de8e8e53336fe29eda4d0491dd8a6a43b352
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751428"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958807"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>SharePoint Online을 클래식 모드로 제한
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>온라인 SharePoint 모드로 제한
 
-일부 조직은 여전히 클래식 모드 환경을 필요로 합니다. 클래식 모드를 세분화 된 수준에서 제거할 계획이 없는 경우에는 더 이상 목록 및 라이브러리에 대 한 전체 조직 (테 넌 트)을 클래식 모드로 제한할 수 없습니다.
+일부 조직에서는 여전히 클래식 모드 환경이 필요한 경우도 있습니다. 세부적인 수준에서 클래식 모드를 제거할 계획이 없는 경우 목록 및 라이브러리의 클래식 모드로 전체 조직(테넌트)을 제한할 수 없습니다.
 
-관리자는 다음과 같은 수준에서 제공 하는 세분화 된 옵트아웃 스위치를 사용 하 여 클래식 모드에서 개별 목록 및 라이브러리를 관리할 수 있는 다음과 같은 옵션을 사용할 수 있습니다.
+관리자는 다음 수준에서 제공하는 세분된 옵트아웃 스위치를 사용하여 클래식 모드에서 개별 목록 및 라이브러리를 관리할 수 있는 다음 옵션을 사용할 수 있습니다.
 
 - 사이트 모음
-- 사이트
-- 목록
-- 라이브러리
+- site
+- list
+- library
 
-또한 현대에서 지원 되지 않는 특정 기능 및 사용자 지정 내용을 사용 하는 목록은 여전히 클래식 모드로 자동 전환 됩니다.
+또한 최신에서 지원되지 않는 특정 기능 및 사용자 지정을 사용하는 목록은 여전히 클래식 모드로 자동 전환됩니다.
 
-2019 년 4 월 1 일부 터, 최신 목록 및 라이브러리에 대 한 테 넌 트 수준 옵트아웃을 사용 하지 않도록 설정 하는 프로세스는 시작 하 고 5 월 31 2019 일까지 계속 진행 됩니다.  테 넌 트 옵트아웃의 결과로 클래식 모드에 있는 목록 및 라이브러리는 자동으로 최신으로 이동 됩니다.
+2019년 4월 1일부터 테넌트 수준이 최신 목록에서 옵트아웃(opt out)을 사용하지 않도록 설정하는 프로세스가 시작되고 2019년 5월 31일까지 계속됩니다.  테넌트 옵트아웃의 결과로 클래식 모드에 있는 목록 및 라이브러리는 자동으로 최신 모드로 전환됩니다.
 
-클래식 모드를 사용 해야 하는 경우 여기 및 PnP Powershell 명령 [여기](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) 에는 클래식 모드 환경을 사용할 때 사용할 수 있는 옵션 및 도구에 [대 한 추가 정보를](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) 참조 하세요.
+클래식 모드가 필요한 경우 [](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) 여기에서 클래식 모드 환경을 사용하는 [](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) 데 사용할 수 있는 옵션 및 도구를 설명하는 PnP Powershell 명령을 참조하세요.

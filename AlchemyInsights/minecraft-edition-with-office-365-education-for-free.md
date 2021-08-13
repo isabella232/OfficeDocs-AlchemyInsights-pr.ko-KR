@@ -15,12 +15,12 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: 60e6ccc8039a58daf7bea9b36fefbf2e02b09a4d
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: a241c363c7443c007a8dcb725046ffbc45ee5ff897213f64d109eab8a4fc4ff4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53680340"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975251"
 ---
 # <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft 무료 Office 365 Education 버전
 

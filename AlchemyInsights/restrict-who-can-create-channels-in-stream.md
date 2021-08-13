@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002650"
 - "5102"
-ms.openlocfilehash: ae7304aaa36acf91796a9c18bce220a7ee523d36
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fa3bf364e6303c9abcd627ee5582e88538d93b36944c2b5e5a6e1bedeee630cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809265"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958699"
 ---
 # <a name="restrict-who-can-create-channels-in-microsoft-stream"></a>Microsoft Stream에서 채널을 만들 수 있는 사용자 제한
 

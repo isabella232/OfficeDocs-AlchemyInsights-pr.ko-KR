@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002662"
 - "5162"
-ms.openlocfilehash: 6a7215ef7187e8dc6c834470b4724692b239efd4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dd29f2dc044fe4ee7f50acc6f0ca491d0ceb80bc360534de10d4010230614f80
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817989"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950122"
 ---
 # <a name="changing-the-defaultprimary-yammer-domain"></a>기본/주 Yammer 도메인 변경
 

@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
-ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
+ms.openlocfilehash: 73fb170bec3692c0631a6c2df3e9a77b4b1e2f820ddcde3ed46cfe283ef3ba74
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53023109"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918437"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 서비스 가져오기
 

@@ -1,5 +1,5 @@
 ---
-title: Outlook에서 보호된 메시지 보기 문제 해결
+title: 보호된 메시지 보기에 문제가 Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 3ed8f26a7745ab11282f4f52ad7dc5c84885227b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737708"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967159"
 ---
-# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Outlook에서 보호된 메시지를 보는 문제 해결
+# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>보호된 메시지를 볼 수 있는 문제를 Outlook
 
 받는 사람이 암호화된 메시지를 여는 데 문제가 있는 경우 받는 사람이 메시지의 링크를 클릭하여 일회용 암호를 요청해야 합니다.
 
@@ -35,6 +35,6 @@ ms.locfileid: "50737708"
 
 3. **계속을** 클릭하여 메시지를 읽습니다.
 
-자세한 내용은 PC용 Outlook에서 암호화된 메시지 보내기, 보기 및 [회신을 참조하세요.](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)
+자세한 내용은 PC용 에서 암호화된 메시지 보내기, Outlook [회신을 참조하세요.](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)
 
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002474"
 - "4811"
-ms.openlocfilehash: 2b5b1b6ed6395878c6fcb79454624c4aeb185585
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a2d334487935af3c211a405920756ee446447a324dc395b7dcca253675ca9088
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812146"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928051"
 ---
 # <a name="get-support-for-windows-or-azure"></a>Windows 또는 Azure에 대한 지원 받기
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006721"
 - "11520"
-ms.openlocfilehash: 14d64601ac1149535cf36399a9e7023a675d118a
-ms.sourcegitcommit: 2d32a4679fc54c6bfdff04ee1026811743e5370b
+ms.openlocfilehash: 4c16c5bfe40a854631980fd5244f822030df1ed5d35162bbcf19e4e989610ce3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52776959"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918509"
 ---
 # <a name="internet-explorer-ie-mode-configuration"></a>Internet Explorer(IE) 모드 구성
 
