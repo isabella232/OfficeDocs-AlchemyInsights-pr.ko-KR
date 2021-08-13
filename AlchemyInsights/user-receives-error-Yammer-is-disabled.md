@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6010"
 - "9003111"
-ms.openlocfilehash: 3a3a1b531f3d775f7e5150ce86733a3012df8d0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2e23d63338ece5332ad4fd2b2d59021eb45d9bf32632d3cc23089c919d4e402
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796654"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971237"
 ---
 # <a name="user-receives-error-aadsts7000112-yammer-is-disabled"></a>사용자 수신 오류, AADSTS7000112 Yammer를 사용할 수 없습니다.
 
@@ -28,10 +28,10 @@ ms.locfileid: "47796654"
 
 Azure 포털에서 이 문제를 해결하고 Yammer에 대한 사용자 액세스를 복원하려면 다음을 수행하세요.
 
-1.  Azure Active Directory 페이지를 열고 왼쪽 탐색 창에서 **관리** 아래에 **Enterprise 응용 프로그램**을 선택합니다.
-3.  검색 상자에 **Office 365 Yammer**를 입력하고 응용 프로그램 이름을 선택하여 설정을 엽니다.
-4.  왼쪽 탐색 창의 **관리**에서 **속성**을 선택합니다.
-5.  **사용자가 로그인할 수 있도록 설정하시겠습니까?** 의 값을 **예**로 설정하고 **저장**을 선택합니다.
+1.  Azure Active Directory 페이지를 열고 왼쪽 탐색 창에서 **관리** 아래에 **Enterprise 응용 프로그램** 을 선택합니다.
+3.  검색 상자에 **Office 365 Yammer** 를 입력하고 응용 프로그램 이름을 선택하여 설정을 엽니다.
+4.  왼쪽 탐색 창의 **관리** 에서 **속성** 을 선택합니다.
+5.  **사용자가 로그인할 수 있도록 설정하시겠습니까?** 의 값을 **예** 로 설정하고 **저장** 을 선택합니다.
 6.  Yammer에 다시 로그인합니다. 쿠키를 삭제해야 할 수 있습니다.
 
 또는 PowerShell 명령을 실행하여 값을 설정할 수 있습니다. 자세한 내용은 [Office 365에서 Yammer 타일을 클릭할 때 "죄송합니다. 로그인 문제가 발생했습니다" 오류](https://docs.microsoft.com/yammer/troubleshoot-problems/error-when-click-the-yammer-tile-in-office-365)를 참조하세요. 

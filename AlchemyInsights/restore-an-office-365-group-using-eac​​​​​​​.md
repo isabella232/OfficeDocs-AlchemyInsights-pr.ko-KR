@@ -1,5 +1,5 @@
 ---
-title: Exchange 관리 센터를 사용하여 Microsoft 365 그룹 복원
+title: Microsoft 365 센터를 사용하여 Exchange 그룹 복원
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
-ms.openlocfilehash: 115eeef27cfc10cf6da35de3aea11f5f3fb7b146
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 585db57a58b8fb58c9ae0aca161cce9bae290ac800422c59aa053ee7f19461fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831344"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061813"
 ---
-# <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>Exchange 관리 센터를 사용하여 Microsoft 365 그룹 복원
+# <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>Microsoft 365 센터를 사용하여 Exchange 그룹 복원
 
-1. Microsoft 365 관리 센터의 왼쪽 탐색에서 관리 센터를 **확장한** 다음 Exchange 를 **선택 합니다.**
+1. In the left navigation of the Microsoft 365 관리 센터, expand **Admin center**, and then choose **Exchange.**
     
 2. Exchange 관리 센터에서 **받는 사람** 을 선택한 다음 **그룹** 을 선택합니다. 그룹이 활성 상태인지 일시 삭제되었는지 확인할 수 있습니다. 그룹이 영구적으로 삭제된 경우에는 목록에 표시되지 않습니다.
     

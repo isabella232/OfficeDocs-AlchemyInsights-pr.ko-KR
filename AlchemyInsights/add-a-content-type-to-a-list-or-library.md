@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003050"
 - "5791"
-ms.openlocfilehash: 90dccd7afeb645ab07fc36f79ef18fd1710e7872
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f8ae915e7c78bb01ead876b2ba7720b4e8925f0864d17e29e65a3f664a79dda1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822821"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937035"
 ---
 # <a name="add-a-content-type-to-a-list-or-library"></a>목록 또는 라이브러리에 콘텐츠 형식 추가
 

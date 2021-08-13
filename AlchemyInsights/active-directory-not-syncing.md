@@ -14,12 +14,12 @@ ms.custom:
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: 0da512379e5a2f6ccb773e18c465e545c0660560
-ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
+ms.openlocfilehash: 4bfbe6b2dd9a2112f0cb7af0d6e7a46693bc70680895fd674ddb0332b7071797
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52930981"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937107"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory가 동기화되지 않습니다.
 

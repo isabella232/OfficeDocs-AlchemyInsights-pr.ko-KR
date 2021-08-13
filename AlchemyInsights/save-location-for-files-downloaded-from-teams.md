@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002461"
 - "4768"
-ms.openlocfilehash: b47b127fe2d65738e6e7ef4de98c6ae85d0995bf
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9c522006f1bcfc8aef0405ecae9c66a4e743763729ea1eddfbca30197e62e812
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797943"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061690"
 ---
 # <a name="save-location-for-files-downloaded-from-teams"></a>Teams에서 다운로드한 파일 저장 위치
 
