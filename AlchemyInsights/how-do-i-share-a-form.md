@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2543"
 - "9000672"
-ms.openlocfilehash: f74e2c7697e040a17341794968fe901dfea0091f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4e5b4a047c16a03997bce1e534a81933205b84c42c16d931214883fd2df72360
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810994"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927043"
 ---
 # <a name="share-a-form"></a>양식 공유
 

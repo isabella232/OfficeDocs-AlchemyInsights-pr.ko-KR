@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 426a54ea22490dcc47f40fd990654b2cf051a058
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1263662184948ed1e77e3abacd17babf4aa033ed1ecec29b4c4afc26d6da56f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822641"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954678"
 ---
 # <a name="why-is-the-add-budget-button-disabled-for-me"></a>예산 추가 단추가 비활성화된 이유는 무엇입니까?
 
@@ -27,7 +27,7 @@ ms.locfileid: "51822641"
 - 비용 관리 참가자
 - 소유자
 - 참가자
-- 엔터프라이즈 고객 전용: 등록, 부서, 계정 범위
+- Enterprise 고객 전용: 등록, 부서, 계정 범위
 - 등록 관리자(등록 범위에서 예산 설정)
 - 부서 관리자(부서 범위에서 예산 설정)
 - 계정 소유자(계정 범위에서 예산 설정)
@@ -75,7 +75,7 @@ ms.locfileid: "51822641"
 **단일 차원에 대한 예측(예: Meter)**  
 Forecast는 현재 개별 미터가 아닌 총 비용 투영을 지원하고 있습니다. 따라서 '차원으로 그룹화'를 할 때 차원의 모든 항목의 합계에 대한 투영이 됩니다.
 
-**권장 문서**
+**추천 문서**
 
 - [Azure 비용 관리란?](https://docs.microsoft.com/azure/cost-management/overview-cost-mgt?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Azure 비용 관리 모범 사례](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)

@@ -1,5 +1,5 @@
 ---
-title: Bing에서 Microsoft Search에 대한 검색 상자를 조직의 인트라넷 사이트 및 페이지에 추가
+title: 조직의 인트라넷 Microsoft Search 페이지에 Bing 검색 상자 추가
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9261"
-ms.openlocfilehash: 36ad8fe06b4bbbe107de981ec02f0b525bd4cbd7
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 129ec762b2667b216951c441165d75af0bddd57127351a8ff31fc2793e4479d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51379898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954487"
 ---
-# <a name="add-a-search-box-for-microsoft-search-in-bing-to-your-organizations-intranet-sites-and-pages"></a>Bing에서 Microsoft Search에 대한 검색 상자를 조직의 인트라넷 사이트 및 페이지에 추가
+# <a name="add-a-search-box-for-microsoft-search-in-bing-to-your-organizations-intranet-sites-and-pages"></a>조직의 인트라넷 Microsoft Search 페이지에 Bing 검색 상자 추가
 
 검색 상자를 추가하면 몇 가지 이점이 있습니다.
 

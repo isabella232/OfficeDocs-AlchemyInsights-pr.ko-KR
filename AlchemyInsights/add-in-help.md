@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000776"
 - "2717"
-ms.openlocfilehash: e459ef90a1d08d5f3b4e742b4a31104147733d7b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9d4bca606f41d78dc9f6c4d462822e7db14fa877e4bc4635d0cfb05230541661
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822497"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954523"
 ---
 # <a name="add-in-help"></a>추가 기능 도움말
 

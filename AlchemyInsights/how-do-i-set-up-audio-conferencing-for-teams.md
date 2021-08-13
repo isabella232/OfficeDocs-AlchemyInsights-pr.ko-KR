@@ -13,12 +13,12 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 464efadcfa0a80efecad107199e669dbadfbae39
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: a455c7123f45bdcdd6fb9933037b2d3cfb0e616c7d425e4b0e54b2c15b7280e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544800"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927151"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – 오디오 회의
 

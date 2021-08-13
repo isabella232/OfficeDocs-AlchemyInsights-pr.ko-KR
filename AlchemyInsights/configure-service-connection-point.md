@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9732"
 - "9003244"
-ms.openlocfilehash: 9d733a1a0a3b8d92bdd5477a8978b6fbeede9653
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 5ccb55996ccef4b55c8d80de6e35f4ba27e3dfa18dfcaeaf6f6ad1c54b6bb376
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898065"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965971"
 ---
 # <a name="configure-service-connection-point-scp"></a>SCP(서비스 연결 지점 구성)
 

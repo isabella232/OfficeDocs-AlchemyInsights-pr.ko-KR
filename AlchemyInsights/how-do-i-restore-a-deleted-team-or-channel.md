@@ -13,12 +13,12 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: e1f858cc6d42db4c165bd406ca71fdfa6ad77199
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d82a1f0ac2007e2c7472fc486754a7b144a8927d17ab0e6ffe0fed6fd2ddf4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927259"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>삭제된 팀 또는 채널을 복원하는 방법
 
@@ -29,4 +29,4 @@ ms.locfileid: "51811174"
 1. 팀 이름 오른쪽에 있는 3개의 점을 선택하여 팀 설정을 열 수 있습니다.
 2. 팀 **채널 삭제** 관리  >    >  **를** 선택한 다음 오른쪽에서 **복원을** 선택합니다.
 
-팀 복원에 대한 자세한 내용은 Microsoft Teams에서 팀 보관 또는 삭제 - Microsoft Teams | [ Microsoft Docs.](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)
+팀 복원에 대한 자세한 내용은 팀에서 팀 보관 또는 삭제를 Microsoft Teams [- Microsoft Teams | Microsoft Docs.](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)

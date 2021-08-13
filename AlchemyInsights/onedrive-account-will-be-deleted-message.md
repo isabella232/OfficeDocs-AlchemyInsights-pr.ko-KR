@@ -1,5 +1,5 @@
 ---
-title: "' OneDrive 계정 삭제 됨 ' 메시지"
+title: "'OneDrive 계정 삭제' 메시지"
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: b8e1a4617dc2560b5255b530c121324c5cfb4c1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a77fa39829a550935882f05ea174f9c9be942b074183aaef9c0e464c94cfb4ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673323"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985151"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a>"OneDrive 계정이 삭제 됨" 메시지
+# <a name="onedrive-account-will-be-deleted-message"></a>"OneDrive 계정이 삭제됩니다." 메시지
 
-Email@mail.onedrive.com에서 보낸 전자 메일을 받은 경우 "OneDrive 계정이 삭제 됩니다." 라는 경고 메시지는 비즈니스용 OneDrive 계정이 아니라 개인 OneDrive.com 계정입니다. 
+If you received an email from email@mail.onedrive.com warning that "Your OneDrive account will be deleted" please note this is your personal OneDrive.com account, not your 비즈니스용 OneDrive account. 
   
-개인 OneDrive를 사용 하 고 있는지 여부를 모르는 경우 onedrive.com에 로그인 하 여 계정을 다시 활성화 하 고 검토 하세요.
+개인 계정을 사용하는지 확실하지 않은 경우 OneDrive 로그인하여 onedrive.com 계정을 다시 활성화하고 검토합니다.
   
-자세한 내용은 계정이 삭제 되는 경우를 [알리는 전자 메일을 받는 이유](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409) 를 참조 하세요.
+자세한 내용은 계정이 삭제될 것 같은 전자 메일을 수신한 이유를 [참조하세요.](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
   
 

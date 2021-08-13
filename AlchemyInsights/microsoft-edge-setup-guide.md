@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge 사용 시작
+title: 다음을 사용하여 Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "7280"
 - "10908"
 - "9006389"
-ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: cdac95f094b9791daa258b6480f72392828e09f3cf603a856446eda7cc6472d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692760"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992822"
 ---
-# <a name="start-using-microsoft-edge"></a>Microsoft Edge 사용 시작
+# <a name="start-using-microsoft-edge"></a>다음을 사용하여 Microsoft Edge
 
-Microsoft는 차세대 웹 브라우저인 새 Microsoft Edge를 출시했습니다. Chromium 오픈 소스 파운데이션을 토로하며 SharePoint 및 OneDrive와 같은 Microsoft 제품에서 작동하도록 최적화되어 있습니다.
+Microsoft는 새로운 웹 Microsoft Edge 브라우저인 새 웹 브라우저를 출시합니다. 이 사이트는 Chromium 오픈 소스 기반을 토대하여 구축된 제품 및 소프트웨어와 같은 Microsoft 제품에서 SharePoint OneDrive.
 
-Google Chrome, Mozilla Firefox 또는 Safari에 문제가 발생하는 경우 Microsoft Edge를 사용하는 것이 좋습니다.
+Google Chrome, Mozilla Firefox 또는 Safari에 문제가 발생하는 경우 이 문제를 Microsoft Edge.
 
-대규모 조직의 관리자인 경우 [Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142423) 설정 가이드를 사용하여 시작하세요.
+대규모 조직의 관리자인 경우 Microsoft Edge 설치 [](https://go.microsoft.com/fwlink/?linkid=2142423) 가이드를 사용하여 시작하세요.
 
-한 장치에 Microsoft Edge를 한 번씩 다운로드하려면 새 Microsoft Edge 소개로 [이동하세요.](https://go.microsoft.com/fwlink/?linkid=2141049)
+한 Microsoft Edge 다운로드하려면 새 디바이스 소개로 [Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2141049)

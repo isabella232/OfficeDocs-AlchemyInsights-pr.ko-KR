@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: 070a264f6af068e09a4d1143b95dabcaf4aeae04
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 40bb32851d4b09f2d06e0aaabe84f980ec40d763415dde4f90b5120c242e4bb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811102"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927115"
 ---
 # <a name="how-do-i-search-for-an-email"></a>전자 메일을 검색하는 방법
 

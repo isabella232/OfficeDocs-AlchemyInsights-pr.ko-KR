@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 12d1fd7371a7d0a616335ea5212093a162215b5d
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: 66696e6524f6d7a173a3cbcbf0b75d7bbd1e7c62d13a7ad57f6c142e81b81c47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52107534"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919567"
 ---
 # <a name="use-breakout-rooms"></a>회의실 사용
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5890"
 - "9003117"
-ms.openlocfilehash: 772f7b8d3c88c38ad8a14585af398325349dc99a
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 488799d66d9587f2ceaf763ef92e85ab4f19414f6e6fe3610f0f9ff84d5ce0a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977231"
 ---
 # <a name="how-to-manage-add-ins-while-reading-a-message"></a>메시지를 읽는 동안 추가 기능을 관리하는 방법
 

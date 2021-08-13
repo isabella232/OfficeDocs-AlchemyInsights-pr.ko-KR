@@ -1,5 +1,5 @@
 ---
-title: Outlook에서 전자 메일 영구 삭제
+title: 전자 메일을 영구적으로 Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0aa1c016f229399f451655f691486c4618fce55d2952ea677edb902349dd270
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836105"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944389"
 ---
-# <a name="permanently-delete-an-email-in-outlook"></a>Outlook에서 전자 메일 영구 삭제
+# <a name="permanently-delete-an-email-in-outlook"></a>전자 메일을 영구적으로 Outlook
 
 - 받은 편지함 보기에서 메시지를 길게 누르면 휴지통 아이콘이 표시됩니다. 이 아이콘을 탭하여 메시지를 삭제합니다.
 
-- "삭제"를 스와이프 **옵션(설정 -> 스와이프 옵션)로** 설정할 수도 있습니다. 그런 다음 손가락을 사용하여 삭제할 메일에서 스와이프합니다. 
+- "삭제"를 스와이프 옵션(-설정 **-> 옵션)로** 설정할 수도 있습니다. 그런 다음 손가락을 사용하여 삭제할 메일에서 스와이프합니다. 
 
 - 열려 있는 전자 메일 보기에서 메시지를 삭제하려면 화면 맨 위에 있는 휴지통 아이콘을 탭합니다. 삭제된 메시지는 휴지통 폴더로 이동됩니다. 
 

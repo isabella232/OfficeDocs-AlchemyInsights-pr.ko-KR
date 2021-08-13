@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8341"
-ms.openlocfilehash: f2f76263c257199d8c85acccd6220de63dd5ce55
-ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
-ms.translationtype: HT
+ms.openlocfilehash: 1f8492dfc3238f72f70528d920d2f9d68c6fc528ea2cb7f551b178c163255916
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50295462"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992784"
 ---
 # <a name="learn-more-about-microsoft-viva-topics"></a>Microsoft Viva Topics에 대해 자세히 알아보기
 
