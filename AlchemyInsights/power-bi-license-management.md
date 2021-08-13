@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, sinakassaw
+ms.reviewer: sinakassaw, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002564"
 - "4969"
-ms.openlocfilehash: e2f6701e310fdf670236b3b795c93b04a7fb32be
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 9cde345ff84d6d4e78214a4707700e796b0cd23228b1e1af2ee315ffd88b4fc6
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688296"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54500382"
 ---
 # <a name="power-bi-license-management"></a>Power BI 라이선스 관리
 

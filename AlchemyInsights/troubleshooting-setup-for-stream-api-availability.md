@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2800001"
 - "1338"
-ms.openlocfilehash: 6648aec3d027a0768af3c39b3176b0be68b017cb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fd2e910792f0c10ffd116695070d0c31a23ee7e26a8612334ef5d520d4a2b544
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834809"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007832"
 ---
 # <a name="api-availability"></a>API 가용성
 

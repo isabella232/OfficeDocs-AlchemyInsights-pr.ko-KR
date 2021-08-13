@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, micurn
+ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002424"
 - "5105"
-ms.openlocfilehash: 22d9f1eb8ee5b8adf9cd94fc210daff15c9f7cc8
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 56614aa6e63f9ac57c9020b759f996ae99a1d1ce74d17cd8db9b6a8a31c49fc4
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687180"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54500310"
 ---
 # <a name="project-license-management"></a>Project 라이선스 관리
 

@@ -16,12 +16,12 @@ ms.custom:
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.date: 04/21/2020
-ms.openlocfilehash: f00526f507826cf4e58967531fff73183461e3b9
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 373d517c29a98bb035e8b0785f9d9889b37734d80fa6113de34544d49f08cdf1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685812"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937719"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Microsoft 볼륨 라이선스 구독 활성화
 

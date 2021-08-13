@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: 28a45f9922dd53727d80707aed781f7497c7ab9c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0e5577b159e695214b5cd3ad2a77f54e3afe9926517068bfe9a90e475dfc491
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51789366"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062482"
 ---
 # <a name="recent-data-exposure"></a>최근 데이터 노출
 

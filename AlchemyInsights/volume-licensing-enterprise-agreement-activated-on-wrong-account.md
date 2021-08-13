@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, shegu
+ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "463"
 - "1500021"
-ms.openlocfilehash: 7ceba265fec4dbb637ce749e9398cf93a405529b
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 05fedb7a21eb5b0e18a2843c1cd5aa27527837098b3a4a278298d2e92d8da6d3
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688800"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54500418"
 ---
 # <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>잘못된 계정에서 정품 인증되거나 한 계정에서 다른 계정으로 라이선스를 전송하는 볼륨 라이선스 엔터프라이즈 계약
 
