@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500020"
 - "4585"
-ms.openlocfilehash: c93667f93dd567d5133fbe8b99e1f4db8ff584d1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4770b0fd737b4e8776b1f72e098210c223556d3e519f686e2881fa94e84748d1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823865"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945118"
 ---
 # <a name="marked-for-removal"></a>제거 표시 됨
 

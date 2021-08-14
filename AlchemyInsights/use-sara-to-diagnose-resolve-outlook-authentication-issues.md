@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002370"
 - "4605"
-ms.openlocfilehash: 34f934e223deae9d4b5bcfe1f3eb8a07b374860f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aa8f4db495e702694322e2c939aa907e7c8a54a9bb160c39d8bd5f49a32bcb01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826025"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980435"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>SaRA를 사용하여 Outlook 인증 문제 진단 및 해결
 

@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5ddaaed361f6ec934cfffb00cc62a9df2d1a04e8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 74f9733196004fd7a78eeb290c948a9f35ac2a31b3c5b00bf82e44081aac8637
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736829"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988841"
 ---
 # <a name="automatically-encrypt-certain-email-messages-from-office-365"></a>Office 365에서 특정 전자 메일 메시지 자동 암호화
 
-1. Exchange 관리 [센터에서](https://outlook.office365.com/ecp/)메일 흐름 > **를 선택하세요.** 
-2. 새로 **추가(+) 아이콘을** 클릭한 다음 메시지에 **Office 365** 메시지 암호화 및 권한 보호 적용을 클릭합니다.
+1. Exchange [관리 센터에서](https://outlook.office365.com/ecp/)메일 흐름 > **를 선택하세요.** 
+2. 새로 **보기(+) 아이콘을** 클릭한 다음 메시지에 Office 365 메시지 암호화 및 권한 보호 적용을 **클릭합니다.**
 3. 이름에 모든 메시지 암호화와 같은 규칙의 *이름을 입력합니다.* 
 4. 다음의 경우 이 **규칙 적용에서**[모든 메시지에 **적용] 을 선택합니다.** 
 5. 다음 작업을 **진행하십시오. 필드 옆에** 있는 하나 **선택을 클릭합니다.** 
@@ -36,5 +36,5 @@ ms.locfileid: "50736829"
 > [!IMPORTANT]
 > 언제든지 돌아와서 나중에 이 규칙을 편집할 수 있습니다.
 
-암호화 규칙을 만드는 데 대한 자세한 내용은 [Define mail flow rules to encrypt email messages in Office 365를 참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+암호화 규칙을 만드는 데 대한 자세한 내용은 [Define mail flow rules to encrypt email messages in Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
 

@@ -15,12 +15,12 @@ ms.custom:
 - "9004338"
 - "9199"
 - "9004356"
-ms.openlocfilehash: 7334a0998ca30ba6957f3f15f3a6f40f8d683dda
-ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
+ms.openlocfilehash: 0b1f23dcfa495825ba56898fc3c284a276eb679f750143b0c1460662835e658f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50641488"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969761"
 ---
 # <a name="application-proxy-url-issues"></a>응용 프로그램 프록시 URL 문제
 
