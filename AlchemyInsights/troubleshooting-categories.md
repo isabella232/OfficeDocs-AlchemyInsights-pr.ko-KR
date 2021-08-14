@@ -14,15 +14,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: 4c06a6e1ddd333fff147912ac37a339574da4c9a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2ca842df04a7d4b702606d57757192ffe328cad79f3f5a07abc450f8ff92288
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689996"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972533"
 ---
 # <a name="outlook-categories"></a>Outlook 범주
 
-범주는 일정의 항목에만 적용 됩니다. 모임 요청이 나 다른 사용자 로부터 받은 모임에 색 범주를 적용 하면 해당 색 범주가 일정에만 표시 됩니다.  공유 사서함에 색 범주를 적용 하는 경우에는 사서함, 그룹 사서함, 대화방 사서함 등이 범주에 영향을 줍니다.
+종류는 일정의 항목에만 적용됩니다. 모임 요청 또는 다른 사용자로부터 받은 모임에 색 범주를 적용하면 해당 색 범주는 일정에만 표시됩니다.  공유 사서함, 위임 사서함, 그룹 사서함, 방 사서함 등에 색 범주를 적용하는 경우 색 범주는 보기에만 영향을 미치게 됩니다.
 
-자세한 내용은 [일정 약속, 모임 또는 이벤트에 색 범주 할당을 지정](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527) 합니다.
+자세한 내용은 일정 [약속,](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527) 모임 또는 이벤트에 색 범주 할당
