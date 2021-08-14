@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: 7009dcf86da9d8a3fc8ea2f90ecbff3487f3fc59
-ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
+ms.openlocfilehash: 7afc9d7a442bb6a1fdcc6cc624ba9039562a2796faa576592cc7d64dad42ff62
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52569693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953227"
 ---
 # <a name="add-a-user"></a>사용자 추가
 

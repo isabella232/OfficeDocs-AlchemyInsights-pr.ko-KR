@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: 2f1ff8eb23a58fab0cbc3db557c92feab8c45a95
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 94a5d0347172ace52a874ada19b20e61f48f8cc43e5f849d4a8400a2288aeb88
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993215"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Windows 10에서 표준 사용자 계정을 관리자로 변경
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>표준 사용자 계정을 조직의 관리자로 Windows 10
 
-다음은 표준 사용자 계정을 Windows 10의 관리자로 변경하는 방법입니다.
+다음은 표준 사용자 계정을 조직의 관리자로 변경하는 Windows 10.
 
-1. 시작 설정 **계정**& 다른 사용자(또는  >    >    >   Windows 10 Enterprise를 사용하는 경우)로 이동합니다. 
+1. 다른 **설정** 계정 & 계정 패밀리 시작으로 이동하세요(또는 다른 사용자, 계정을 사용  >    >    >   중이면 Windows 10 Enterprise). 
 2. 관리자로 만들 계정을 선택하고 계정 변경 **계정 변경** 을 선택합니다.
 3. **계정 유형** 에서 **관리자** 선택한 다음, **확인** 을 선택합니다.
 

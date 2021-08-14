@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003047"
 - "5801"
-ms.openlocfilehash: 42e8cab99f21b55ce463ac431df1e17b22f9460c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1c489538a64d2781126267a436b0e364b0e6126d19a534f0d04c69d5a3ec341f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826637"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941588"
 ---
 # <a name="sharepoint-is-no-longer-working"></a>SharePoint가 더 이상 작동하지 않음
 

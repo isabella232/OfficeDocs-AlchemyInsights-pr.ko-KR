@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: de38bd58c83ed840ccc8c610b61aa8d8b956251dea20895a7fc0e193d11585df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545310"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985475"
 ---
 # <a name="onboarding-microsoft-defender-atp"></a>Microsoft Defender ATP 온보딩
 

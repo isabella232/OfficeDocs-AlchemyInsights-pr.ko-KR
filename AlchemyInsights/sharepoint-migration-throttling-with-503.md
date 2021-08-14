@@ -1,5 +1,5 @@
 ---
-title: 503 오류가 발생 한 SharePoint 마이그레이션 제한
+title: SharePoint 503 오류로 마이그레이션 스로틀링
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,22 +13,22 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: f7e0030670564eba15c89f7426e49283d44c3151
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4e11cfddf5f2a684ba19d78ba825384853bec310f3301f1177971c0a04548c05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941410"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a>503 오류가 발생 한 SharePoint 마이그레이션 제한
+# <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint 503 오류로 마이그레이션 스로틀링
 
-SharePoint Online으로 마이그레이션하고 503 오류를 수신 하는 것 처럼 보입니다. 가능한 한 빨리 도움이 될 수 있도록 아래 단계를 따르세요.
+온라인으로 마이그레이션하고 SharePoint 503 오류가 표시됩니다. 가능한 한 빨리 지원할 수 있도록 아래 단계를 따르세요.
 
-1. **지원 센터** , **새 서비스 요청** 을 차례로 클릭 합니다.
-2. 제목 및 설명에 대해 503을 **사용 하 여 SharePoint 마이그레이션 제한을** 입력 합니다.
-3. 티켓이 전송 된 후에는 다음 정보를 사용 하 여 업데이트 하세요.
-    - 마이그레이션 남은 크기 (예: TBs 수)
+1. 고객 **지원에 문의한** 다음 새 서비스 **요청을 클릭합니다.**
+2. 제목 및 설명에 **503으로 SharePoint 마이그레이션 스로틀을 입력합니다.**
+3. 티켓이 제출된 후 다음 정보로 업데이트하세요.
+    - 마이그레이션 남은 TB 수(예: TB 수)는 얼마나 하나요?
     - 마이그레이션 시작 및 종료 날짜 
     - 마이그레이션하는 콘텐츠의 위치(예: SharePoint Server, Box, GDrive, 파일 공유 등)를 말씀하세요.
-    - 제한 오류 수 (예: 시간당 x 스로틀)와 제한 발생 시기를 예측 합니다.
-    - 사용 중인 마이그레이션 도구 (예: SPMT 또는 ShareGate)
+    - 제한 오류 수(예: 시간당 x 스로틀)와 제한이 발생하는 시간을 예측합니다.
+    - 사용하려는 마이그레이션 도구(예: SPMT 또는 ShareGate)?

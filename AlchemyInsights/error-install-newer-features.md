@@ -1,5 +1,5 @@
 ---
-title: '오류: 새 설치에 현재 버전보다 새로운 기능이 있습니다. 정품 인증하려는 경우...'
+title: '오류: 새 설치에 현재 버전보다 새로운 기능이 있습니다. 활성화하시겠습니까?'
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9825"
 - "9005394"
-ms.openlocfilehash: bc1c9be0a1ea5844dfaca341e37f929d4973d824
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 9641abfc844b12b7fad8cf7b6919101125f8f4805ed671da6cd2949d52716eab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978131"
 ---
-# <a name="error-your-new-install-has-newer-features-than-your-current-version-do-you-want-to-activate"></a>오류: 새 설치에 현재 버전보다 새로운 기능이 있습니다. 정품 인증하려는 경우...
+# <a name="error-your-new-install-has-newer-features-than-your-current-version-do-you-want-to-activate"></a>오류: 새 설치에 현재 버전보다 새로운 기능이 있습니다. 활성화하시겠습니까?
 
 사용 중인 Office 버전에 대한 자동화된 솔루션을 선택하여 이 Office 오류를 해결합니다.
 

@@ -1,5 +1,5 @@
 ---
-title: 620 웹용 Outlook에서 표준 시간대 및 언어 설정 조정
+title: 620 표준 시간대 및 언어 설정 웹용 Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,14 +14,14 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 252537c180cdebf803a86d6b8f5ff9aed72eab28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4908bdaa1483b34909e425b39b7a38433f8e193294085e63bf08b267d967424
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686789"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952939"
 ---
-# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>웹용 Outlook에서 표준 시간대 및 언어 설정 조정
+# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>표준 시간대 및 언어 설정 웹용 Outlook
 
-웹용 Outlook에서 회사 또는 학교 계정을 사용 하 여 액세스 하는 표준 시간대 및 언어 설정을 조정 하려면 [웹용 outlook에서 표준 시간대 및 언어 설정 변경을](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)참조 하십시오.
+직장 또는 학교 계정을 사용하여 액세스하는 웹용 Outlook 표준 시간대 및 언어 설정을 조정하려면 [웹용 Outlook.](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)
   

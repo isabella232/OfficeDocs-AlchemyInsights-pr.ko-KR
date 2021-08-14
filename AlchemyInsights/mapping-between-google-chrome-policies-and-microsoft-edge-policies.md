@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8219"
 - "9004596"
-ms.openlocfilehash: 0b8a1408c9d52d244e7e2931f46582cfacba24e3
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 552be9b3db90d2ae5bd831c25dec63b249fe4a39a3c86d64222cdaf8297f1043
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897883"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000938"
 ---
 # <a name="learn-about-mapping-between-google-chromes-and-microsoft-edges-policies"></a>Google Chrome과 Microsoft Edge 정책 간의 매핑에 대한 자세한 정보
 

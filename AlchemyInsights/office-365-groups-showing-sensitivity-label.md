@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: 81906f5260c032bb15dd12dfce5945a8972fb5eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2bdd9aa9fb892e021ce0d5d950d235322838a24a0090ec34e1fe040cb1473113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829130"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985439"
 ---
 # <a name="microsoft-365-groups-showing-sensitivity-label"></a>민감도 레이블을 표시하는 Microsoft 365 그룹
 

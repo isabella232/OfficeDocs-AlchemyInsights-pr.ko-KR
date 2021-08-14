@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002538"
 - "5485"
-ms.openlocfilehash: a8e8b3a56b25fb7841d4f8d8f84d7d9df766386b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 804df8439b87b7138da1c484e8208a219ea6c09bed3e858278e4334c0c6612cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822029"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953083"
 ---
 # <a name="adding-phone-numbers-to-users"></a>사용자에게 전화번호 추가
 

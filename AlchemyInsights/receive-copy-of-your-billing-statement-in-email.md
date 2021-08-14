@@ -15,12 +15,12 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 673ba40b232429ab063a5ae590b25b53074ee95c
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: df5d340d2cef87dea0336a444e1030fe0e59d78a4b770c97c3bce2cdd0802848
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923173"
 ---
 # <a name="receive-copy-of-your-billing-statement-in-email"></a>전자 메일로 청구서 사본 받기
 

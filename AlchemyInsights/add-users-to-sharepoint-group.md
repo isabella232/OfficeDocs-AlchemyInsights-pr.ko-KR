@@ -1,5 +1,5 @@
 ---
-title: SharePoint 그룹에 사용자 추가
+title: 사용자 그룹에 SharePoint 추가
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3199"
-ms.openlocfilehash: 807d6b9dce934887df65d0a1df6ba73b197e62aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bec5c47b149329f9fa0a6110c6340a1271620787062b7fbdf2d8d4b96b97b202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822209"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953191"
 ---
-# <a name="add-users-to-a-sharepoint-group"></a>SharePoint 그룹에 사용자 추가
+# <a name="add-users-to-a-sharepoint-group"></a>사용자 그룹에 SharePoint 추가
 
 SharePoint 그룹은 사이트 및 콘텐츠에 모두 동일한 사용 권한 집합을 가진 사용자 모음입니다. 한 번에 한 사람에게 사용 권한을 할당하는 대신, 그룹을 사용하여 한 번에 여러 사람에게 동일한 사용 권한 수준을 편리하게 할당할 수 있습니다.
 

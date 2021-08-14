@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7592"
 - "1200022"
-ms.openlocfilehash: accb0057c1955cf5fdf24fcd71df186697a572f7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7780df35c4ec46b509b123005a4c3cf25fa9251798550e39b5edeb384068ba60
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953263"
 ---
 # <a name="how-to-add-a-user"></a>사용자 추가 하는 방법
 
@@ -29,6 +29,6 @@ ms.locfileid: "51822281"
 2. 
             **사용자 추가** 를 클릭합니다.
 
-3. 사용자의 정보를 입력합니다. 작업이 완료되면 **추가 완료** 를 선택합니다.
+3. 사용자에 대한 정보를 입력합니다. 작업이 완료되면 **추가 완료** 를 선택합니다.
 
 자세한 내용은 [개별적으로 또는 대량으로 사용자 추가](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)를 참조하세요.

@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: c5b55402dc3c6eb4826451ee2b4076db26773318
-ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
+ms.openlocfilehash: 67d041da543dc1ac3668190faacefe4207d6c8eb30af4c19a5ff0833a3b46538
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53532153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985595"
 ---
 # <a name="sync-a-users-profile-picture"></a>사용자의 프로필 사진 동기화
 

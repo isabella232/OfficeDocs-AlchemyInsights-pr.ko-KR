@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5068"
-ms.openlocfilehash: 737e0f2db14a766db1c21720a936c2dd4645aef3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 69757dcc26efc0a0b988b8249ad226e33cd56f1346ff21871042ecbaee24550a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810562"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993359"
 ---
 # <a name="mail-flow-transport-rules-in-exchange-online"></a>Exchange Online의 메일 흐름(전송) 규칙
 
@@ -25,7 +25,7 @@ ms.locfileid: "51810562"
 
 - [Exchange 관리 센터](https://go.microsoft.com/fwlink/p/?linkid=834822)(EAC)를 이용하여 전송 규칙을 구성합니다.
 
-- [Exchange Online의 메일 흐름 규칙(전송 규칙)](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules)의 작동 방법을 이용하여 시작합니다. 또한 다음과 같은 작업을 수행할 수도 있습니다.
+- [Exchange Online의 메일 흐름 규칙(전송 규칙)](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules)의 작동 방법을 이용하여 시작합니다. 다음을 수행할 수도 있습니다.
 
     - [메일 흐름 규칙 관리](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/manage-mail-flow-rules) 단계를 확인합니다.
     - 일치 조건을 기준으로 [메일 흐름 규칙 작업](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)을 분석합니다.
