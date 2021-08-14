@@ -14,18 +14,18 @@ ms.custom:
 - "6837"
 - "9003797"
 - "6839"
-ms.openlocfilehash: c4fc2f27afd623218ad413d8738ba9d9ea8d6115
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e21845680b384ee2255fc612db35e3344d1b877418063cb86721964104239ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931275"
 ---
 # <a name="cancel-subscription"></a>구독 취소
 
 기본사항 페이지에서 선택한 헤드라인 등록이 이미 취소되었습니다. 취소하려는 구독이 올바른 구독입니까?
 
-사용자가 구독 소유자 또는 계정 관리자일 경우에만 Azure portal에서 Azure 구독을 취소할 수 있습니다. 아래 단계를 수행합니다.
+사용자가 구독 소유자 또는 계정 관리자일 경우에만 Azure portal에서 Azure 구독을 취소할 수 있습니다. 다음 단계를 따르세요.
 
 1. [Azure portal의 구독 페이지](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)에서 취소하려는 구독을 선택합니다.
 2. **개요** 를 선택한 후 **구독 취소** 를 선택합니다.

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8d0a6a37a244e817472c3949109481a30d80328b7353806905e05c547e196ea0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931239"
 ---
 # <a name="cancelling-reservation"></a>예약 취소
 
@@ -61,7 +61,7 @@ ms.locfileid: "51819698"
 
 - 1년 기간의 RI를 월간 $10에 구매
 - 4월 7일에 이 예약을 환불 혹은 교환하고자 함
-- 마지막 결재가 7일 전에 처리되었으므로 (1-7/31) * $10을 환불 받습니다. (즉, $7.74)
+- 마지막 결재가 7일 전에 처리되었으므로 (1-7/31) * $10을 환불 받습니다.(즉, $7.74)
 - 이후의 결제는 $80입니다. 현재 환불에 대한 벌금은 없습니다.
 - 이 취소는 귀하의 환불 한도 $50,000에서 $87.74를 차감합니다.
 - 교환할 경우, 신규 구매의 총액은 $87.74을 초과해야 합니다.

@@ -1,5 +1,5 @@
 ---
-title: 비즈니스용 Skype의 최신 버전이 있는지 확인
+title: 최신 버전의 업데이트가 비즈니스용 Skype
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000550"
 - "2388"
-ms.openlocfilehash: 5b9e7afe7393cf688db68d13b7964c714a516533
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: afc450afaa8abc4c666327f22bdf49f8590ee87adf781c9394fe75fd314791cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817790"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930663"
 ---
-# <a name="check-for-skype-for-business-updates"></a>비즈니스용 Skype 업데이트 확인
+# <a name="check-for-skype-for-business-updates"></a>업데이트 비즈니스용 Skype 확인
 
-모든 플랫폼(Mac, Windows, Mobile)에서 비즈니스용 Skype 앱의 최신 업데이트에 대한 자세한 내용은 비즈니스용 Skype의 최신 업데이트 [팔로우를 참조하세요.](https://support.office.com/article/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781)
+모든 플랫폼(Mac, Windows, 모바일)의 비즈니스용 Skype 앱에 대한 최신 업데이트에 대한 자세한 내용은 에서 최신 업데이트 [비즈니스용 Skype.](https://support.office.com/article/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781)

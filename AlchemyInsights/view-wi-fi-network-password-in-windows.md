@@ -1,5 +1,5 @@
 ---
-title: Windows 10에서 Wi-Fi 네트워크 암호 보기
+title: 다음 Wi-Fi 네트워크 암호 Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 91fa09c3d90db6d313a811c2b78a2feda4b001f48f7914c0d6e2b81627400fbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51807384"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990153"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>Windows 10에서 Wi-Fi 네트워크 암호 보기
+# <a name="view-wi-fi-network-password-in-windows-10"></a>다음 Wi-Fi 네트워크 암호 Windows 10
 
-1. Windows 10 PC가 Wi-Fi 네트워크에 연결되어 있는지 확인합니다.
+1. PC가 Windows 10 네트워크에 연결되어 있는지 Wi-Fi 확인합니다.
 
-2. 설정 > 네트워크 & **>** 상태로 이동하거나 여기를 클릭하거나 탭하여 지금 이동하세요.) [](ms-settings:network?activationSource=GetHelp)
+2. 네트워크 **설정 > & 인터넷**> 상태로 이동하거나 여기를 클릭하거나 탭하여 지금 이동하세요.) [](ms-settings:network?activationSource=GetHelp)
 
 3. **네트워크 및 공유 센터** 를 클릭합니다.
 

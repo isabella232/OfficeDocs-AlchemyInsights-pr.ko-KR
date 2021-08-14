@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9091"
 - "9005274"
-ms.openlocfilehash: 6db5faeddea7b47ab6ac4e3f091d82686834614d
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 60afaa34d077522b08e4e4e1bc7bd42b79331cbfb18c514a950f5aa48b00276b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50696836"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981659"
 ---
 # <a name="teams-limits-and-specifications"></a>Teams의 제한과 사양
 

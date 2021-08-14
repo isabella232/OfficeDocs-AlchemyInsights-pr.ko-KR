@@ -14,18 +14,18 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 27847ac62e418869cc5074808e6ccab02671ea05
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d060791e8981576c526885f171ab592f96c98783a061acbf41e659b1f896b8cf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817862"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930771"
 ---
 # <a name="check-aad-identity-sync-status"></a>AAD ID 동기화 상태 확인
 
 동기화 상태를 쉽게 확인할 수 있습니다.
   
-- Microsoft 365 관리 센터에 로그인하고 홈 페이지에서 **DirSync** 상태를 선택합니다.
+- 로그인하여 Microsoft 365 관리 센터 **페이지에서 DirSync 상태를** 선택합니다.
 
 - 또는 사용자 활성 사용자로 이동하여 활성 사용자 페이지에서 더 많은 \> \> 디렉터리 동기화를 선택합니다.
 

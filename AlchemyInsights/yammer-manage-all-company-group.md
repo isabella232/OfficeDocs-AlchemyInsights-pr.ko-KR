@@ -1,5 +1,5 @@
 ---
-title: Yammer 그룹 관리
+title: Yammer 모든 회사 그룹 관리
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 158ebc4992d3dbea1c337ebf3a4768aaee8e0e2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8974f730fb2dbeba47812daed26cb753dfce165c6ae79dbd7e630e6f195b278a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825809"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997464"
 ---
 # <a name="all-company-group"></a>모든 회사 그룹
 
@@ -27,7 +27,7 @@ ms.locfileid: "51825809"
 
 - 네트워크 관리자는 모든 회사 사용자 지정 또는 게시 제한을 사용할 수 없습니다. 최신 모든 회사 그룹을 사용하도록 설정하려면 서비스 요청을 열 수 있습니다.
 
-- 커뮤니티 인사이트에는 이전 데이터가 표시되지 않습니다. 이제 모든 회사가 실제 커뮤니티이기만 하여 네트워크에 대한 이전 데이터가 표시되지 않습니다.
+- Community Insights 데이터가 표시되지 않습니다. 이제 모든 회사가 실제 커뮤니티이기만 하여 네트워크에 대한 이전 데이터가 표시되지 않습니다.
 
-- 모든 회사가 삭제된 것으로 보입니다. 커뮤니티가 Microsoft 365 그룹에 연결되어 있는 경우 해당 그룹을 삭제할 수 있습니다. Microsoft 365 그룹은 테넌트에서 복원해야 합니다.
+- 모든 회사가 삭제된 것으로 보입니다. 커뮤니티가 Microsoft 365 그룹이 삭제될 수 있습니다. 테넌트에서 Microsoft 365 그룹이 복원되어야 합니다.
 

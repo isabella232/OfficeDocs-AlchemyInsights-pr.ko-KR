@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 계정을 확인 하는 방법
+title: Outlook.com 계정을 확인하는 방법
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,24 +14,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 602b4592ac07c655cd807f09e1a286741235e728
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d65ee2ec5507e3a691c5db6c44e5790ca60c47ac9b52e04f4c9052bf9503402d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961597"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>Outlook.com 계정을 확인 하는 방법
+# <a name="how-to-verify-your-outlookcom-account"></a>Outlook.com 계정을 확인하는 방법
 
-2 단계 인증을 사용 하면 다른 사용자가 Microsoft 계정에 로그인 하는 것을 어렵게 하 여 보호를 방지할 수 있습니다. 여기에는 두 가지 유형의 id, 즉 암호와 연락처 방법 (보안 정보 라고도 함)이 사용 됩니다.
+2단계 인증을 사용하면 다른 사용자가 Microsoft 계정에 로그인하기가 더 어려워지기 때문에 보호할 수 있습니다. 암호와 연락처 방법(보안 정보라고도 하는)의 두 가지 ID 형식을 사용합니다.
   
-2 단계 인증을 켜거나 끄려면:
+2단계 인증을 켜거나 끄는 경우:
   
-1. [보안 기본 사항 페이지로](https://go.microsoft.com/fwlink/?linkid=842325) 이동 하 여 Microsoft 계정으로 로그인 합니다.
-2. **기타 보안 옵션**을 선택 합니다.
-3. **2 단계 인증**에서 **2 단계 인증 설정을** 선택 하 고 지침을 따릅니다.
+1. 보안 기본 [페이지로 이동하여](https://go.microsoft.com/fwlink/?linkid=842325) Microsoft 계정으로 로그인합니다.
+2. 추가 **보안 옵션 을 선택합니다.**
+3. **2단계 인증에서** **2단계 인증** 설정 을 선택하고 지침을 따릅니다.
 
-2 단계 인증을 설정 하는 경우에는 항상 두 가지 형식의 id를 사용 해야 합니다. 연락처 방법이 손실 되 면 암호 만으로는 사용자의 계정에 다시 연결 되지 않으며 30 일 정도 이동 하 여 액세스 권한을 얻을 수 있습니다.
+2단계 인증을 설정하는 경우 항상 두 가지 형식의 ID가 필요합니다. 연락처 방법이 손실된 경우 암호만으로는 계정으로 돌아오지 못하며 액세스 권한을 다시 얻기까지 30일이 걸릴 수 있습니다.
   
-[2 단계 인증](https://go.microsoft.com/fwlink/?linkid=872270)에 대해 자세히 알아보세요.
+2단계 [인증에 대해 자세히 알아보시고 을(를) 자세히 알아보아야 합니다.](https://go.microsoft.com/fwlink/?linkid=872270)
   

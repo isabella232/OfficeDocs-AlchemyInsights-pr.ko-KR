@@ -16,12 +16,12 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 8254494e97ae0f66fce9715314802e22c7d8e671
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 974f5b26bd8e8846db7501239d8fd140f2bd56c132b0256c3166dbf2c2c8b138
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686388"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981767"
 ---
 # <a name="subscription-recurring-billing"></a>구독 재발 청구
 
