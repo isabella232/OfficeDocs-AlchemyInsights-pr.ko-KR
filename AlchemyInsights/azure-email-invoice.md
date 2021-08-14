@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 4b023c1a529618b89794360f27f0204fdf029225
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dec7454258f1f7e0244569a036cdda805da72012c02e0e17b3c1d192f0a2639e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820796"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997032"
 ---
 # <a name="azure-email-invoicing"></a>Azure 이메일 송장 발행
 

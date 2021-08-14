@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1903"
 - "3100008"
-ms.openlocfilehash: 57a72758e4b00a6822e834b2b8dfda2d079eebf5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c74f3c395baac3acb06517a0a7abeda20b264b925b569e7ddef16efbbafa8e25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716395"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989669"
 ---
 # <a name="archive-folder-in-outlook-and-owa"></a>Outlook 및 OWA의 아카이브 폴더
 
 아카이브는 전자 메일 메시지를 우편함에 보관하고 구성할 수 있는 기본 폴더입니다. **아카이브** 버튼을 클릭하여 항목을 이 폴더로 이동할 수 있습니다. 항목이 아카이브 편지함이 아닌 동일한 기본 편지함의 **아카이브** 폴더로 이동됩니다(삭제되지 않음).
 
-**아카이브** 폴더를 보려면 **보기** > **폴더 창**을 선택한 다음 **Normal**을 선택하여 폴더 목록이 표시되는지 확인합니다.
+**아카이브** 폴더를 보려면 **보기** > **폴더 창** 을 선택한 다음 **Normal** 을 선택하여 폴더 목록이 표시되는지 확인합니다.
 
 **참고** 항목이 예기치 않게 Outlook 아카이브 폴더로 자동으로 이동하는 경우 아웃룩에서 백스페이스 키를 사용하거나 아웃룩 데스크톱, 아웃룩 웹 앱 또는 아웃룩 모바일 앱에서 **아카이브** 옵션을 클릭했을 수 있습니다.
 

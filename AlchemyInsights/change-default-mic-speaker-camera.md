@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5616"
 - "9002537"
-ms.openlocfilehash: 03828723b28fc950160e56e1a72be49b4bfa2f70
-ms.sourcegitcommit: d822377ec76adf9ef6d13bc761a16c9900a3e7cb
+ms.openlocfilehash: c25e18df13f0a68b8bc5335845e5c1a3f7f84d7696fa925fbfc183b7ade53d60
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52027320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989129"
 ---
 # <a name="change-your-default-mic-speaker-or-camera"></a>기본 마이크, 스피커 또는 카메라 변경
 

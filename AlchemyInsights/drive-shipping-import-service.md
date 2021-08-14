@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11514"
 - "9003046"
-ms.openlocfilehash: 85d6e723e56b01fd9914165d8c9740f3b055947d
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: ea9f78176bcc3208c01da5ccfaeb97af4373a5b5d1a4abc652422a0f85df7d9a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721723"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004196"
 ---
 # <a name="drive-shipping-in-the-microsoft-365-import-service"></a>Microsoft 365 Import Service의 드라이브 배송
 
@@ -34,8 +34,7 @@ ms.locfileid: "52721723"
 
 다음은 기억해야 할 몇 가지 사항입니다.
 
-- PST 파일을 Microsoft 365 사서함으로 가져오려면 Exchange Online에서 사서함 가져오기/내보내기 역할을 할당받아야 합니다.
-20GB 보다 큰 PST의 경우 성능이 영향을받을 수 있습니다.
+- PST 파일을 Microsoft 365 사서함으로 가져오려면 Exchange Online에서 사서함 가져오기/내보내기 역할을 할당받아야 합니다. 20GB 보다 큰 PST의 경우 성능이 영향을받을 수 있습니다.
 
 - 2.5인치 SSD(반도체 드라이브) 또는 2.5인치/3.5인치 SATA II/III 내장 하드 드라이브만 지원됩니다.
 PST 파일을 포함하는 하드 드라이브는 BitLocker로 암호화해야 합니다.

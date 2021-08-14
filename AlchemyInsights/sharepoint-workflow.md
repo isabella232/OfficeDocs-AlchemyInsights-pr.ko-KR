@@ -15,16 +15,16 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 14680a039068688e0740ba2a7dee5c168d03d9d2
-ms.sourcegitcommit: 380ee556007d2be389b1a99795bca04bc1f9f60f
+ms.openlocfilehash: 00c4acfc2f004f1263dac97b1f8f3485dcad66885560197e0c0a6e13e8cd34b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53604891"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022584"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>작업의 워크플로 SharePoint
 
-자세한 내용은 다음을 참조하세요.
+자세한 내용은 다음 항목을 참조하세요.
 
 - [워크플로 SharePoint 오류 해결](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
 - [워크플로를 SharePoint 디버깅합니다.](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
