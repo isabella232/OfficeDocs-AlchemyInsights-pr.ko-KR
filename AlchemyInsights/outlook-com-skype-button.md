@@ -1,5 +1,5 @@
 ---
-title: 8000049 Outlook.com에 Skype 아이콘이 누락 됨
+title: 8000049 Skype.com에 Outlook 아이콘이 없습니다.
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
-ms.openlocfilehash: 6ff0c00245c8f6121b688e306fd56179f6cdf862
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6864ffb57acf80ad3732826618bc2e2c0dc8823a9fc91593be0a3697cd110ca0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802243"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063526"
 ---
-# <a name="skype-icon-missing"></a>Skype 아이콘 없음
+# <a name="skype-icon-missing"></a>Skype 아이콘 누락
 
-Outlook.com에서 디자인 새로 고침 및 기능 업데이트의 일부로 Skype 아이콘을 일시적으로 제거 했습니다. 새로운 기능을 개선 하 고 향상 된 환경을 준비 하는 동안 내 해에 감사 드립니다.
+디자인 새로 고침 및 기능 업데이트의 일부로 Outlook Skype.com에서 Skype 아이콘을 일시적으로 제거했습니다. 새 환경과 개선된 환경을 준비하는 동안 여러분의 인내심을 감사드립니다.
 
-[Web.skype.com](https://web.skype.com)에서 사용자의 브라우저를 통해 Skype를 계속 사용할 수 있습니다.
+You can still use Skype through your browser at [web.skype.com.](https://web.skype.com)

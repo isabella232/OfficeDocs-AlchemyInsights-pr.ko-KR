@@ -1,5 +1,5 @@
 ---
-title: Office 365에 도메인 확인 요청
+title: 도메인 Office 365 확인 요청
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 432ae69a244b22bcbc8826702c17da00040752d4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e4089c8c81012c1c579c21ad6b5b5fe7ecea51ccd2324ef208818bb7242e4af4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736853"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949609"
 ---
-# <a name="ask-office-365-to-verify-your-domain"></a>Office 365에 도메인 확인 요청
+# <a name="ask-office-365-to-verify-your-domain"></a>도메인 Office 365 확인 요청
 
-Office 365에서 올바른 TXT 레코드를 찾으면 도메인이 확인된 것입니다. Office 365에 도메인을 확인하려면 다음 단계를 수행합니다.
+Office 365에서 올바른 TXT 레코드를 찾으면 도메인이 확인된 것입니다. 도메인을 Office 365 확인하려면 다음 단계를 수행합니다.
 
 1. 도메인 확인 페이지에 **있는지** 확인하십시오. 현재 이 페이지가 아닌 경우 설치 > 도메인을 선택하고 확인 중인 도메인을 선택한 다음 설치  시작 또는 설치 계속을 **클릭합니다.** 도메인 확인 **페이지로** 이동합니다.
 

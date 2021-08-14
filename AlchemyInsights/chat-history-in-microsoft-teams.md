@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams의 채팅 기록
+title: Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: 92f1c902b36b78a8e3399420816c5699e3e0e5af
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0b1d6d10ecb38c75e7ef0553bc579e8a040bc38a8985e0700fe011e72e5f8c8b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949717"
 ---
-# <a name="viewing-chat-history-in-microsoft-teams"></a>Microsoft Teams에서 채팅 기록 보기
+# <a name="viewing-chat-history-in-microsoft-teams"></a>Microsoft Teams
 
-Teams 채팅 기록을 보기 [](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) 위해 Microsoft 365 그룹 또는 Microsoft [팀과 연결된](https://sip.protection.office.com/insightdashboard)사서함을 검색할 수 있는 & 준수 센터에서 콘텐츠 검색을 사용할 수 있습니다. 
+채팅 Teams 보기 위해 보안 & [](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) 준수 센터에서 콘텐츠 검색을 사용하여 Microsoft 365 그룹 또는 Microsoft 팀과 연결된 사서함을 검색할 수 있습니다. [](https://sip.protection.office.com/insightdashboard) 
 
-보안 및 준수 센터에서 검색 기능에 대한 자세한 내용은 Microsoft Teams 및 [Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/content-search) 그룹 검색을 참조합니다. 
+보안 [Microsoft Teams 및](https://docs.microsoft.com/microsoft-365/compliance/content-search) Microsoft 365 센터에서 검색 기능에 대한 자세한 내용은 그룹 및 그룹 검색을 참조합니다. 
 
-**참고:** 대화 기록 백업, 내보내기, 인쇄 및 보관은 현재 Microsoft Teams에서 직접 사용할 수 없습니다. UserVoice에서 이 기능에 [투표하시기 바랍니다.](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20) 
+**참고:** 현재 대화 기록 백업, 내보내기, 인쇄 및 보관은 현재 대화 기록에서 직접 사용할 수 Microsoft Teams. UserVoice에서 이 기능에 [투표하시기 바랍니다.](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20) 

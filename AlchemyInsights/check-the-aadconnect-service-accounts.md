@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1726"
 - "9000180"
-ms.openlocfilehash: 4c18ddc19c60075cbea4edce95ebbf6491778b41
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c1d55e9cdb3702725e9e6fabd5323391470070c30e6da90765874535cb27647
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714037"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949645"
 ---
 # <a name="check-the-aadconnect-service-accounts"></a>AADConnect 서비스 계정 확인
 

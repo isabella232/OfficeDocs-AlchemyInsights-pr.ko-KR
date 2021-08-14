@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7760"
 - "9004346"
-ms.openlocfilehash: 5ab56ec1eda10ea059e600e8933ce85bb143b76e
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: c843e9315776f3dbab2f25c864ebe8b0c41000b8ce70046fe4eb386fce143635
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886909"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009578"
 ---
 # <a name="sso-configuration-issues"></a>SSO 구성 문제
 
@@ -31,7 +31,7 @@ ms.locfileid: "49886909"
     c. 트랜잭션을 재현하고 콘솔 메시지를 검토합니다. CORS 위반은 원본에 대한 콘솔 오류를 생성합니다.
     d. 앱이 인증을 위해 login.microsoftonline.com으로 리디렉션할 때 액세스 토큰이 만료되는 등의 일부 CORS 문제는 해결할 수 없습니다. 액세스 토큰 만료로 인해 CORS 호출이 실패합니다. 이 시나리오의 해결 방법은 사용자 세션 중에 액세스 토큰이 만료되지 않도록 액세스 토큰의 수명을 연장하는 것입니다. 이 문제를 해결하는 방법에 대한 자세한 내용은 [Microsoft ID 플랫폼에서 구성 가능한 토큰 수명](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)을 참조하세요.
 4. **SAML 기반 SSO문제 해결**: 발생할 가능성이 큰 문제에 대한 해결 방법은 [SAML 기반 Single Sign-On 구성된 앱에 문제 해결](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)을 확인하는 것이 좋습니다.
-5. **암호 기반 SSO 문제 해결**: Azure AD [ 발생할 가능성이 큰 문제에 대한 해결 방법을 찾으려면 ](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso)Azure AD에서 암호 기반 Single Sign-On 문제 해결을 확인하는 것이 좋습니다.
+5. **암호 기반 SSO 문제 해결**: Azure AD [ 발생할 가능성이 큰 문제에 대한 해결 방법을 찾으려면](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso)Azure AD에서 암호 기반 Single Sign-On 문제 해결을 확인하는 것이 좋습니다.
 6. **구성 오류를 받았습니다.** 구성 오류를 해결하려면 다음 문서를 확인하는 것이 좋습니다. a. [SAML 기반 Single Sign-On 구성 앱에 로그인하는 데 문제가 있습니다.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery) [자격 증명이 입력되었지만 확장에서 자격 증명을 제출하지 않습니다.](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso#credentials-are-filled-in-but-the-extension-does-not-submit-them) c. [자격 증명이 입력 및 제출되었지만 페이지에 잘못된 자격 증명이 표시됩니다.](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) d. [사용자가 로그인한 후 앱 페이지에 오류 메시지가 표시됩니다.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
 7. **온-프레미스 앱과 완벽한 SSO를 통합하는 데 문제가 있습니다.** 온-프레미스 앱과의 완벽한 SSO 통합과 관련된 문제를 해결하려면 다음 문서를 확인하는 것이 좋습니다. a. [응용 프로그램 프록시 응용 프로그램에 대한 단일 로그온을 구성하는 방법](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to) b [응용 프로그램 프록시를 사용하여 온-프레미스 응용 프로그램을 위한 SAML Single Sign-On](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps) c. [Azure Active Directory 응용 프로그램 프록시 CORS 문제를 이해하고 해결](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues) [응용 프로그램 프록시에 대한 Kerberos 제한된 위임 구성 문제 해결](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
 8. **클레임을 고치거나 토큰의 수명을 연장해야 합니다. 세션 길이를 변경해야 합니다.** 이를 위해 다음 문서를 확인하는 것이 좋습니다. a. [응용 프로그램에 전송된 SAML 클레임 사용자 정의](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping) b. [claims-aware 앱으로 작업](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-for-claims-aware-applications) c. [Microsoft ID 플랫폼에서 구성 가능한 토큰 수명](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) d. [조건부 액세스를 사용하여 인증 세션 관리 구성](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-session-lifetime) e. [온-프레미스 응용 프로그램에 액세스하기 위한 쿠키 설정](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-cookie-settings)
