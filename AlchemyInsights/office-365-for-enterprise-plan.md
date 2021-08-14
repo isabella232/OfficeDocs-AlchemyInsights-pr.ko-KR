@@ -15,12 +15,12 @@ ms.custom:
 - "474"
 - "1500026"
 ms.assetid: 5e423a8a-db05-4c46-804b-b8d9c54ba62b
-ms.openlocfilehash: 7c5626d99bcc22572c78795ea21a62faee94dd94
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 9d438b7d570c15753193477379d856459c76381ed0104a6f919d5b46e06dcadf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685704"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974423"
 ---
 # <a name="office-365-for-enterprise-plan"></a>Office 365 대한 Enterprise 계획
 

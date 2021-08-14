@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3809"
 - "9001716"
-ms.openlocfilehash: b549fe9e625752718aa9cce0f5a730cd60039a24
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 69b73e506b14adb861fdd5001573dcd2e38af01aac1d13f4dedc60ab712a22e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826853"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095116"
 ---
 # <a name="planner-how-notifications-work"></a>Planner: 알림이 작동하는 방식
 

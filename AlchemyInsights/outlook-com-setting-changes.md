@@ -10,31 +10,31 @@ ms.service: o365-administration
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 953bb7feec3099e7125c41b7177057ff40efa5be
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d0fa87db304c2935f60848bf69c0fcc2217ac4414abd53718f418785e8804c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095260"
 ---
-# <a name="settings-in-outlookcom"></a>Outlook.com의 설정
+# <a name="settings-in-outlookcom"></a>설정.com의 Outlook
 
-받는 사람이 조직 내부 또는 외부에 있고 해당 사용자가 Office 365 또는 Outlook.com 전자 메일 계정을 사용 하는 경우에는 **outlook 2016, 웹/Outlook Web App의 outlook, outlook 모바일 앱** 에서 메시지를 열 때 특별 한 작업을 수행 하지 않아도 됩니다.
+받는 사람이 조직 내부 또는 외부에 있으며 Office 365 또는 Outlook.com 전자 메일 계정을 사용하는 경우 메시지를 열기 위해 특별히 **Outlook 2016, 웹용 Outlook/Outlook Web App,** 모바일 앱과 같은 클라이언트를 Outlook 없습니다.
 
-보호 된 전자 메일을 보낸 사용자의 **대리인이** 보호 된 메시지를 열 수 없습니다. 원래 받는 사람 (보호 된 전자 메일을 보낸 사람)만 전자 메일의 정보를 볼 수 있습니다.
+**보호된** 전자 메일을 보낸 사용자의 대리인은 보호된 메시지를 열 수 없습니다. 원래 받는 사람(보호된 전자 메일을 보낸 사람)만 전자 메일의 정보를 볼 수 있습니다.
 
-- 받는 사람이 다른 인터넷 서비스 공급자에 있고 &nbsp; 메시지를 열고 ' 이름이 message.rpmsg ' 첨부 파일을 볼 수 없는 경우에는 다음 지침을 따릅니다.
+- 받는 사람이 다른 인터넷 서비스 공급자에 있는 경우 메시지를 열 수 없는 경우 'rpmsg' 첨부 파일이 표시하려면 아래 지침을 &nbsp; 따릅니다.
     
-    - 메시지 **읽기** 를 선택 합니다.
+    - 메시지 **읽기를** 선택합니다.
     
-    - 이러한 사용자는 **일회용 암호를 사용 하 여 로그인**을 선택 해야 하는 페이지로 리디렉션됩니다.
+    - 일회용 암호로 로그인을 선택해야 하는 페이지로 **리디렉션됩니다.**
     
-    - 단일 사용 암호가 같은 전자 메일 주소로 전송 됩니다. 브라우저 창에 코드를 입력 하 고 **계속** 을 선택 하 여 메시지를 읽습니다.
+    - 일회용 암호가 동일한 전자 메일 주소로 전송됩니다. 브라우저 창에 코드를 입력한 다음 **계속을** 선택하여 메시지를 읽습니다.
 
-- 다른 조직의 메시지를 암호화할 수 없는 경우이 [문서](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)에 지정 된 해결 단계를 따르세요.
+- 다른 조직의 메시지를 암호화할 수 없는 경우 이 문서에 지정된 해결 단계를 [따릅니다.](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)
 
-- 받는 사람의 사서함이 **Yahoo 또는 Gmail**에 있는 경우 </span> 이 [문서](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)에 나와 있는 지침을 따르세요.
+- 받는 사람 사서함이 **Yahoo 또는 Gmail에** 있는 경우 이 문서에 있는 </span> 지침을 [따르세요.](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)
 
-- 보호 정책은 [알려진 파일 형식](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)에만 적용 됩니다. 비즈니스용 OneDrive 첨부 파일은 암호화를 지원 하지 않습니다.
+- 보호 정책은 알려진 파일 [형식에만 적용됩니다.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types) 비즈니스용 OneDrive 첨부 파일이 암호화에 지원되지 않습니다.
 
-- 공유 사서함은 **현재 모든 클라이언트를 통해 암호화 된 메시지를 열 수 없습니다**. 
+- 공유 **사서함은 현재 클라이언트를** 통해 암호화된 메시지를 열 수 없습니다. 

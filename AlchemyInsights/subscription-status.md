@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9001519"
 - "3586"
-ms.openlocfilehash: 9d26786b1d1643278b50d25fd52f8eb46b4cfbef
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: dc7669ddd868f49e510e99ad5e37252c5d2305208b938dacf65fd92a1d9fb137
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689556"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009110"
 ---
 # <a name="subscription-status"></a>구독 상태
 

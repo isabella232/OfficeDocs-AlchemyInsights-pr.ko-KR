@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, sinakassaw
+ms.reviewer: sinakassaw, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: d4eb4a9415a4d506be7edb9efd3d83208413e9f3
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 008c46718fed2704bb03972e44f2b7b1933c44da729fa4473841939cc5caed51
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689340"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54501318"
 ---
 # <a name="suspend-or-pause-licenses"></a>라이선스 일시 중단 또는 일시 중지
 

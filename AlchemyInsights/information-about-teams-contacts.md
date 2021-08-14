@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: e32bda19012969d4a6c3a0dfd9c3af912f6eb8479203f4518d55727163266086
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a2efa52c3fcd90b255d5f1ccbb07c31f9c138e7a31dbe92f318418fb1643601d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926287"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868352"
 ---
 # <a name="information-about-teams-contacts"></a>Teams 연락처에 대한 정보
 
@@ -29,7 +29,7 @@ Teams에서 사용하는 연락처:
 
 연락처가 완료되지 않았거나 한 명 또는 여러 사용자에 대해 동기화되지 않는 경우 다음을 수행합니다.
 
-- 사용자의 Exchange 사서함이 온-프레미스가 아니니 온라인에 호스팅되어 있는지 확인합니다. 자세한 내용은 [Exchange와 Microsoft Teams의 상호 작용 방식](/microsoftteams/exchange-teams-interact)을 참조하세요.
+- 사용자의 Exchange 사서함이 온-프레미스가 아니니 온라인에 호스팅되어 있는지 확인합니다. 자세한 내용은 [Exchange와 Microsoft Teams의 상호 작용 방식](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)을 참조하세요.
 - 연락처 정보에 연락처의 전화 번호가 추가되었는지 확인합니다.
 - **검색** 표시줄에서 연락처의 전자 메일을 검색합니다. 연락처 목록에 대한 동기화를 재개할 수 있는 연락처입니다.
 

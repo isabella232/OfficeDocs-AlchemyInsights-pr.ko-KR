@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7811"
-ms.openlocfilehash: 6b892cc9803c6b0ead40b8fdda2cf881614f976f
-ms.sourcegitcommit: 0acb849a211b3ae6378ae47c9574a73994981db6
+ms.openlocfilehash: ae31461b300fc262ea10233c628493e33371f18136d00e05755971c08d2ba3d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50828697"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009434"
 ---
 # <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a>원활한 SSO(Single Sign-On) 사용자 로그인 문제 해결
 

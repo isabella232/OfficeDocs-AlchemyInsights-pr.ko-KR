@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 Forms 비즈니스 규칙이 실행 되지 않는 Fullname 필드를 사용 합니다.
+title: 전체 이름 필드를 사용하지 않는 Dynamics 365 Forms Business 규칙
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1928"
 - "6200018"
-ms.openlocfilehash: 50588b25d1cb23daee188c6be9132142f8ae98c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccb50ae836357ef48cd0b4a2a640cceb0a1ff88137e79a57d4fcd9027994ce45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711533"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947413"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>통합 inteface 앱에서 전체 이름 필드를 지원 하지 않음
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>통합된 정수 앱에서는 지원되지 않는 전체 이름 필드
 
-**전체 이름** (fullname) 필드를 사용 하는 동작 또는 조건은 통합 인터페이스를 기반으로 하는 앱에서 지원 되지 않습니다. 또는 **이름** (firstname)과 **성** (성) 필드를 포함 하는 동작이 나 조건을 사용할 수 있습니다.
+전체 이름(fullname) **필드를** 사용하는 동작 또는 조건은 통합 인터페이스를 기반으로 하는 앱에서 지원되지 않습니다. 또는 이름(이름) 및 성(성) 필드에 작업이나 조건을 사용할 수 있습니다.  
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)

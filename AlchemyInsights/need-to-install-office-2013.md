@@ -1,5 +1,5 @@
 ---
-title: Office 2013을 설치 해야 합니다.
+title: 2013을 Office 필요
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 99529e9e9b18ae0211cfae4fbc789d4e1563ac4b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5063c515bfe2a359ec916d82b0fc85f9090f4e359ee5457f7d007693b71f7a06
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974603"
 ---
-# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Office 2013은 Microsoft 365 구독에서 더 이상 지원 되지 않습니다.
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Office 2013은 더 이상 Microsoft 365 지원되지 않습니다.
 
-2017 년 2 월 28 일부 터 Office 2013은 Microsoft 365 구독에서 더 이상 지원 되지 않습니다.
+2017년 2월 28일부터 Office 2013은 Microsoft 365 지원되지 않습니다.
   
-Office 제품군의 보안을 보장 하 고 최신 기능을 모두 사용 하려면 Microsoft 365 구독의 일부로 최신 버전의 Office를 무료로 설치 하세요. [사용자를 최신 Office 클라이언트로 업그레이드를](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client)참조 하세요.
+Office 제품군의 보안을 보장하고 모든 최신 기능을 사용하려면 Office 구독의 일부로 무료로 최신 Microsoft 365 설치합니다. 최신 클라이언트로 사용자 [업그레이드를 Office 참조합니다.](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client)
   
