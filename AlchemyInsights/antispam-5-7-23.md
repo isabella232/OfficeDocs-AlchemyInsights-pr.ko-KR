@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: e494e8017f24d65a94d1a7490be4d67c46a2120b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cb9073306c65b09813290d6c8470d14395d2836fa3048f8ce0ecb8b06e71a010
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821417"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932175"
 ---
 # <a name="fix-email-delivery-issues-for-error-code-5723"></a>오류 코드 5.7.23에 대한 전자 메일 배달 문제 해결
 

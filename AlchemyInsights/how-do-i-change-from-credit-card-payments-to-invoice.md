@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 2abdc805bf176eeac30e97b9cccf3cf9947b779abdae3c4566d354854a78b040
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501102"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868684"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>신용 카드 결제에서 송장으로 변경하는 방법
 
@@ -34,4 +34,4 @@ ms.locfileid: "54501102"
 6. 이름, 주소 및 전화 번호를 입력합니다. 또한 송장에 표시할 PO 번호를 추가할 수 있습니다.
 7. 작업을 마치면 **저장** 을 선택합니다.
 
-자세한 내용은 구독 [결제 방법을 참조하세요.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+자세한 내용은 구독 [결제 방법을 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

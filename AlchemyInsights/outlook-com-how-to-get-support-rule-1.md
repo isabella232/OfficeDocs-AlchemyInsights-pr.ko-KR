@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 지원 받기 방법
+title: Outlook.com 지원을 받을 수 있는 방법
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000080
-ms.openlocfilehash: de7b1262e9cd26c7c6c15d088f1d052e35351932
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32e8506013d9475b0440a1b2f5fe15454f07f737930655ec09aab7683d5f39e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724261"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096088"
 ---
-# <a name="how-to-get-outlookcom-support"></a>Outlook.com 지원을 얻는 방법
+# <a name="how-to-get-outlookcom-support"></a>Outlook.com 지원을 Outlook 방법
 
 안녕!
-저는 채팅에 대 한 정보를 드리겠습니다.
+I'm not a chat bot, but I will try to help you.
 
 
