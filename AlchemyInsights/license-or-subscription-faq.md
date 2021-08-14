@@ -15,12 +15,12 @@ ms.custom:
 - "9002903"
 - "5582"
 - "5583"
-ms.openlocfilehash: 9911832f9d147e565c83a39995f8909f24a70405
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 0a6d169a0fdff9fe7dec9d7175f80d092a0251839f2c4d29f42f1b884c6a6f44
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689232"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986744"
 ---
 # <a name="license-or-subscription-faq"></a>라이선스 또는 구독 FAQ
 

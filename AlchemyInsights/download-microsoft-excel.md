@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11058"
 - "9006480"
-ms.openlocfilehash: bd6c3d0e61bccdfd7cfe82866c8db3881800e879
-ms.sourcegitcommit: 63d9b9444b459db48d3228c1c52cd1d92d3448ca
+ms.openlocfilehash: 22c86c0b57ff20e054c7ac1e716ed65f1223e14f1105d6561e681a022a8a8d7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52022004"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004304"
 ---
 # <a name="download-microsoft-excel"></a>Microsoft Excel 다운로드
 

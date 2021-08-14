@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000311"
 - "1935"
-ms.openlocfilehash: 1dd8d9dd394293d8e3293005aaa625b8310cab21
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d8cbdd01f69d198ad2e7660b88fb6525eafe9b765664c3a0a8f958bb713566d1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821489"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932931"
 ---
 # <a name="analytics-and-yammer"></a>분석 및 Yammer
 

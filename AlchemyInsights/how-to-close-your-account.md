@@ -11,12 +11,12 @@ ms.custom: ''
 ms.assetid:
 - "9002317"
 - "4502"
-ms.openlocfilehash: ea6a54b8eb64b54def4d8b8360f3f7cafba88afc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bed58749fe2e4da490a2c86dc4c6d46e093d4b36c246cedd3e4f86e75c817c9a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780821"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977339"
 ---
 # <a name="how-to-close-your-account"></a>계정을 폐쇄하는 방법
 

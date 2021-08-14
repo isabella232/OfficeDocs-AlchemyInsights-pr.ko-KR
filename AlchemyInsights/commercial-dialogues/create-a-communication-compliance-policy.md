@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ff20ee8ac33598e6f21855a2496b730ca60fd320
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b5724b4534ec17a28ebc1747a752e5bac2f14beea58146fffd8f35fad1e07edc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736408"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995051"
 ---
 # <a name="create-a-communication-compliance-policy"></a>통신 준수 정책 만들기
 
-이 단계는 필수입니다. Microsoft 365 규정 준수 센터에서 통신 준수 정책을 만들 수 있습니다. 방법은 다음과 같습니다.
+이 단계는 필수입니다. 2013에서 통신 준수 정책을 만들 수 Microsoft 365 규정 준수 센터. 방법은 다음과 같습니다.
 
-1. Microsoft [365 규정 준수 센터에서](https://go.microsoft.com/fwlink/?linkid=2130502)통신 준수 **를 선택합니다.**
-2. 정책 **탭을** 선택합니다.
+1. 에서 [Microsoft 365 규정 준수 센터](https://go.microsoft.com/fwlink/?linkid=2130502)통신 **준수 를 선택합니다.**
+2. **정책** 탭을 선택합니다.
 3. 정책 **만들기를** 선택하여 템플릿에서 새 정책을 만들고 구성하거나 사용자 지정 정책을 만들고 구성합니다.
 4. 완료되면 템플릿을  사용하는 경우 정책 만들기를 선택하고 **사용자** 지정 정책 마법사를 사용하는 경우 제출을 선택합니다.
 

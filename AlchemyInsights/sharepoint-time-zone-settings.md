@@ -14,12 +14,12 @@ ms.assetid: ''
 ms.custom:
 - "9007080"
 - "12471"
-ms.openlocfilehash: 854cfdc93ac05db47bd8cc762af4cb4f0d57e03f
-ms.sourcegitcommit: 7f08f13823b5a04cde96e344efa368912c9d0f68
+ms.openlocfilehash: 81c947514c011a754812cae3955588bf68d33fc28dd2535d1ed3d180cb89a08a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53617723"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022750"
 ---
 # <a name="sharepoint-time-zone-settings"></a>SharePoint 표준 시간대 설정
 
