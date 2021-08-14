@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005290"
 - "9121"
-ms.openlocfilehash: 1e288a6e593c41b05130883cdb9c6697fe0776df
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 60749494d3dfea8949ed3d069a522140804d06966db5364e196389ee82582197
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736468"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931383"
 ---
 # <a name="camera-privacy-settings-for-desktop-apps"></a>데스크톱 앱용 카메라 개인 정보 설정
 

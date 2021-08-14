@@ -1,5 +1,5 @@
 ---
-title: 763 사용자에 대 한 Exchange Online PowerShell 액세스 차단
+title: 763 사용자에 Exchange Online PowerShell 액세스 차단
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,18 +14,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: 8ac61cb2c1e055c67538e39e8459b3eb56c95592
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36d4b4bb25b825dbc04cc08744c6b7af590094ca91197fe4dd3d3a92c653cb0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685532"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931419"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a>사용자에 대 한 Exchange Online PowerShell 액세스 차단
-관리자는 사용자를 위해 Exchange Online PowerShell에 대 한 액세스를 차단할 수 있습니다. 자세한 내용은 다음 항목을 참조 하십시오.
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>사용자에 Exchange Online PowerShell 액세스 차단
+관리자는 사용자를 위해 PowerShell에 대한 액세스를 Exchange Online 수 있습니다. 자세한 내용은 다음 항목을 참조하세요.
 
-- [Exchange Online PowerShell에 대 한 액세스 사용 또는 사용 안 함](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- [Exchange Online PowerShell에 대한 액세스 설정 또는 해제](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- [Exchange Online의 클라이언트 액세스 규칙](https://technet.microsoft.com/library/mt842508.aspx) ( **remotepowershell** 프로토콜 확인) 
+- [클라이언트 액세스 규칙의](https://technet.microsoft.com/library/mt842508.aspx) Exchange Online(RemotePowerShell **프로토콜** 찾아서) 
 
-**참고**: 항목에 설명 된 대로 관리자 용 Exchange Online PowerShell에 대 한 액세스를 차단 하지 않도록 주의 하세요.
+**참고:** 이 항목에 설명된 바와 같이 관리자를 위해 PowerShell에 대한 Exchange Online 차단하지 않도록 주의하세요.

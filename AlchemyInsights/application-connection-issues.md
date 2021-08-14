@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004326"
 - "7825"
-ms.openlocfilehash: 5d27592e2233a01fead0332e6e2af08bf6cd9287
-ms.sourcegitcommit: a43e2fae2ed9cc7bc2bd869d97a1d57fa98955c5
+ms.openlocfilehash: 4f8d97d4820e2fad5d3bdf314370236b509b6081dc5f87078995282e72da0c18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016849"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931544"
 ---
 # <a name="application-connection-issues"></a>응용 프로그램 연결 문제
 
-[응용 프로그램을 Azure Active Directory와](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) 통합하기 위한 자습서 - 응용 프로그램을 Azure Active Directory와 통합할 수 있도록 구성을 진행하는 자습서 컬렉션을 개발했습니다.
+[응용 프로그램을](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) Azure Active Directory 통합하기 위한 자습서 - 응용 프로그램을 Azure Active Directory 통합하기 위해 구성을 진행하는 자습서 컬렉션을 개발했습니다.
 
 **응용 프로그램 프록시 에이전트 커넥터 문제 해결**
 
-커넥터 설치가 실패하는 경우 도움말은 응용 프로그램 프록시 에이전트 커넥터를 설치하는 데 문제가 있는 경우를 [참조합니다.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem)
+커넥터 설치에 실패할 경우 도움이 필요한 경우 응용 프로그램 프록시 에이전트 커넥터 설치 문제를 [참조합니다.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem)
 
-[응용 프로그램 프록시 커넥터](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) 문제를 디버그하면 Azure AD(Azure Active Directory) 응용 프로그램 프록시 커넥터 문제를 해결하는 데 도움이 됩니다. 응용 프로그램 프록시 서비스를 사용하여 웹 응용 프로그램에 원격으로 액세스하지만 응용 프로그램에 연결하는 데 문제가 있는 경우 이 흐름도에 따라 커넥터 문제를 디버그합니다.
+[응용 프로그램 프록시 커넥터](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) 디버그 문제는 Azure AD(응용 프로그램 프록시 Azure Active Directory 문제를 해결하는 데 도움이 됩니다. 응용 프로그램 프록시 서비스를 사용하여 사내 웹 응용 프로그램에 원격으로 액세스하지만 응용 프로그램에 연결하는 데 문제가 있는 경우 이 흐름도를 사용하여 커넥터 문제를 디버그합니다.
 
-[응용 프로그램 프록시 응용](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) 프로그램에 대한 작업 커넥터 그룹을 찾지 못하면 Azure Active Directory와 통합된 응용 프로그램 프록시 응용 프로그램에 대해 검색된 커넥터가 없는 경우 직면하는 일반적인 문제를 해결할 수 있습니다.
+[응용 프로그램 프록시 응용](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) 프로그램에 대한 작업 커넥터 그룹을 찾지 못하면 응용 프로그램 프록시 응용 프로그램과 통합된 응용 프로그램 프록시 응용 프로그램에 대해 검색된 커넥터가 없는 경우 직면하는 일반적인 문제를 Azure Active Directory.
 
 **Cisco AnyConnect 통합 문제 해결**
 

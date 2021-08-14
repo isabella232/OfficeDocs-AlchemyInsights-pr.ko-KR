@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3271471c6421e892066cea2f0007cd81dc10783ecdd5bd8349bbe298a31990ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974351"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 앱 메시지 - 죄송합니다. 조직에 다른 계정이 이미 로그인되어 있습니다.
 
@@ -37,7 +37,7 @@ ms.locfileid: "51836249"
 
 문제가 계속 되면 다음 단계를 수행 합니다. 
 
-- Office 정품인증 재설정 [엔터프라이즈용 Microsoft 365 앱 정품인증 재설정](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)을 참고하세요.
+- Office 정품 인증 재설정. [엔터프라이즈용 Microsoft 365 앱 정품 인증 다시 설정](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)을 참조하세요.
 
 자세한 내용은 Office에서 [죄송합니다. 컴퓨터에서 조직에 다른 계정이 이미 로그인 되어 있습니다](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)를 참조하세요.
 

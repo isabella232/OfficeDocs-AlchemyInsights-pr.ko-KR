@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: 423
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: dd03c7549cf7669f79a84ba7227239b8e6e73103
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a09b7d80ef2c778c30a9668f25559efeb1b87b2f7e3211fa963333f9c692073c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707636"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974237"
 ---
 # <a name="compromised-email-accounts"></a>손상된 전자 메일 계정
 
