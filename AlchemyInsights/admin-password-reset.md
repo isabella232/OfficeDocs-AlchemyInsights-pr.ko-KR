@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: ccd55ee4452efa279b6f936151e2fdce6921b922
-ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
+ms.openlocfilehash: 9465ee400b8043cf0adb9638819e26b9cc5fe15c0d4c73d13a1f4fc237b2e6ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52569753"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952507"
 ---
 # <a name="admin-password-reset"></a>관리자 암호 다시 설정
 

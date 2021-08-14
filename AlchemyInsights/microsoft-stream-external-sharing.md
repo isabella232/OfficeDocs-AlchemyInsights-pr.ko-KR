@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: cd4ecb27d5ef6befb87c73f02b23975089e837c6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 52c7da05678204658ae2a685be4a2dbc7356e34ab2985e2e5821972c7d96ebf4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833981"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975683"
 ---
 # <a name="microsoft-stream-external-sharing"></a>Microsoft Stream 외부 공유
 

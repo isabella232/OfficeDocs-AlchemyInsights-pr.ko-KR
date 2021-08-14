@@ -13,12 +13,12 @@ ms.custom:
 - commerce_subscriptions
 - "9001669"
 - "3736"
-ms.openlocfilehash: a4f8f9cfa7b9d41c74ce9ffdf6a2cd3eef71fa08
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 09ab3c915a2874363ca58d8f6b4c8c5612e0c45f7d133460d6fc61bfacc8ab4f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688908"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009866"
 ---
 # <a name="your-products"></a>제품
 

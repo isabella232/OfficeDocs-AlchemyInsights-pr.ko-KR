@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10974"
 - "9004597"
-ms.openlocfilehash: 2fb63d941935710ebc20f74bed70479c5627130e
-ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
+ms.openlocfilehash: d3c2455ffae869b840d0a33e3ffffa4d79a5aaf81b918acfd6122c3b4ec03712
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "51897345"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951751"
 ---
 # <a name="azure-information-protection-aip-labels"></a>AIP(Azure Information Protection) 레이블
 

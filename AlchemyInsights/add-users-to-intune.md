@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000664"
 - "2535"
-ms.openlocfilehash: 6796112af0c67669ce073ac98348c9420c94730c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd58fb971f6f8225c69093fff28b149b507a75ac1ee4bfb430c919fddd317b52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687486"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953299"
 ---
 # <a name="add-users-to-intune"></a>Intune에 사용자 추가
 
- [Microsoft 365 관리 센터](https://admin.microsoft.com/)   또는 [Intune 포털](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview)을 사용 하 여 intune 구독에 사용자를 수동으로 추가할 수 있습니다.
+사용자 또는 Intune 포털 을 사용하여 [](https://admin.microsoft.com/) Intune 구독에 Microsoft 365 관리 센터 [수 있습니다.](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview)
 
-관리자는 사용자 계정을 편집 하 여 Intune 라이선스를 할당할 수 있습니다. Microsoft 365 관리 센터 또는 Intune 포털에서 라이선스를 할당할 수 있습니다.
+관리자는 사용자 계정을 편집하여 Intune 라이선스를 할당할 수 있습니다. Intune 포털 또는 Microsoft 365 관리 센터 라이선스를 할당할 수 있습니다.
 
-Microsoft 365 관리 센터를 사용 하는 방법에 대 한 자세한 내용은 [사용자를 개별적으로 또는 Microsoft 365 관리 센터에 대량으로 추가](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec)를 참조 하세요.
+앱 사용에 대한 자세한 Microsoft 365 관리 센터 에 개별적으로 또는 대량으로 사용자 추가를 [Microsoft 365 관리 센터.](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec)
 
-Intune 포털 사용에 대 한 자세한 내용은 [사용자 추가 및 Intune에 관리 권한 부여](https://docs.microsoft.com/intune/fundamentals/users-add)를 참조 하세요.
+Intune 포털 사용에 대한 자세한 내용은 사용자 추가 및 [Intune에 관리 권한 부여를 참조하세요.](https://docs.microsoft.com/intune/fundamentals/users-add)

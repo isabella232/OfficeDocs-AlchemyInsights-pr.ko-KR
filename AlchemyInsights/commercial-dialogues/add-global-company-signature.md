@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: cbd92f9c4a78139eac4e3672dd0632b173472757
-ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
+ms.openlocfilehash: b020e9823bac91ee6f40aed48f2abcba01a265ab2d2f77021a745e69af5a5366
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50508595"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930509"
 ---
 # <a name="add-a-global-company-signature-or-disclaimer-for-all-users"></a>모든 사용자에 대해 전역 회사 서명 또는 고지 조항 추가
 
 팁: 포함된 내용에 관계없이, 전체적인 서명을 고지 사항이라고도 합니다.
 
-1. 관리 센터에서 관리 센터 Exchange **를**  >  **선택 합니다.**
+1. In the admin center, choose **Admin centers**  >  **Exchange.**
 2. 메일 흐름 아래에서 **규칙** 을 선택합니다.
 3. **+**(더하기) 아이콘을 클릭하고 **고지 사항 적용** 을 선택합니다.
 4. 규칙 이름을 지정합니다.

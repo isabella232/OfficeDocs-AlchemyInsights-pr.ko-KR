@@ -14,12 +14,12 @@ ms.custom:
 - "8000046"
 - "1002"
 - "1003"
-ms.openlocfilehash: c52e13b159edb5215e39f10fcfca983fcecb08d8
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: c05718f52bdc9b7b2e7292e1b73bd6149bd285aa1334590ec507f422acd56a11
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544404"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095872"
 ---
 # <a name="print-an-attachment-in-outlookcom"></a>Outlook.com에 첨부 파일 인쇄
 

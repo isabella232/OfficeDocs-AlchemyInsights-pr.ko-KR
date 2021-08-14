@@ -14,12 +14,12 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 6679f67b5f3059a5a152ee492ca2973f15a9b932
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9c343fa9f092f80c2497e1b0dc76f193b62a01aa4dac7b2be6f1c916e611abbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821885"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952543"
 ---
 # <a name="admin-roles"></a>관리자 역할
 

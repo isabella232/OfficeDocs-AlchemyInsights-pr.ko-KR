@@ -1,5 +1,5 @@
 ---
-title: Outlook.com의 피싱 처리
+title: Outlook.com에서 피싱 처리
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c678710c49366d77f7ef8ea3f0b0c02dc252529d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ecd2b35824b6ef5c3655ff88a9c93ab2abe03084c891b10a40c5dacd02818d57
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095908"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>피싱 전자 메일을 처리 하는 방법
+# <a name="how-to-deal-with-a-phishing-email"></a>피싱 전자 메일을 다루는 방법
 
-피싱 사기는 합법적인 것으로 나타나지만 실제로는 개인 정보나 비용을 도용 하려는 전자 메일입니다. 또한 Scammers는 자신 으로부터 전자 메일을 받은 것 처럼 보이도록 하기 위해 스푸핑 이라는 기법을 사용할 수 있습니다.
+피싱 사기는 합법적인 것으로 보이지만 실제로는 개인 정보나 돈을 도용하려는 시도인 전자 메일입니다. 또한 사기는 스푸핑이라는 기술을 사용하여 사용자가 직접 전자 메일을 받은 것으로 표시될 수 있습니다.
 
-피싱 사기 처럼 보이는 전자 메일을 받은 경우 메시지를 선택 하 고 **정크**피싱을 선택 하 여 보고할 수 있습니다  >  **Phishing**.
+피싱 사기처럼 보이는 전자 메일을 받을 경우 메시지를 선택한 다음 정크 피싱 을 선택하여  >  **보고할 수 있습니다.**
 
-*참고:* 메시지를 피싱 메일로 표시 하면 보낸 사람만 보고 합니다.나중에 보낸 사람이 메시지를 보내지 못하도록 차단 하지는 않습니다. 보낸 사람을 차단 하려면 수신 거부 목록에 보낸 사람을 추가 해야 합니다. 자세한 내용은 [수신 거부 또는 Outlook.com에서 보낸 사람 차단 해제](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)를 참조 하세요.
+*참고:* 메시지를 피싱으로 표시하면 보낸 사람만 보고합니다. 이 메시지는 보낸 사람이 향후 메시지를 보내지 못하도록 차단하지 않습니다. 보낸 사람 차단하려면 수신이 차단된 보낸 사람 목록에 보낸 사람 목록을 추가해야 합니다. 자세한 내용은 Outlook.com에서 보낸 사람 차단 [또는 보낸 사람 차단 해제를 참조하세요.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-[Microsoft 365 구독자에 대 한 Outlook.com 및 advanced Outlook.com security](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy) [에서 불건전, 피싱 또는 스푸핑을 처리](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) 하는 방법에 대해 알아봅니다.
+[Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) 및 고급 [Outlook.com](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)보안에서 남용, 피싱 또는 스푸핑을 다루는 방법을 Microsoft 365 있습니다.
