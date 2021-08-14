@@ -1,5 +1,5 @@
 ---
-title: Project Online이 읽기 전용 상태입니다.
+title: Project Online 읽기 전용 상태입니다.
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1776"
 - "9000205"
-ms.openlocfilehash: ad2a9f95bf30708772edb166945f3f42e0f1f503
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 988d87ca43f5394728b77561edd8e26fa0668f4ad876a5fcd09cf739092a4d6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801658"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063022"
 ---
-# <a name="project-online-is-in-a-read-only-state"></a>Project Online이 읽기 전용 상태입니다.
+# <a name="project-online-is-in-a-read-only-state"></a>Project Online 읽기 전용 상태입니다.
 
-Project Online은 다음 세 가지 일반적인 이유로 인해 읽기 전용 상태가 될 수 있습니다.
+다음 세 가지 일반적인 이유는 Project Online 읽기 전용 상태가 될 수 있습니다.
 
-1. 조직은 Project Online Essentials 라이선스만 사용 합니다. 이는 사이트를 유지 하 고 결국에는 프로 비전 되지 않도록 하기에 충분 하지 않습니다.관리자에 게 어떤 것이 잘못 되어 올바른 라이선스를 획득할 수 있도록 사이트를 읽기 전용 상태로 설정 합니다. 관리자에 게 Project Online Professional 및/또는 Premium 라이선스를 추가 해야 합니다. 사이트는 해당 시점에 읽기 전용으로 제공 되지 않습니다. 자세한 내용은 [Compare Project Management Solutions](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)를 참조 하십시오.
-2. 할당 된 할당량에 도달 했습니다. 자세한 내용은 [Project Web App 할당량](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota)을 참조 하십시오. 보고 세분성이 할당량 사용에 어떤 영향을 줄 수 있는지 보려면 [Project Online에서 시간대 별 보고 데이터 롤업을 구성을](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) 선택 합니다.
-3. 읽기 전용은 유지 관리 중에 발생할 수 있는 매우 일시적인 조건이 될 수 있습니다. 대부분의 유지 관리는 고객의 의견을 제공 하지 않으며, 이러한 경우를 종종 볼 수는 없지만 읽기 전용 기간이 짧은 시간에 발생 하는 경우가 있습니다.
+1. 조직에는 Project Online Essentials 라이선스만 있습니다. 사이트가 계속 유지되지는 못하며 결국에는 프로비전이 되지 않습니다. 관리자가 잘못된 것을 알고 올바른 라이선스를 취득할 수 있도록 사이트를 읽기 전용 상태로 설정합니다. 관리자는 라이선스 및/또는 Project Online Professional 추가해야 Premium 합니다. 이때 사이트가 읽기 전용으로 돌아와야 합니다. 자세한 내용은 관리 솔루션 Project [비교를 참조하세요.](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. 할당량에 도달한 경우 자세한 내용은 할당량 [Project Web App 참조하세요.](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota) 자세한 [보고가](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) 할당량 사용에 어떤 영향을 줄 Project Online 수 있는지 확인하도록 보고서에서 특정 시간차 보고 데이터의 롤업 구성을 참조합니다.
+3. 읽기 전용은 유지 관리 중에 발생할 수 있는 매우 일시적인 조건일 수 있습니다. 대부분의 유지 관리는 고객이 눈에 띄지 않는 경우가 많지만 짧은 기간의 읽기 전용이 경험하는 경우가 있습니다.

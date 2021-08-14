@@ -14,12 +14,12 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: a35c235efc4571d465c6d6a375866e6570152164
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cc891926259d4527b0d35f6e78b5418b0ce8f6af015f79be01866ffe088704c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829526"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942877"
 ---
 # <a name="account-is-restricted-for-sending-too-much-spam"></a>많은 스팸을 보내 차단된 계정
 

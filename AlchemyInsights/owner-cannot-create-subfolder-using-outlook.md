@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 60190727e75c120ad3915da8b563b7f6b1a3238b46bb6e14cbf956365e1a84e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836141"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063130"
 ---
 # <a name="owner-cannot-create-sub-folder-using-outlook"></a>소유자는 Outlook을 사용하여 하위 폴더를 만들 수 없습니다.
 

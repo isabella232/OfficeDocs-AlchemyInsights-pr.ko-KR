@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: a944c8a9fbb2a233d36b6ef1779227d3a079adfb
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 01089f7a092c1933632c06beaf47f458742ed16910279d3a5e90a35503bd1cbf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736837"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930103"
 ---
 # <a name="assign-ediscovery-manager-permissions"></a>eDiscovery 매니저 사용 권한 할당
 

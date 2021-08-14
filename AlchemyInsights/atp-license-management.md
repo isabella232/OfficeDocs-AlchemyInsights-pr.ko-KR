@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, argani
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5782"
-ms.openlocfilehash: a60f70953e30ad490f51d7b9ca8495b81d84071a
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: bddf98044dd29345e0d59703713d76f02642f448bdc62cc25bb356933d524f21
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688116"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54501138"
 ---
 # <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defender for Office 365 라이선스 관리
 

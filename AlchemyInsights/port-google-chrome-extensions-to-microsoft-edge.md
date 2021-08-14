@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge로 Google Chrome 확장 포트(Chromium)
+title: Google Chrome 확장을 Microsoft Edge(Chromium)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7102"
 - "8297"
 - "9004617"
-ms.openlocfilehash: 1c71d74d01c1e38e4c7789aea2c0b43701b3a5de
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 34ec7e71a2f27eb5b46395876a4d1c903189be1050e523796c9f2a817c20aaa0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505290"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973703"
 ---
-# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Microsoft Edge로 Google Chrome 확장 포트(Chromium)
+# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Google Chrome 확장을 Microsoft Edge(Chromium)
 
-Google Chrome 확장을 [Microsoft Edge(Chromium)로](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension)쉽게 포트할 수 있습니다. 대부분의 경우 Microsoft Edge에서 이러한 확장을 실행하려면 최소한의 변경만 필요합니다.
+Google Chrome 확장을 [Microsoft Edge(Chromium) 로 포트할 수 있습니다.](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) 대부분의 경우 이러한 확장을 실행하려면 최소한의 변경만 Microsoft Edge.
 
-Google Chrome에서 지원하는 확장 API 및 매니페스트 키는 Microsoft Edge와 코드 호환됩니다. 그러나 Microsoft Edge는 확장 API chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken 및 chrome.instanceID를 지원하지 않습니다.
+Google Chrome에서 지원하는 확장 API 및 매니페스트 키는 코드와 호환되는 Microsoft Edge. 그러나 Microsoft Edge 확장 API chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken 및 chrome.instanceID를 지원하지 않습니다.

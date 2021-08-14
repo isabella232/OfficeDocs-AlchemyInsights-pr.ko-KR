@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002970"
 - "5683"
-ms.openlocfilehash: e235e7d29935dd9fa6e0c286dbe053e76d08c64e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b49e00d00fc692353f99803cc47ff02c2729cab9c8a9a9bfa3ff4674d785bda5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800103"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095008"
 ---
 # <a name="recover-the-homeaspx-page"></a>Home.aspx 페이지 복구하기
 

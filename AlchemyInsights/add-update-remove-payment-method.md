@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jamitche
+ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "9002348"
 - "4574"
-ms.openlocfilehash: 72278f41f2c29039d407a1ff0ad5680e99dbe45c
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 815de782f7e5968135f199960b5c90466b083af208ff087ddd5688539c27b592
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53680592"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54501174"
 ---
 # <a name="add-update-or-remove-payment-method"></a>결제 방법 추가, 업데이트 또는 제거하기
 
