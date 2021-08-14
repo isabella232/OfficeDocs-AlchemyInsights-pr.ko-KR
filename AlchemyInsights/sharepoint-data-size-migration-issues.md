@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
-ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
+ms.openlocfilehash: 6ddf21cc963297095fbe5cda36178b12c103cfeb0e4103a05c39f23ee634f158
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "52694782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942103"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>온라인으로 데이터를 마이그레이션하는 동안 SharePoint 문제
 

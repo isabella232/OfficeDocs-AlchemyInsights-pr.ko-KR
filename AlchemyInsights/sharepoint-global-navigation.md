@@ -14,12 +14,12 @@ ms.assetid: ''
 ms.custom:
 - "9007094"
 - "12473"
-ms.openlocfilehash: 17bf537d68eeeaa24da4a58be5f7a783623c80e9
-ms.sourcegitcommit: 7f08f13823b5a04cde96e344efa368912c9d0f68
+ms.openlocfilehash: c6eb12c18d9640ba0343760a6f9f2bf567f677e39de84c16519327c2f24d4447
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53617731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941649"
 ---
 # <a name="sharepoint-global-navigation"></a>SharePoint 전역 탐색
 

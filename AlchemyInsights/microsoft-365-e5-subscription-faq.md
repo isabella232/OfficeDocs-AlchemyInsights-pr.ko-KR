@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002658"
 - "5183"
-ms.openlocfilehash: 5ea198b013721d96f985f40830731f71dc4b3700
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 53f94337d3c6ad032e21bc4e8e9484ee937a0c3153543558e960c8f96c838569
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688008"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925027"
 ---
 # <a name="microsoft-365-e5-subscription-and-license-management-faq"></a>Microsoft 365 E5 구독 및 라이선스 관리 FAQ
 
