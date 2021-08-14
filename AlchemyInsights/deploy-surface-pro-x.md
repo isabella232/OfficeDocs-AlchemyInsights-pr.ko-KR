@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10394"
 - "9005762"
-ms.openlocfilehash: 333e5dbca70c02bcedbb07f5de0b3c08d6e4f20a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af1eba017465dc3f81f7241c017e85b62a48e48aa499d4a8287a33aa919c887d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815383"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005132"
 ---
 # <a name="deploy-surface-pro-x"></a>Surface Pro X 배포
 

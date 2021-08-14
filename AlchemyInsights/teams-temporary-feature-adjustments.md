@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002315"
 - "4511"
-ms.openlocfilehash: 2bcaad529fa54e3a444d16be021485b59749efc4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 36d5c3d78b3da2cc59368b17b2101079f34865a80341238386041446fb972abe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809085"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981299"
 ---
 # <a name="teams-temporary-feature-adjustments"></a>Teams 임시 기능 조정
 
-**중요**: 이러한 전례 없는 경우에는 Microsoft Teams를 항상 사용할 수 있도록 유지하는 단계를 수행하게 됩니다. [Microsoft Teams 임시 기능 조정](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC206581)을 참조하세요.
+**중요**: 이러한 전례 없는 경우에는 Microsoft Teams를 항상 사용할 수 있도록 유지하는 단계를 수행하게 됩니다. [Microsoft Teams 임시 기능 조정](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC206581)을 방문하세요.

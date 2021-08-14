@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1284"
 - "6700008"
-ms.openlocfilehash: e931b2092ab049bc01c600344cbd4702848abcd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 35c82f8b91a4a0a75f8aa376771a20e6684620c55e8a06abe59db22cab945139
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990533"
 ---
 # <a name="use-teamviewer-to-remotely-administer-intune-devices"></a>TeamViewer를 사용하여 Intune 장치 원격 관리
 
@@ -30,12 +30,12 @@ TeamViewer를 사용하여 Intune을 관리하려면 다음 단계를 사용합�
 
 **1부: 원격 장치를 사용하여 세션 시작**
 
-1. **모든 장치**에서 원격 세션을 시작하려는 장치를 선택합니다.
-2. **...추가**에서 **새 원격 지원 세션**을 선택합니다.
-3. 원격 세션 설정을 승인하려면 **예**를 선택합니다.
-    TeamViewer 서비스에서 "새 원격 세션 시작" 요청을 승인하고 나면, 장치의 개요(또는 필수) 세부 정보 창 아래에서 **원격 지원 시작** 옵션이 표시됩니다. 창을 확장하고 원격 지원 상태를 표시하려면 **더 보기**를 참조하세요.
-4. **원격 세션 시작**을 선택하여 관리자 측에서 세션을 시작합니다.
-5. TeamViewer 바이너리(Windows)를 다운로드하도록 선택하고 **실행**을 선택합니다.<br/>
+1. **모든 장치** 에서 원격 세션을 시작하려는 장치를 선택합니다.
+2. **...추가** 에서 **새 원격 지원 세션** 을 선택합니다.
+3. 원격 세션 설정을 승인하려면 **예** 를 선택합니다.
+    TeamViewer 서비스에서 "새 원격 세션 시작" 요청을 승인하고 나면, 장치의 개요(또는 필수) 세부 정보 창 아래에서 **원격 지원 시작** 옵션이 표시됩니다. 창을 확장하고 원격 지원 상태를 표시하려면 **더 보기** 를 참조하세요.
+4. **원격 세션 시작** 을 선택하여 관리자 측에서 세션을 시작합니다.
+5. TeamViewer 바이너리(Windows)를 다운로드하도록 선택하고 **실행** 을 선택합니다.<br/>
     **참고** TeamViewer 웹 사이트에 열린 모든 웹 브라우저 페이지를 무시할 수 있습니다.
 
 6. TeamViewer 앱에 대한 요청을 승인하여 장치(Windows만 해당)에 대해 변경할 수 있습니다.
@@ -45,7 +45,7 @@ TeamViewer를 사용하여 Intune을 관리하려면 다음 단계를 사용합�
 
 1. Intune 회사 포털을 엽니다.
 2. "IT 관리자가 원격 지원 세션에서 이 장치의 제어권을 요청하고 있습니다."라는 알림 플래그를 찾고 해당 알림을 선택합니다.
-3. TeamViewer 응용 프로그램을 다운로드하도록 선택하거나 App Store에서 TeamViewer 앱 다운로드를 승인하고 **실행**을 선택합니다.
+3. TeamViewer 응용 프로그램을 다운로드하도록 선택하거나 App Store에서 TeamViewer 앱 다운로드를 승인하고 **실행** 을 선택합니다.
     **참고** TeamViewer 웹 사이트에 열린 모든 웹 브라우저 페이지를 무시할 수 있습니다.
 
 4. TeamViewer 앱에 대한 요청을 승인하여 장치(Windows만 해당)에 대해 변경할 수 있습니다.

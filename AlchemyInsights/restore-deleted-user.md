@@ -14,12 +14,12 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 2f8430b1a03e66cdbe0bf846464218f58578e252
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 60c39466457e5f5fabfd02fae9b4192cdd27ded423a99ce5149b1c102e138097
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809373"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982019"
 ---
 # <a name="restore-a-deleted-user"></a>삭제된 사용자 복원하기
 
@@ -33,4 +33,4 @@ ms.locfileid: "51809373"
 
 4. 전자 **메일 보내기 를 클릭하고** 닫습니다.
 
-쉽지 않은가요? 스크린샷에 대한 자세한 내용과 단계는 이 문서( [사용자 복원)를 참조하세요.](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user) 대신 사용자의 사서함을 복원해야 하는 경우 Exchange Online에서 사용자 사서함 삭제 또는 [복원을 참조하세요.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)
+쉽지 않은가요? 스크린샷에 대한 자세한 내용과 단계는 이 문서( [사용자 복원)를 참조하세요.](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user) 대신 사용자의 사서함을 복원해야 하는 경우 다음을 참조하세요. [Delete or restore user mailboxes in Exchange Online.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)
