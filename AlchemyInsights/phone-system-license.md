@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "4559"
-ms.openlocfilehash: e77d876c7368c5a2e2a895da3fc5c33546a0e5a1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c30370cd98cd1a88469fab0b4005601420b9b813c3776df85edd8bcfe56f3663
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836069"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973805"
 ---
 # <a name="microsoft-teams-phone-license"></a>Microsoft Teams 전화 라이선스
 

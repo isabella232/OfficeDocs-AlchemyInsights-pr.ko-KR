@@ -1,5 +1,5 @@
 ---
-title: 웹용 클래식 Outlook으로 롤백
+title: 클래식 버전으로 웹용 Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: b246f6e51b942e35c2035b912ea3d810a2000d75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c083efef3e77dc175737e0412fd958c448f4f118955dc7a95427dab831ccbe4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805865"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924019"
 ---
-# <a name="the-new-outlook-on-the-web"></a>웹용 새 Outlook
+# <a name="the-new-outlook-on-the-web"></a>새 웹용 Outlook
 
-더 이상 웹 환경에서 클래식 Outlook으로 돌아갈 수 없습니다. 새로운 환경에 대 한 의견을 제공 하려면 [UserVoice 포럼](https://go.microsoft.com/fwlink/?linkid=2103182)으로 이동 하세요. 확인 하려는 아이디어나 문제에 응답할 수 있으며, 여기에는 주요 설명 및 제안 사항에 직접 응답 합니다.
+더 이상 클래식 환경으로 돌아올 웹용 Outlook 없습니다. 새 경험에 대한 피드백을 제공하고자 하는 경우 [UserVoice 포럼으로 이동하세요.](https://go.microsoft.com/fwlink/?linkid=2103182) You can vote on the ideas or issues you'd like to see addressed, and we'll respond directly to the top comments and suggestions.
 
-[웹용 새 Outlook에 대 한 도움말 보기](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
+[새 새 사용에 대한 도움말을 웹용 Outlook](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)

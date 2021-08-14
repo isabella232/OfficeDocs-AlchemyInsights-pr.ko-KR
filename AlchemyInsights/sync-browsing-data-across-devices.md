@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8206"
 - "9004431"
-ms.openlocfilehash: cb624965d428bf77b6cbd40191d7982d37c86fff
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 4601c751d1039a1f19915e03ffec3fa22ce2864a096ff4a7d1f6aa321a0a4f88
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998842"
 ---
 # <a name="sync-your-browsing-data-across-your-devices"></a>장치 전체에서 검색 데이터 동기화
 

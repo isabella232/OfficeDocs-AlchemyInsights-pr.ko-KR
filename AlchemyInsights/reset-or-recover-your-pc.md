@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002949"
 - "5646"
-ms.openlocfilehash: 62ca4dfffbc08040400400c384390c30a485865f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ca94b3f812478b2221d0fcc070b7e7273e45dc3633e46c99384a270a624015e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809553"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991505"
 ---
 # <a name="reset-or-recover-your-pc"></a>PC 초기화 또는 복구
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "11220"
 - "9006570"
-ms.openlocfilehash: a727c0cfae0caf93e19148087e8b4cf903489ab6
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 5adcd30f98c145579ae3fda8a85279193dfadbf6f790655b6fd4c3c6475bfab7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923866"
 ---
 # <a name="preparing-for-tls-12-in-office-365"></a>2013에서 TLS 1.2 Office 365
 

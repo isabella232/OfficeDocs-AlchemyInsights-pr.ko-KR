@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12470"
 - "9000192"
-ms.openlocfilehash: 947ea6199e520832d4fd62423a96e2361874beca
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: ccd345a75bac141ce541d3494ac8bbb7241b790f88045575ce1fb676320150f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689684"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959343"
 ---
 # <a name="remove-users-from-sharepoint"></a>SharePoint에서 사용자 제거
 

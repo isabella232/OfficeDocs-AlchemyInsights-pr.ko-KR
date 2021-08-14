@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365에서 GoDaddy 도메인을 제거 합니다.
+title: GoDaddy 도메인을 Microsoft 365
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -12,14 +12,14 @@ ms.assetid: 1b858223-22ec-4c9d-9cda-5f4418060c5e
 ms.custom:
 - "27"
 - "11"
-ms.openlocfilehash: 91bb74e9bcc53217e698afd523f0affd71157ebf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e315638fdf51d12044e6d47b9bbad72e2a4ff343d7da549da63496f6c8b065f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701505"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991625"
 ---
-# <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Microsoft 365에서 GoDaddy 도메인을 제거 합니다.
+# <a name="remove-your-godaddy-domain-from-microsoft-365"></a>GoDaddy 도메인을 Microsoft 365
 
-Microsoft 365에서 귀하의 GoDaddy 도메인을 제거할 수 없습니다. 통화 [Godaddy 고객 서비스](https://aka.ms/contact-godaddy) 에 문의 하 여 도움을 받을 수 있습니다.
+GoDaddy 도메인은 사용자 계정에서 제거할 Microsoft 365 없습니다. [GoDaddy 고객](https://aka.ms/contact-godaddy) 서비스에 문의하여 도움을 요청합니다.
   

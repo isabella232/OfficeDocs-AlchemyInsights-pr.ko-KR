@@ -1,5 +1,5 @@
 ---
-title: 팀이 자동으로 시작 되지 않도록 설정
+title: 자동 Teams 시작 방지
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6662"
 - "9003571"
-ms.openlocfilehash: cc5951a271173d1f6849df0d9d2b67df8b776bdc
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 0e35a182fb8ffbb48e5c3bff72881c2cd14d778f83c759efc99c372900de6991
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334248"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923801"
 ---
-# <a name="prevent-teams-from-starting-automatically"></a>팀이 자동으로 시작 되지 않도록 설정
+# <a name="prevent-teams-from-starting-automatically"></a>자동 Teams 시작 방지
 
-기본적으로 장치를 시작 하면 팀이 자동으로 열립니다.
+기본적으로 Teams 시작할 때 자동으로 열립니다.
 
-이 설정을 변경 하려면 팀 프로필 그림을 선택한 다음 **Settings**  >   **일반**설정을 선택 합니다. **응용 프로그램**에서 **자동 시작 응용 프로그램**의 확인을 취소 합니다.
+이 설정을 변경하려면 Teams 프로필 사진을 선택한 다음 일반 설정  >   **선택합니다.** 응용 **프로그램에서** 응용 프로그램 자동 **시작을 선택하지 않습니다.**
 
-자세한 내용은  [팀의 설정 변경을](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7)참조 하십시오.
+자세한 내용은 에서 [설정 변경을 Teams.](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7)

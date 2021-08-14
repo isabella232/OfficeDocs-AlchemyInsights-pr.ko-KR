@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1300023"
 - "4533"
-ms.openlocfilehash: fc17da9781c4960f91e76f2c60b7067cdd24e473
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dd6b3907b2755951455149e03f006e27c4ceba38a02096576a46992c4352d675
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828986"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923938"
 ---
 # <a name="pre-requisites-for-installing-aadconnect"></a>AADConnect 설치를 위한 필수 요구 사항
 

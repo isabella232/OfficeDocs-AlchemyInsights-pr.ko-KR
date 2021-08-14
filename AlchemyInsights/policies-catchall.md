@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 036c171f3c71e60c8c07000b4d0c6ede36bd435c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5f7a08f4f4b75612c6d11920d0e7d5cc48f106c695a73d2cf5461af8fa881634
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51801672"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973785"
 ---
 # <a name="teams-policies"></a>Teams 정책
 
@@ -27,9 +27,9 @@ Microsoft Teams 설정은 정책에 의해 제어됩니다. 변경하려면 적�
 
 Teams 정책은 다음 영역으로 나뉘어 있습니다.
 
-- [Teams 정책은](https://docs.microsoft.com/MicrosoftTeams/teams-policies) 비공개 채널의 검색 및 생성에서 비공개 팀의 사용자 검색을 제어합니다.  
-- [모임 정책은](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) 대기실 제어를 포함하여 Teams 모임에서 사용자가 할 수 있는 작업을 제어합니다. 모든 사람을 참가할 수 있도록 Teams를 구성하는 등 대기실 문제에 대한 도움말은 대기실 설정 및 참가 수준 [제어를 참조하세요.](https://docs.microsoft.com/alchemyinsights/bypass-lobby)
+- [Teams 정책은](https://docs.microsoft.com/MicrosoftTeams/teams-policies) 비공개 채널을 검색하고 생성하는 개인 팀의 사용자 검색을 제어합니다.  
+- [모임 정책은](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) 대기실 제어를 포함하여 Teams 사용자가 할 수 있는 작업을 제어합니다. 대기실 문제와 관련한 도움말을 Teams 대기실 설정 및 참가 수준 제어를 [참조하세요.](https://docs.microsoft.com/alchemyinsights/bypass-lobby)
 - [메시징 정책은](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) 채팅 설정 또는 해제, 채팅 삭제, 읽은 확인 요청, Giphy 및 스티커 사용 등을 포함하여 사용자가 채팅 및 메시지로 할 수 있는 작업을 제어합니다.
 - [앱 설정 정책은](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) 사용자 지정 및 타사 앱을 포함하여 사용자가 사용할 수 있는 앱과 앱이 나타나는 순서를 제어합니다.  
-- Teams에 [대한](https://docs.microsoft.com/microsoftteams/retention-policies) 데이터 보존 정책은 Microsoft 365 보안 및 준수 센터에서 찾을 수 있습니다.
-- Teams 주소 책 정책은 범위가 지정한 디렉터리 [검색을 통해 설정됩니다.](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)
+- 사용자에 [대한](https://docs.microsoft.com/microsoftteams/retention-policies) 데이터 Teams 정책은 Microsoft 365 및 준수 센터에서 찾을 수 있습니다.
+- Teams 정책은 범위가 지정되는 디렉터리 [검색을 통해 설정됩니다.](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)

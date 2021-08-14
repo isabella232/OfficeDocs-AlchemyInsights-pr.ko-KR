@@ -14,12 +14,12 @@ ms.custom:
 - "3049"
 - "9000191"
 - "3050"
-ms.openlocfilehash: a4b24c699ebd0794d6987e1d3a6bedfc5eeee140
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a9db9984b5e7f95ace5d1ba0676399777c835ad9dffd8836276a07ed7e850262
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830804"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959320"
 ---
 # <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>SharePoint 사이트의 파일 및 폴더 공유에 대한 보고서
 

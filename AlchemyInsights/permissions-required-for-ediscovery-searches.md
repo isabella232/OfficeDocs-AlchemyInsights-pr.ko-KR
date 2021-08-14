@@ -1,5 +1,5 @@
 ---
-title: 1489-사용 권한 필요-ediscovery-검색
+title: 1489-permissions-required-for-ediscovery-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795826"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973847"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>EDiscovery 검색에 필요한 사용 권한
+# <a name="permissions-required-for-ediscovery-searches"></a>eDiscovery 검색에 필요한 사용 권한
 
-보안 & 준수 센터에서 콘텐츠 검색을 수행 하려면 사용자가 최소한 eDiscovery 관리자 역할 그룹의 구성원 이어야 하며, 검색을 수행 하 고 사서함, SharePoint 사이트 및 OneDrive 위치에 위치를 배치할 수 있습니다. 또한 구성원은 eDiscovery 사례를 만들고 관리 하 고, 사례에 구성원을 추가 및 제거 하 고, 콘텐츠 검색을 만들고 편집할 수 있으며, Advanced eDiscovery에서 사례 데이터에 액세스할 수도 있습니다.
+보안 & 준수 센터에서 콘텐츠 검색을 수행하려면 사용자가 적어도 eDiscovery 관리자 역할 그룹의 구성원이 되어야 합니다. 그러면 사용자가 검색을 수행하고 사서함, SharePoint 사이트 및 OneDrive 위치에 보류할 수 있습니다. 또한 구성원은 eDiscovery 사례를 만들고 관리하고, 사례에 구성원을 추가 및 제거하고, 콘텐츠 검색을 만들고 편집하고, 사례 데이터에 액세스할 수 Advanced eDiscovery.
 
-EAC (Exchange 관리 센터)에서 원본 위치 eDiscovery 검색을 수행 하려면 사용자가 Exchange Online에서 Discovery Management 역할 그룹의 구성원 이어야 합니다.
+eDiscovery In-Place EAC(Exchange 관리 센터)에서 검색을 수행하려면 사용자가 Exchange Online.
 
-EDiscovery 권한에 대 한 자세한 내용은 다음 항목을 참조 하십시오. 
+eDiscovery 사용 권한에 대한 자세한 내용은 다음을 참조하세요. 
 
-- [보안 & 준수 센터에서 eDiscovery 권한 할당](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- [보안 및 준수 센터의 eDiscovery 사용 권한 할당](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 - [Exchange eDiscovery 사용 권한 할당](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**참고**: eDiscovery 권한을 할당 한 후에는 사용 권한을 전파할 때까지 몇 분 정도 기다려야 할 수 있습니다.
+**참고:** eDiscovery 권한을 할당한 후 사용 권한이 전파될 때까지 몇 분 정도 기다려야 할 수 있습니다.

@@ -13,12 +13,12 @@ ms.custom:
 - "9002286"
 - "4415"
 - "4416"
-ms.openlocfilehash: 5e92e15dcbcb39ac702d91ed2a20dac2cf16c0ec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f85c3df5c4004c2c4024d48e5bb3bfa0930f719fd403cd40eb9b09a13ca0d208
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812794"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945892"
 ---
 # <a name="fix-onedrive-sync-issues"></a>OneDrive 동기화 문제 해결하기
 
