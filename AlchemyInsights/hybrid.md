@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1555"
 - "9000080"
-ms.openlocfilehash: 549a165914bb8fd89c05f0b41d4b0f1e5c0f59d1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fa0b726fe6df55ff252b1b09208ae07f48a4c8f285901cd34ee356fd842b0507
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825629"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001550"
 ---
 # <a name="hybrid-mdm"></a>하이브리드 MDM
 
-Microsoft Endpoint Configuration Manager 및 Microsoft Intune을 통해 하이브리드 MDM에 대한 자세한 내용은 Configuration Manager 및 [Microsoft Intune을](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm)통해 하이브리드 MDM 설정을 참조합니다.
+하이브리드 MDM에 대한 자세한 Microsoft Endpoint Configuration Manager 및 Microsoft Intune 구성 관리자를 통해 하이브리드 [MDM](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm)설정 및 Microsoft Intune.

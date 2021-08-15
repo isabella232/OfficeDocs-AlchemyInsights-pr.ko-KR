@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: 912c9e56b4c468fb333769f15bd7c212594dc11a
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 1664a26b313c4a38c9c6d78cdb89997749ba175fd3dd72f278e99bbd50b0ee84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448928"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013754"
 ---
 # <a name="apple-automatic-device-enrollment-sync-errors"></a>Apple 자동 장치 등록 동기화 오류
 

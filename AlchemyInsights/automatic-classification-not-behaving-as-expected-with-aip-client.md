@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: b7ab09fe8430a54dacf2cd1ba076414a5f562541
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 93d15b8b65fd52a567ecbb6e1f84363bf2b38946c105896b0b5ef41e49d16ea9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979715"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>AIP 클라이언트에서 자동 분류가 예상대로 작동하지 않음
 
