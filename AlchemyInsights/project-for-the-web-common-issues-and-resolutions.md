@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002603"
 - "5021"
-ms.openlocfilehash: bc36ee72f5242a4db124931be50f2f9e745ca730
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ff0fd330bf205a19fbcbb008381d6e9ec8ddfd06ff2e084d708cffac9f16f079
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835961"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960085"
 ---
 # <a name="project-for-the-web-common-issues-and-resolutions"></a>웹용 Project의 일반적인 문제 및 해결 방법
 

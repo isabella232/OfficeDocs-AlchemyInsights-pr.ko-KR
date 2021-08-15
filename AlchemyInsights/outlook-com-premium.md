@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1831"
 - "9000243"
-ms.openlocfilehash: 6858d989135fac55c6a15f79c3be0ce37e884a60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254cd25b76a5bc7d58f08eee5686c021c88ee28880b0b1135fba8e2119355721
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798094"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983459"
 ---
 # <a name="outlookcom-premium"></a>Outlook.com 프리미엄
 
 **기존 Premium 구독자**
 
-- Outlook.com Premium 구독이 이미 있는 경우 [Outlook.com Premium faq](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy)를 참조 하세요.
+- 이미 Outlook.com Premium 있는 경우 Outlook.com Premium [FAQ를 읽어야 합니다.](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy)
 
 **새 구독자**
 
-- 죄송 하지만 이제 Outlook.com Premium은 새 구독자에 게 닫혔습니다.
-- 현재 [microsoft 365 Home 및 microsoft 365 Personal 구독에](https://go.microsoft.com/fwlink/?linkid=2017122)는 많은 [기능 및 이점이](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) 포함 되어 있습니다.
+- 죄송합니다. Outlook.com Premium 구독자가 닫혀 있습니다.
+- 이제 Home 및 [Microsoft 365](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) 구독에 많은 기능과 [혜택이 Microsoft 365 Personal.](https://go.microsoft.com/fwlink/?linkid=2017122)

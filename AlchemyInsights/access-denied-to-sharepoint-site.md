@@ -13,12 +13,12 @@ ms.custom:
 - "9000150"
 - "1666"
 - "1806"
-ms.openlocfilehash: bff558a4269fdaddbcc59d87f50acaa261a572ff
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8cd2b110b749a0813b006792e16f1dec770eb5eb357f9dcbaceb74dbf4c2dfb4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955243"
 ---
 # <a name="access-denied-to-sharepoint-site"></a>SharePoint 사이트에 대한 액세스가 거부됨
 

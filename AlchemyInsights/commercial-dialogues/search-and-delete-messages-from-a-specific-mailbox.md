@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 433cbff2c1cb68ecdb7d58661f998b70e946181b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e2f5736e5099e9e0ea58211c9e2eb0510af50bcd073b63153bd13eca1266c318
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016382"
 ---
 # <a name="search-and-delete-messages-from-a-specific-mailbox"></a>특정 사서함에서 메시지 검색 및 삭제
 

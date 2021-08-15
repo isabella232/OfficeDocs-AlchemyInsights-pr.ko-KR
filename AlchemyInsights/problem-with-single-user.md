@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004687"
 - "8469"
-ms.openlocfilehash: f3564063a3adf291ec4909ffeb2f6de0e478da96
-ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.openlocfilehash: 8d8821cda94b2af244fa317707421f9d197b6052fb316789cd286ea8b4adf19e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50428827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960157"
 ---
 # <a name="problem-with-single-user"></a>단일 사용자 문제
 

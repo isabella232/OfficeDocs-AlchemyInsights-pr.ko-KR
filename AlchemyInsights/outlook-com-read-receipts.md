@@ -1,5 +1,5 @@
 ---
-title: Outlook.com에서 읽음 확인
+title: Outlook.com의 Outlook 읽습니다.
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 1aae4246168f76c1c9f263d99359c223a55a7bfc
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: e83f74c7d362578dff21b7fb1f6474d13911d006a8f32f85ae30bce73bf8fd52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452090"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983423"
 ---
-# <a name="read-receipts"></a>읽음 확인
+# <a name="read-receipts"></a>읽은 영수증
 
-Outlook.com에서 읽음 확인을 요청할 수는 없지만 Windows 용 Outlook을 사용 하 여 보낸 Outlook.com 메시지에 대해 읽음 알림을 요청할 수도 있습니다. 자세한 내용은 [Add and request read 수령액 및 delivery 알림의](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)를 참조 하세요.
+Outlook.com에서 읽음 확인을 요청할 수 없지만 Outlook.com을 사용하여 보낸 Outlook 읽음 확인을 요청할 Windows. 자세한 내용은 읽은 영수증 및 배달 알림 [추가 및 요청을 참조합니다.](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)
   
-Outlook.com이 읽음 확인 요청에 응답 하는 방법을 선택 하려면 [읽음 확인 설정](https://outlook.live.com/mail/options/mail/handling/readReceipts)으로 이동 합니다.
+Outlook.com이 읽은 확인 요청에 응답하는 방법을 선택하려면 읽은 확인 [설정으로 이동합니다.](https://outlook.live.com/mail/options/mail/handling/readReceipts)

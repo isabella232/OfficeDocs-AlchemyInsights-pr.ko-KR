@@ -14,18 +14,18 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709256"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960121"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Outlook Customer Manager와의 공유 문제
+# <a name="problems-sharing-with-outlook-customer-manager"></a>고객 관리자와 Outlook 공유
 
-Outlook Customer Manager와 공유 문제가 있는 경우 먼저 브라우저 캐시를 지우는 것이 좋습니다. 예를 들어 Internet Explorer 다음과 같습니다.
+고객 관리자와 문제를 공유하는 경우 Outlook 먼저 브라우저 캐시를 지우는 것이 좋습니다. 예를 들어 Internet Explorer 다음과 같습니다.
 
-1. 검색 **기록** 캐시 및 > 아래 설정  >     >  **일반 설정으로 이동합니다.**
+1. 검색 **기록 설정**  >  **데이터베이스에서** > 설정 일반   >  **관리로 이동하십시오.**
 2. "outlookapps.com"에 대한 캐시 파일을 삭제합니다.
 3. Outlook을 다시 시작합니다.
 
