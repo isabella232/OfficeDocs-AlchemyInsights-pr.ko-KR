@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3454"
 - "9001450"
-ms.openlocfilehash: c4d2bb64b6b5ea79d4cd585e2be85c3c17e0f76f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ecfb4e90f2d58654ec43a35e901ea4421e0e94fa95995ef890abc8af2d99ec7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981083"
 ---
 # <a name="troubleshoot-an-existing-monitor"></a>기존 모니터 문제 해결
 
@@ -25,7 +25,7 @@ ms.locfileid: "51824585"
 
 **모니터 디스플레이를 새로 고치기:**
 
-Windows 키 + Ctrl + Shift + B 키를 동시에 누르고 있습니다. 이렇게 하면 그래픽 드라이버와의 통신이 새로 고쳐지게 됩니다. 모니터가 잠시 깜박이고 몇 초 후에 돌아올 것입니다.
+키 + Ctrl + Shift + Windows 키를 동시에 누르고 있습니다. 이렇게 하면 그래픽 드라이버와의 통신이 새로 고쳐지게 됩니다. 모니터가 잠시 깜박이고 몇 초 후에 돌아올 것입니다.
 
 **모니터 하드웨어 문제 해결:**
 

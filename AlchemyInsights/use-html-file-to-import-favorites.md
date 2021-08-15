@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9447"
 - "9005491"
-ms.openlocfilehash: bc0346a8af9461142df984e6e80c9a3490d3ab5e
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.openlocfilehash: 501b6dd995ef20c00448d776ad0a19498fe05d1019b933857387a82087d45ce1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51441208"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990605"
 ---
 # <a name="use-an-html-file-to-import-favorites-to-microsoft-edge"></a>HTML 파일을 사용하여 즐겨찾기를 Microsoft Edge로 가져오기
 

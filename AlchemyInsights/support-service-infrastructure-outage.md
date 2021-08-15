@@ -1,5 +1,5 @@
 ---
-title: 서비스 인프라 중단 지원
+title: 서비스 인프라 정전 지원
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: a41cd828b41d871053e2fa78a3a706b6dedf26e5
-ms.sourcegitcommit: 201c70a805ee76a13f97696e5a07ba27d0ce70a7
+ms.openlocfilehash: 9cc999a288d7e08b83cb8a54720ff77286f645758ee42db14f68057b0edc3e46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2020
-ms.locfileid: "48355432"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998985"
 ---
-# <a name="support-service-infrastructure-outage"></a>서비스 인프라 중단 지원
+# <a name="support-service-infrastructure-outage"></a>서비스 인프라 정전 지원
 
-현재 지원 서비스 인프라 중단이 발생 하 고 있습니다. 이 문제는 가능한 한 빨리 해결 하는 데 도움이 되지만, Microsoft에 연락 하려고 할 때 응답 시간이 지연 되는 것을 볼 수 있습니다.
+현재 지원 서비스 인프라가 정전됩니다. We are working to resolve the issue as possible as possible, but meanwile you may see response time delays when trying to contact Microsoft.
