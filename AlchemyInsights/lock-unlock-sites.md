@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11509"
 - "9000292"
-ms.openlocfilehash: 21d9d1a305af832dd7d908c35860bfd45a583a59
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: 7d54fed8c8ca10af07b97345e8ca3a52675fdeb42308a0d70c7733b9285d92f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721737"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963001"
 ---
 # <a name="lock-and-unlock-sites"></a>사이트 잠금 및 잠금 해제
 

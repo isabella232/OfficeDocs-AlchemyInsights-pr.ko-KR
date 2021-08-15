@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 563f76f624f428a46894268b478cf05eb757b497
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 900d5f250846e9a7046f72156c150f4970d91d5ad94cb7fc054952228f4bf257
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539830"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026228"
 ---
 # <a name="missing-emails-in-quarantine"></a>전자 메일이 없는 경우"
 

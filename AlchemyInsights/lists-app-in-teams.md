@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 2a2bb2aa00c6dad8d8f8246dda5a74d7a6857270652d21fdbd4eb0a891dac0ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477469"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963037"
 ---
 # <a name="lists-app-in-teams"></a>Teams에서 앱 나열
 

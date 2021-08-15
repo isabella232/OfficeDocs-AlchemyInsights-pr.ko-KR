@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007101"
 - "12066"
-ms.openlocfilehash: 7a92f8deaf331b0dca4d3bc661e3a4dedc1140fb
-ms.sourcegitcommit: a9eb1cb42da49898cc211557193ca61a00499084
+ms.openlocfilehash: b0ef6d9e777fdcde3555f4197ce5791f1ad1050badb54b267129d2b1febe0e7c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53255978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990857"
 ---
 # <a name="update-pdf-documents"></a>PDF 문서 업데이트
 

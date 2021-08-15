@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005297"
 - "9913"
-ms.openlocfilehash: a5dce4a8e929b580ccc8266b59b24aa671b2e07c
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: 95d7c81be6df8f27bded459fcad48e3e8d6b11fe190a9cef514fee1ba8e93cb4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51123193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018788"
 ---
 # <a name="change-account-name-in-windows-10"></a>Windows 10에서 계정 이름 변경
 

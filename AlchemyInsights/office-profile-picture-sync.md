@@ -1,5 +1,5 @@
 ---
-title: 사용자 프로필 사진 동기화
+title: 사용자의 프로필 사진 동기화
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,27 +8,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: f243a68b5eb7f23f096183a923a32c1eb7b9508e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 55460bbf1f676b20836c0518de3f13bfab16ee8c26cc461c1569ae4f750080ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694788"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011450"
 ---
-# <a name="sync-a-users-profile-picture"></a>사용자 프로필 사진 동기화
+# <a name="sync-a-users-profile-picture"></a>사용자의 프로필 사진 동기화
 
-[Office.com](https://www.office.com)에서 또는 휴대폰의 브라우저에서 microsoft 응용 프로그램을 사용 하거나 microsoft 365에서 프로필 사진을 추가 하거나 변경할 수 있습니다. Microsoft 365에 프로필 사진 원이 있는 모든 위치에 사진이 표시 됩니다.
+you can add or change your profile photo in Microsoft 365 from [Office.com](https://www.office.com), or while using Microsoft applications on your computer or in a browser on your phone. 사진은 프로필 사진 원이 있는 모든 곳에서 Microsoft 365.
 
-비즈니스를 위해 Microsoft 365에 프로필 사진을 추가 하려면
+비즈니스용 프로필에 프로필 Microsoft 365 추가하려면
 
-- 사용 하려는 사진을 찾아서 컴퓨터, OneDrive 또는 기타 위치에 저장할 수 있습니다.
+- 사용할 사진을 찾아 컴퓨터, OneDrive 또는 얻을 수 있는 다른 위치에 저장합니다.
 
-- [Office.com](https://www.office.com)에서 회사 또는 학교 계정을 사용 하 여 Microsoft 365에 로그인 합니다.
+- 에서 Microsoft 365 또는 학교 계정으로 로그인합니다 office.com. [](https://www.office.com)
 
-- 페이지 오른쪽 위 모서리에서 이니셜이 나 사람의 아이콘을 표시 하는 원을 선택 합니다.
+- 페이지의 오른쪽 위 모서리에 있는 이니셜이나 사람의 아이콘을 표시하는 원을 선택합니다.
 
-- 내 계정 창에서 이니셜 또는 사람 아이콘을 표시 하는 원을 선택 합니다. 표시 된 팝업 창에서 사진을 변경 합니다.
+- My accounts(내 계정) 창에서 이니셜이나 사람의 아이콘을 표시하는 원을 선택합니다. 나타나는 팝업에서 사진을 변경합니다.
 
-참고: 그림을 이미 업로드 한 경우 SharePoint 또는 OneDrive 타일을 클릭 하 여 해당 그림을 다시 동기화 해 볼 수 있습니다.
+참고: 그림을 이미 업로드한 경우 그림 또는 SharePoint OneDrive 타일을 클릭하여 해당 그림을 다시 동기화할 수 있습니다.
 
-자세한 내용은 [Microsoft 365에서 프로필 사진 동기화에 대 한 정보](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)를 참조 하세요.
+자세한 내용은 에서 프로필 사진 동기화에 대한 정보를 [Microsoft 365.](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
