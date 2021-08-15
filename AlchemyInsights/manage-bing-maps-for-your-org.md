@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9161"
-ms.openlocfilehash: c90afb1ea6664e8ef402981e70fe7c2bc8f07108
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c1050208403f708db8ad557f70d7b23d5ea0f44ae9f2da76b37ead2b9b90436e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737936"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976691"
 ---
 # <a name="manage-bing-maps-for-your-organization"></a>조직의 Bing 지도 관리
 
-Power Platform 관리 센터의  포함된 콘텐츠에서 Bing 지도를 켜면 연락처, 잠재 고객 또는 계정을 볼 때 Bing 지도에 고객이 표시됩니다.
+Power Platform Bing 지도 포함된 콘텐츠  아래에서 사용자를 켜면 연락처, 잠재 고객 또는 계정을 볼 때 Bing 지도 볼 수 있습니다.
 
-자세한 내용은 [조직에 대한 Bing 지도 관리를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2152757)
+자세한 내용은 조직에 대한 Bing 지도 [관리를 참조합니다.](https://go.microsoft.com/fwlink/?linkid=2152757)

@@ -1,5 +1,5 @@
 ---
-title: Mover
+title: 이동기
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: e1c1ca19944c55b055f807107d61b0d077743b68
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7bdf9b4fb0249084e081e57542c4a7365c1e84b8e5947c1e5aa90c3118f3930f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992045"
 ---
-# <a name="mover"></a>Mover
+# <a name="mover"></a>이동기
 
 Mover에 대한 자세한 내용은 다음 문서를 참조하세요.
 

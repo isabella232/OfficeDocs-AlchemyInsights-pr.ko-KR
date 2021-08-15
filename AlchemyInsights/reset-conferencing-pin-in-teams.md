@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002882"
 - "5494"
-ms.openlocfilehash: 613dea3b5043ff53902bd797e3edc46afb5c7107
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 785508ef9f20a36f62029e1eaaa70e4926a298e758951773d78ceef76ba80ae7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023744"
 ---
 # <a name="reset-conferencing-pin-in-teams"></a>Teams에서 회의 PIN 재설정
 

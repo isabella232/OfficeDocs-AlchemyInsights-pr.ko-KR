@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003200"
 - "5995"
-ms.openlocfilehash: 29adc5a7b8b74280cb3fcd6369dc4fc3a3e8e957
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 73c0fd3eb2f022b1c5917849bae676b748025fb69a3a15ba1389b42a6854db9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823793"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976511"
 ---
 # <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a>Microsoft 365 그룹에 보낸 메시지를 모든 구성원이 수신하지 않음
 

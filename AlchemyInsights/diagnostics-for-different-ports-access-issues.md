@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9035"
 - "9005220"
-ms.openlocfilehash: 3673067cad7ac55f3820422dc2ec09942c393149
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 07c108d5292965d20340da039b67744d93c0a4fc61edb8115796671f2f7f1552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897875"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030908"
 ---
 # <a name="diagnostics-for-different-ports-access-issues"></a>다양한 포트 액세스 문제에 대한 진단
 
