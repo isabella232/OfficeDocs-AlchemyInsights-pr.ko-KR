@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10023"
 - "9003951"
-ms.openlocfilehash: f6cc65325b789178bd39fb0dd1896c3d5f0412f1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 94b51c24ec183bf99b2556c7b89df3e2059026d71352c3eec67ff2cfc0cf31fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816040"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965719"
 ---
 # <a name="create-custom-microsoft-surface-operating-system-images"></a>사용자 지정 Microsoft Surface 운영 체제 이미지 만들기
 

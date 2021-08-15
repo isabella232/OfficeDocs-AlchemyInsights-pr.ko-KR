@@ -14,12 +14,12 @@ ms.custom:
 - "4503"
 - "9002471"
 - "4818"
-ms.openlocfilehash: f5b3f6aaaeef8931ef04c61baedde02ff35679b6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 55f420ce477e4c22eba15e3eccd0db8647c17d29e20ccf39ee01f62f151db5c9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993575"
 ---
 # <a name="get-support-with-microsoft-365"></a>Microsoft 365 지원 받기
 
