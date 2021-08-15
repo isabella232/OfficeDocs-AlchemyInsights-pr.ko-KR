@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6027"
 - "9001464"
-ms.openlocfilehash: 5eb18f4133aca93c1506f4975c8d0567bede8d57
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 53a9cd64caecc43595d4a9f6ae37a5838a98896e141acec999bf9980e8a365f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543691"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033320"
 ---
 # <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Microsoft Defender ATP 검색에 대한 예외 구성
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5669"
-ms.openlocfilehash: 29ee4191464e70164795ff4049597b25b794f8d7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 591b86ac2619fca8e43447ef370f53de11978ff8e97b430cb0af3eec413729e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829778"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026336"
 ---
 # <a name="migration-manager-faq"></a>마이그레이션 관리자 FAQ
 

@@ -14,30 +14,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: a00b419a8feaebe7d0f5f0bd1a1e1d9bd9da76d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680105"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005528"
 ---
 # <a name="delete-a-profile"></a>프로필 삭제
 
-프로필을 삭제 하려면 다음 단계를 사용 합니다.
+프로필을 삭제하려면 다음 단계를 수행합니다.
   
-1. Outlook에서 **파일** \> **계정 설정을** 선택 하 여 \> **프로필을 관리**합니다.
+1. 다음 Outlook **파일** 계정 또는 \> **프로필 설정** \> **를 선택합니다.**
 
-2. **프로필 보기**를 선택 합니다.
+2. 프로필 **표시를 선택합니다.**
 
-3. **메일** 대화 상자에서 삭제 하려는 프로필을 선택 하 고 **제거**를 클릭 합니다.
+3. 메일 **대화** 상자에서 삭제할 프로필을 선택한 다음 제거를 **클릭합니다.**
 
     > [!NOTE]
-    > 프로필을 삭제 하면 오프 라인 데이터가 제거 됨을 알리는 경고 메시지가 표시 될 수 있습니다. Outlook 데이터 파일 (.pst)에 저장 된 정보나 온라인 계정에 저장 된 모든 정보 (예: Outlook.com, Exchange 또는 Microsoft 365 계정)는 손실 되지 않습니다.
+    > Outlook 삭제하면 오프라인 데이터가 제거될 수 있습니다. Outlook.pst(데이터 파일) 또는 온라인 계정에 저장된 정보(예: Outlook.com, Exchange 또는 Microsoft 365 계정에 저장된 정보는 손실되지 않습니다.
   
-**Mac 용 outlook** 프로필 관리에 대해서는 [outlook for mac에서 프로필 또는 id 관리](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) 또는 다음 단계를 참조 하세요.
+For **Outlook for Mac** profile management, see Manage [profiles or identities in Outlook for Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) or use the following steps.
   
 1. Finder에서 **응용 프로그램** 폴더를 엽니다.
 
-2. Ctrl 키를 누른 상태에서 **Microsoft Outlook**을 클릭 하거나 마우스 오른쪽 단추로 클릭 한 다음 **패키지 콘텐츠 표시**를 선택 합니다.
+2. **Microsoft Outlook** 을 Ctrl + 클릭 또는 오른쪽 클릭한 다음 **패키지 내용 보기** 를 선택합니다.
 
-3. **콘텐츠** \> **공유 지원을**선택한 다음 **Outlook 프로필 관리자**를 실행 합니다.
+3. 콘텐츠 **공유 지원** 을 선택한 다음 프로필 \>  **관리자에서 Outlook 실행합니다.**

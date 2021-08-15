@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9787"
 - "9005401"
-ms.openlocfilehash: deeb46260003c855e9c51d09dbd053d0461948ba
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 32a940622bea3d687221f5a9dd0b94015978b8ed2b871b0851baa8bdb0fa5357
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897870"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982559"
 ---
 # <a name="personalize-your-lock-screen-in-windows-10"></a>Windows 10에서 잠금 화면 개인 설정
 
@@ -40,4 +40,4 @@ ms.locfileid: "50897870"
 
 1. **로그인 화면에서 잠금 화면 배경 그림 표시** 가 켜져 있는지 확인합니다.
 
-1. **설정** 으로 돌아가서 **개인정보** 를 선택합니다. **배경 앱** 을 선택하고. **배경에서 앱 실행** 이 선택되었는지 확인합니다.
+1. **설정** 으로 돌아가서 **개인 정보** 를 선택합니다. **백그라운드 앱** 을 선택하고 **백그라운드에서 앱 실행 허용** 이 선택되어 있는지 확인합니다.

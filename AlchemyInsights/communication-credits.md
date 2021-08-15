@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: a8e2fe0502f21286ebe3b272ed33e0eafb10632c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ad38513dbb177d36df1164a316710b5f6bfe79bfdeb694fe04b6df9ff4949f20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966475"
 ---
 # <a name="communication-credits"></a>통신 크레딧
 

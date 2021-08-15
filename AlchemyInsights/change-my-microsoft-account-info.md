@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002956"
 - "5658"
-ms.openlocfilehash: bdd265a526b484330f81730b222bd388e867409f
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 48f82edcc8cb0d948a4f3055ed34f764f6d2eef5c5a82e5bc87d50993825704d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543079"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017873"
 ---
 # <a name="change-my-microsoft-account-information"></a>Microsoft 계정 정보 변경
 

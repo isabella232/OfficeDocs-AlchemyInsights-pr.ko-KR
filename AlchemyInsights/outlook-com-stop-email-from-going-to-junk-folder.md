@@ -1,5 +1,5 @@
 ---
-title: Outlook.com의 정크 메일 폴더로 이동 하지 못하도록 메시지를 중지 합니다.
+title: Outlook.com의 정크 메일 폴더로 메시지가 Outlook 중지
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6e10fb27472c770bb9530a20d86fd0ec1d3cb0dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c4d223d25e77562b60c516a149183aab83444d011a504f71424479792c97cfa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041124"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>정크 메일 폴더로 이동 하지 못하도록 메시지를 중지 합니다.
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>정크 메일 폴더로 메시지가 전송하지 못하게 중지
 
-Outlook.com의 정크 메일 폴더에 있는 전자 메일 메시지가 정크 메일이 아니면 다음과 같이 진행 되는 것을 알 수 있습니다.
+Outlook.com의 정크 메일 폴더에 있는 전자 메일 메시지가 정크 메일이 아님을 발견하면 다음을 확인합니다.
 
-1. [정크 메일 폴더](https://outlook.live.com/mail/junkemail)를 엽니다.
-1. 메시지를 선택 합니다. (*참고:* 정크 메일 폴더의 항목은 30 일 후에 삭제 됩니다.)
-1. 메시지 목록 **위의 정크**  >  **메일 아님**을 선택 합니다.
+1. 정크 메일 [폴더 를 열 수 있습니다.](https://outlook.live.com/mail/junkemail)
+1. 메시지를 선택합니다. *(참고:* 정크 메일 폴더의 항목은 30일 후에 삭제됩니다.)
+1. 메시지 목록 위에서 정크 **메일 아님**  >  **을 선택합니다.**
 
-보낸 사람의 메시지가 정크 메일 폴더로 이동 하지 않도록 하려면 수신 허용-보낸 사람 목록에 보낸 사람을 추가 합니다.
+보낸 사람이 보낸 메시지가 정크 메일 폴더로 전송되지 않도록 방지하려는 경우 수신이 가능한 보낸 사람 목록에 보낸 사람 목록을 추가합니다.
 
-1. [정크 메일 설정을](https://go.microsoft.com/fwlink/?linkid=2035804)엽니다.
-1. **수신 허용-보낸 사람 및 도메인**에서 **추가**를 선택 하 고 추가 하려는 전자 메일 주소 또는 도메인을 입력 한 다음 **저장**을 선택 합니다.
+1. 정크 메일 [설정 을 열 수 있습니다.](https://go.microsoft.com/fwlink/?linkid=2035804)
+1. 보낸 **금고** 도메인에서 **추가를** 선택하고 추가하려는 전자 메일 주소 또는 도메인을 입력하고 저장을 **선택합니다.**
 
-자세한 내용을 보려면 [전자 메일을 정크로 표시 또는 Outlook.com에서 보낸 사람 차단](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)를 참조 하세요.
+자세한 내용은 Outlook.com에서 전자 메일을 정크 메일로 표시 또는 보낸 [사람 차단을 읽어야 합니다.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)

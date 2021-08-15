@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001216"
 - "3188"
-ms.openlocfilehash: 17b565a6034e2687a1733fa53d988a83df2e3b95
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 33135ddab5d75df2de59cab058a439c6fc80af760a4b48260b2c67cda8c1af99
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831776"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026480"
 ---
 # <a name="migrating-to-microsoft-intune"></a>Microsoft Intune으로 마이그레이션
 

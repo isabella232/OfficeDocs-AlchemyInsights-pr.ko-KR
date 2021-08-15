@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 87738a913841908e3d0075fb9aa2aacea1db0d70
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: defba7a3408ad86d4a74892124380f1a689cb88248e3443a6ba45e040bbe11a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018038"
 ---
 # <a name="change-my-language"></a>내 언어 변경
 
-Outlook 앱은 디바이스가 설정된 언어로 자동 번역됩니다. 
+앱 Outlook 디바이스가 설정된 언어로 자동 번역됩니다. 
 
-(Outlook에서 지원되는 언어 [목록을 참조하세요.)](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated) 
+(에서 [지원되는](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated)언어 Outlook 참조) 
 
 **장치에서 언어를 변경하려면**: 
 
 **Android에서**: 
 
-- 언어 및 > 장치 설정 
+- 장치 설정 > 언어 및 입력 
 
 **iOS에서**: 
 
-- 일반 > 언어 > > 설정 & 설정 
+- Device 설정 > General > Language & Region 

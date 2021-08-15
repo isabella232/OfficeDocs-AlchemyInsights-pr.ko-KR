@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8c7d1d384548beef56dda7fb5793e66daf15d68fa6d27999b09a6321579dfff6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818942"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017822"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>로컬 계정 또는 Microsoft 계정의 이름 변경
 
-사용자 이름과 암호만 사용하여 Windows 10에 로그인하는 경우 로컬 계정을 사용하고 있습니다. 
+사용자 이름과 암호만 사용하여 사용자 이름과 암호만 Windows 10 로컬 계정을 사용하고 있는 것입니다. 
 
 **로컬 계정의 이름을 변경하려면**:
 
@@ -37,7 +37,7 @@ ms.locfileid: "51818942"
 
 **Microsoft 계정 표시 이름을 변경하려면**:
 
-계정에 로그인할 때마다 표시 이름을 사용하게 됩니다. 또한 Windows 10 디바이스에 표시하는 이름과 전자 메일을 보낼 때 사람들이 볼 수 있는 이름입니다. 이 이름은 로컬 계정의 표시 이름과 다를 수 있습니다. 표시 이름을 변경하는 방법에는 다음이 있습니다.
+계정에 로그인할 때마다 표시 이름을 사용하게 됩니다. 또한 이 이름은 Windows 10 장치에서 볼 수 있으며, 전자 메일을 보낼 때 사람들이 볼 수 있는 이름입니다. 이 이름은 로컬 계정의 표시 이름과 다를 수 있습니다. 표시 이름을 변경하는 방법에는 다음이 있습니다.
 
 1. Microsoft 계정 웹 사이트의 사용자 **정보** 페이지에 [로그인합니다.](https://account.microsoft.com/)
 

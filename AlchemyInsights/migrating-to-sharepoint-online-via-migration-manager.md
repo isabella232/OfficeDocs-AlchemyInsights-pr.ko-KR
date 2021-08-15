@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: 9826af8b1869f058fecd3a5d17bf5919fffedc14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0c999e4df2cadcefc19f50bc4be377c09c4ff2921819d6d002c5bd223b7719b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674476"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026408"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>마이그레이션 관리자를 통해 SharePoint Online으로 마이그레이션
 

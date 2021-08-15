@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736989"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994871"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>ClientAccessServerEnabled를 True로 설정
 
@@ -27,9 +27,9 @@ ms.locfileid: "50736989"
 1. Exchange Online PowerShell에 연결합니다.
 
 > [!NOTE]
-> Exchange Online PowerShell에 연결하려면 전역 관리자 또는 Exchange 관리자 계정을 사용하여 로그인해야 합니다.
+> PowerShell에 Exchange Online 전역 관리자 또는 관리자 계정을 사용하여 Exchange 합니다.
 
-   a. 다음 Windows PowerShell 열고 다음 명령을 실행합니다. `$UserCredential = Get-Credential`
+   a. 다음 Windows PowerShell 열고 다음 명령을 실행합니다.`$UserCredential = Get-Credential`
 b. 자격 **증명 Windows PowerShell** 대화 상자에 직장 또는 학교 계정과 암호를 입력합니다. c. **확인** 을 클릭합니다. 
 
 2. 다음 명령을 실행하여 새 세션을 만들 수 있습니다.
@@ -49,5 +49,5 @@ b. 자격 **증명 Windows PowerShell** 대화 상자에 직장 또는 학교 �
 > [!TIP]
 > 항상 다음 명령을 사용하여 powershell 세션을 닫습니다. `Remove-PSSession $Session`
 
-자세한 내용은 [Exchange Online PowerShell 을 참조하세요.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
+자세한 내용은 [PowerShell Exchange Online 참조하세요.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
 
