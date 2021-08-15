@@ -10,25 +10,25 @@ localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d24696b63663c69b22c783072141af62ecf124dba7b49bca827381f39f88640e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031988"
 ---
 # <a name="creating-aip-label-policies"></a>AIP 레이블 정책 만들기
 
-AIP (Azure Information Protection) 레이블은 조직에서 일반적으로 개인 데이터의 가장 낮은 분류에서 높은 기밀 데이터를 분류 하는 데 사용 하는 전체 데이터 범위와 함께 사용할 수 있습니다. Azure Information Protection 정책은  [aip](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)(Azure information protection) 클래식 클라이언트에 적용 되 고 이러한 클라이언트에는 해당 정보가 없습니다. 다음과 같은 옵션을 포함 하 여 AIP 정책에서 여러 요소를 구성할 수 있습니다.
+AIP(Azure Information Protection) 레이블은 조직에서 일반적으로 가장 낮은 개인 데이터 분류에서 높은 기밀 데이터의 최고 분류에 따라 만들어 저장하는 전체 데이터와 함께 사용할 수 있습니다. Azure Information Protection 정책은 AIP(Azure Information Protection) 클래식 클라이언트에 적용되고 AIP 통합 레이블 지정 클라이언트는 [적용되지 않습니다.](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) 다음과 같은 옵션을 포함하여 AIP 정책에서 여러 요소를 구성할 수 있습니다.
 
-- 관리자 또는 사용자 분류 및 보호 (선택 사항) 문서 및 전자 메일을 허용 하는 레이블을 지정 하는 옵션
-- 사용자가 문서를 저장 하 고 전자 메일을 보낼 때 분류를 적용 하는 옵션
-- 전자 메일 메시지에 첨부 파일을 사용 하 여 자동으로 레이블을 지정 하는 옵션입니다.
-- Office 응용 프로그램에 정보 보호 표시줄을 표시할지 여부를 제어 하는 옵션
+- 관리자 또는 사용자가 문서 및 전자 메일을 분류하고 보호할 수 있는 레이블 옵션
+- 사용자가 문서를 저장하고 전자 메일을 보낼 때 분류를 적용하는 옵션
+- 첨부 파일에 따라 전자 메일 메시지에 자동으로 레이블을 지정하는 옵션입니다.
+- Office 응용 프로그램에 정보 보호 표시줄이 표시되는지 여부를 제어하는 옵션
 
-Azure Information Protection 정책에 대 한 추가 옵션 및 정보는 [Azure Information protection Policy 개요](https://docs.microsoft.com/azure/information-protection/overview-policy)를 참조 하세요.  
+Azure Information Protection 정책에 대한 추가 옵션 및 정보는 Azure Information Protection 정책 [개요를 참조하세요.](https://docs.microsoft.com/azure/information-protection/overview-policy)  
 
-기타 IP 정책과 관련 된 기타 유용한 리소스에 대해서는 다음을 참조 하십시오.
+AIP 정책에 대한 다른 유용한 리소스는 다음을 참조합니다.
 
 - [자습서: Azure Information Protection 정책 설정을 구성 후 새 레이블 만들기](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
 - [Azure Information Protection 정책 구성](https://docs.microsoft.com/azure/information-protection/configure-policy)  

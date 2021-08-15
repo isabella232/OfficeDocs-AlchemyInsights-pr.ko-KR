@@ -13,15 +13,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: ee2a441a0642548fe0c4ad812020be4ab3c332b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db534de825d9b77882d4b37396b266ba6a28e49d4287ab1555500b4e54d8c10b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969303"
 ---
 # <a name="become-an-admin"></a>관리자 되기
 
-조직에 대 한 관리자 역할을 가정 하려면 테 넌 트를 수행 해야 합니다.
+조직에 대한 관리자 역할을 가정하려면 테넌트의 역할을 맡아야 합니다.
   
-이 가이드의 지침을 따르세요: [Admin 인수](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)
+이 가이드의 지침을 따릅니다. [관리자 인계](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)

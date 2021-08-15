@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006449"
 - "10990"
-ms.openlocfilehash: c399ec2da01a5647bc9ecd5ced0a88649a7bb3d5
-ms.sourcegitcommit: b78efb0f182395eb94f464f5367367a0db7f0a30
+ms.openlocfilehash: 8e0181f99bda7b9be7a5a284aac161df0f26d02bc446bf577329ccb7cee39341
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52077678"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976187"
 ---
 # <a name="microsoft-edge-manual-sign-in"></a>Microsoft Edge 수동 로그인
 

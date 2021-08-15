@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 27c08c071b2feb8458f03d2b01017a6c348111a3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 898f1fcd189e2656dbdb9921f0c34a5d30976ac210766ca28284c455053dae50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736594"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016814"
 ---
 # <a name="learn-about-or-troubleshoot-sensitivity-labels"></a>민감도 레이블에 대한 자세한 내용을 보거나 문제 해결
 

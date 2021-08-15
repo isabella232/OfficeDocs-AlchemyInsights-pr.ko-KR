@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12064"
 - "9006408"
-ms.openlocfilehash: e75feb99bfc34e27929fb4c1120f4b932b42ef8d
-ms.sourcegitcommit: 34cf91e5a1063154e9ad37bfb99e81cefd7a1b54
+ms.openlocfilehash: 31924446f76ae8354773c8608968dca4ff3e24cf389f95ad02713e601fb7ff47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53111204"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986933"
 ---
 # <a name="issues-related-to-office-scripts"></a>Office 스크립트와 관련된 문제
 

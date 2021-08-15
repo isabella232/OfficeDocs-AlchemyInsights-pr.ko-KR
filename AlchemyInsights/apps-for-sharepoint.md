@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5796"
-ms.openlocfilehash: 32706420d15eb1cffa4b5e35bb836ff0b93d67df
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0857bd2476a1c08a940477a43865fad4aa02623faa4073f0b40f8ca5ecaed0e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821228"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969355"
 ---
 # <a name="install-sharepoint-apps"></a>SharePoint 앱 설치
 

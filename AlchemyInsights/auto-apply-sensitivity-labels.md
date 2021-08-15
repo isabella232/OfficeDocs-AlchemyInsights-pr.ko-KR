@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707240"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969302"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>민감도 레이블 자동 적용
 
@@ -32,7 +32,7 @@ ms.locfileid: "50707240"
 
 향후에는 Azure Information Protection 통합 레이블 클라이언트가 필요하지 않은 기본 지원을 위해 작업 중입니다.
 
-현재 Windows만 통합 레이블 클라이언트를 지원하고 있습니다.  이 기능은 Mac, iOS 및 Android에서 아직 지원되지 않습니다.
+현재는 통합 Windows 클라이언트만 지원됩니다.  이 기능은 Mac, iOS 및 Android에서 아직 지원되지 않습니다.
 
 민감도 레이블에 대한 자세한 내용을 보고 콘텐츠에 자동으로 적용하는 경우 다음을 참조하세요.
 
