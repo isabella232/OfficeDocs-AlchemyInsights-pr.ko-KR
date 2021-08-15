@@ -1,5 +1,5 @@
 ---
-title: 비공개 Teams
+title: 개인 Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6258"
-ms.openlocfilehash: 84881abe0951eea2ae1e8e45c05fdb0977f1c285
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f92bd97ecf3145b4d27f14fdd788f7f83ddffb827871af3894aec78ba30f6a48
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835997"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960265"
 ---
-# <a name="managing-discovery-of-private-teams"></a>비공개 Teams의 검색 관리
+# <a name="managing-discovery-of-private-teams"></a>개인 데이터 검색 Teams
 
 **새 팀**
 
@@ -29,4 +29,4 @@ ms.locfileid: "51835997"
 
 팀 소유자는 팀 설정에서 직접 기존 비공개 팀에 대한 검색 설정을 설정할 수 있으며 관리자는 PowerShell을 사용하여 검색할 수 있습니다.  
 
-자세한 내용은 [Microsoft Teams에서 비공개 팀 검색 관리를 참조하세요.](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams)
+자세한 내용은 Manage [discovery of private teams in Microsoft Teams.](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams)
