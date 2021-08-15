@@ -11,12 +11,12 @@ ms.assetid: ''
 ms.custom:
 - "1300007"
 - "4372"
-ms.openlocfilehash: 48303d5b408cbdb243ec45dc4c80ac9a83f273a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d2b97175049bd9732b7444b029f7ea8610c3d5a2c02878ec5f20ded916baadd5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689528"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991145"
 ---
 # <a name="unexpected-multi-factor-authentication"></a>예기치 않은 다단계 인증
 
@@ -28,6 +28,6 @@ ms.locfileid: "47689528"
 
 2. [Azure Active Directory 속성](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties)으로 이동합니다.
 
-3. 페이지 맨 아래에서 **보안 기본값 관리**를 클릭합니다.
+3. 페이지 맨 아래에서 **보안 기본값 관리** 를 클릭합니다.
 
-4. 보안 기본값을 사용하도록 설정하려면 **예**를 클릭하고 사용하지 않도록 설정하려면 **아니요**를 클릭합니다.
+4. 보안 기본값을 사용하도록 설정하려면 **예** 를 클릭하고 사용하지 않도록 설정하려면 **아니요** 를 클릭합니다.

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5634"
-ms.openlocfilehash: a6597a0665b165eafe92baca99b0061111f333e6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ec30beaade3de09b5ffa5c01a3e928fd9fd9f0447790ad22c98848271f11235
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001118"
 ---
 # <a name="why-cant-i-edit-this-file"></a>해당 파일을 편집할 수 없는 이유가 무엇인가요?
 

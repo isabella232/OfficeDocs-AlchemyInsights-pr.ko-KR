@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000210"
 - "4836"
-ms.openlocfilehash: eca087369f8cf879a27d713da3e8e190aaf34eb9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e018f80fdd69205fc13f06228df30d145fc5a5287c9795e986e96cdee3e7a67c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809409"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991253"
 ---
 # <a name="restore-deleted-sites"></a>삭제된 사이트 복원
 
-삭제 된 사이트는 93일간 보존 됩니다. 93 일이 지나면 목록, 라이브러리, 페이지, 모든 하위 사이트를 포함 한 사이트와 해당 콘텐츠 및 설정이 영구적으로 삭제 됩니다.
+삭제된 사이트는 93일 동안 보존됩니다. 93일이 지나면 목록, 라이브러리, 페이지, 모든 하위 사이트를 포함 한 사이트와 해당 콘텐츠 및 설정이 영구적으로 삭제됩니다.
 
 - 자세한 내용은 [삭제 된 사이트 복원](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)을 참조 하세요.

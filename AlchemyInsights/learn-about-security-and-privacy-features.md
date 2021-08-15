@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9216"
 - "9005302"
-ms.openlocfilehash: 52352ba70067d026b1d5f1c1abdbb097bab3283a
-ms.sourcegitcommit: 3fb39a080cc8680d960b8468ac9355389a3e2df4
+ms.openlocfilehash: 7d71d5ce6ef6e11474fb3eeb6a5da329e150c8ff65834485a33ebdb743fa6db4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50753410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001226"
 ---
 # <a name="learn-about-the-security-and-privacy-features-of-microsoft-search-in-bing"></a>Bing의 Microsoft Search 보안 및 개인 정보 보호 기능에 대한 자세한 정보
 

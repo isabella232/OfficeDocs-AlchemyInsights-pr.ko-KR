@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "10872"
-ms.openlocfilehash: 47fc51f9742964175c826e6e1fb1bca87e6cf71b
-ms.sourcegitcommit: 254b25150fa326628084d08479b0e7dd8b7d479a
+ms.openlocfilehash: ac939a251e0fb9701e5415b4807397e470b0f9001f8559e94fa089dcdb5697f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51590289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001302"
 ---
 # <a name="key-capabilities-of-windows-virtual-desktop"></a>Windows Virtual Desktop의 주요 기능
 

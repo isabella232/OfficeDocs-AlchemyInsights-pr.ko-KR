@@ -1,5 +1,5 @@
 ---
-title: 콘텐츠 검색에 대한 보고서를 내보내기 위한 팁
+title: 팁 검색에 대한 보고서 내보내기
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464810"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978887"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>콘텐츠 검색에 대한 보고서를 내보내기 위한 팁
+# <a name="tips-for-exporting-a-report-for-content-search"></a>팁 검색에 대한 보고서 내보내기
 
 전체 검색 결과를 내보내는 대신 콘텐츠 검색 보고서를 보아야 할 수 있습니다. 그렇다면 검색 결과 보고서만 내보낼 수 있습니다. 다음 팁을 참조하세요.
 

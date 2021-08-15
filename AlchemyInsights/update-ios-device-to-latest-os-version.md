@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1124"
 - "6700007"
-ms.openlocfilehash: ee2fb1df35168d5febbac0ae302106eef9d1d18d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd796440a0d4bedc83b99e83e92eece6f62f81cc8d346cd88d19de34221046db
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757630"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991181"
 ---
 # <a name="update-ios-device-to-latest-os-version"></a>iOS 장치를 최신 OS 버전으로 업데이트
 
@@ -31,5 +31,5 @@ ms.locfileid: "47757630"
 iOS를 업데이트하려면 다음을 수행합니다.
 
 1. Azure 포털에 로그인합니다.
-2. **모든 서비스** > **Intune**을 선택합니다.
-3. Intune 창에서**소프트웨어 업데이트** > **iOS에 대한 정책 업데이트**를 선택합니다.
+2. **모든 서비스** > **Intune** 을 선택합니다.
+3. Intune 창에서 **소프트웨어 업데이트** > **iOS에 대한 정책 업데이트** 를 선택합니다.

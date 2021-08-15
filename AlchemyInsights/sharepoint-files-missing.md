@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11392"
 - "9006699"
-ms.openlocfilehash: 28f2ebfca4553d9e039c38d22b3c194cf7e65094
-ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
+ms.openlocfilehash: 85223f07233e69604ea453682d3433966fc7ee908b59b9a716d9ba99950c9e62
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "52689988"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023132"
 ---
 # <a name="sharepoint-files-are-missing"></a>SharePoint 파일이 누락되었습니다.
 
