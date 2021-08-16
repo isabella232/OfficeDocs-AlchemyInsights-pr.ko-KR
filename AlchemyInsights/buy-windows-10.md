@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9571"
 - "9005543"
-ms.openlocfilehash: 12d94b4b5eed7a81aaf3225ef0b5716fcb64ebe0
-ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
+ms.openlocfilehash: b15c5a525c05e211d98d41c98153592f56f45f701809a036610d56e60cff9daa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52702368"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996456"
 ---
 # <a name="how-to-buy-a-copy-of-windows-10"></a>Windows 10 복사본을 구입하는 방법
 

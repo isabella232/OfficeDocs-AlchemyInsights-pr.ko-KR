@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 3c9bf956624775c394534ab150d39193e5e10144
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: d8ef9f22e495feba26ecc1d3e21b996b199cbe16c6d3fdbf8e2e50893fe15942
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027200"
 ---
 # <a name="microsoft-graph-rest-api-interface"></a>Microsoft Graph REST API 인터페이스
 
-V 1.0 끝점에 대 한 Graph API 집합은 GA (일반 가용성) 상태 이며, 고객 들이 실질적인 프로덕션 요구 사항을 충족 하는 엄격한 검토 및 피드백 프로세스를 통해 제공 되었습니다.
+v1.0 끝점의 Graph API 집합은 GA(일반 공급) 상태이며 실용적인 프로덕션 요구를 충족하기 위해 고객과 엄격한 검토 및 피드백 프로세스를 거쳤습니다.
 
-- Graph API v 1.0에 대 한 자세한 내용은 [Microsoft GRAPH REST API v 1.0 reference](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0)를 참조 하세요. 
-- Graph API 베타 버전에 대 한 자세한 내용은 [Microsoft Graph beta endpoint reference](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta)를 참조 하십시오.
+- API v1.0의 Graph 자세한 내용은 Microsoft Graph [REST API v1.0 참조를 참조하세요.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0) 
+- API 베타 버전에 대한 Graph 자세한 내용은 Microsoft Graph [베타 끝점 참조를 참조하세요.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta)
 
-Microsoft Graph에 대 한 자세한 내용은 [Microsoft graph 설명서](https://docs.microsoft.com/graph/)를 참조 하십시오.
+Microsoft Graph 자세한 내용은 Microsoft Graph [설명서를 참조하세요.](https://docs.microsoft.com/graph/)
 
 

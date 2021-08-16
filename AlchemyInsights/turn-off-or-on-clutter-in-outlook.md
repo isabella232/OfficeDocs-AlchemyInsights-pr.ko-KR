@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4853"
-ms.openlocfilehash: b945b76052b601dfead92ce098a78442f9989139
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e455aab9c1165d53285fa9ccb8c735aa37c214c00633f3b5640a2583dee53226
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834593"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038631"
 ---
 # <a name="turn-off-or-on-clutter-in-outlook"></a>Outlook에서 낮은 우선 순위 메일 해제 또는 설정
 

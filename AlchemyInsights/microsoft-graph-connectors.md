@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5910"
 - "9003123"
-ms.openlocfilehash: c2abbc23236ce4a4c232a5e96b36d9322c0e255d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 923ee836685f838aa128fd62c32b35b169f11517e16f010621e96a88a3b00afd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724909"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027308"
 ---
 # <a name="microsoft-graph-connectors"></a>Microsoft Graph 커넥터
 
@@ -27,4 +27,4 @@ Microsoft Graph 커넥터를 사용하여 조직은 Microsoft 검색 결과에 �
 - [Microsoft의 커넥터](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
 - [당사 파트너의 커넥터](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
 
-자세한 내용은  [Microsoft Graph 커넥터 개요](https://docs.microsoft.com/microsoftsearch/connectors-overview)를 참조 하세요.
+자세한 내용은 Microsoft Graph [커넥터 개요를 참조하세요.](https://docs.microsoft.com/microsoftsearch/connectors-overview)

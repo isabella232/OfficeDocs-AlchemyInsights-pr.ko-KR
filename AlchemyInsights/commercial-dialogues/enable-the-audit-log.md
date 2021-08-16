@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: d92d44d7c4b926eebb231e7ea1fcb90010482c72
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8159c7750c487a19c58c863d39efce22ad7faecaa44376a2592eb9d3ff6d233a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736757"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988409"
 ---
 # <a name="enable-the-audit-log"></a>감사 로그 사용
 
-커뮤니케이션 규정 준수를 위해서는 경고를 표시하고 검토자에 의해 수행된 수정 작업을 추적하기 위한 감사 로그가 필요합니다. 감사 로그는 통신 준수 정책이 변경되는 경우를 포함하여 정의된 조직 정책과 연결된 모든 활동을 요약한 것입니다. 감사 로깅을 켜는 경우:
+커뮤니케이션 규정 준수를 수행하려면 감사 로그가 경고를 표시하고 검토자가 수행한 교정 작업을 추적해야 합니다. 감사 로그는 통신 준수 정책이 변경되는 경우를 포함하여 정의된 조직 정책과 연결된 모든 활동을 요약한 것입니다. 감사 로깅을 켜는 경우:
 
 1. 보안 및 [& 센터에서](https://go.microsoft.com/fwlink/?linkid=2101341)검색 감사 로그   >  **검색으로 이동 합니다.**
 2. 감사 **켜기 를 선택합니다.**
