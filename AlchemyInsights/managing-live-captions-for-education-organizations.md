@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0779f486e1b1d5099bd97bea4ca2ff187fd44c985060507b33cb00a1c6c1d4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812769"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066703"
 ---
 # <a name="managing-live-captions-for-education-organizations"></a>교육 조직의 실시간 캡션 관리
 
-교육 기관 관리자는 학생 및 교육자 안전과 교육자를 위한 정책 패키지를 사용할 것을 권장합니다. 자세한 내용은 다음을 참조하시기 바랍니다.  
+교육 기관 관리자는 학생 및 교육자 안전과 교육자를 위한 정책 패키지를 사용할 것을 권장합니다. 자세한 내용은 다음을 참조하세요.  
 
 - [Microsoft Teams의 정책 패키지](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)  
     

@@ -14,12 +14,12 @@ ms.custom:
 - "5676"
 - "9000292"
 - "5680"
-ms.openlocfilehash: 551fc98b2b2053811a3b282edd03d6245ed7df26
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ba373dc3a21e75870e30f6dd3fd60223738aab7b72e721cf7a1067aa69d829ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814928"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030719"
 ---
 # <a name="document-library-faq"></a>문서 라이브러리 FAQ
 
@@ -35,7 +35,7 @@ ms.locfileid: "51814928"
 - [문서 라이브러리에서 폴더, 파일 또는 링크 이동 또는 복사하기](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc)
 - [목록 또는 라이브러리의 버전 관리 설정 및 구성하기](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)
 - [SharePoint에서 대규모 목록 및 라이브러리 관리하기](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-- [파일 체크아웃이 필요하도록 라이브러리 설정하기](https://support.microsoft.com/ko-KR/office/set-up-a-library-to-require-check-out-of-files-0c73792b-f727-4e19-a1f9-3173899e695b)
+- [파일 체크아웃이 필요하도록 라이브러리 설정하기](https://support.microsoft.com/en-us/office/set-up-a-library-to-require-check-out-of-files-0c73792b-f727-4e19-a1f9-3173899e695b)
 - [목록 또는 라이브러리의 보기 만들기, 변경하기 또는 삭제하기](https://support.office.com/article/create-change-or-delete-a-view-of-a-list-or-library-27ae65b8-bc5b-4949-b29b-4ee87144a9c9)
-- [목록 또는 라이브러리에서 열 만들기 또는 추가하기](https://support.microsoft.com/ko-KR/office/create-a-column-in-a-sharepoint-list-or-library-2b0361ae-1bd3-41a3-8329-269e5f81cfa2)
+- [목록 또는 라이브러리에서 열 만들기 또는 추가하기](https://support.microsoft.com/en-us/office/create-a-column-in-a-sharepoint-list-or-library-2b0361ae-1bd3-41a3-8329-269e5f81cfa2)
 - [관리되는 메타데이터 소개](https://docs.microsoft.com/sharepoint/managed-metadata)

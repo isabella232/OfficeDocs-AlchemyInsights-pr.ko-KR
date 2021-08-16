@@ -1,5 +1,5 @@
 ---
-title: DLP에 사용자 지정 형식이 필요할 수 있음
+title: DLP에 사용자 지정 유형이 필요할 수 있습니다.
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -13,31 +13,31 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 72b16d437f97de27cbdc364f022c3e2059b31ef0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b0beb89eaf8a4105659a1faa7cc723174a73940ef46bd2355bdddfee7b94adb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712190"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030800"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>DLP에 사용자 지정 형식이 필요할 수 있음
+# <a name="dlp-might-need-a-custom-type"></a>DLP에 사용자 지정 유형이 필요할 수 있습니다.
 
 **중요**: 이 시기에는 SharePoint Online 및 OneDrive 서비스를 항상 사용할 수 있도록 하는 단계를 진행하고 있습니다. 자세한 내용은 [SharePoint Online 임시 기능 조정](https://aka.ms/ODSPAdjustments)을 참조하세요.
 
-**DLP에는 사용자 지정 정보 유형이 필요할 수 있습니다.**
+**DLP에 사용자 지정 정보 유형이 필요할 수 있습니다.**
 
-DLP (데이터 손실 방지) 정책을 사용 하 여 조직에서 중요 한 데이터를 식별 하 고 보호할 수 있습니다. 일부 시나리오에서는 조직의 데이터를 보호 하기 위해 **사용자 지정** 중요 한 정보 유형을 직접 만들어야 할 수도 있습니다.
+DLP(데이터 손실 방지) 정책을 사용하면 조직의 중요한 데이터를 식별하고 보호할 수 있습니다. 일부 시나리오에서는 조직의 데이터를 보호하기  위해 사용자 지정 중요한 정보 유형을 직접 만들어야 할 수 있습니다.
 
-예를 들어 조직에서 조직의 특정 형식으로 직원 Id 또는 기타 데이터를 식별 하 고 보호 해야 할 수 있습니다. 이 경우 자세한 내용은 다음 문서를 참조 하세요.
+예를 들어 조직에서 조직에 특정한 형식의 직원 식별 및 보호를 해야 할 수 있습니다. 그렇다면 다음 문서를 참조하세요.
   
- **기본 제공 중요한 정보 유형 사용자 지정**
+ **기본으로 제공되는 중요한 정보 유형 사용자 지정**
   
-기본 제공 중요 한 정보 유형이 몇 가지 수단 만으로 요구 사항을 충족 하는 경우 [에는 기본 제공 중요 한 정보 유형을 사용자 지정할](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type)수 있습니다. 예를 들어 키워드를 추가 또는 제거 하거나, 날짜나 주소와 같은 지원 증거를 추가 하거나 제거할 수 있습니다.
+몇 가지 조정으로 기본 제공 중요한 정보 유형이 요구 사항을 충족하는 경우 기본 제공 중요한 정보 유형 을 사용자 지정할 [수 있습니다.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type) 예를 들어 키워드를 추가 또는 제거하거나 날짜 또는 주소와 같은 지원 증거를 추가하거나 제거할 수 있습니다.
   
  **사용자 지정 중요한 정보 유형 만들기**
   
-그러나 서로 다른 유형의 중요 한 정보를 식별 하 고 보호 해야 하는 경우에는 보안 & 준수 센터의 UI에서 [사용자 지정 중요 한 정보 유형을 만들](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) 수 있습니다.
+그러나 다른 유형의 중요한 정보를 모두 식별하고 보호해야 하는 경우 [](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) 보안 및 준수 센터의 UI에 사용자 지정 중요한 정보 유형을 & 있습니다.
   
 **보안 및 준수 센터 PowerShell에서 사용자 지정 중요한 정보 유형 만들기**
 
-마지막으로 UI가 필요한 모든 옵션을 제공 하지 않는 경우 [보안 & 준수 센터 PowerShell에서 사용자 지정 중요 한 정보 유형을 만들](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell)수 있습니다. XML 파일을 시작 하 여 사용 가능한 모든 옵션을 사용할 수 있습니다.
+마지막으로 UI가 필요한 모든 옵션을 제공하지 않는 경우 보안 및 준수 센터 [PowerShell에서](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell)사용자 지정 중요한 정보 유형을 & 수 있습니다. XML 파일로 시작하면 사용 가능한 모든 옵션을 사용할 수 있습니다.

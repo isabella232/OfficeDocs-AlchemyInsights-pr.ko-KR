@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 880002a3aba20d363e892a8adafcc9b469f9c748
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3d6bd0d9eb5cbb4ed35a19c453f255aba1c7de361278f113499364241c600675
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805649"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039504"
 ---
 # <a name="tile-errors"></a>타일 오류
 
-- "모델을 로드하는 동안 예상치 못한 오류가 발생했습니다." 나중에 다시 시도합니다.
+- "모델을 로드하는 동안 예기치 않은 오류가 발생했습니다." 나중에 다시 시도하세요.
 
-- "이 타일을 볼 수 있는 권한이 없습니다." 대시보드 소유자에게 문의합니다.
+- "이 타일을 볼 수 있는 권한이 없습니다." 대시보드 소유자에게 문의하세요.
 
-- "데이터 모양에는 데이터를 출력하는 하나 이상의 그룹 또는 계산이 포함되어야 합니다." 대시보드 소유자에게 문의합니다.
+- "데이터 셰이프에는 데이터를 출력하는 하나 이상의 그룹 또는 계산이 포함되어야 합니다." 대시보드 소유자에게 문의하세요.
 
 - "조회가 비어 있기 때문에 표시할 데이터가 없습니다." 필드 목록의 일부 필드를 시각적으로 추가한 다음 다시 인코딩합니다.
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11048"
 - "9000610"
-ms.openlocfilehash: cd50ebc8afaa5029211cf678c0db8cba21d23f6e
-ms.sourcegitcommit: 63d9b9444b459db48d3228c1c52cd1d92d3448ca
+ms.openlocfilehash: eeb89483842cddbfe849b0a3de9b90135261b5169d66f84731561868cf701fde
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52021996"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003539"
 ---
 # <a name="how-to-enabledisable-autosave"></a>자동 저장을 설정/해제하는 방법
 
