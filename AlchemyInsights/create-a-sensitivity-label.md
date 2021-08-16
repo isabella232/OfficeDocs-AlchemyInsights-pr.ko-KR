@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: 69beadfaaa9303ddb4b89d288da38b7f7f9a925c
-ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
+ms.openlocfilehash: eb584743a717246f761b9d9c3d40dd546e4b9630b852c70b45165edcc29e5859
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53532189"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032528"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>민감도 레이블을 만드는 방법
 

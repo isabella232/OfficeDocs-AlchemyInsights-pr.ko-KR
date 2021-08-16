@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: f528044ca7f6f2ee2812f9f831093c44eca26fe1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1386b97f804e63455094abf64b9d9e2541d57dafa36535813b0d7689e0ce2966
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032564"
 ---
 # <a name="control-access-to-public-folders-using-outlook"></a>Outlook을 사용하여 공용 폴더에 대한 액세스 제어하기
 

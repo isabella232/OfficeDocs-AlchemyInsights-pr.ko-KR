@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4de9a1baf12fad1de21af9c5739c1538e5ee7e176757fa8ce7586aa3a7f2b71f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002918"
 ---
-# <a name="enable-multi-factor-authentication"></a>Multi-factor authentication 사용
+# <a name="enable-multi-factor-authentication"></a>다단계 인증 사용
 
-Microsoft 365 관리 센터에서 multi-factor authentication을 사용 하도록 설정 하려면 다음을 수행 합니다.
+다음 설정에서 다단계 인증을 Microsoft 365 관리 센터.
 
-1. **사용자** \> **활성 사용자** 페이지로 이동 합니다.
+1. 사용자 활성 **사용자** \> **페이지로** 이동합니다.
     
-2. 페이지 맨 위에서 **다단계 인증**을 선택 합니다. 
+2. 페이지 위쪽에서 다단계 인증 **을 선택합니다.** 
     
-3. Multi-factor authentication을 사용 하도록 설정 하려는 사용자를 찾습니다. 모든 사용자를 보려면 맨 위에 **다단계 인증 상태** 필터를 변경 해야 할 수 있습니다.
+3. 다단계 인증을 사용하도록 설정할 사용자를 찾아야 합니다. 모든 사용자를 확인하려면 맨 위에 있는 **Multi-Factor Auth 상태** 필터를 변경해야 할 수 있습니다.
     
-4. 사용 하도록 설정 하려는 사용자 옆의 확인란을 선택 합니다.
+4. 사용하도록 설정할 사용자 옆에 있는 확인란을 선택합니다.
     
-5.  오른쪽 사용자 정보 창의 **빠른 단계**에서 **사용**을 선택 합니다. 
+5.  오른쪽 사용자 정보 창의 빠른 **단계에서** 사용 을 **선택합니다.** 
     
-6. 열리는 대화 상자에서 **다단계 인증 사용**을 선택 합니다. 
+6. 대화 상자가 열리면 다단계 인증 **사용 을 선택합니다.** 
     
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002939"
 - "5632"
-ms.openlocfilehash: 911485624b63f7827f8f2da68e201779779de745
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ad28cbcdf877f13131cae75f4b366a7403cda5455c79a7ce12a0ed0e484ba6d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992168"
 ---
 # <a name="move-the-taskbar-to-either-side-or-the-top-of-your-desktop"></a>작업 표시줄을 바탕 화면의 한쪽 측면이나 맨 위로 이동
 

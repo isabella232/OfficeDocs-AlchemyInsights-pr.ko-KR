@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003050"
 - "5793"
-ms.openlocfilehash: d70e3deb0067552cf97137862a1139fc9873f2c5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 37e21ada4c5a8d8fa5f59dd9434b725566b00f794da1f56f705e1b9d0b8cfa5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816818"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032708"
 ---
 # <a name="content-type-publishing"></a>콘텐츠 형식 게시
 

@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f991a1c02318fbf5ebc4c4449331939e4d06bb3c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 60a25c92b45e050893cc20545fc7a9b753c01009197b209c63e3bc56accf1e04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736541"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967843"
 ---
 # <a name="offboard-devices-from-microsoft-defender-advanced-threat-protection"></a>Microsoft Defender Advanced Threat Protection에서 장치 오프보드
 
-[Windows 10 장치](https://go.microsoft.com/fwlink/?linkid=2143629) 오프보드 또는 비 Windows 장치 [오프보드를 참조합니다.](https://go.microsoft.com/fwlink/?linkid=2143630)
+디바이스 Windows 10 오프보드 [또는](https://go.microsoft.com/fwlink/?linkid=2143629) 비보안 Windows [를 참조합니다.](https://go.microsoft.com/fwlink/?linkid=2143630)

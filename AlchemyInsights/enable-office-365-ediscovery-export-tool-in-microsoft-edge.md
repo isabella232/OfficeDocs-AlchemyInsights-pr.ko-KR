@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8225"
 - "9004596"
-ms.openlocfilehash: 62d78f806257e04adc8f0a599aed291c5bac0e0a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: a2d68405cb978d77e3c7d1ee6e6d479a4b83d63f7a544f935d2785aad3a77d69
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898160"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002774"
 ---
 # <a name="enable-the-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Microsoft Edge에서 Office 365 eDiscovery 내보내기 도구 사용
 
