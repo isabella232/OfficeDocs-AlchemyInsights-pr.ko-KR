@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11467"
 - "9006706"
-ms.openlocfilehash: 4630f640562b251a1f83138efbecb559e396d043
-ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
+ms.openlocfilehash: 39370c752cb2a163bfdc3b886394b37b028f4d96f514545e9d8c4fa292b10ad8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "52689955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069646"
 ---
 # <a name="configure-stay-signed-in-for-accounts"></a>계정에 대한 로그인 유지 구성
 
