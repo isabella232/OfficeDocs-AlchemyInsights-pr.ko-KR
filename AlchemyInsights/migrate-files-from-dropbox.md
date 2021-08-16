@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8002"
 - "5300030"
-ms.openlocfilehash: a9ca35432a152b33be46a7c42f47b924473d6897
-ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
+ms.openlocfilehash: 0180acbddc850691ea2626d4669844ff59bcefa70ed05fc412c3680cc179f22f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52774329"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065974"
 ---
 # <a name="migrate-files-from-dropbox"></a>Dropbox에서 파일 마이그레이션
 

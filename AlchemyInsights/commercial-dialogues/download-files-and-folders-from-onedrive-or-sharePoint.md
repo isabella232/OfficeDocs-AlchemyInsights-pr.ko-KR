@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: f2f4d458d30960d387fed158d718a963e72d4f3e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a08539f4fb9824b6ab020416cbade061e06c24ea3414078981e39c2c10f4beee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737883"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017390"
 ---
 # <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>OneDrive 또는 SharePoint에서 파일 및 폴더 다운로드
 

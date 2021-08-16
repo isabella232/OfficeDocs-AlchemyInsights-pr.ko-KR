@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: e76467c42ffb9583aff51a05ea8ceaadb265a8ac
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 7c2e9cab71f8db31808164570b98f49d89610a1114f0fe624b4e6295c2b5d86d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464863"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016634"
 ---
 # <a name="perform-an-ediscoverycontent-search-and-export"></a>eDiscovery/콘텐츠 검색 및 내보내기 수행
 

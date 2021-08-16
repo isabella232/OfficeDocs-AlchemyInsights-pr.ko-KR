@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1546"
 - "9000076"
-ms.openlocfilehash: cecbd091447e63f2d5012ceaf96e050c92a171e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78520b416a72a3c93a3d2e7726948d59f83e681d4f09078c2a3cefac7bf1db3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658992"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020810"
 ---
 # <a name="troubleshooting-client-authentication-certificate-deployment"></a>클라이언트 인증 인증서 배포 문제 해결
 
@@ -44,7 +44,7 @@ Internet Explorer를 시스템으로 실행하고 IE에서 프록시를 구성�
 
 **사용자 장치의 경우에는 NDES에서 더 이상 SCEP 인증서를 받을 수 없습니다.**
 
-NDES 서버에 발급되고 NDES 커넥터 설치 중에 지정된 클라이언트 인증 인증서가 만료되었거나 누락되었을 수 있습니다. 해결할 문제: 
+NDES 서버에 발급되고 NDES 커넥터 설치 중에 지정된 클라이언트 인증 인증서가 만료되었거나 누락되었을 수 있습니다. 문제를 해결하려면 다음을 수행하세요. 
  
 1. NDES 커넥터를 제거합니다.  
 2. 다음 세부 사항을 활용하여 새 클라이언트 인증 또는 서버 인증 인증서를 요청할 수 있습니다. 

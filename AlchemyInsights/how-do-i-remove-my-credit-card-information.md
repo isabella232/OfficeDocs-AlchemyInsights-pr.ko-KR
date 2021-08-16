@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, jamitche
+ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 08dba634869dd642eb1f4549dbce82cffe5f1f8a
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 138707a0c4d21dc089caa689fd3a385a56696fcc026dd89be2afaf069a1d2b73
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686352"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54503163"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>신용 카드 정보를 제거하려면 어떻게 하나요?
 

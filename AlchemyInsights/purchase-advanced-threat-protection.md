@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, drjones
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: 3ad512ae86f68fbaa05501c44de3428e4446e862
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: d1d0a481ee5d5803a5ff1205bc167bf301902cbdceccf0a6ceb8497ebc65e54a
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685560"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54503118"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 

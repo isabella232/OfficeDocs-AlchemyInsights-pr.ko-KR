@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "7600"
-ms.openlocfilehash: b467320d6c9dd0f9613752560b056028e864ee5b
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 610357684f0086b4de5813c2246acf00be36f5cb873a0fd1162b00fd0e57eb42
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066082"
 ---
 # <a name="microsoft-threat-experts"></a>Microsoft 위협 전문가
 
-Microsoft 위협 전문가는 끝점용 Microsoft Defender의 관리되는 위협 헌팅 서비스입니다.  We partner with your Security Operations Center to monitor, analyze, and support to identify and respond to critical threats in your unique environment.
+Microsoft 위협 전문가 Microsoft Defender for Endpoint의 관리되는 위협 헌팅 서비스입니다.  We partner with your Security Operations Center to monitor, analyze, and support to identify and respond to critical threats in your unique environment.
 
-이 관리되는 위협 헌팅 서비스는 대상 공격 알림 및 요구 시 전문가 액세스의 두 가지 기능을 통해 전문가 중심의 인사이트 및 데이터를 제공합니다. 끝점에 대한 Microsoft Defender에 대한 자세한 내용은 [Microsoft Threat Experts를 참조합니다.]( https://docs.microsoft.com/microsoft-365/security/defender-endpoint/microsoft-threat-experts)
+이 관리되는 위협 헌팅 서비스는 대상 공격 알림 및 요구 시 전문가 액세스의 두 가지 기능을 통해 전문가 중심의 인사이트 및 데이터를 제공합니다. 끝점에 대한 Microsoft Defender 세부 정보는 를 [Microsoft 위협 전문가.]( https://docs.microsoft.com/microsoft-365/security/defender-endpoint/microsoft-threat-experts)
 
-조직 끝점, 전자 메일 및 ID 보호 컨텍스트에서 관리되는 위협 헌팅 서비스에 대한 자세한 내용은 [Microsoft 365의 Microsoft Threat Experts 개요를 참조하세요.](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-experts?view=o365-worldwide)
+조직 끝점, 전자 메일 및 ID를 보호하는 컨텍스트에서 관리되는 위협 헌팅 서비스에 대한 자세한 내용은 Microsoft 위협 전문가 개요에서 Microsoft 365 [참조하세요.](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-experts?view=o365-worldwide)

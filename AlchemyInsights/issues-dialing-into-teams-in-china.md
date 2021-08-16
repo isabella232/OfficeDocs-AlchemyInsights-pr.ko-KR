@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3787"
 - "9001707"
-ms.openlocfilehash: 42064703c997cdbda007bc07734c7453a54cbf21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfac32fb00b24fa743eae0ab1985ae9adc101c44a7dc7af2d7435c95913ce0a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695547"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013358"
 ---
 # <a name="issues-dialing-into-teams-in-china"></a>중국에서 Teams로 전화를 걸 때 발생하는 문제
 

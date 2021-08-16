@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 37bc4c1a8f39084e06b6f291c1245fa163e7b638
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b6c5fe4f8b4480f34c30430195f9be91263a9011da6eccf2d3830fa5433d19e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020882"
 ---
 # <a name="troubleshoot-your-printer"></a>프린터 문제 해결
 
