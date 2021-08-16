@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9835"
 - "9003257"
-ms.openlocfilehash: 240bd25f4d62505202c8cd7ceabe4c1cd3d5c0b5
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 709749b1a62f2d9cdabfb3fe4b7538c22101d7109204d9163f6059336b817bf8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897982"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019154"
 ---
 # <a name="im-getting-blocked-by-conditional-access-with-compliant-device"></a>규격 장치를 사용하여 조건부 액세스에서 차단되는 경우
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11084"
 - "9003537"
-ms.openlocfilehash: a53a0109c3b974806d04135dd2c102de81ec560f
-ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.openlocfilehash: 4943287fe010aacc456670105761b0e8e6b4269ce24086bc5000c9ccc916c8f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52627243"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994223"
 ---
 # <a name="defender-endpoint-check-sensor-status"></a>Defender 엔드포인트 확인 센서 상태
 
@@ -35,7 +35,7 @@ ms.locfileid: "52627243"
 - 부분적으로 엔드포인트용 Defender 서비스에 센서 데이터를 보고하고 있을 수 있으나 수정해야 하는 구성 오류가 있는 **잘못 구성된** 장치입니다. 잘못 구성된 장치에는 다음 문제 중 하나 또는 문제의 조합이 있을 수 있습니다.
 
     - 센서 데이터가 없습니다. 장치가 센서 데이터 전송을 중지했습니다. 장치에서 제한된 경고를 트리거할 수 있습니다.
-    - 통신 장애 - 장치와 통신하는 기능에 장애가 있습니다. 심층 분석을 위한 파일 전송, 파일 차단, 네트워크에서 장치 분리, 장치와 통신이 필요한 기타 작업이 작동하지 않을 수 있습니다.
+    - 통신 장애 - 장치와 통신하는 기능이 손상되었습니다. 심층 분석을 위한 파일 전송, 파일 차단, 네트워크에서 장치 분리, 장치와 통신이 필요한 기타 작업이 작동하지 않을 수 있습니다.
 - 엔드포인트용 Defender 서비스에 보고를 중지한 **대화 불가능** 장치입니다.
 
 내보내기 기능을 사용하여 CSV 형식으로 전체 목록을 다운로드할 수 있습니다.

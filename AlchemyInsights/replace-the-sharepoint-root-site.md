@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5726"
-ms.openlocfilehash: 5984179a3de72752772ec198623f339949344e6e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 45a38259c399eda0ccd79a34af6499cdede8d142f72e7050ee2f774292a62971
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052896"
 ---
 # <a name="replace-the-sharepoint-root-site"></a>SharePoint 루트 사이트 바꾸기
 기존 사이트로 루트 사이트를 현대화하려거나 단순히 루트 사이트 수준에서 다른 사이트를 원한다면 사이트를 바꾸도록(스왑) 선택할 수 있습니다.

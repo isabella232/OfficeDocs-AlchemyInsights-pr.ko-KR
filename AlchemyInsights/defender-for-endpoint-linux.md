@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11490"
 - "9001464"
-ms.openlocfilehash: 99894d83c51e11ea6dd1746568762eac856306b3
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: 9eb23e3f059ee16086a25cec34e5598295939bc69d5026c4c8e4d51eddd0e54b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994079"
 ---
 # <a name="microsoft-defender-for-endpoint-on-linux"></a>엔드포인트용 Microsoft Defender(Linux용)
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39725243636eb16a76078afe0165cc4c3bcd9c4fdc61358a1c75b6b310956c41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704648"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994187"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>Intune 정책 및 프로필 만들기
 
@@ -26,12 +26,12 @@ Intune에서 다양한 작업을 하는 정책 및 프로필을 만들 수 있�
 
 - **등록 프로필:** 플랫폼에 따라 디바이스를 미리 구성하고, 사용자 정보를 사용하도록 설정하고, 다단계 인증을 사용하는 등 다양한 기능을 제공합니다.
 
-  [장치 등록 및](https://docs.microsoft.com/intune/device-enrollment) [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS, macOS](https://docs.microsoft.com/intune/ios-enroll)및 [](https://docs.microsoft.com/intune/macos-enroll) [Windows에](https://docs.microsoft.com/intune/windows-enrollment-methods) 대한 등록 프로필을 만드는 것은 좋은 리소스입니다.
+  [장치 등록 및](https://docs.microsoft.com/intune/device-enrollment) [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS, macOS](https://docs.microsoft.com/intune/ios-enroll)및 [](https://docs.microsoft.com/intune/macos-enroll)앱에 대한 등록 프로필을 Windows [리소스입니다.](https://docs.microsoft.com/intune/windows-enrollment-methods)
 
 - **규정 준수 정책:** 장치가 준수하기 위해 따라야 하는 규칙 및 설정을 정의합니다. 또한 준수 정책을 사용하여 장치를 모니터링하고 사용자에게 규정 준수를 알릴 수 있습니다.
 
   장치 준수 정책 [시작.](https://docs.microsoft.com/intune/device-compliance-get-started)
-- **조건부 액세스 정책:** 입력한 조건에 따라 조직의 리소스를 보호합니다. 예를 들어, 규격이 아닌 장치의 경우 조건부 액세스를 사용하여 전자 메일 및 SharePoint에 대한 액세스를 제한합니다.
+- **조건부 액세스 정책:** 입력한 조건에 따라 조직의 리소스를 보호합니다. 예를 들어, 규격이 아닌 장치의 경우 조건부 액세스를 사용하여 전자 메일 및 전자 메일에 대한 액세스를 SharePoint.
 
   [조건부 액세스와](https://docs.microsoft.com/intune/conditional-access) [](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) 조건부 액세스를 사용하는 일반적인 방법은 시작하는 데 좋은 리소스입니다.
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10088"
 - "3100021"
-ms.openlocfilehash: a3dec4478269b98d273a65364e952778c1b860ec
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.openlocfilehash: c664ee87acab3809abd3b5bb669017168a4f1ac6fa3028ac60ed9c86269b1dc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51441160"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994115"
 ---
 # <a name="microsoft-defender-for-office-365-setup-guide"></a>Office 365용 Microsoft Defender 설정 가이드
 

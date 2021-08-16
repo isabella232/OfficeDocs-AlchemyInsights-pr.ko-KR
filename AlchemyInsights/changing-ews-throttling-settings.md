@@ -13,12 +13,12 @@ ms.custom:
 - "9000752"
 - "5653"
 - "5760"
-ms.openlocfilehash: 16916d5f16f763d87ce0d5ef830e741279c9f4df
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f99bb449b542760c6c8d51ee399c774fbe36e3f7f40520b5eb23f39d9d7c08dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968383"
 ---
 # <a name="changing-ews-throttling-settings"></a>EWS 제한 설정 변경
 
