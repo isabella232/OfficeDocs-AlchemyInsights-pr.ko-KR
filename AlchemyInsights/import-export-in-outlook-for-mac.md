@@ -14,14 +14,14 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: fcba3e4b8979bd75e97ac67282c7b7893d4d7abc
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: e947c6cd5d27bdb690117b18dd100f3de64b0bcd5d5bdab7cb1eeca355ef4489
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708104"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987437"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Mac용 Outlook에서 가져오기/내보내기 
+# <a name="importexport-in-outlook-for-mac"></a>Import/Export mac용 Outlook 지원 
 
 내보내기:
 1. 도구 **탭에서** 내보내기를 **선택합니다.**
@@ -30,11 +30,11 @@ ms.locfileid: "50708104"
 
 가져오기:
 1. 도구 **탭에서** 가져오기를 **선택합니다.**
-2. **Windows용 Outlook 보관 파일(.pst) 계속을**  >  **선택합니다.**
+2. 보관 **Outlook (.pst) Windows 계속에** 대해 다음을  >  **선택합니다.**
 3. Mac에서 .pst 파일을 찾은 다음 가져오기 를 **선택하십시오.**
 4. 가져오기 프로세스가 완료되면 마친 을 **선택하십시오.**
 5. 가져온 항목이 내 컴퓨터의 탐색 **창에 표시됩니다.**
 
-Mac용 Outlook에 대한 가져오기 및 내보내기 지침의 전체 집합은 Outlook 전자 메일, 연락처 및 일정 가져오기 및 [내보내기 를 참조하세요.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac) 
+For full set of Import and Export instructions for Outlook see [Import and export Outlook email, contacts, and calendar](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
 
-Outlook for Mac 문제에 대한 앱에서 지원을 받으시고 Outlook을 열고 지원에 **문의**  >  **를 선택합니다.** 질문을 입력하면 Mac용 Outlook 지원 팀의 구성원이 연락을 받을 수 있습니다. [Mac용 Outlook의 지원에 문의](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)
+Mac용 앱 문제에 대한 앱에서 Outlook 받으시고 Outlook **지원에**  >  **문의하세요.를 선택합니다.** 질문을 입력하면 mac용 Outlook 팀의 구성원이 연락을 받을 수 있습니다. [Mac용 Outlook 지원에 문의](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)

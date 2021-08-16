@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6863"
-ms.openlocfilehash: b92613cc9a2d9a653c1e321fb566c99e383fe8bc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 43898bd85dc6d0ffcf3d9146e65583ad9532e64d342fea55fd48e055caf133a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019370"
 ---
 # <a name="download-or-request-a-copy-of-my-bill-in-azure"></a>Azure에서 내 청구서의 복사본 다운로드 또는 요청
 

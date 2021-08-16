@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9827"
 - "9005684"
-ms.openlocfilehash: 5dca3e02dfdb72c6232658c32f0b269f602d8903
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: bc671614b7679b6e4cfe0c9f62920bb2d210b67d3543b08f7248d887802ec996
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898338"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987617"
 ---
 # <a name="free-microsoft-office-options"></a>무료 Microsoft Office 옵션
 

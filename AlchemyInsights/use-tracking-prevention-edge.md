@@ -15,16 +15,16 @@ ms.custom:
 - "10979"
 - "9004625"
 - "9006450"
-ms.openlocfilehash: beaa5dcc7f2e07ca3b2339fe43a759acf3a342b0
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: c97aa5dca553791b13297963a7953570bc5aa031a43ddf5234d5352f09c7eec6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989867"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037614"
 ---
 # <a name="use-tracking-prevention-in-microsoft-edge-chromium"></a>Microsoft Edge(Chromium)에서 추적 방지 사용
 
-일부 웹 사이트는 트래커를 사용하여 브라우저 정보를 수집합니다. Microsoft는 브라우저 기반 정보 추적에 대한 액세스를 제한하고, 보안 수준을 사용자 지정할 수 있는 추가 옵션을 제공하는 기본 제공 보호 기능을 준비했습니다.
+일부 웹사이트는 추적기를 사용하여 브라우저 정보를 수집합니다. 브라우저 기반 정보 추적에 대한 액세스를 제한하고 보안 수준을 사용자 지정할 수 있는 추가 옵션을 제공하는 보호 기능이 내장되어 있습니다.
 
 - **기본**. 가장 제한이 적고, 개인 설정 광고를 즐기며 웹에서 추적 당하는 것을 개의치 않는 사용자를 위해 설계되었습니다. 기본은 핑거프린터나 크립토마이너 같은 악의적인 트래커로부터만 사용자를 보호합니다.
 - **균형**. 기본 수준으로, 웹에서 사용자를 따라다니는 광고 수를 줄이길 원하는 사용자를 위해 설계되었습니다. 균형 수준은 사용자가 절대 사용하지 않는 사이트의 트래커를 차단할 뿐만 아니라 호환성 문제가 발생할 위험도 최소화합니다.

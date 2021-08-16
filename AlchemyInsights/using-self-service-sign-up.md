@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5994"
 - "9002572"
-ms.openlocfilehash: 167ae49701828f228e991e5b92fb44adbfd76fee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c33646b80821693c6ba8ac1be6ca0d481dcf08c36b5276c26c332356a250c4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749009"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037578"
 ---
 # <a name="using-self-service-sign-up-in-your-organization"></a>조직에서 셀프 서비스 등록 사용
 

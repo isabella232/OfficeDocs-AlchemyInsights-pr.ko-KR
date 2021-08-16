@@ -1,5 +1,5 @@
 ---
-title: Outlook.com에서 로그 아웃할 수 없습니다.
+title: Outlook.com에서 로그인할 수 없는 경우
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78d3a570eedac8cb341d66b63d53048a7ba57a502bff63dfaa2148e087390289
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984647"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Outlook.com에서 로그 아웃할 수 없습니다.
+# <a name="unable-to-sign-out-of-outlookcom"></a>Outlook.com에서 Outlook
 
-Outlook.com에서 로그 아웃 하려면 화면의 오른쪽 위 모서리에 있는 이름 또는 사진을 선택한 다음 **로그 아웃**을 선택 합니다.
+to sign out of Outlook.com, select your name or picture at the top right corner of the screen, then select **Sign out**.
 
-화면 맨 위에 그림이 표시 되지 않으면 ad 차단이 설정 되어 있는지 확인 합니다. 이 경우 그림이 표시되지 않는 경우가 있습니다.
+화면 맨 위에 사진이 없는 경우 광고 차단이 켜져 있는지 확인해 봐야 합니다. 이 경우 그림이 표시되지 않는 경우가 있습니다.
 
-여전히 Outlook.com에서 로그 아웃할 수 없는 경우에는을 클릭  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) 한 다음 모든 브라우저 창을 닫습니다.
+if you still can't sign out of Outlook.com, click [https://login.live.com/logout.srf](https://login.live.com/logout.srf) then close all browser windows.

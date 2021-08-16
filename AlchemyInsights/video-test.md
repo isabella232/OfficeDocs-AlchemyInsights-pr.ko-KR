@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003535"
 - "6442"
-ms.openlocfilehash: 202db7d7b29913867f058940db5eb12bc469f8d1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b30f8e7464546cee12b5f7a4b22fbc7e42eafaf1c0afd74d609637c006f57b80
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824225"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037470"
 ---
 # <a name="video-test"></a>비디오 테스트
 
