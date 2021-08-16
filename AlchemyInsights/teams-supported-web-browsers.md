@@ -1,5 +1,5 @@
 ---
-title: Teams 지원 웹 브라우저
+title: Teams 지원되는 웹 브라우저
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 26701aa868930784e7bf968b7799175fa0f3f80b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 05b765d53a0e432993f405fc5ea7ab86597d1e7c830251a77f4167a536d2b7dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981227"
 ---
-# <a name="teams-supported-web-browsers"></a>Teams 지원 웹 브라우저
+# <a name="teams-supported-web-browsers"></a>Teams 지원되는 웹 브라우저
 
-Teams는 Microsoft [Teams에](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)대한 제한 및 사양 문서에 나열된 인터넷 브라우저를 완전히 지원하며, 통화 및 모임에 대해 예외가 있습니다.
+Teams 및 모임에 대해 설명된 예외를 제외하고 [](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)Microsoft Teams 제한 및 사양 문서에 나열된 인터넷 브라우저를 완전히 지원할 수 있습니다.

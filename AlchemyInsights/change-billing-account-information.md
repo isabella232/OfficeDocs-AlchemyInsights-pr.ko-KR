@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002605"
 - "5022"
-ms.openlocfilehash: 8b5e7ec1c8558ef3c776d186f4f522f7b169306a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9e3e5ba459aa0ff47eccabfe200c7970fe5798731e1f94f91f6f9b059b74ffde
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819230"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018506"
 ---
 # <a name="change-billing-account-information"></a>청구 계정 정보 변경
 

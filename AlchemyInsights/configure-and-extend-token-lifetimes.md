@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7778"
 - "9004351"
-ms.openlocfilehash: 505e79ae9a163b89a6df2a7085480728bb0f1051
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: 97e89feda45439dae59acca5817fdf359623d647997d08a5cbe4a6314fa6db3a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49912027"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044922"
 ---
 # <a name="configure-and-extend-token-lifetimes"></a>토큰 수명 구성 및 연장
 
