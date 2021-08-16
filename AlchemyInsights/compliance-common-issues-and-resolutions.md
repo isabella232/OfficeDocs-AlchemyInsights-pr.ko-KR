@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: b6d2ff60548cfb578b30890cba069f67515e9c05
-ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
+ms.openlocfilehash: b3345e8ec7ade4b7657a706dca088cbdd501ef3be0efe67e65facdabbaf5c98a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53195490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045030"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>규정 준수 일반적인 문제 및 해결 방법
 

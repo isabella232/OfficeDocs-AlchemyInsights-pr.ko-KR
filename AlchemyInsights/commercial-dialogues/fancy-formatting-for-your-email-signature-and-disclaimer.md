@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f179ff22dea8d5460e2a0604be9071747383e05b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: b202d2812516ebc283075f6c626ef4ecbc382135a5265985ef61aab1c4eedca6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464876"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058692"
 ---
 # <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>전자 메일 서명 및 고지의 멋진 서식
 멋진 형식(예: 소셜 미디어 아이콘, 이미지 및 조직 고지 사항은 링크를 추가하는 방법), 모바일 장치와의 호환성에 대한 정보 등

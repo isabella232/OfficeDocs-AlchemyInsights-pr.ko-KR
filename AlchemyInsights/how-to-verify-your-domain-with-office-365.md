@@ -13,12 +13,12 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
-ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
+ms.openlocfilehash: 989f359e5b39454189f3decd31834b12b62a66d4e794eb9e2977173effb80b60
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52569621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015158"
 ---
 # <a name="how-to-verify-your-domain"></a>도메인을 확인하는 방법
 

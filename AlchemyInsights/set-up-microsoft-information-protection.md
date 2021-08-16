@@ -15,12 +15,12 @@ ms.custom:
 - "7429"
 - "9254"
 - "9000181"
-ms.openlocfilehash: 05ba48033cde51e3055c52d9501ea0a3f573f2a5
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.openlocfilehash: 7f798726bafac561e2339d8b1d113858288a567c1d742a39b34cb86731a68b68
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51440935"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051996"
 ---
 # <a name="set-up-microsoft-information-protection"></a>Microsoft Information Protection 설정
 

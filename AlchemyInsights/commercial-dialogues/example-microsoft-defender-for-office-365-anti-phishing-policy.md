@@ -1,5 +1,5 @@
 ---
-title: 예제 Microsoft Defender for Office 365 피싱 방지 정책
+title: Microsoft Defender for Office 365 피싱 방지 정책 예
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737876"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035012"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>예제 Microsoft Defender for Office 365 피싱 방지 정책
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Microsoft Defender for Office 365 피싱 방지 정책 예
 
 이러한 설정을 사용하면 Domain 및 *CEO라는 정책을 사용할 수 있습니다.* 이 정책은 가장으로부터 사용자 및 도메인 보호를 모두 제공한 다음 도메인 내의 사용자가 받은 모든 전자 메일에 정책을 적용합니다. 먼저 다음 정보를 추가하여 정책을 생성합니다.
 
@@ -33,4 +33,4 @@ ms.locfileid: "50737876"
   - **신뢰할 수 있는 보낸 사람 및 도메인을 추가합니다.** 이 예제에서는 모든 오버라이드를 정의하지 않습니다.
 - 설정을 검토한 후 이 정책  만들기 또는 **저장을** 적절하게 선택합니다.
 
-자세한 내용은 [Microsoft 365의](https://go.microsoft.com/fwlink/?linkid=2092235)피싱 방지 정책을 참조합니다.
+자세한 내용은 에서 피싱 방지 정책을 [Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2092235)

@@ -13,16 +13,16 @@ ms.custom:
 - "603"
 - "3500010"
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 13361962fe2a3ee88a820c44c0839611c2b9b4e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: afb38121fdfbd244da39377a19f6756a5f0370f6707fade98eaf53def6981696
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743769"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015050"
 ---
 # <a name="hybrid-configuration-wizard"></a>하이브리드 구성 마법사
 
-하이브리드 구성 마법사는 온-프레미스 Exchange 조직과 Microsoft 365 간에 새로운 하이브리드 배포를 설정 하는 데 도움이 되는 앱입니다. 하이브리드 배포를 이미 설정한 경우이 마법사를 사용 하 여 하이브리드 배포 설정을 업데이트할 수 있습니다. 자세한 내용은 다음을 참조 하세요.
+하이브리드 구성 마법사는 조직과 조직 간에 새 하이브리드 배포를 설정하는 데 도움이 되는 Exchange Microsoft 365. 하이브리드 배포를 이미 설정한 경우 마법사를 통해 하이브리드 배포 설정을 업데이트할 수 있습니다. 자세한 내용은 다음을 참조하십시오.
   
 - [하이브리드 구성 마법사 실행](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
 
