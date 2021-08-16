@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003086"
 - "5851"
-ms.openlocfilehash: c54a2c665b6ed8761bdcee8c88044a4bc840483d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fe549e85c469938dd609eb8754160b00c8544ad73a563a5ec80a918ceec508c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825341"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986267"
 ---
 # <a name="move-files-into-onedrive-for-business-from-another-cloud-provider"></a>다른 클라우드 공급자에서 비즈니스용 OneDrive로 파일 이동
 

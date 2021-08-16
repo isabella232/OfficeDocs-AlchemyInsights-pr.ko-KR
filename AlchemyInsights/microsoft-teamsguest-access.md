@@ -1,5 +1,5 @@
 ---
-title: Microsoft 팀-게스트 액세스
+title: Microsoft Teams - 게스트 액세스
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.custom:
 - "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 83739b66057dd25ef9c95a138598e61db4f221bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 96a57d523c75a2e0b3cebff6abe23377fa7d2525ce00cedeb1a16c6669255c8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777647"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026876"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft 팀-게스트 액세스
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams - 게스트 액세스
 
-Microsoft 팀에서 게스트 액세스 기능을 켜고 설정 하는 데 도움이 필요 하세요?  
+2016에서 게스트 액세스 기능을 켜고 설정하는 데 도움이 Microsoft Teams?  
 
-먼저 [게스트 액세스 검사 목록의](https://docs.microsoft.com/microsoftteams/guest-access-checklist)모든 단계를 수행 했는지 확인 합니다. 이러한 모든 단계가 완료 되 면 설정이 적용 되도록 [24 시간까지 기다려야](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) 합니다.
+먼저 게스트 액세스 검사 목록의 모든 단계를 [수행해야 합니다.](https://docs.microsoft.com/microsoftteams/guest-access-checklist) 이러한 모든 단계가 완료되면 설정이 적용될 때까지 [최대 24시간을](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) 기다려야 합니다.
 
-검사 목록의 모든 단계를 완료 했 고 24 시간이 지난 것으로 확신 하는 경우에는 [팀에 게스트를 추가](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)해 봅니다.
+검사 목록의 모든 단계를 완료했다고 확신할 수 있으며 24시간이 지난 경우 진행하여 팀에 게스트를 [추가해 하세요.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-방법 비디오를 비롯 한 자세한 내용은 [Microsoft 팀의 게스트 액세스](https://docs.microsoft.com/microsoftteams/guest-access)를 참조 하세요.
+방법 비디오를 비롯한 자세한 내용은 에서 게스트 액세스를 [Microsoft Teams.](https://docs.microsoft.com/microsoftteams/guest-access)

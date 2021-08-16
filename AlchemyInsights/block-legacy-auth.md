@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: 06ded694893c020f862864215700853b19d35f08
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c2f2a0c3888920a969a6fc70af7ef7bfd8435bdcf975e0f31452b5da85e3a208
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820184"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968887"
 ---
 # <a name="blocking-legacy-authentication"></a>레거시 인증 차단
 
 레거시 인증은 다음에서 수행한 인증 요청을 참조하는 용어입니다.
 
-- 최신 인증을 사용하지 않는 이전 Office 클라이언트(예: Office 2010 클라이언트)
+- 최신 Office 사용하지 않는 이전 클라이언트(예: Office 클라이언트)
 
 - IMAP/SMTP/POP3와 같은 레거시 메일 프로토콜을 사용하는 모든 클라이언트.
 

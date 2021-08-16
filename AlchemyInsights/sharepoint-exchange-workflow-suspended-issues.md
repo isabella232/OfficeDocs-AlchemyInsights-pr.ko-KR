@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online 시작
+title: 온라인 SharePoint 시작
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: bba89489cb75555e1f508224de223bee04e1d665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a14705003f742641f10c8459b7c7024146e4134a8d5113451e5732cef7326484
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051420"
 ---
-# <a name="workflows-in-sharepoint"></a>SharePoint의 워크플로
+# <a name="workflows-in-sharepoint"></a>워크플로의 SharePoint
 
-SharePoint 워크플로에서 전자 메일을 보내지 않는 경우 조직에서 Exchange Online 보낸 사람 제한이 발생 했을 수 있습니다.
+워크플로에서 SharePoint 보내지 않는 경우 조직에서 보낸 사람 제한이 Exchange Online 수 있습니다.
 
-다음 항목 중 하나가 있는 경우 ' 워크플로 일시 중단 ' 오류 메시지가 나타날 수 있습니다.
+다음 항목 중 하나인 경우 '워크플로가 일시 중단되었습니다' 오류 메시지가 표시될 수 있습니다.
 
-- Sharepoint Online의 워크플로를 사용 하 2013 2010 고 있으며,이를 수행 하는 사용자
+- SharePoint 2010 또는 SharePoint 2013 워크플로 플랫폼 유형을 사용하는 워크플로가 SharePoint 있습니다.
 
-- 워크플로는 한 번에 200 명 이상의 사용자에 게 사용자 지정 전자 메일 메시지를 전송 하거나, 하루에 1만 명의 받는 사람을 초과 하거나, 분당 30 개 이상의 메시지를 보내도록 구성 됩니다.
+- 워크플로는 한에 200명 이상의 사용자에게 사용자 지정 전자 메일 메시지를 보내거나, 하루 10,000명 이상의 받는 사람 또는 분당 30개 이상의 메시지를 보내도록 구성됩니다.
 
-워크플로를 실행 하는 경우 전자 메일 메시지가 전송 되지 않으며, 내부 상태가 일시 중단 됨 또는 받는 사람에 게 보낼 수 없음으로 설정 됩니다.
+워크플로를 실행하면 전자 메일 메시지가 전송되지 않습니다. 오류 메시지가 표시되면 내부 상태가 일시 중단으로 설정되거나 받는 사람에게 보낼 수 없습니다.가 표시됩니다.
 
-자세한 내용은 다음 [문서](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)를 참조 하세요.
+자세한 내용은 다음 문서를 [참조하세요.](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10802"
 - "9006390"
-ms.openlocfilehash: 0515ead28cdfdbdb9529c269b5170b294ab2b120
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 101c0ba90d2bec6b1684fd63645ba2f8f89783ad5bfdf0efe739d31dfd951f66
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543043"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044418"
 ---
 # <a name="the-underlying-connection-was-closed-error-in-sharepoint"></a>SharePoint의 "기본 연결이 닫혀 있습니다" 오류
 

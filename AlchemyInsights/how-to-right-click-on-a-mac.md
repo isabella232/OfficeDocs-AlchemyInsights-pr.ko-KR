@@ -1,5 +1,5 @@
 ---
-title: 8000063 Mac에서 마우스 오른쪽 단추를 클릭 하는 방법
+title: 8000063 Mac을 마우스 오른쪽 단추로 클릭하는 방법
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "1071"
 - "8000063"
 ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: 95d8a88bc1f0db2e2cadca887cb42f0c85b38f43
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70b3f0ca2393dcb3bc0f85755aac1f7608dd3134335704f6f48af43fb33b4af8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001946"
 ---
-# <a name="how-to-right-click-on-a-mac"></a>Mac에서 마우스 오른쪽 단추를 클릭 하는 방법
+# <a name="how-to-right-click-on-a-mac"></a>Mac을 마우스 오른쪽 단추로 클릭하는 방법
 
-Mac 컴퓨터에서 마우스 오른쪽 단추를 클릭 하는 것을 보조 클릭 또는 컨트롤 클릭 이라고 합니다. 마우스, trackpad 또는 기타 입력 장치에 오른쪽 클릭 단추나 오른쪽 클릭을 수행 하는 다른 방법이 포함 되어 있지 않은 경우에는 키보드에서 ctrl **키** 를 누른 상태로 클릭 합니다.
+Mac 컴퓨터에서 마우스 오른쪽 단추를 클릭하면 보조 클릭 또는 컨트롤 클릭으로 알려져 있습니다. 마우스, 트랙 패드 또는 기타 입력 장치에 마우스 오른쪽 단추 또는 마우스 오른쪽 단추를 클릭하는 다른 방법이 없는 경우 마우스를 클릭하는 동안 키보드의 **Control** 키를 누릅니다.
   
-자세한 내용은 [Apple 지원](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409)으로 이동 하세요.
+자세한 내용은 Apple [지원으로 이동하세요.](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409)
   
