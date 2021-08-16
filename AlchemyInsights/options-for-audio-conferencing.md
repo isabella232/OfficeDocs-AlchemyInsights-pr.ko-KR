@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002334"
 - "4542"
-ms.openlocfilehash: 07ff250174872b373017a3d829bdb275fb09bbea
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 046a927248ca32f174c2664f37c153c286d2cdc982019116868bd0c2e85fe063
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096700"
 ---
 # <a name="options-for-audio-conferencing"></a>오디오 회의 옵션
 

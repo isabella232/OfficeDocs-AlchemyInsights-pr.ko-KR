@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, drjones
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "332"
 - "1500009"
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: a7a2ed60af9ab6ade797e2a0d9a258ac6e3bb6eb
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 6c0c89cb8ed6b04be7155875356890ab670c1ed1d0da82caf39775b560432961
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686712"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54502074"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>계획 구매 Office 365 Education 방법
 

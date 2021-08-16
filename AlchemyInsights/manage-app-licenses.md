@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, micurn
+ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "1500008"
 - "2443"
-ms.openlocfilehash: cfed9a827219a20c6ff204134eb2b5a05a707ba7
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: ac05aa634f3c96cd90c657254c16503805ab21c8bac0e97b94d2e3021a4a62c4
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689376"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54501966"
 ---
 # <a name="manage-app-licenses"></a>앱 라이선스 관리
 

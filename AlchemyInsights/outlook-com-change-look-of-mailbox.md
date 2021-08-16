@@ -1,5 +1,5 @@
 ---
-title: Outlook.com의 사서함 모양 변경
+title: Outlook.com에서 사서함의 모양 변경
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3522345eb8c0ed840a821fe4c3098464cf2e0ceedfaee558a703be643758ee7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096484"
 ---
 # <a name="change-the-look-of-your-outlookcom-mailbox"></a>Outlook.com 사서함의 모양 변경
 
 Outlook.com에서 메시지 목록 및 읽기 창의 모양을 변경할 수 있습니다.
 
-- 메시지 창의 레이아웃을 변경 하려면 [읽기 창](https://outlook.live.com/mail/options/mail/layout/readingPane) 옵션을 엽니다.
-- 전자 메일이 정렬 되는 방식을 변경 하려면 메시지 목록 위쪽에서 **필터**  >  **정렬 기준을** 선택 하 고 전자 메일을 정렬할 방법을 선택 합니다.
-- 대화 별로 메시지를 그룹화 하려면 [메시지 조직](https://outlook.live.com/mail/options/mail/layout/conversations) 옵션을 엽니다.
-- 중요 받은 편지함을 켜거나 끄려면 [레이아웃](https://outlook.live.com/mail/options/mail/layout/focused) 옵션을 엽니다.
+- 메시지 창의 레이아웃을 변경하기 위해 읽기 창 [옵션을 여십시오.](https://outlook.live.com/mail/options/mail/layout/readingPane)
+- 전자 메일의 정렬 방법을 변경하려면 메시지 목록 맨 위에 있는 정렬 필터링을 선택하고 전자 메일을 정렬할  >   방법을 선택합니다.
+- 대화로 메시지를 그룹화하기 위해 메시지 조직 [옵션을 열](https://outlook.live.com/mail/options/mail/layout/conversations) 수 있습니다.
+- 포커스가 있는 받은 편지함을 켜거나 끄기 위해 레이아웃 옵션을 [열](https://outlook.live.com/mail/options/mail/layout/focused) 수 있습니다.
