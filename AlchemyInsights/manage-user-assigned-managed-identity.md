@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8211"
 - "9003230"
-ms.openlocfilehash: a44cb484b6d89e6d5f67b2900c38dde3610b0e23
-ms.sourcegitcommit: 23e778f7414e5f1a98cc786146fe76d622b458bc
+ms.openlocfilehash: 1554a3568a4af7a901a24606e7ea4ccc951f181c61ba7ddac72925a296c2611a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099040"
 ---
 # <a name="manage-a-user-assigned-managed-identity"></a>사용자가 할당한 관리 ID 관리
 

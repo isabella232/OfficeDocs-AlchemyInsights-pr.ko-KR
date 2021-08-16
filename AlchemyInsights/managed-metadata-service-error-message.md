@@ -12,16 +12,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 255fd52e0bd63f282613f3fb07240a5530738506
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58394b854877aaf2f537c33195193d23cc3891524cb2f867246ba4bf5f9e73a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662871"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099004"
 ---
 # <a name="managed-metadata-service-error-message"></a>Managed Metadata Service 오류 메시지
 
-용어 저장소를 열면 "Managed Metadata Service 또는 Connection을 현재 사용할 수 없습니다." 라는 오류 메시지가 표시 될 수 있습니다. 응용 프로그램 풀 또는 관리 되는 메타 데이터 웹 서비스가 시작 되지 않았을 수 있습니다. 관리자에 게 문의 하세요. "
+용어 저장소를 열면 "Managed Metadata Service 또는 Connection을 현재 사용할 수 없습니다. 응용 프로그램 풀 또는 Managed Metadata Web Service가 시작되지 않은 것일 수 있습니다. 관리자에게 문의하시기 바랍니다."
   
-이 문제가 처음 발생 한 것으로 24 시간 이상 경과 하면 지원 사례를 기록 하세요. 24시간이 긴 것처럼 느껴질 수 있습니다. 대부분의 경우 솔루션에서 이미 작업 중 이므로 최소 24 시간을 제공 해 주세요.
+이 문제가 처음 확인된 후 24시간 이상이 지난 경우 지원 사례를 기록해 주세요. 24시간이 긴 것처럼 느껴질 수 있습니다. 대부분의 경우 솔루션에 대한 작업을 이미 진행 중이기 때문에 24시간 이상을 제공하시기 바랍니다.
   

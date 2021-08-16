@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: 9ed21bfb9069b56a4fc59b201bb3ad94c6bb6712
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 78ceac80626159e72af5f9ac963365c5c057a4ef0de2b3dc7e4cde5e5cc155e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812470"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068170"
 ---
 # <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>CompletedWithErrors 상태가 완료된 공용 폴더 마이그레이션 일괄 처리의 경우
 

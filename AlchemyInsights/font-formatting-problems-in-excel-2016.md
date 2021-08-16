@@ -1,5 +1,5 @@
 ---
-title: Excel 2016의 글꼴 서식 문제
+title: 글꼴 서식 문제의 Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 1831845768969e5fbb181276b2b66830c7d71599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77387602fda7067b469a93289dc071d0c9ba52eff67c5fb04f4426e4034eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068206"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Excel의 글꼴 서식 문제
+# <a name="font-formatting-problems-in-excel"></a>글꼴 서식 문제의 Excel
 
-Excel 2016에서는 셀에 글꼴 서식이 제대로 표시 되지 않을 수 있습니다. 셀에 글꼴 서식이 두 개 이상 포함 되어 있는 경우 이러한 현상이 발생할 수 있습니다. 예를 들어 일부 문자를 굵게 표시 하지 않고 굵게 서식을 적용 하지 않으면 굵은 서식이 나타나지 않을 수 있습니다. 같은 셀에 다른 색의 문자가 있으면 색이 제대로 표시 되지 않을 수 있습니다. 엔지니어링 팀에서이 문제를 이해 하 고 있으며 현재 수정 작업을 진행 중입니다. 다른 글꼴을 사용해 봅니다. 또는이 문제가 해결 될 때까지 동일한 셀에서 여러 종류의 서식을 사용 하지 않도록 하십시오.
+이 Excel 2016 셀에 글꼴 서식이 제대로 나타나지 않을 수 있습니다. 셀에 여러 종류의 글꼴 서식이 포함되어 있는 경우 이 문제가 발생될 수 있습니다. 예를 들어 일부 문자는 굵게 표시하고 다른 문자는 굵게 표시하지 않은 경우 굵은 서식이 나타나지 않을 수 있습니다. 또는 같은 셀에 색이 다른 문자가 있는 경우 색이 올바르게 나타나지 않을 수 있습니다. Our engineering team is aware of this problem and is currently working on a fix. 그동안 다른 글꼴을 사용해 보아야 합니다. 또는 이 문제가 해결될 때까지 동일한 셀 내에서 여러 종류의 서식을 사용하지 않도록 합니다.
   
