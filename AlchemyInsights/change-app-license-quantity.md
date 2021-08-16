@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, micurn
+ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9000568"
 - "2425"
-ms.openlocfilehash: 1af3d36dead1db10ed3857d2f75b2c16d31c854e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 31b2069e02aff949adcbe703675cd85ed2c87256fda2e73e96742542d1971b1f
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687108"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54502506"
 ---
 # <a name="change-app-license-quantity"></a>앱 라이선스 수량 변경
 

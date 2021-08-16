@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: d466e4dc26379509c4bf3b34d9d7b39c5d3c4c19
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2b60d65f6f5144c00b23664075d05af1995d5baac7fb884c59cbe82efca3d198
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833117"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013142"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Office 설치 시 발생하는 문제에 대한 해결 방법
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002878"
 - "5480"
-ms.openlocfilehash: 8e7c03f2b557a7d3c409b2ee418df055d0569ee6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a07d5f502beb61ab130e801b0e42579718f4d175a937fee4e21ab9f7339dbffd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097204"
 ---
 # <a name="notifications-in-yammer"></a>Yammer의 알림
 

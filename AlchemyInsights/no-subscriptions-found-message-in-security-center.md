@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 777fb9b09aa26d166f9971589bda464ccb90f4be
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 24b9a7d3e8106c7357f14a00ecb192af4644257577a9549620b6e8b11b6f90d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544114"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097456"
 ---
 # <a name="no-subscriptions-found-message-in-the-security-center"></a>보안 센터에서 구독 메시지를 찾을 수 없습니다.
 

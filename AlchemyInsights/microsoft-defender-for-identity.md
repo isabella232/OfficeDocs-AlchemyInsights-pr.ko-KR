@@ -15,12 +15,12 @@ ms.custom:
 - "12322"
 - "12354"
 - "9007399"
-ms.openlocfilehash: 054174e44122d6ac028a1b4a220ef411cdbdc32e
-ms.sourcegitcommit: 47f0190146d385d0a9e42a049e014e657877ac19
+ms.openlocfilehash: 184d69cf38cff0e7952b889a31b14e2d2944b7f9a659b13a6a417c0184557a36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2021
-ms.locfileid: "53366248"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012710"
 ---
 # <a name="microsoft-defender-for-identity"></a>ID용 Microsoft Defender
 

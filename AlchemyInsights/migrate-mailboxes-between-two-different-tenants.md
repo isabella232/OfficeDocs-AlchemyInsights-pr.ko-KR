@@ -14,12 +14,12 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 0d85b606efa63ede50f25b91e9b2e0199de1cffd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 00282b85232db48e79bb77e513a2510c9f3dfcaefba71f290ff9fbfe98b98673
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065938"
 ---
 # <a name="migrate-mailboxes-between-two-different-tenants"></a>두 테넌트 간에 사서함 마이그레이션
 
