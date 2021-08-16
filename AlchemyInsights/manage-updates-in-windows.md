@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3583"
-ms.openlocfilehash: 21e22cfd8e1fcd353b953f5bdd2e144d642dbeb2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: de1aa1537c9f5728533000949f869182633ae7277d5e2910b6e572a10195571d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823937"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077836"
 ---
 # <a name="manage-updates-in-windows-10"></a>Windows 10에서 업데이트 관리
 

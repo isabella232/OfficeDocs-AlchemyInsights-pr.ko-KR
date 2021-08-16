@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12450"
 - "3100012"
-ms.openlocfilehash: 7bc5e4934903bda33d5c16a1729090429345ac36
-ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
+ms.openlocfilehash: 0317fa4976dd34e9e978e086312d041c88bd600e9a41632be55736bbfa2b527c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53533022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027520"
 ---
 # <a name="messages-have-been-delayed-alerts-in-the-security--compliance-center"></a>보안 및 준수 센터 메시지가 지연되었습니다.
 

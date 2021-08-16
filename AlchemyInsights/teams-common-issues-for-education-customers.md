@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 6d1fac07673f6f945f382e4e640cf44afb76717d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9dc01109d0f036c567243a8833a845f074097e39de4e1cfc1ba38da61b8f97ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049242"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>교육용 고객에 대한 Teams 공통 문제
 

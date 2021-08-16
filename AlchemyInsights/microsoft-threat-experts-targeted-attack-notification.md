@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 4cb5194e692ad64fc85d35170659c55b546fc431
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545382"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012134"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft 위협 전문가 - 대상 공격 알림
 

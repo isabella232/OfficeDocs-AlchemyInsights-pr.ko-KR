@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10131"
 - "9005681"
-ms.openlocfilehash: 06c17ab13f06c85561c6f775691ab679641417af
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 9176f43b0f893cbf02ed6647268368960887001187b6d9ba4bbfe6ed546d7586
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505894"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049386"
 ---
 # <a name="sync-settings-in-microsoft-edge"></a>Microsoft Edge의 동기화 설정
 

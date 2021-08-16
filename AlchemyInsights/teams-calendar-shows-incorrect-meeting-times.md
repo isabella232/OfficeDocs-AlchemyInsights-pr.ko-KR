@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003305"
 - "6206"
-ms.openlocfilehash: b295faad4a0dbe6a10b17587e34c93e7658cb9cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58c4a5ef7afe62ff45cec311142891570ba128b419d2aa22afea57d4bac8fbe4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669551"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049278"
 ---
 # <a name="teams-calendar-shows-incorrect-meeting-times"></a>Teams 일정관리가 잘못된 회의 시간을 표시합니다.
 
-이 문제는 표준 시간대 차이로 인해 발생할 수 있습니다. 그런 경우, Outlook에서 시간대를 설정한 다음 Teams 대신 Outlook 일정에서 모임을 예약합니다.
+이는 표준 시간대 차이로 인해 발생할 수 있습니다. 그런 경우, Outlook에서 시간대를 설정한 다음 Teams 대신 Outlook 일정에서 모임을 예약합니다.
 
 - 표준 시간대 변경에 대한 지침은 [웹의 Outlook에서 표준 시간대 및 언어 설정 변경](https://support.microsoft.com/office/change-the-time-zone-and-language-settings-in-outlook-on-the-web-65239869-12e7-4a9d-bca1-76b0ad7ce273)을 참조합니다. 
 

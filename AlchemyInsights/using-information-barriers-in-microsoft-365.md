@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002423"
 - "4701"
-ms.openlocfilehash: b53a797513e49a5b9db002705fc57c0bc0cf7538
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6884b1894552c1b2cd1eb07b3476298200019a96ddb80e71e4ab5138015b40ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770673"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998436"
 ---
 # <a name="using-information-barriers-in-microsoft-365"></a>Microsoft 365에서 정보 장벽 사용하기
 

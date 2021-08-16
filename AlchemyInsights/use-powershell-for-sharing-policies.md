@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 9c52b876160f9577e6cefe7644c29d6fdf3b23fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 48df03b1397b0e924aa878cea3d1cac07ca862c3636c1273d10f4841a03fddcf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826061"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998472"
 ---
 # <a name="use-powershell-for-sharing-policies-and-organization-relationships"></a>공유 정책 및 조직 관계에 PowerShell 사용
 
