@@ -1,5 +1,5 @@
 ---
-title: Office 정품 인증 오류 0x80070005를 해결 하는 단계
+title: Office 정품 인증 오류 해결 0x80070005
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "914"
 - "2000021"
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 70f349cf09bb0204f958735724633904b01672b7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 086c2db7775baabeb5c66eda9e767362fef20f98237021a0b348d8e5d50392b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750853"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021422"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Office 정품 인증 오류 0x80070005를 해결 하는 단계
+# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Office 정품 인증 오류 해결 0x80070005
 
-Windows를 업데이트 한 후에 0x80070005 오류가 시작 되 면 레지스트리를 업데이트 하 여 문제를 해결할 수 있습니다.
+업데이트 0x80070005 시작된 Windows 레지스트리를 업데이트하여 문제를 해결할 수 있습니다.
   
-[지원 및 복구 도우미](https://aka.ms/SARA-OfficeActivation-Alchemy) 를 다운로드 하 여 설치 하 고 **정품 인증 문제 해결사**를 실행 합니다.
+를 다운로드하여 [지원 및 복구 도우미](https://aka.ms/SARA-OfficeActivation-Alchemy) 정품 인증 문제 **해결사 를 실행합니다.**
   
-자세한 내용은 [office 정품 인증 시 office 오류 코드 0x80070005](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865) 를 참조 하세요.
+추가 도움말은 다음을 참조하고 Office [정품](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865) 0x80070005 오류 코드 Office
   

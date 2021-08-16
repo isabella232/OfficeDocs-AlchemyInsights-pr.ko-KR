@@ -1,5 +1,5 @@
 ---
-title: Office 정품 인증 오류 0x80072EFD를 해결 하는 단계
+title: 정품 인증 Office 문제를 해결하는 0x80072EFD
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,21 +12,21 @@ ms.custom:
 - "915"
 - "2000021"
 ms.assetid: d071ce0c-c29e-4917-8860-950e5efd26af
-ms.openlocfilehash: 9a6718bc46285492cbf6914f18a314998c7c593d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 46821b7847d67874e42d3f07adbbce43be37190d7229ac886595d03c43cbfeb6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021278"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80072efd"></a>Office 정품 인증 오류 0x80072EFD를 해결 하는 단계
+# <a name="steps-to-resolve-office-activation-error-0x80072efd"></a>정품 인증 Office 문제를 해결하는 0x80072EFD
 
-Office 정품 인증 오류를 해결 하려면 다음 해결 방법을 시도해 보세요.
+다음 해결 방법을 시도하여 정품 인증 Office 해결합니다.
   
-1. [방화벽](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckFirewall)을 확인 합니다.
+1. 방화벽을 [검사합니다.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckFirewall)
 
-2. [바이러스 백신 소프트웨어](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckAV)를 확인 합니다.
+2. 바이러스 백신 [소프트웨어를 검사합니다.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckAV)
 
-3. [프록시 설정](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckProxy) 확인
+3. 프록시 [설정 확인](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckProxy)
 
-4. [지원 및 복구 도우미](https://aka.ms/SARA-OfficeActivation-Alchemy) 를 다운로드 하 여 설치 하 고 **정품 인증 문제 해결사**를 실행 합니다.
+4. 를 다운로드하여 [지원 및 복구 도우미](https://aka.ms/SARA-OfficeActivation-Alchemy) 정품 인증 문제 **해결사 를 실행합니다.**

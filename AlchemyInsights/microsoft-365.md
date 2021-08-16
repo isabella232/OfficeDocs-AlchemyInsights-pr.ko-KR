@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002644"
 - "5085"
-ms.openlocfilehash: d52f4a2c13e3a4572184bffb0e131a6e563276fb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2fd08d04cad99e1a4f509235e740e3e8b37da216d9738b76fda87f783f337e93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810382"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098284"
 ---
 # <a name="microsoft-365"></a>Microsoft 365
 

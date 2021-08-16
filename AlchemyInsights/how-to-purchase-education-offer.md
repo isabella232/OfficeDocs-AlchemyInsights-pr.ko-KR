@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, drjones
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.openlocfilehash: a4841ee6d0ae782b310c6a6ef9233675144ff6bd
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 028ae1b86a98c8dab1940b715c266f3d481c71ef1ec84e932e9c74817bccdef5
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686748"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54503262"
 ---
 # <a name="how-to-purchase-an-education-offer"></a>교육 제품을 구입하는 방법
 
