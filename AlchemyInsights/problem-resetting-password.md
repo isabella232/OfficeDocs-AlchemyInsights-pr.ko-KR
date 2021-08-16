@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
-ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
+ms.openlocfilehash: 535b5273d367e24ac45b3f60dbc7b6a2da6a3d9affa5a67499989d19a1904768
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50585653"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039972"
 ---
 # <a name="problems-resetting-password"></a>암호 재설정 문제
 
@@ -29,7 +29,7 @@ ms.locfileid: "50585653"
 - 암호를 재설정할 수 있는 권한이 부여된지 확인 전역, 암호 및 사용자 관리자만 사용자 암호를 재설정할 수 있습니다. 전역 관리자는 권한이 부여된 다른 관리자의 암호를 다시 설정할 수도 있습니다.
 - 라이선스 요구 사항을 이해해야 합니다.
     - 조직에 라이선스가 하나 이상 할당되어 있어야 합니다.
-        - 클라우드 전용 사용자 - Office 365(O365) 유료 SKU 또는 Azure AD Basic
+        - 클라우드 전용 사용자 - 모든 Office 365(O365) 유료 SKU 또는 Azure AD Basic
         - 클라우드 및/또는 사내 사용자 - Azure AD Premium P1 또는 P2, EMS(Enterprise Mobility + Security) 또는 SPE(Secure Productive Enterprise)
         - 라이선스 요구 사항에 대한 자세한 내용은 Azure AD 셀프 서비스 암호 재설정에 대한 라이선스 요구 [사항을 참조하세요.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)
 
@@ -41,7 +41,7 @@ ms.locfileid: "50585653"
 
 **암호 재설정을 배포하고 싶지만 사용자가 추가 보안 정보를 등록할 수 있도록 하고 싶지 않습니다.**
 
-사용자에 대한 데이터를 미리 채우면 사용자가 할 일도 없습니다! - 관리자는 조직에 암호 재설정을 롤아웃하기 전에 사용자의 전화 및 전자 메일 속성을 설정할 수 있습니다. API, PowerShell 또는 Azure AD Connect를 사용하여 이 작업을 할 수 있습니다. 자세한 내용은 다음을 참조하십시오.
+사용자에 대한 데이터를 미리 채우면 사용자가 할 일도 없습니다! - 관리자는 조직에 암호 재설정을 롤아웃하기 전에 사용자의 전화 및 전자 메일 속성을 설정할 수 있습니다. API, PowerShell 또는 Azure AD 계정을 사용하여 이 작업을 커넥트. 자세한 내용은 다음을 참조하십시오.
 - [사용자가 등록할 필요 없이 암호 재설정 배포](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
 - [암호 재설정에 사용되는 데이터](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
@@ -59,7 +59,7 @@ ms.locfileid: "50585653"
 - 다음 경우 이 블레이드가 표시되지 않습니다.
     - 암호 쓰기 저장을 사용하고 있지 않습니다.
     - 암호 쓰기 저장 설치/연결에 문제가 있습니다.
-    - Azure AD Connect의 설치/연결에 문제가 있습니다.
+    - Azure AD 설치/연결에 문제가 커넥트
     - 암호 쓰기 저장 관련 문제에 대한 자세한 문제 해결 단계는 암호 쓰기 저장 문제 [해결 섹션을 참조하세요.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **사용자 암호를 다시 설정하는 방법을 모르는 경우**
@@ -71,7 +71,7 @@ ms.locfileid: "50585653"
 1. 화면의 지시를 따릅니다.
     - Azure Portal에서 암호 쓰기 저장을 지원하는 데만 수행되는 재설정입니다.
 
-**Office 365 관리 포털 또는 Office 365 모바일 응용 프로그램에서 사용자의 암호를 다시 설정했지만 사용자가 여전히 로그인할 수 없습니다.**
+**Office 365 관리자 포털 또는 모바일 응용 프로그램에서 Office 365 사용자 암호를 다시 설정했지만 사용자가 여전히 로그인할 수 없습니다.**
 
 암호 쓰기 저장은 이 포털에서 지원되지 않습니다. Azure Portal에서 사용자 암호를 다시 portal.azure.com
 

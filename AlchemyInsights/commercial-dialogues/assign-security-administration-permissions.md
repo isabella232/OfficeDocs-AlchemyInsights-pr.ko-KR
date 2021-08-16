@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 697471a691bf8981733d01b05fbc6406a2879ce1
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8f2f55564e88f5163cefdbfc0291fffb13a0ab8fbe12d4eda9a885158445d44c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989021"
 ---
 # <a name="assign-the-security-administration-permissions"></a>보안 관리 사용 권한 할당
 

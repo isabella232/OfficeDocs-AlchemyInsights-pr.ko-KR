@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 34e86f441297f263bf86ed56097f6d2e9642fe48
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 3893fc4c5cbd6e7c1f40f7d36c4f496739384952c43d23bbbfb215e4af28b303
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988959"
 ---
 # <a name="assign-permissions-for-custom-sensitive-information-type-creation"></a>사용자 지정 중요한 정보 유형 생성에 대한 권한 할당
 

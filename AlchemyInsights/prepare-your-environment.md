@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12304"
 - "9007382"
-ms.openlocfilehash: 114333ee64efe30dd5b559c9ef4ed20b902c817c
-ms.sourcegitcommit: 4b476ea92b3d1c29f26279853183b5f185683051
+ms.openlocfilehash: 0d063560e3264d95c39b61af65b2bcb2242eaed04294623fbeac4562c25b1c1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53410968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040188"
 ---
 # <a name="prepare-your-environment"></a>환경 준비
 

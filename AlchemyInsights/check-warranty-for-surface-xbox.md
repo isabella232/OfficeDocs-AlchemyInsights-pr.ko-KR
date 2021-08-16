@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9756"
 - "9005679"
-ms.openlocfilehash: add41d938619c5744fbd08a15cd497ff2a41a486
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 83dd648705c4ee4e58fcf53d0b2b2ba04d2c80128e826d39fbb2061eb547f63e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505326"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989057"
 ---
 # <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Surface 또는 Xbox 장치에 대한 보증 상태 확인
 
-Surface 또는 Xbox 장치가 있는 경우 Microsoft 계정을 사용하여 보증을 확인할 수 있습니다. 구체적으로는 다음과 같은 방식으로 보안이 개선되었습니다.
+Surface 또는 Xbox 장치가 있는 경우 Microsoft 계정을 사용하여 보증을 확인할 수 있습니다. 방법은 다음과 같습니다.
 
 1. [Microsoft 계정](https://account.microsoft.com/devices/)으로 로그인합니다. 
 

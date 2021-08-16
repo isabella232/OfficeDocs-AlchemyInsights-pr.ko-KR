@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000210"
 - "4837"
-ms.openlocfilehash: 168860aaa34f39eddb3e7d7073ca108f882f2e79
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f899af7b6a2bbd450cbff4c974ffc559940612d34dae6b7abad55441bfd9a9cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813118"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068962"
 ---
 # <a name="files-restore-feature"></a>파일 복원 기능
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: f791c15a57a4da209b7802db853c0d3ab6c1b681
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 219836e3e71f9e0def27449bf1de519a1a611c9f1823dfd2b918f93345ccdc6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51802245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076468"
 ---
 # <a name="office-activation-errors"></a>Office 정품 인증 오류
 

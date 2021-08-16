@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10891"
 - "1100004"
-ms.openlocfilehash: 833fa288b23d5457f0255f86458862d8f8edff97
-ms.sourcegitcommit: 6545b7d7dfb4e022fd018eece6f466fdb36e45c6
+ms.openlocfilehash: bb529e78a551912316253a0479b4dfb431dd57d5b292d5e60103a32a6a9959fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "51614017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015878"
 ---
 # <a name="guest-user-password-reset"></a>게스트 사용자 암호 재설정
 
