@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 계정 잠김
+title: Outlook.com 계정이 잠겨 있습니다.
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: 5ea4e9b9c25aa6c8136c7b8f9de682d6d741688a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ff6abac5ed18750767f76aca158779c5cb3bba1324b0a451987cc37b4b0e239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802315"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063922"
 ---
-# <a name="account-locked"></a>계정 잠금
+# <a name="account-locked"></a>계정이 잠겨 있습니다.
 
-Outlook.com에 로그인 하려고 할 때 "계정이 잠겼습니다." 라는 메시지가 표시 되 면 계정에서 이상한 활동이 발견 되었기 때문입니다. 잠재적인 사기 또는 남용 으로부터 보호 하기 위해 임시로 계정을 잠갔습니다. 이 작업은 혼란을 나타내지만 몇 단계만 수행 하 여 계정에 다시 액세스 하는 데 도움이 될 수 있습니다.
+Outlook.com에 로그인하려고 할 때 "계정이 잠겨 있습니다."라는 메시지가 표시되는 경우 계정에 비정상적인 활동이 몇 가지 발견된 것입니다. 잠재적인 사기 또는 남용으로부터 보호하기 위해 계정이 일시적으로 잠겨 있습니다. 이 문제를 잘 알고 있지만 몇 단계만 수행하면 계정으로 돌아오는 데 도움이 될 수 있습니다.
 
-1.  [Account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) 로 이동 하 여 잠긴 계정에 로그인 합니다.계정의 잠금을 해제 하려면 Microsoft의 문자 메시지에 제공 된 보안 코드를 입력 해야 합니다. 문자 메시지를 받으려면 텍스트 메시징을 지 원하는 전화가 있어야 합니다. 휴대폰에서 텍스트 메시징을 지원 하지 않는 경우 친구나 가족 구성원에 게 휴대폰을 사용 하도록 요청할 수 있습니다. Microsoft는이 전화 번호를 저장 하지 않으므로이 문자 메시지를 수신 하는 데 사용 하는 전화 번호는 사용자의 계정에 연결할 필요가 없습니다.
-2. "사용 제한 초과" 라는 메시지가 표시 되 면 [계정 Reinstatement](https://go.microsoft.com/fwlink/?linkid=2090483)으로 이동 하   고, 에이전트 중 하나에서 계정을 검토 합니다.
+1. 이동하여 [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) 계정으로 로그인합니다. 계정의 잠금을 해제하려면 Microsoft에서 제공하는 문자 메시지에 제공된 보안 코드를 입력해야 합니다. 문자 메시지를 보내기 위해 문자 메시지를 지원하는 전화가 있어야 합니다. 휴대폰에서 문자 메시지를 지원하지 않는 경우 친구나 가족에게 휴대폰을 사용할 것을 요청할 수 있습니다. Microsoft는 이 전화 번호를 저장하지 않습니다. 따라서 이 문자 메시지를 받는 데 사용하는 전화 번호는 계정과 연결될 필요가 없습니다.
+2. "사용 제한이 초과했습니다."라는 메시지가 표시될 경우 계정 재구성으로 이동하여 에이전트 중 한 명에게 귀하의 계정을 검토합니다. [](https://go.microsoft.com/fwlink/?linkid=2090483)
 
-자세한 내용을 보려면 [내 Outlook.com 계정 차단 해제](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 를 참조 하세요. 
+자세한 내용은 내 Outlook.com 계정을 차단 [해제를 읽어 보시고](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 

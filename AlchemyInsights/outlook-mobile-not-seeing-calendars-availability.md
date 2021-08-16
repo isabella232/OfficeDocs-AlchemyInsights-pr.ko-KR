@@ -1,5 +1,5 @@
 ---
-title: 가용성을 선택할 때 Outlook Mobile에 달력이 표시 되지 않음
+title: Outlook 가용성을 선택할 때 모바일에 일정이 표시되지 않습니다.
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3070"
 - "9001109"
-ms.openlocfilehash: e0523100caead474b63ef8ddfcd4622ccbd3669c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 150d0f470571a5e78124634f190ea61f2c5debbd13925af133c83b351bb6c6f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000326"
 ---
-# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>사용 가능한 시간을 선택할 때 예상 되는 일정이 표시 되지 않음
+# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>가용성을 선택할 때 예상한 일정이 표시되지 않습니다.
 
-원하는 달력이 표시 되지 않으면 일정으로 이동 하 여 화면 왼쪽 위 모서리에 있는 메뉴 단추를 탭 하 고 원하는 달력이 선택 되어 있는지 확인 합니다. 보내기 사용 가능 시간을 선택할 때이 메뉴에서 사용 하도록 설정 된 달력만 표시 됩니다.
+예상한 일정이 없는 경우 일정으로 이동하여 화면의 왼쪽 위 모서리에 있는 메뉴 단추를 탭하고 예상한 일정이 선택되어 있도록 합니다. 가용성 보내기 시간을 선택할 때 이 메뉴에서 사용하도록 설정된 달력만 표시됩니다.

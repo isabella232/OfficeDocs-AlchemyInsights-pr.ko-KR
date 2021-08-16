@@ -1,5 +1,5 @@
 ---
-title: 8000066-규칙 2-Outlook.com 해킹-스페인어
+title: 8000066 - 규칙 2 - Outlook.com 해킹 - 스페인어
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "1140"
 - "8000066"
 - "8000067"
-ms.openlocfilehash: f7b66212cbea119b5cfe6d6d131506020c0d6051
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28167e392ab581d24f44a5ffebce49597ec7abe5ea6a1520b70d99382bbb6e2b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724192"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096268"
 ---
-# <a name="han-pirateado-mi-cuenta-de-outlookcom"></a>한자 pirateado mi, enta de Outlook.com
+# <a name="han-pirateado-mi-cuenta-de-outlookcom"></a>Han pirateado mi cuenta de Outlook.com
 
-Si su estenta se ha pirateado significa mail.que alguien robó la contraseña y es posible mail.que esté usando la obtener acceso a su información personal o enviar correo no layentado.
+Si su cuenta se ha pirateado significa que alguien robó la contraseña y es posible que esté usando la cuenta para obtener acceso a su información personal o enviar correo no deseado.
 
-[Siga las instrucciones 단락입니다.](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
+[Siga las instrucciones para recuperar su cuenta.](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
 
-단락 restablecer la, mediante el teléfono u otro equipo, vaya a [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814)
+Para restablecer la cuenta mediante el teléfono u otro equipo, vaya a [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814).

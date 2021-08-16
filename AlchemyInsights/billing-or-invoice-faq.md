@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: 6a7c6683b2b82f3e3fe270d4909f5ecfa5acb639
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: d50f4c7a3ac7a8de8ab280c87f4b815479788bc04aef792dcc3e503bed5b2f03
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688548"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54501678"
 ---
 # <a name="billing-or-invoice-faq"></a>대금 청구 또는 청구서 FAQ
 

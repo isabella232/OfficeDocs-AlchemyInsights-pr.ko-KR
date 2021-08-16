@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9003038"
 - "5800"
-ms.openlocfilehash: 816369ebf3adaf508c70c380b7cd5ed759922c25e4914079e5b4d13d72d0fcf4
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7094fb4ee17fd4d609ea0739269cf6b3780f4355
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501030"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295805"
 ---
 # <a name="license-missing-or-disappears-from-the-admin-center"></a>라이선스가 없거나 관리 센터에서 사라짐
 

@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "492"
 - "1500024"
-ms.openlocfilehash: a0c18b042494a1317de9d4f2f3d3ff233b6c3ca2
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 00dd95e617293bd285faff0f028a5766d2433ca89bfffe5cf053314dd56d8241
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688404"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54501714"
 ---
 # <a name="pay-by-invoice"></a>송장으로 결제
 
