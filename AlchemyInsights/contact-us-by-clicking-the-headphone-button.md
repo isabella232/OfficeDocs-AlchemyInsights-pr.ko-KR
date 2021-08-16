@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 329768f62c3da71b5454c7155e66509ae4c01df4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ad82ad2b88d24cb3e037e2ee844529d531f91ccd2f0b2c83b08ead9df889cc0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816962"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032933"
 ---
 # <a name="contact-us-by-clicking-the-headphone-button"></a>헤드폰 단추를 클릭하여 문의
 

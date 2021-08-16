@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10933"
 - "5300030"
-ms.openlocfilehash: f60158cc4606a0121db3037f1dfcb03f3745eedb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 011c9a522dba991deb02797b894a53ea989240c354d219133ab909a2baceb61a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829837"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992549"
 ---
 # <a name="migrate-box-to-microsoft-365-with-migration-manager"></a>마이그레이션 관리자를 사용하여 Box를 Microsoft 365로 마이그레이션
 

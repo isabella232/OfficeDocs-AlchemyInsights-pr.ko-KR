@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: b723566a29e0be581b7fdc30332166d5cddbd38f
-ms.sourcegitcommit: 270a1ca9c35b50b8be6b06f432c9c90e4090fb57
+ms.openlocfilehash: 8750c9036f258d9c5edc94bb027d564140bbd9914712cc1f25ff3abc3f4b9468
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "53339981"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041592"
 ---
 # <a name="outbound-relay-pool"></a>아웃바운드 릴레이 풀
 

@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: b41797fbae6972bc0a9e0fa2252fec36f9b02ace
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 802a37239467624a856393b9909170c3f3b2233cfa238508fd0515749a71d1a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753769"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025112"
 ---
 # <a name="bitlocker-recovery"></a>BitLocker 복구
 
-[장치로](https://account.microsoft.com/devices/recoverykey) 이동 하 여 BitLocker 복구 키를 확인 합니다.
+장치로 [이동하여](https://account.microsoft.com/devices/recoverykey) BitLocker 복구 키를 시청합니다.
 
-자세한 내용은 [My BitLocker 복구 키 찾기를](https://support.microsoft.com/help/4026181)참조 하세요   .
+자세한 [내용은 BitLocker 복구 키](https://support.microsoft.com/help/4026181) 찾기를 참조하세요.
