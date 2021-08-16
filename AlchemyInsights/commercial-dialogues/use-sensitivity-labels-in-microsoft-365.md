@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: fbeef7638759e1f2884430a784b9f6c6f172193b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09c84f22caeb7868e48f2ede81b81ca2055a40c49e9c27d439577532c5094547
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737925"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070315"
 ---
 # <a name="use-sensitivity-labels-in-microsoft-365"></a>Microsoft 365에서 민감도 레이블 사용
 

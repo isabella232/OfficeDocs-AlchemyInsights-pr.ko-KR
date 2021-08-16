@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2555"
 - "9000675"
-ms.openlocfilehash: a97712433a245c16e9dd01192f689c3afc96d4cb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e9e9ddd131c109d20f1772089b8103fbde12d81adc3f2282210c8a9e2e43611
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031772"
 ---
-# <a name="pstn-calling-with-microsoft-teams"></a>Microsoft Teams를 통해 PSTN 통화
+# <a name="pstn-calling-with-microsoft-teams"></a>PSTN 통화 및 Microsoft Teams
 
-Microsoft Teams의 Microsoft Teams 전화 및 PSTN 통화에 대한 자세한 내용은 [Microsoft 365의 Microsoft Teams Phone이란?을 참조하세요.](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)
+Microsoft Teams 전화 PSTN 통화에 대한 자세한 내용은 Microsoft Teams 통화의 Microsoft Teams 전화 [Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)

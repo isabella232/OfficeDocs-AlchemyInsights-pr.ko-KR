@@ -1,5 +1,5 @@
 ---
-title: 1065 EOP 아웃 바운드 IP 주소 rangesMC146155의 중단
+title: 1065 EOP 아웃바운드 IP 주소 범위 사용 안 림C146155
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: afd725668f906339f4b7d769bb67a4d2ee5a6ac6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 214abc57a99c70a02a7d159441713e007f6ad980f67e373780d4ca297f69f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031268"
 ---
-# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>EOP 아웃 바운드 IP 주소 범위 중단
+# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>EOP 아웃바운드 IP 주소 범위 사용 안
 
-조직에서 잠재적인 문제를 감지 했으며 (이 경우, 2018에서 수정 하지 않은 경우) 온-프레미스 또는 외부 대상으로 메일 흐름이 중단 될 수 있습니다. 이전에는 IP 주소 범위 관리를 단순화 하기 위해 EOP (Exchange Online Protection) IP 주소 범위가 Microsoft 365 외부에서 전자 메일을 보내고 받는 데 사용 됩니다. 이 분석은 메일 흐름 커넥터에 구성한 하나 이상의 외부 전자 메일 원본 또는 대상이 [여기](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)에 표시 된 IP 주소 범위 로부터의 연결을 수락 하지 않음을 의미 합니다.
+조직에서 (2018년 10월 26일까지 수정되지 않은 경우) 메일 흐름이 프레미스 또는 외부 대상에 중단될 수 있는 잠재적인 문제를 감지했습니다. 앞서 설명한 것 처럼 IP 주소 범위 관리를 단순화하기 위해 외부에서 전자 메일을 보내고 받는 데 사용되는 EOP(Exchange Online Protection) IP 주소 범위를 Microsoft 365. 이 분석은 메일 흐름 커넥터에서 구성한 하나 이상의 외부 전자 메일 원본 또는 대상이 여기에 표시된 IP 주소 범위의 연결을 수락하지 않는 것을 [나타냅니다.](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
-이 원본 및 대상에서 게시 된 모든 [EOP IP 주소](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)간의 연결을 허용 하도록 하려면 10 월 26th 이전에 역할을 수행 합니다.
+이러한 원본 및 대상이 게시된 모든 EOP IP 주소와의 연결을 수락하도록 10월 26일 [이전의 행동을 합니다.](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
-이 변경 내용에 대 한 자세한 내용은 Message Center 게시물 [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)또는 [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274)를 참조 하십시오.
+이 변경에 대한 자세한 내용은 메시지 센터 게시물 [MC146155,](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155) [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)또는 [MC149274를 참조하세요.](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274)
 
-**참고**: 끝점 업데이트를 위해 HTML, XML 및 RSS를 통해 이전에 IP 또는 URL 게시를 사용한 경우 이러한 유형의 업데이트를 자동화 하기 위해 새 웹 서비스로 마이그레이션해야 합니다. 자세한 내용은 [microsoft 365 끝점 범주 및 microsoft 365 IP 주소 및 URL 웹 서비스](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638)를 참조 하세요.
+**참고:** 이전에 끝점 업데이트에 HTML, XML 및 RSS를 통해 IP 또는 URL 게시를 사용한 경우 이러한 유형의 업데이트를 자동화하기 위해 새 웹 서비스로 마이그레이션해야 합니다. 자세한 내용은 끝점 범주 Microsoft 365 IP 주소 Microsoft 365 웹 서비스를 [참조하세요.](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638)

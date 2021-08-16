@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "3043"
 - "1500012"
-ms.openlocfilehash: 9bf0273fc2f0ca653750d037f022c5bf367bf23a
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 9113c21a6b840abbbe86c54a9b6e41f4e61aa4916ff6a96ecd8f5170640bcd95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689304"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031844"
 ---
 # <a name="renewing-your-subscription"></a>구독 갱신
 

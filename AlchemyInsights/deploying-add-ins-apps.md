@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 3aacc3c6675f4102a5b34a435c862215dbfd0479b75549d608ed3c91021ed3d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031412"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>사용자용 추가 기능 Microsoft 365 앱
 
@@ -27,7 +27,7 @@ ms.locfileid: "52233540"
 **참고:** 개별 사용자로 사용할 추가 기능을 Office 프로그램 에서 추가 기능 [보기, 관리 및 설치를 Office 참조합니다.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) 또한 스토어 추가 기능의 개별 Office 사용하도록 설정되어 있는지 확인합니다. 자세한 내용은 모든 클라이언트에서 Office Store를 해제하여 추가 기능 다운로드 [방지(Outlook)를 참조합니다.](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)
 
 1. 환경이 중앙 집중식 배포를 사용하여 추가 기능을 배포하기 위한 요구 사항을 충족하는지 확인합니다. 자세한 내용은 Requirements을 [참조하세요.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements)
-2. 통합 **설정** 추가 기능을 배포하려면 Microsoft 365 관리 센터에서 앱  >    >   다운로드로 이동하세요. 
+2. 통합 **설정** 추가 기능을 Microsoft 365 관리 센터 앱  >    >   다운로드로 이동하세요. 
 
 참고: 
 
@@ -41,11 +41,11 @@ ms.locfileid: "52233540"
 
 - 통합 앱을 사용하여 추가 기능을 배포하는 데 문제가 있는 경우 추가 기능을 사용하여 [배포해 보아야 합니다.](https://admin.microsoft.com/AdminPortal/Home?#/Settings/AddIns)
 
-자세한 내용은 다음을 참조하세요.
+자세한 내용은 다음 항목을 참조하세요.
 
 [관리 센터에서 추가 기능 배포](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins) 
  [관리 센터에서 추가 기능 관리](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center) 
  [중앙 집중식 배포 PowerShell cmdlet을](https://docs.microsoft.com/microsoft-365/enterprise/use-the-centralized-deployment-powershell-cmdlets-to-manage-add-ins) 사용하여 추가 기능 관리 
- 중앙 Office 센터를 통해 중앙 집중식 배포를 사용하여 Microsoft 365 [추가 기능 게시](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
+ [중앙 Office](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 사용하여 추가 기능을 게시합니다Microsoft 365 관리 센터 
  [문제 해결: 사용자가 추가 기능을 볼 수 없습니다.](https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins) 
  [추가 기능을 사용하여 사용자 Office 해결](https://docs.microsoft.com/office/dev/add-ins/testing/testing-and-troubleshooting)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000739"
 - "4709"
-ms.openlocfilehash: 51153353a62ea4643b24cb369e2727b707a80ce5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2dd837d9b71c96ae8aa03def91eae46bde4cfb6cb9f425fdbe4d7c61917bf0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813406"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100516"
 ---
 # <a name="export-a-notebook"></a>전자 필기장 내보내기
 

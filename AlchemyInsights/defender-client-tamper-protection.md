@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 4873b026839b7cde8221bf8389cd33023056e605
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b058ea036bbe2f2a955df322d80d7cc263937e903b12226e204b24432035f06e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031628"
 ---
 # <a name="defender-tamper-protection"></a>Defender 변조 보호 
 
