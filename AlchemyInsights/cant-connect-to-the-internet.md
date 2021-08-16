@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 6d865aa08a5703ec5906d7f263532184fc50ed7e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1547d69cf990d6f0872e23162408860ed25aa805eb99f818eb079d0f7e04ce35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819446"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035670"
 ---
 # <a name="fix-network-connection"></a>네트워크 연결 수정
 
@@ -43,6 +43,6 @@ Wi-Fi 사용하는 경우 장치에 Wi-Fi(실제 Wi-Fi 스위치 포함)에 대�
 
 **고급 문제 해결**
 
-자세한 문제 해결 단계는 [Windows에서 연결 Wi-Fi 수정을 참조하세요.](https://support.microsoft.com/help/10741?ocid=SMC10741%2F) 
+자세한 문제 해결 단계는 에서 연결 [Wi-Fi 수정을 Windows.](https://support.microsoft.com/help/10741?ocid=SMC10741%2F) 
 
 기술 문제 해결 단계를 사용하는 데 문제가 없는 경우 [문의하세요.](https://support.microsoft.com/contactus)

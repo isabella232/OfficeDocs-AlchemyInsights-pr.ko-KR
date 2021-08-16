@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "4858"
-ms.openlocfilehash: ea361de164f3bc62f99ce8c59310f21abea3a386
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9855b5c1db73ec0dca7f11c497b496da2155ba715c83bd1c9c169bdc14716491
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818078"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035408"
 ---
 # <a name="add-update-or-remove-your-payment-methods"></a>결제 방법을 추가, 업데이트 또는 제거
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003306"
 - "6201"
-ms.openlocfilehash: 748008f11b3b480a4003ae4c1e6562fa6f0ce358
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e4298bbdb4d9e3f606c5bdf2bd0511ad56809bf616f1b02242519b2172c64e36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748547"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035552"
 ---
 # <a name="cant-create-a-team-in-teams"></a>Teams 에서 팀을 만들 수 없습니다.
 

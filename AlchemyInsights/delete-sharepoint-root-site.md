@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5727"
-ms.openlocfilehash: 849c5c58ab4688130d71baffac8fe39eddf92f18
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4965e38f69c9d7f3a5c1facd23a0ee487e499f55f5779672808a54b86c90aeaa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102264"
 ---
 # <a name="delete-the-sharepoint-root-site"></a>SharePoint 루트 사이트 삭제
 

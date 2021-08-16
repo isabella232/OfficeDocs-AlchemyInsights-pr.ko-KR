@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 22c2468b7639680b447b6464431a79b69f7198c3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 59360a040fe413e92cd880b1225b9006384a823f6e8abeb7ef922949b9a874fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035228"
 ---
 # <a name="configure-message-encryption-for-a-hybrid-environment"></a>하이브리드 환경에 대한 메시지 암호화 구성
 
-하이브리드 Exchange 환경의 경우, 전자 메일이 Exchange Online을 통해 라우팅된 경우만 OME(Office 메시지 암호화)를 사용하여 암호화된 전자 메일을 보낼 수 있습니다.
+하이브리드 Exchange 환경의 경우 전자 메일이 OME(Office 암호화)를 사용하여 암호화된 전자 메일을 보낼 수 Exchange Online.
 
 OME를 사용하여 전자 메일을 암호화하기 위해 다음 단계를 수행합니다.
 

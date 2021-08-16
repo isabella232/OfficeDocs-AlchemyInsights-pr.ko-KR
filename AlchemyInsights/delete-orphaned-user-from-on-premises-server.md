@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1725"
 - "9000179"
-ms.openlocfilehash: 537ae7edebfa5a4ab71c2141d549d732ed4f883f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6af617fa4235868f0754ff4c06f4cc73b1700ef14ea449dd1886ab100ddd384
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680141"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102263"
 ---
 # <a name="delete-orphaned-user-from-on-premises-server"></a>온-프레미스 서버에서 분리 된 사용자 삭제
 
