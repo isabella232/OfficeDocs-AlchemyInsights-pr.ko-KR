@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "4577"
-ms.openlocfilehash: 01938a59b53ccf8b7867ed9c256e141205d31dff
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7b5acf4dd3061c7d9ed23d52a8355865592b9a1d743025fc9300dcda5a18831a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069250"
 ---
 # <a name="exchange-powershell-and-basic-authentication-deprecation"></a>Exchange PowerShell과 기본 인증 중단
 

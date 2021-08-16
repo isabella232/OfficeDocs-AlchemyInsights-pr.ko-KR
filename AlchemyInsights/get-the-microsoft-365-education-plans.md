@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4979"
-ms.openlocfilehash: 52fa2cce9a47574ad4c44f512616c213c70fe378
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 004ec67e57da98917d2c7a9924310233cb271041d2b7bedbc288dc9cbff26385
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812074"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029450"
 ---
 # <a name="get-the-microsoft-365-education-plans"></a>Microsoft 365 Education 플랜 구입
 

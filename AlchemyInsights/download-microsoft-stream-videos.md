@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002470"
 - "4806"
-ms.openlocfilehash: 1d3e54a8e18b46fda548099934cd94c331aad605
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5905d8998fa0fb39da0928d940a0820520776199e04271430c36d3f7c1cd92fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814631"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057792"
 ---
 # <a name="download-microsoft-stream-videos"></a>Microsoft Stream 비디오 다운로드하기
 
