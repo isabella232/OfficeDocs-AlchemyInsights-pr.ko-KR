@@ -13,18 +13,18 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952234"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074938"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Exchange 관리 센터의 보존 정책
 
 아래에 언급된 설정에 대한 자동 검사를 실행하려면 이 페이지 맨 위에 있는 뒤로 단추<-를 선택한 다음 보존 정책에 문제가 있는 사용자의 전자 메일 주소를 입력합니다.
 
-Exchange 관리 센터의 보존 정책에 문제가 있는 경우 사서함이나 보관 사서함으로 이동하지 않는 항목에 적용하지 않는 경우 다음을 검사합니다.
+Exchange 관리 센터에서 보존 정책에 문제가 있는 경우 보관 사서함으로 이동하지 않는 항목이나 사서함에 적용하지 않는 경우 다음을 검사합니다.
 
 **근본 원인:**
 

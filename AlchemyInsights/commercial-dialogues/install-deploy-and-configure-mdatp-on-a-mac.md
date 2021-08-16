@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: d4d9085064d013ab9cf8a8c1304e10953c1a627d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5c56d39031256c91a664fd3f696632bcf8e83737b6533a78fe9960ec677509c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736618"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034472"
 ---
 # <a name="install-deploy-and-configure-mdatp-on-a-mac"></a>Mac에서 MDATP 설치, 배포 및 구성
 

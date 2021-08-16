@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005665"
 - "9926"
-ms.openlocfilehash: bebf23f5a592c621e163de97d6c439eb7c3b14e1
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: 69edaed056670a3d67cc0aba982b9d2528dbae936b209022733205efcf421062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51123136"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020594"
 ---
 # <a name="turn-on-and-off-color-filter"></a>색 필터 설정 및 해제
 

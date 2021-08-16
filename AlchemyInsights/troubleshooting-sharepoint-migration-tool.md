@@ -1,5 +1,5 @@
 ---
-title: SharePoint 마이그레이션 도구 문제 및 오류 문제 해결
+title: 마이그레이션 SharePoint 문제 해결
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,16 +14,16 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 4277c524f5900ef92d39608655453a210f4ed601
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96b9dc16251701bd24e59153a72ec9a82f75663166b0dac796276e6f66c6424
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735745"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020666"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>SharePoint 마이그레이션 도구 문제 및 오류 문제 해결
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>마이그레이션 SharePoint 문제 해결
 
-SPMT (SharePoint 마이그레이션 도구)를 사용할 때 몇 가지 일반적인 문제와 오류가 발생할 수 있습니다. 자세한 내용을 보려면 아래 링크를 참조 하세요.
+SPMT(마이그레이션 도구)를 사용할 때 몇 가지 일반적인 SharePoint 발생할 수 있습니다. 자세한 내용은 아래 링크를 참조하세요.
 
 - [일반적인 SPMT 오류 문제 해결](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
 

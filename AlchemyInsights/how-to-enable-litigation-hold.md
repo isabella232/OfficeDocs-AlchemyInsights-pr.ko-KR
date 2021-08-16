@@ -1,5 +1,5 @@
 ---
-title: 976-사용 권한 소송-보존
+title: 976-how-to-enable-litigation-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,17 +14,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 47d5a0866a6e92da2a3abb377a5e93918b5a1c9d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbc3460dde8030238d56d054af7e4ee13d655d7d54f65c3275a73e899dd6f813
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067522"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>사서함을 법적 보존 상태로 설정
+# <a name="place-a-mailbox-on-legal-hold"></a>사서함을 법적 보유로 설정
 
-- 사서함에 소송 보존 또는 원본 위치 유지를 설정 하려면 Exchange Online 계획 2 라이선스 [Exchange Online 계획 2 라이선스가](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) 필요 합니다. 사서함에 계획 1 라이선스가 할당 되 면 별도의 Exchange Online 보관 추가 기능 라이선스 [Exchange Online 보관 추가 기능 라이선스](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)를 할당할 수 있습니다.
+- 사서함에 소송 보류 또는 소송 In-Place 계획 2 Exchange Online 계획 2 Exchange Online [라이선스가](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) 필요합니다. 사서함에 계획 1 라이선스가 할당된 경우 추가 기능 라이선스에 Exchange Online Archiving 라이선스를 [Exchange Online Archiving 수 있습니다.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)
 
-- 단일 사용자에 대해 소송 보존을 사용 하도록 설정 하려면 [다음 단계를 수행](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold)합니다. 소송 보존을 사용 하도록 설정 하면 사서함의 모든 콘텐츠가 보존 됩니다.
+- 단일 사용자에 대해 소송 보류를 사용하도록 설정하려면 다음 [단계를 따릅니다.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold) 소송 보존을 사용하도록 설정하면 사서함의 모든 콘텐츠가 보존됩니다.
 
-- 조직의 모든 사서함에 콘텐츠를 보존 하거나 다른 유형의 보존 유지를 만들려면 보존 정책이 나 레이블을 사용 합니다. 조직 전체 보존 정책의 경우 새 사용자가 정책에 자동으로 할당 됩니다. 자세한 내용은 [보존 정책 및 보존 레이블에 대 한](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)자세한 정보를 참조 하십시오. 
+- 조직의 모든 사서함에서 콘텐츠를 보존하거나 다른 유형의 보존 보존을 만들 수 있도록 보존 정책 또는 레이블을 사용하세요. 조직 전체 보존 정책의 경우 새 사용자에게 정책이 자동으로 할당됩니다. 자세한 내용은 보존 정책 및 보존 레이블에 대해 자세히를 [참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations) 

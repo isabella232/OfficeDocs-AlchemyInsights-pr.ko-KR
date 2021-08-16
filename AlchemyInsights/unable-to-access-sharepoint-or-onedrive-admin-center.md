@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001459"
 - "5638"
-ms.openlocfilehash: 7ba4a9c6995c03dd21e0e1aa387e407d41a08fb1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: afb28ccae2c9f087f1e1417cb6594cedc908e1cf759a5d1e6d92c4ee9a75527d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824441"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020450"
 ---
 # <a name="unable-to-access-sharepoint-or-onedrive-admin-center"></a>SharePoint 또는 OneDrive 관리 센터에 액세스할 수 없음
 
