@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976855"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019514"
 ---
 # <a name="authentication-issues"></a>인증 문제
 
@@ -75,14 +75,14 @@ Microsoft Graph와 같은 API 서비스는 수신된 액세스 토큰의 *aud* �
 - [MSAL을 사용하여 조건부 액세스 문제 처리](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Azure Active Directory 조건부 액세스에 대한 개발자 가이드](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_ADAL(Azure Active Directory 인증 라이브러리) 및 AZure AD 그래프 API(AAD Graph) 지원 종료_* _
+***ADAL(Azure Active Directory 인증 라이브러리) 및 AZure AD 그래프 API(AAD Graph) 지원 종료***
 
 - 2020년 6월 30일부터 ADAL(Azure Active Directory 인증 라이브러리) 및 AAD 그래프 API(Azure AD Graph API)에 새로운 기능을 더 이상 추가하지 않습니다. 기술 지원 및 보안 업데이트를 계속 제공하지만 기능 업데이트는 더 이상 제공하지 않습니다.
 - 2022년 6월 30일부터 ADAL 및 AAD Graph에 대한 지원을 종료하고 더 이상 기술 지원이나 보안 업데이트를 제공하지 않습니다.
     - 기존 OS 버전에서 ADAL을 사용하는 앱은 이 시간 이후에도 계속 작동하지만 기술 지원이나 보안 업데이트를 받지 못합니다.
     - 이 시간 이후 AAD 그래프를 사용하는 앱은 더 이상 AAD 그래프 엔드포인트에서 응답을 받지 못할 수 있습니다.
 
-_ *ADAL 마이그레이션**
+**ADAL 마이그레이션**
 
 최신 기능 및 보안 업데이트가 있는 [MSAL(Microsoft Authentication Library)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)로 업데이트하는 것이 좋습니다. 이 권장 사항은 Microsoft가 지원 종료 시한까지 응용 프로그램을 MSAL로 마이그레이션하는 경우에 해당합니다. Microsoft 앱을 MSAL로 마이그레이션하는 목적은 앱이 MSAL의 지속적인 보안 및 기능 향상의 혜택을 받기 위한 것입니다.
 

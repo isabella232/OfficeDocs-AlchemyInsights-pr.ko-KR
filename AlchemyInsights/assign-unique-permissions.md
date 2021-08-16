@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6869"
 - "9000156"
-ms.openlocfilehash: ed07dea56090d1816fe59d2839fdecb58916a849
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 32d790e59ee2e4a96ed0172a14aee306b22a1f8ba6702e57ade5357a69b46803
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791461"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019622"
 ---
 # <a name="assign-unique-permissions-in-sharepoint"></a>SharePoint에서 고유한 사용 권한 할당
 

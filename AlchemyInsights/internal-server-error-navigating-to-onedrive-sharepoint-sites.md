@@ -1,5 +1,5 @@
 ---
-title: 성능 문제-SharePoint 또는 OneDrive
+title: 성능 문제로 SharePoint 또는 OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00516d08384cd29de46c7f49bcd673f285d56a8c349fc2adefa5ea2173abd7b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677176"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028442"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Sharepoint 또는 OneDrive 사이트로 이동 하는 동안 내부 서버 오류가 발생 했습니다.
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Sharepoint 또는 사이트로의 검색 시 내부 OneDrive 오류
 
-SharePoint 또는 OneDrive 사이트로 이동 하려고 하면 사용자에 게 500 내부 서버 오류가 수신 될 수 있습니다. 
+사용자가 사이트 또는 사이트로 이동하려고 할 때 500 내부 SharePoint OneDrive 있습니다. 
 
-사이트를 탐색 하기 전에 브라우저 캐시를 지워야 합니다.
+사이트로 가기 전에 브라우저 캐시를 지우어 보십시오.
 
 
-1. Microsoft Edge 브라우저에서 더 보기 > 설정으로 이동 합니다.
+1. In the Microsoft Edge browser, go to More...> 설정
 
-2. 검색 지우기 데이터에서 **지우려는 작업** 선택을 선택 합니다.
+2. 검색 데이터 지우기에서 **지우기 대상 선택을 선택합니다.**
 
-3. 쿠키 및 저장 된 웹 사이트 데이터 확인란을 선택 하 고 **지우기를**선택 합니다.
+3. 쿠키 및 저장된 웹 사이트 데이터 확인란을 선택하고 **지우기 를 선택합니다.**
 
-참고: Firefox, Chrome 등의 다른 브라우저를 사용 하는 경우에는 이러한 단계가 다를 수 있습니다.
+참고: Firefox 또는 Chrome과 같은 다른 브라우저를 사용하는 경우 이러한 단계는 다를 수 있습니다.
 
-이렇게 해도 문제가 해결 되지 않으면 [메시지 센터로](https://portal.office.com/adminportal/home#/MessageCenter)이동 하 여 테 넌 트에서 활성 유지 관리가 진행 되 고 있는지 확인할 수 있습니다.
+그래도 문제가 해결되지 않으면 메시지 센터로 가서 테넌트에 활성 유지 관리가 발생하는지 확인할 [수 있습니다.](https://portal.office.com/adminportal/home#/MessageCenter)
 
-마지막으로 [서비스 상태](https://portal.office.com/adminportal/home#/servicehealth) 페이지를 방문 하 여 발생할 수 있는 권고/인시던트가 있는지 확인 합니다.
+마지막으로 서비스 상태 페이지를 [](https://portal.office.com/adminportal/home#/servicehealth) 방문하여 발생될 수 있는 모든 권고/인시던트가 발생하는지 확인하십시오.
 

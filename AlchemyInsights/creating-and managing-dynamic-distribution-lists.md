@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3"
 - "5029"
-ms.openlocfilehash: 2187bc993d03c3c61c0d86d5c9d0194b643b4c3a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c44f47f12f7622df34ef9f9803025d2ed8f66397ada2b4a659df9b4d2dc75781
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815909"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994295"
 ---
 # <a name="creating-and-managing-dynamic-distribution-lists"></a>동적 메일 그룹 만들기 및 관리
 

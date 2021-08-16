@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002469"
 - "4805"
-ms.openlocfilehash: 2e324ec4c48dfa63b419d214f26c1f8f4bdcbb0b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b7553dcb1c158c52a01e8465273c81f43db2c2c0c44d51da1bb3e39d698d18c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019730"
 ---
 # <a name="assign-microsoft-stream-admins"></a>Microsoft Stream 관리자 할당
 

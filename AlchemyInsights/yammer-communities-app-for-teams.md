@@ -14,16 +14,16 @@ ms.custom:
 - "5134"
 - "9002653"
 - "5129"
-ms.openlocfilehash: 94c2b184d433c918bc1cf04e0547734e65fb3568
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6ae7c81aad2ca7d010935e5802568207844592d81d5fa99ee90804167ea8e4f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825845"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036411"
 ---
 # <a name="yammer-communities-app-for-microsoft-teams"></a>Microsoft Teams용 Yammer 커뮤니티 앱
 
-Microsoft Teams에서 작업하는 동안 팀들과 전체 조직 간에 관계를 구축하고 지식을 공유할 수 있도록 해주는 Yammer 커뮤니티를 이제 앱으로 사용할 수 있습니다. 이 앱을 Teams의 왼쪽에 고정할 수 있습니다. 
+Microsoft Teams에서 작업하는 동안 팀들과 전체 조직 간에 관계를 구축하고 지식을 공유할 수 있도록 해주는 Yammer 커뮤니티를 이제 앱으로 사용할 수 있습니다. Teams의 왼쪽에 앱을 고정할 수 있습니다. 
 
 - 자세한 내용은 [Microsoft Teams용 Yammer 커뮤니티 앱](https://go.microsoft.com/fwlink/?linkid=2127757&clcid=0x409)을 참조하세요.
 

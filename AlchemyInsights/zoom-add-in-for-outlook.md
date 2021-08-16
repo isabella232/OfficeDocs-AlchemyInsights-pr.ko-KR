@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002503"
 - "4851"
-ms.openlocfilehash: 8ef80703f8274bee5e8184b5e4eeb6be0d45afbc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 30a29db86026333a033e71789b1864b1e7e880685c979968f467ef26f7fdc485
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830291"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036408"
 ---
 # <a name="zoom-add-in-for-outlook"></a>Outlook용 확대/축소 추가 기능
 

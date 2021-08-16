@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001453"
 - "3465"
-ms.openlocfilehash: e278b15f552639332e576389ce10dbb0dc2d34fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c45a129b5d98bcd472e586034ce49aef090d4a8bfccf74097f6df8b0f5379184
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835745"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052932"
 ---
 # <a name="replace-a-word-or-phrase"></a>단어 또는 구 바꾸기
 
