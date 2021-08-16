@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6024"
 - "9002913"
-ms.openlocfilehash: fbba15ad0d93f61d5a3fd2bb24ae54f17141ee8b
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: dd1c3c49f4437bb735a6402a30d5bc4fb1312af3a2feba778062e5f7309a6cc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544692"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096952"
 ---
 # <a name="offboarding-machines-from-the-microsoft-defender-atp-service"></a>Microsoft Defender ATP 서비스의 오프보딩 컴퓨터
 

@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, sinakassaw
+ms.reviewer: sinakassaw, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002548"
 - "5149"
-ms.openlocfilehash: 16c77b78e509ecdd256a651f87f845ee9c7b59af
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: c93e11587eb929c2e0d38d479a529ec3c557a778342b1220f2b430a7a08eaa09
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686244"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54502290"
 ---
 # <a name="exchange-license-management"></a>Exchange 라이선스 관리
 

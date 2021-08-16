@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002403"
 - "4676"
-ms.openlocfilehash: a3cda6f733c15c7079e63223369fb7da70fa1397
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a29b2dc8d2ea218c6fc187bd1d5c18a3137f3f9b54a903d6433063c233f1996c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51791634"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011702"
 ---
 # <a name="new-to-teams"></a>Teams를 처음 사용하시나요?
 

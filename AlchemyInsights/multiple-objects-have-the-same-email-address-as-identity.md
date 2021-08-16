@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1834"
 - "9000247"
-ms.openlocfilehash: 05fb43133bc68b71ccdbab44d28679a1f659e762
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5866d182cb2e97e37bc6df87e05fb6ef55bfed1d36f9daa95b7b8993a509e2dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011918"
 ---
 # <a name="multiple-objects-have-the-same-email-address-as-identity"></a>여러 개체의 전자 메일 주소가 ID와 동일합니다.
 
 **여러 개체**
 
-이 오류가 발생하는 일반적인 이유 중 하나는 전자 메일 주소가 ID와 동일한 여러 개체가 존재하여 Outlook Web Access 요청을 올바르게 라우팅할 수 없기 때문입니다. 이와 같은 개체를 찾으려면 다음 명령을 실행합니다.
+이 오류가 발생하는 일반적인 이유 중 하나는 전자 메일 주소가 ID와 동일한 여러 개체가 존재하여 Outlook Web Access 요청을 올바르게 라우팅할 수 없기 때문입니다. 이러한 개체를 찾으려면 다음 명령을 실행합니다.
 
 · Get-Recipient <email address>
 
