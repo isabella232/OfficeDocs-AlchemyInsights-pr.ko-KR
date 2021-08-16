@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005372"
 - "9311"
-ms.openlocfilehash: fd212b7c8165e91bbe3baffcbd0cad1032c344ea
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 885c9b0b08a0040779aee7b2aba7ecceb4e30cc761e6c5a8c8d5d13dde4a2430
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736246"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071806"
 ---
 # <a name="camera-privacy-settings"></a>카메라 개인 정보 설정
 

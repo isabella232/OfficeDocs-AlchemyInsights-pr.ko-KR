@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8642"
 - "9004625"
-ms.openlocfilehash: 772d8c93d7bdd6f22fa7acfd4060b705625421ab
-ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
+ms.openlocfilehash: 52bea8bb3222e034d5629948dcad384d02cfd84b86fa387f493c3ad0abfc069a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2021
-ms.locfileid: "52883051"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101416"
 ---
 # <a name="learn-how-microsoft-edge-supports-identity-dependent-security-features"></a>ID 종속 Microsoft Edge 기능을 지원하는 방법에 대해 자세히 알아보기
 

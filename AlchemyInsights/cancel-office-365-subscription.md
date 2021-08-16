@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 0c30887923b2842d334379f0fc07e917a8fefe71
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: eb6bec37afc8702ec76dec5868c68f26e7c8b2633214a5c3f9776d7bb555bf64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071482"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>구독을 Microsoft 365 취소하나요?
 

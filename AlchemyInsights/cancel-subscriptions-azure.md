@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: 83fab49ccafd23352fe28569289a709a198fd402
-ms.sourcegitcommit: 80a36e6447953b3f65e45c05607dbfc585fbf8b0
+ms.openlocfilehash: b6a9a18287f548f4782f83ce8aaf3274c1b090f12ad723e81b72b40aec47d812
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51936160"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071374"
 ---
 # <a name="cancel-subscription"></a>구독 취소
 

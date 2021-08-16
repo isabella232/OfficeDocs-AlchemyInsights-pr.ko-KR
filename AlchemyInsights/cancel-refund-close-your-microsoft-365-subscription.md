@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002914"
 - "5614"
-ms.openlocfilehash: be745ebce624929d524e806012e70e29804615b9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 604107a6cdddf1b13fa3684fc6f235db54b5c8600f71fe8d42f26ee179abfe6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071446"
 ---
 # <a name="cancelrefundclose-your-microsoft-365-subscription"></a>Microsoft 365 구독 취소/환불/종료
 

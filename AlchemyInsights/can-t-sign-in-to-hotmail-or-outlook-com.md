@@ -1,5 +1,5 @@
 ---
-title: 8000077 Hotmail 또는 Outlook.com에 로그인 할 수 없습니까?
+title: 8000077 Hotmail 또는 Outlook.com에 로그인할 수 있나요?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "1198"
 - "8000077"
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
-ms.openlocfilehash: 851694cd42cf8ab0bcdf1d343c5fc268128779b6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: de094f65a216d6d3548d3a222511e0b750e578071c506319f838550a69e02d29
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683840"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071770"
 ---
-# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Hotmail 또는 Outlook.com에 로그인 할 수 없습니까?
+# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Hotmail 또는 Outlook.com에 로그인할 수 있나요?
 
-Outlook.com 계정을 활성 상태로 유지 하려면 적어도 365 일 마다 한 번씩 계정에 로그인 해야 합니다. 365 일의 비활성 시간 후에는 전자 메일이 삭제 되며 복구할 수 없습니다.
+Outlook.com 계정을 활성으로 유지하려면 365일마다 한 번 이상 계정에 로그인해야 합니다. 365일 동안 비활성 상태일 경우 전자 메일이 삭제되고 복구할 수 없습니다.
   
-365 일 이내에 로그인 되었지만 여전히 Hotmail 또는 Outlook.com 계정에 액세스할 수 없는 경우 [Outlook.com에 로그인 하거나 로그 아웃 하는 방법을](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)읽으십시오.
+365일 이내에 로그인했지만 Hotmail 또는 Outlook.com 계정에 액세스할 수 없는 경우 [Outlook.com에](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)로그인하거나 에서 로그인하는 방법을 Outlook.
   

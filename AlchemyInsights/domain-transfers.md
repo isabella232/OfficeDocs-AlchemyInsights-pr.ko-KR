@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: ffc549e81dff85ab3e91ddccd50e54603ee24ff0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3348d2d2de46b65e94dbbb4b81dc909a2e86b5ae7686b4612d7b1364e7d76a5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814883"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101560"
 ---
 # <a name="domain-transfers"></a>도메인 이동
 
