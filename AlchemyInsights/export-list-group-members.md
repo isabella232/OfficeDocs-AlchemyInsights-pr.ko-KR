@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11179"
 - "9006559"
-ms.openlocfilehash: 28deb5f60bba19119bb49546bebfb4f1775f17b9
-ms.sourcegitcommit: 3994cece80410371330b39f7b79b1b1c1bfcf648
+ms.openlocfilehash: 00c9c7156fc07e3cdfd9aa006b4fa13082d8c833c430904ffe674524cac0c197
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52287132"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100084"
 ---
 # <a name="export-list-of-microsoft-365-group-members"></a>Microsoft 365 그룹 구성원 목록 내보내기
 

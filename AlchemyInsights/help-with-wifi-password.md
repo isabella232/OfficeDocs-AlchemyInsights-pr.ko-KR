@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9799"
 - "9005399"
-ms.openlocfilehash: 31ec4f543d6b6bd0ae7e88911b6c3de4e46206b0
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: a24840cdc823eb3c9a52fcb02839310c15a96dc4026bb43169683db3c80a7be0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898330"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099779"
 ---
 # <a name="need-help-with-my-wi-fi-password"></a>Wi-Fi 암호에 대한 도움말이 필요하신가요?
 
@@ -38,7 +38,7 @@ ms.locfileid: "50898330"
 
 현재 Wi-Fi 네트워크를 사용하지 않는 경우 Wi-Fi 암호를 찾아볼 수 없습니다. 라우터에 대한 추가 지원을 원하는 경우 라우터 제조업체에 문의하거나 해당 지원 웹사이트를 방문하세요.
 
-라우터가 새 제품인 경우, Wi-Fi 이름과 암호는 라우터나 라우터의 본 상자에 적혀 있습니다. 자격 증명은 다음으로 표시됩니다.
+라우터가 새 제품인 경우, Wi-Fi 이름과 암호는 라우터나 라우터의 본 상자에 적혀 있습니다. 자격 증명은 다음과 같이 표시됩니다.
 
 네트워크 SSID: XXXXXXX 네트워크 키: XXXXXXXX
 

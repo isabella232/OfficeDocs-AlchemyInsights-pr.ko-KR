@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002921"
 - "5673"
-ms.openlocfilehash: 57d1e2d696a8be42b5f868f021d829bf019349bf
-ms.sourcegitcommit: 3994cece80410371330b39f7b79b1b1c1bfcf648
+ms.openlocfilehash: 7058b6419e52fce94f3359d0bd8e1d67c5aa5ef6743abf4ed39f45bad49e1d07
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52286686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025616"
 ---
 # <a name="need-to-mark-a-domain-or-email-sender-safe"></a>도메인 또는 전자 메일을 보낸 사람을 안전한 사용자로 표시해야 하나요?
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6041"
 - "9003112"
-ms.openlocfilehash: de335e27624caf5a91bdc2913570eba92f627282
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb32085d13cbb5f609b887fc2b63e7af5ae056eb49c121a21722a147c67e30d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695655"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028262"
 ---
 # <a name="issue-opening-or-downloading-files-in-yammer"></a>Yammer에서 파일 열기 혹은 다운로드 문제
 

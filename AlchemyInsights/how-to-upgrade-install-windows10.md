@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10141"
 - "9005600"
-ms.openlocfilehash: 884df8142fe580cb8e283ec96c31a21d79e9250a
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: 42388a728cef7c177dae28beddb16aee29bdd9eb9bb9bf6bec0508b7eaff6414
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099724"
 ---
 # <a name="how-to-upgrade-or-install-windows-10"></a>Windows 10 업그레이드 또는 설치 방법
 
