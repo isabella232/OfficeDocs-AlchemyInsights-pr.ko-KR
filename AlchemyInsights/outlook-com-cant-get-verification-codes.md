@@ -1,5 +1,5 @@
 ---
-title: Outlook.com에서 확인 코드를 받을 수 없음
+title: Outlook.com에서 확인 코드를 받을 수 없습니다.
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799534"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064210"
 ---
-# <a name="cant-get-verification-codes"></a>확인 코드를 가져올 수 없음
+# <a name="cant-get-verification-codes"></a>확인 코드를 받을 수 없습니다.
 
-대체 전자 메일 또는 전화 번호에 액세스할 수 없는 경우 Microsoft 계정 [보안 기본 사항](https://account.microsoft.com/security) 페이지로 이동 하 여 로그인 페이지에 **이 사용자가 없는** 항목을 선택 하 고 지침에 따라 보안 정보를 교체 합니다.
+대체 전자 메일 또는 전화 번호에 액세스할 수 없는 [](https://account.microsoft.com/security) 경우 Microsoft 계정  보안 기본 페이지로 이동하여 로그인 페이지에 이러한 정보가 없는 경우를 선택하고 지침에 따라 보안 정보를 교체합니다.
 
-*참고:* [Microsoft 인증자 앱](https://go.microsoft.com/fwlink/?linkid=2016117) 은 사용자에 게 확인 코드를 제공 하기 위해 인터넷에 연결할 필요가 없습니다.
+*참고:* 앱 [Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) 인증 코드를 제공하기 위해 인터넷에 연결되어 있지 않습니다.
 
-자세한 내용은 [Microsoft 계정 보안 정보 및 확인 코드](https://support.microsoft.com/help/12428/)를 참조 하세요.
+자세한 내용은 Microsoft 계정 [보안 정보 및 확인 코드를 참조하세요.](https://support.microsoft.com/help/12428/)

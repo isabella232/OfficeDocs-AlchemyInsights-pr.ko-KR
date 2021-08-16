@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
-ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
+ms.openlocfilehash: 9d88c46d23bd08f1d954416e4856c7885f045437d14dcd7c4a9c25f0b1288b8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49653266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096736"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive PUID 불일치
 
-비즈니스용 OneDrive에서 [ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) 불일치가 발생하는 것 같습니다. 초기에 도움을 주신 경우 다음 단계를 수행합니다.
+이 경우 ID가 불일치하는 것으로 비즈니스용 OneDrive. [](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) 가장 빠른 시에 지원을 하도록 지원하려면 다음 단계를 수행합니다.
 
 1. 고객 **지원에 문의한** 다음 새 서비스 **요청을 클릭합니다.**
-2. 제목과 설명을 **OneDrive 사이트 사용자 ID가 불일치로 떠난다.**
+2. 제목과 설명을 사이트 **OneDrive 불일치 로 떠난다.**
 3. 티켓이 제출된 후 다음 정보로 업데이트합니다.
-    - 영향을 받는 OneDrive 사이트 URL입니다.
+    - OneDrive 사이트 URL을 지정합니다.
     - 영향을 받는 사용자의 UPN(사용자 계정 이름)입니다.

@@ -12,17 +12,17 @@ ms.custom:
 - "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 4dc1944b85da3367947ce01ec45b004abda045e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b70b1b7d2ac743fbd80639546ef9494de8e524071833dc276403391c560bb6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752257"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011090"
 ---
-# <a name="copy-and-paste-in-outlookcom"></a>Outlook.com에서 복사 하 여 붙여넣기
+# <a name="copy-and-paste-in-outlookcom"></a>Outlook.com에서 복사하여 붙여넣기
 
-Outlook.com의 복사 또는 붙여넣기 단추는 없지만 바로 가기 키를 사용할 수 있습니다.
+Outlook.com에는 복사 또는 붙여넣기 단추가 없지만 바로 가기 키를 사용할 수 있습니다.
 
-**PC에서 다음을 수행 합니다.** 복사 하려면 CTRL + C를 누르고, CTRL + X를 잘라 내어, CTRL + V를 눌러 붙여 넣습니다.
+**PC에서:** 복사할 Ctrl+C, 잘라 내는 Ctrl+X, 붙여넣을 Ctrl+V
 
-**Mac:** 복사 하려면 CMD + C를, CMD + X를 잘라 내어, CMD + V를 붙여 넣을 수 있습니다.
+**Mac에서:** 복사할 CMD+C, 잘라 내는 CMD+X, 붙여넣을 CMD+V

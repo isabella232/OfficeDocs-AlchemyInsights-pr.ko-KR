@@ -13,12 +13,12 @@ ms.collection: Adm_O364
 ms.custom:
 - "9003533"
 - "10881"
-ms.openlocfilehash: 66b9e9542330d0b7faf2cda85790a10fb8716275
-ms.sourcegitcommit: 326c10f16cf15e823cc97cb4c6a7153343f88f93
+ms.openlocfilehash: 18a48f0f342d16d7efea1e03f25486761eb3b4818a6082412f24309af983d6fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51596728"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096772"
 ---
 # <a name="office-customization-tool"></a>Office 사용자 지정 도구
 
