@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 750a4f7ac0cd36476b0f682dd8b72ee6da4df0ba6879e1f9dad32dbcea15053e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812722"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068458"
 ---
 # <a name="fix-usb-printer-connection-issues"></a>USB 프린터 연결 문제 해결
 
@@ -29,12 +29,12 @@ ms.locfileid: "51812722"
 
 그래도 문제가 해결되지 않는 경우 USB 프린터를 제거하고 다시 **설치해 보아야 합니다.**
 
-1. 설정에서 프린터를 제거합니다.
+1. 다음 목록에서 프린터를 설정.
     1. PC에서 프린터의 USB 케이블을 언플러합니다.
-    2. Start   >  **Settings**  >  **Devices**  >  **Printers & 스캐너를 선택합니다.**
+    2. Start   >  **설정**  >  **Devices**  >  **Printers & 스캐너를 선택합니다.**
     3. 프린터 **& 스캐너에서** 문제 해결을 위해 프린터를 선택합니다. 장치 **제거를 선택합니다.** 지침에 따라 프린터를 완전히 제거합니다.
 2. 타사 프린터 제조업체 소프트웨어를 제거합니다.
-    1. 설정 **앱 시작**  >  **을**  >  **선택합니다.**
+    1. 앱 **시작**  >  **설정**  >  **선택합니다.**
     2. 앱 **& 기능에서** 스크롤하여 프린터 제조업체에서 설치한 소프트웨어(예: HP, Canon 또는 Epson)를 확인합니다.
     3. 소프트웨어를 선택하고 **제거 를 선택합니다.**
 3. 프린터를 끄고 다시 시작합니다.<br>
