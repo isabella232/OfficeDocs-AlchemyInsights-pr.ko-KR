@@ -1,5 +1,5 @@
 ---
-title: 이전 버전의 Office MSI 제거
+title: 이전 버전의 MSI 버전을 Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003886"
 - "6940"
-ms.openlocfilehash: 26ab610cb204149536bd23c830a1b8558892a7c0
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 45e3cac521bc1c2a90dc7d3ddd4958233c3cf7bbd2ea007e581f343bca7b5631
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023780"
 ---
-# <a name="remove-prior-msi-versions-of-office"></a>이전 버전의 Office MSI 제거
+# <a name="remove-prior-msi-versions-of-office"></a>이전 버전의 MSI 버전을 Office
 
-Office 365 ProPlus를 설치하기 전에 이전 버전의 Office MSI(Windows Installer)를 제거하는 것이 좋습니다. 이 작업을 하는 방법에는 다음이 있습니다.
+I recommend removing prior Windows Installer ( MSI) versions of Office before installing Office 365 ProPlus. 이 작업을 하는 방법에는 다음이 있습니다.
 
-1. MSI를 사용하여 Office를 설치한 경우 ODT(Office 배포 도구)를 사용하여 Office를 설치할 수 있습니다. 사용자 파일에서 RemoveMSI **요소를** configuration.xml있습니다.
-1. 이 문서의 지침을 따르는 경우: [Office 365 보안](https://go.microsoft.com/fwlink/p/?linkid=2077143) & 준수 센터.
+1. MSI를 사용하여 설치한 Office ODT(Office Deployment Tool)를 사용하여 ODT(Office 배포 도구)를 Office. 사용자 설정 파일에서 RemoveMSI **요소를** configuration.xml있습니다.
+1. 이 문서의 지침에 따라 Office 365 준수 & [합니다.](https://go.microsoft.com/fwlink/p/?linkid=2077143)

@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 0c2473b8682ba12d3d15e24dc0f2485a7ab8789f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 78fd77c27a3ec62b16325cdb3be469e45514f8cf0b5de4f4264f080b23627eef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403605"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988337"
 ---
 # <a name="create-an-alert-policy"></a>경고 정책 만들기
 
 이 작업을 하는 방법에는 다음이 있습니다.
 
-1. [Office 365 보안](https://go.microsoft.com/fwlink/p/?linkid=2077143)및 준수 & 로 이동 합니다.
+1. 보안 및 [Office 365 센터로 &.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
 1. 경고 **경고 정책**  >  [을 선택합니다.](https://go.microsoft.com/fwlink/?linkid=2103208)
 1. **+ 새 경고 정책을 선택합니다.** 플라이아웃이 나타납니다.
 1. 이름, **설명,** **심각도** 및 **범주** 필드를 요구에 따라 적절하게 설정하십시오. **다음** 을 선택합니다.

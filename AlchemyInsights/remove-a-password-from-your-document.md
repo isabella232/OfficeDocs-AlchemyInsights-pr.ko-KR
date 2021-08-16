@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001455"
 - "3466"
-ms.openlocfilehash: 7a8c0edcbd511e929bb618dfc51d79bb7b5b13e0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e99fbe7de5b43a1580acd6ce716b9e12af30dfe08329e4d1e68f843b11d577e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799419"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023852"
 ---
 # <a name="remove-a-password-from-a-word-document"></a>Word 문서에서 암호 제거
 

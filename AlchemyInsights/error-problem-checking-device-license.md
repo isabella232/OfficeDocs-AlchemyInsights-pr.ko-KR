@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9810"
 - "9005394"
-ms.openlocfilehash: 400b9a9205e82524c4b5dc9ba00d4ff951c89de6
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: e418fde16e546f8aa49235c873f836d79080e012b3a7463e56d88d1641a0db7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898155"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043734"
 ---
 # <a name="error-there-was-a-problem-checking-this-devices-license-status"></a>오류: 이 장치의 라이선스 상태를 확인하는 동안 문제가 발생했습니다.
 

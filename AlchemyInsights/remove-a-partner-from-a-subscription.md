@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5064"
-ms.openlocfilehash: ec500ac54c3bd610bf83d1f1e237a5e5f2d3c557
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea8abeaf734089f41f4a4d6ff3f284dba8bba4f547431d87445c249983dccb55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828842"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023816"
 ---
 # <a name="remove-a-partner-from-a-subscription"></a>구독에서 파트너 삭제
 
