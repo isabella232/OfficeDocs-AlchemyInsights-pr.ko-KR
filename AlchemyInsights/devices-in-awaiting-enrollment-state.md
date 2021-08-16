@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 068e6dc7fae7221add027d335854b708ccc963532fda53be9d8f54bc578abab6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815360"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031052"
 ---
 # <a name="devices-are-in-awaiting-enrollment-state"></a>장치가 "등록 대기 중" 상태입니다.
 

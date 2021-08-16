@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 145563a64bbebb6fcafcf249231e70dfa99d92d6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 75ddbaf986b6d475a145afc91a7cbc5676dbe8645c74f9399969c78be5d0342f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736349"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070006"
 ---
 # <a name="whats-a-domain"></a>What's a domain
 
@@ -27,6 +27,6 @@ ms.locfileid: "50736349"
 다음은 도메인에 대한 몇 가지 팁입니다.
 
 - Microsoft에서 도메인 이름을 구입할 수 있습니다. 이렇게 하면 사용자 지정 전자 메일 주소가 있습니다.
-- 또는 이미 소유하고 있는 도메인을 Office 365에 추가할 수 있습니다.
+- 또는 이미 소유하고 있는 도메인을 추가하여 도메인을 Office 365.
 
 자세한 내용은 이 [멋진 비디오를 시청하세요.](https://www.youtube.com/watch)

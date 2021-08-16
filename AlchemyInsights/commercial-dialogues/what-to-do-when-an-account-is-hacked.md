@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 9c6bab9545136cf6bf26ae41c3776d6f7892a81f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: fc20d37f01873caa42fd6820eb366ab5bf4a2fdb303fb82842435d84da067f26
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402438"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069928"
 ---
 # <a name="what-to-do-when-an-account-is-hacked"></a>계정이 해킹된 경우 할 일
 

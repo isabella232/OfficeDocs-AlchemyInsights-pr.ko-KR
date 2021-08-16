@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 8bc5c98dc9f60ae23b52b36d2087cafbb9fd6491
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401841"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058512"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>스팸 방지 보호 설정
 
 이 작업을 하는 방법에는 다음이 있습니다.
 
-1. [Office 365 보안](https://go.microsoft.com/fwlink/p/?linkid=2077143)및 준수 & 로 이동 합니다.
+1. 보안 및 [Office 365 센터로 &.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
 1. 위협 관리  >  **정책으로 이동하여** 스팸 **[방지 를 클릭합니다.](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
 1. 사용자 지정 **탭에서** 사용자 지정 **설정을 니다.**
 1. 기본 스팸 **필터 정책을 확장하고** 정책 **편집을** 클릭한 후 다음 설정을 지정합니다.

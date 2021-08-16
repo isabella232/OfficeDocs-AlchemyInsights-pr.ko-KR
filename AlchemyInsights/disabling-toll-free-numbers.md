@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5142"
-ms.openlocfilehash: e9551e78f78d868da8af4473a6b3091a89e82e4b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6acf07cb12bf936b8de9c2602bd04f3f047ab052f5473cfd8d4281215132b327
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815144"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016058"
 ---
 # <a name="disabling-toll-free-numbers"></a>무료 전화 번호 비활성화
 

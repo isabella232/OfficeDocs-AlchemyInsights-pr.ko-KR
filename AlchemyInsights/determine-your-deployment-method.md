@@ -15,12 +15,12 @@ ms.custom:
 - "11090"
 - "9005291"
 - "9006490"
-ms.openlocfilehash: b10b15c9274dc028819788e4e338b44992c2c0cc
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: 85e29a6d36ed0d386b534e2485955890b90d482f039a46e6446c3fb3464435e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989831"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031088"
 ---
 # <a name="determine-your-deployment-method"></a>배포 방법 결정
 
