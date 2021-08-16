@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00ee4f1d7130c239272e28ee8e051a18e6e0baf13040d2a892866be5900adfaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667884"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014078"
 ---
 # <a name="intune-device-inventory"></a>Intune 장치 인벤토리
 
@@ -30,7 +30,7 @@ ms.locfileid: "47667884"
 
 **FAQ**
 
-Q: Intune에 등록 된 Windows 장치에 존재하는 응용 프로그램에 전체 인벤터리 목록을 받고 있지 않습니다. 그 이유는 무엇인가요?
+Q: Intune에 등록 된 Windows 장치에 존재하는 응용 프로그램에 전체 인벤터리 목록을 받고 있지 않습니다. 왜 그런가요?
 
 A:이 경우에는 회사 장치로 식별되는 Windows 10 PC 최신 앱만 나열 됩니다. Intune이 이 장치에 설치 된 Win32 앱 정보를 수집 하지 않습니다.
 

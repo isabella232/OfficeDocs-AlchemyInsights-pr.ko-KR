@@ -16,12 +16,12 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 5c141320f08b4610e9ebedf21107bfda54193f56
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 41188a73dc258706c955bd04a653547de264da2dc6a3c54521cddf82c254972a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689016"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045066"
 ---
 # <a name="compare-upgrade-or-purchase-subscriptions"></a>구독 비교, 업그레이드 또는 구매
   

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10964"
 - "3100005"
-ms.openlocfilehash: 49743b1e9158319ecb80f0a007d8d73930888df1
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: 0a7be6ca17ff9c1934cf09d7e660da295179553b30494c409c345c5e3b5c5fd8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630111"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074506"
 ---
 # <a name="retrieve-the-audit-logs"></a>감사 로그 검색
 

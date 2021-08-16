@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001723"
 - "3822"
-ms.openlocfilehash: a30f1d02d8560e9aad27597de44cb206671f09e9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d9aa56152e76688b9cf7654ca648fc947ce9f4061cbc2c1b086c60799d1cccd9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833369"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998733"
 ---
 # <a name="teams-student-licenses"></a>Teams 학생 라이선스
 

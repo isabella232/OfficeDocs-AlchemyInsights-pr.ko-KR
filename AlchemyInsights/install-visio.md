@@ -1,5 +1,5 @@
 ---
-title: Visio 설치
+title: 설치 Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: e11c356e5a49667d26906989038215fe65f609f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b42e8299484feb84fdbd80e26508ff110daea0191e33043d55ac9880f12919d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811617"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014294"
 ---
-# <a name="install-visio"></a>Visio 설치
+# <a name="install-visio"></a>설치 Visio
 
-Visio가 독립 실행형 응용 프로그램으로 판매 되므로 아직 설치 되어 있지 않으면 [visio를 구입 하거나 사용해 보세요](https://products.office.com/visio). 
+Visio 독립 실행형 응용 프로그램으로 판매되어 있으므로 아직 구매하지 않은 경우 를 구입하거나 [시도해 Visio.](https://products.office.com/visio) 
 
-**참고**: Visio Online 계획 1은 데스크톱 버전의 visio를 포함 하지 않으므로 설치할 수 없습니다.
+**참고:** Visio Online 계획 1에는 데스크톱 버전의 Visio 포함되어 있으므로 설치할 수 없습니다.
 
-Visio Online 계획 2에 대 한 구독이 있는 경우 사용자에 게 [라이선스를 할당](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) 하거나 [내 계정 포털](https://portal.office.com/account#installs)의 **내 설치** 에서 Visio를 설치할 수 있는 옵션을 사용 하지 않도록 해야 합니다. 
+Visio Online 계획 2를 구독하는 경우 사용자에게 [](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) 라이선스를 할당해야 합니다. 또는 내 계정 포털의 Visio 설치에서 라이선스를 설치할 수 있는 옵션이 [없습니다.](https://portal.office.com/account#installs)  
 
-비 볼륨 라이선스 버전의 Visio Standard 또는 Visio Professional은 Microsoft 계정과 연결 되어 있으며 관리 센터에서 관리할 수 없습니다. 이러한 버전을 설치 하려면 사용자가이 버전의 Visio와 연결 된 Microsoft 계정을 사용 하 여 [account.microsoft.com](https://account.microsoft.com) 에 로그인 해야 합니다.
+비 볼륨 라이선스 버전의 Visio Standard Visio Professional Microsoft 계정과 연결되고 관리 센터에서 관리할 수 없습니다. 이러한 버전을 설치하려면 사용자가 이 버전과 연결된 Microsoft [account.microsoft.com](https://account.microsoft.com) 로그인해야 Visio.
 
-자세한 내용은 [Visio 설치](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) 및 현재 버전의 visio에 대 한 단계를 참조 하세요.
+자세한 도움말은 Install [Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) and follow the steps for your version of Visio.
 
-자세한 내용은 다음을 참조하세요.<br>
-[Visio 용 배포 가이드](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[같은 컴퓨터에 서로 다른 버전의 Office, Project 및 Visio를 설치 하기 위해 지원 되는 시나리오](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
+자세한 내용은 다음을 참조하십시오:<br>
+[배포 가이드를 Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[동일한 컴퓨터에 서로 다른 버전의 Office, Project 및 Visio 설치하기 위한 지원되는 시나리오](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
 [Visio 라이선싱](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)

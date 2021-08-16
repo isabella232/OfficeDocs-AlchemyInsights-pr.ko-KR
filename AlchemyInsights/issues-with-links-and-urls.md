@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707888"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054804"
 ---
 # <a name="issues-with-links-and-urls"></a>링크 및 URL 문제
 
-리디렉션 URI/회신 URL(두 표현은 모두 교환 가능)은 Microsoft ID 플랫폼에서 앱 요청 토큰을 반환하는 데 사용되는 URL입니다. 이 URL에 대한 내용은 다음 문서를 참조하세요.
+리디렉션 URI/회신 URL(두 표현은 모두 교환 가능)은 Microsoft ID 플랫폼에서 앱 요청 토큰을 반환하는 데 사용되는 URL입니다. 이러한 URL에 대한 자세한 내용은 다음 문서를 참조하세요.
 
 - [인증 흐름 및 응용 프로그램 시나리오](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) - 각 시나리오에 대한 **앱 등록** 페이지의 리디렉션 URI에 대한 정보입니다.
 - [리디렉션 URI/회신 URL 제한사항 및 한계](https://docs.microsoft.com/azure/active-directory/develop/reply-url)

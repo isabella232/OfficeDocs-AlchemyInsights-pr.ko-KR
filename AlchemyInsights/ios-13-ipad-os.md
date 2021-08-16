@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2701"
 - "6700003"
-ms.openlocfilehash: d851fcc6c8514300d5f67b5755caa729c5441a67
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c20e1a100f34aaea49fd0bfea513583ed45c91963751459ac229a265929f3fd0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054876"
 ---
 # <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>조건부 액세스 정책에 대한 iOS 13+ /iPadOS 업데이트
 

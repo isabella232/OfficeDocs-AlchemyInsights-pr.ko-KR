@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003530"
 - "6878"
-ms.openlocfilehash: 3b2e13a57e5b0195c8e2e38dabc439f5b4e8c23e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e5f3b268867637a6a9d4d753a77dd599dab495aab53bb143f4bb74b35487d7e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828662"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074362"
 ---
 # <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Mac용 OneDrive 요청 기반 파일 관리로 디스크 공간 절약
 

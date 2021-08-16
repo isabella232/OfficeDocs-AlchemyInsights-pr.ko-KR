@@ -1,5 +1,5 @@
 ---
-title: 특정 도메인으로 전송되는 Office 365 전자 메일 메시지 자동 암호화
+title: 특정 도메인으로 Office 365 전자 메일 메시지를 자동으로 암호화
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 7fb96a30cd1922bd39a4b99a7ecd869622f3a466
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5a285f36aeb814e3b1d361c8cbffd5a6bef0770d10082d24654c7bbda59ce65b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082192"
 ---
-# <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>특정 도메인으로 전송되는 Office 365 전자 메일 메시지 자동 암호화
+# <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>특정 도메인으로 Office 365 전자 메일 메시지를 자동으로 암호화
 
-1. Exchange 관리 [센터에서](https://outlook.office365.com/ecp/)메일 흐름 > **를 선택하세요.** 
-2. 새로 **추가(+) 아이콘을** 클릭한 다음 메시지에 **Office 365** 메시지 암호화 및 권한 보호 적용을 클릭합니다.
+1. Exchange [관리 센터에서](https://outlook.office365.com/ecp/)메일 흐름 > **를 선택하세요.** 
+2. 새로 **보기(+) 아이콘을** 클릭한 다음 메시지에 Office 365 메시지 암호화 및 권한 보호 적용을 **클릭합니다.**
 3. 이름 **에** 규칙의 이름(예: 에 전송된 메시지 *암호화)을* contoso.com.
 4. 다음의 경우 이 **규칙 적용에서** 받는 사람 > **를 선택 합니다.** 
 5. 도메인 이름(예: 을(를) **contoso.com.**
@@ -36,4 +36,4 @@ ms.locfileid: "50736781"
 > [!IMPORTANT]
 > 언제든지 돌아와서 나중에 이 규칙을 편집할 수 있습니다.
 
-암호화 규칙을 만드는 데 대한 자세한 내용은 [Define mail flow rules to encrypt email messages in Office 365를 참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+암호화 규칙을 만드는 데 대한 자세한 내용은 [Define mail flow rules to encrypt email messages in Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)

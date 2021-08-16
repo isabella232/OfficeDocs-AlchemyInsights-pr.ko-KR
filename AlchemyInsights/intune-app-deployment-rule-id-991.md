@@ -1,5 +1,5 @@
 ---
-title: Intune 앱 배포 규칙 Id 991
+title: Intune 앱 배포 규칙 ID 991
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,22 +12,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: 90e8b8f2d66046f1e74d051343d8dded9d5c8f95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 561ff3a3a70029a6c53776176602f6de10a6637f8ab66c0189d7584220316e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755173"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014114"
 ---
 # <a name="intune-app-deployment"></a>Intune 앱 배포
 
-Intune을 사용 하 여 응용 프로그램을 배포 하는 과정은 다음 세 단계로 진행 됩니다.
+Intune을 통해 응용 프로그램을 배포하는 과정은 다음 세 단계로 진행됩니다.
   
-1. **앱 추가** -앱 스토어 앱을 추가 하거나 기간 업무 (lob) 앱을 업로드할 수 있습니다.
+1. **앱 추가** - 앱 스토어 앱을 추가하거나 LINE OF Business 앱을 업로드할 수 있습니다.
 
-2. **앱 할당** -응용 프로그램 배포의 범위를 확인 합니다.
+2. **앱 할당** - 응용 프로그램의 배포 범위를 결정 합니다.
 
-3. **모니터링 앱** -앱의 설치 상태를 확인 하 고, 검색 된 앱을 나열 하 고, 앱 스토어에서 구입한 앱을 관리 합니다.
+3. **앱 모니터링** - 앱의 설치 상태를 보고, 검색된 앱을 나열하고, 앱 스토어에서 구매한 앱을 관리합니다.
 
-검토 하기 위한 [Intune 앱 관리 란 무엇](https://docs.microsoft.com/intune/app-management) 이며 응용 프로그램 구성 및 보호에 대 한 정보입니다.
+응용 프로그램 구성 및 보호에 대한 자세한 내용은 [Intune](https://docs.microsoft.com/intune/app-management) 앱 관리 기능을 읽어 읽습니다.
   
