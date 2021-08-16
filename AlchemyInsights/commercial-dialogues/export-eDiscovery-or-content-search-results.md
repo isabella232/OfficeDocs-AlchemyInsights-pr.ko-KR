@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: b93377a33eebc7899041b684449e46caedb04415
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: de5d6f2bbf32ca1b7a0bbb9dd416fb19186d2e72ad57fbf25d9b55bd733fdc21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50465013"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988114"
 ---
 # <a name="export-ediscoverycontent-search-results"></a>eDiscovery/콘텐츠 검색 결과 내보내기
 
-검색 결과를 PST 파일(전자 메일에서) 또는 기본 Office 문서(SharePoint 및 비즈니스용 OneDrive 사이트에서)로 내보내야 할 수 있습니다. 그렇다면, 다음을 수행합니다.
+검색 결과를 PST 파일(전자 메일에서) 또는 기본 Office(SharePoint 사이트 및 비즈니스용 OneDrive 내보내야 할 수 있습니다. 그렇다면, 다음을 수행합니다.
 
 - 계정에 내보낼 수 있는 적절한 권한이 할당되어 있는지 확인 자세한 내용은 [eDiscovery 권한 할당을 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2102406)
 - 컴퓨터가 모든 선행 구성을 [충족하는지 확인합니다.](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin) Chrome과 같은 모든 브라우저가 지원되지는 않습니다.

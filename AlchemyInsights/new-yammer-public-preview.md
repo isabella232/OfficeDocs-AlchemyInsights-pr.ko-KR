@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002877"
 - "5566"
-ms.openlocfilehash: 47ea8e4d45c6ae2ec32cda6abc05c993bbcac4c8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e26450d7a19e03cb0ff239c00b3bce2b46d6d7aed8191e949ef6c0711aa9035
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829670"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065218"
 ---
 # <a name="new-yammer-public-preview"></a>새 Yammer 공개 미리 보기
 

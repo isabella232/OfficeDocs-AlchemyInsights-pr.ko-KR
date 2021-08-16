@@ -1,5 +1,5 @@
 ---
-title: MDM 기관이 설정 되지 않았습니다.
+title: MDM 기관이 설정되지 않은 경우
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cd7f1f663bf61290acca29251043898a3d4a4bfecab2b3c56eeb3207e8ccf9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796294"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046686"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>MDM 기관이 설정 되지 않았습니다.
+# <a name="your-mdm-authority-is-not-set"></a>MDM 기관이 설정되지 않은 경우
 
-이 테 넌 트의 MDM (모바일 장치 관리) 기관이 설정 되지 않았습니다. Intune MDM을 통해 장치를 등록 하 고 관리 하려면 먼저 MDM 기관을 설정 해야 합니다. MDM 기관을 설정 하지 않으면 Intune의 MDM 기능을 사용할 수 없게 됩니다. MDM 기관 설정은 장치 관리 방법을 결정 합니다.
+이 테넌트의 MDM(모바일 장치 관리) 기관이 설정되지 않습니다. Intune MDM을 통해 장치를 등록하고 관리하기 전에 MDM 기관을 설정해야 합니다. MDM 기관을 설정하지 않으면 Intune의 MDM 기능을 사용할 수 없습니다. MDM 기관 설정에 따라 장치 관리 방식이 결정됩니다.
 
 권장 단계:
-1. Intune 등록 개요 블레이드에서 이동 하 여 MDM 기관을 설정 합니다.
-2. 관리 요구 사항에 따라 적절 한 기관을 선택 합니다. 자세한 내용은 [모바일 장치 관리 기관 문서 설정을](https://docs.microsoft.com/intune/mdm-authority-set)참조 하십시오.
+1. Intune 등록 개요 블레이드로 이동하여 MDM 기관을 설정할 수 있습니다.
+2. 관리 요구에 따라 적절한 기관을 선택하세요. 자세한 내용은 모바일 장치 관리 기관 문서 설정 [을 참조하세요.](https://docs.microsoft.com/intune/mdm-authority-set)

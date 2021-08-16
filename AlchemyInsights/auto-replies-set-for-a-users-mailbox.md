@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: 60af581e7fe508ab9644a53873bcd551b3aacff1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 85b7e969032607216c948532dcdf83ba09022c7cdfaebce8671c6d2e8fef183d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820940"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046614"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>사용자 사서함에 대한 자동 회신 설정
 

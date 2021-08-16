@@ -1,5 +1,5 @@
 ---
-title: Office 오프 라인 설치 관리자 사용
+title: 오프라인 Office 설치 관리자 사용
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 6098ac9ad117264ad2a6d38eb077cec9541954d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfd666ddb0aa5edb4d0f4fc0a03c6442b201d331da7d2193e7ad8615790c36a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770197"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037938"
 ---
-# <a name="use-the-office-offline-installer"></a>Office 오프 라인 설치 관리자 사용
+# <a name="use-the-office-offline-installer"></a>오프라인 Office 설치 관리자 사용
 
-설치 관리자 파일을 다운로드 하려면 인터넷에 연결 해야 하지만, 완료 된 후에 ODT (Office 배포 도구)를 사용 하 여 사용자 편의에 따라 PC에 Office를 오프 라인으로 설치할 수 있습니다.
+설치 관리자 파일을 다운로드하려면 인터넷에 연결되어야 하지만 설치가 완료되면 ODT(Office Deployment Tool)를 사용하여 편의상 PC에 Office 오프라인으로 설치할 수 있습니다.
 
-ODT는 엔터프라이즈 환경을 위해 설계 되었으며 명령줄에서 실행 되므로 단계는 더 복잡 하지만 단일 장치에 설치 하는 경우에도 계속 해 서 작동 합니다. [Office 오프 라인 설치 관리자 사용을](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)참조 하세요.
+ODT는 엔터프라이즈 환경에 대해 설계 및 명령줄에서 실행됩니다. 따라서 단계는 더 복잡하지만 단일 디바이스에서 설치하는 데 계속 작동합니다. 오프라인 [설치 Office 사용을 참조합니다.](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
   

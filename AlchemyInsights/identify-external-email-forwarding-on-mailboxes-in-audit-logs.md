@@ -13,12 +13,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: b7146b2b09b6ac1e33b192dcbcbfb72ea2593313
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: 1e80917a323128ba23175651cdf4d892d7815a89c1223b654812c1b456c787da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630255"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028749"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>사서함에서 외부 전자 메일 전달이 구성된 경우 식별
 

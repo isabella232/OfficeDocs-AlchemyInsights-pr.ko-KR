@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: e7d71fdb77b4a047c1998e9aba75cdd469a936a8
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: b173c6eb3bbbd1beba3b59878ae12bbe7684d0447a16fef746e5b97b82349e53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065290"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>공격 시뮬레이터를 Microsoft 365
 

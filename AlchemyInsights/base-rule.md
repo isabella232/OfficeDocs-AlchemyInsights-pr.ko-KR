@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: e423e489d64bce211495b21e58cf74cbc7dc10df
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e2bc74fb2b38140114455f9a923a07b5a5403aa49abca28432dd617db965b294
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820508"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046542"
 ---
-# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Microsoft Intune에서 MDM 기관 관련 문제 해결
+# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>2013에서 MDM 기관 관련 문제 Microsoft Intune
 
 Intune 시작에 대한 몇 가지 유용한 문서는 다음과 같습니다.
 

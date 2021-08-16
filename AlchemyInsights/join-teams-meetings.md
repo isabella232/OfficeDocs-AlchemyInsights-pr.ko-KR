@@ -1,5 +1,5 @@
 ---
-title: Teams 모임 참가
+title: 모임 Teams 참가
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ebd54843fb99e144580dc26ce382039b5a6b0c3d85d1be45b2b49a0e92f5d46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824009"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054301"
 ---
 # <a name="join-a-meeting-in-teams"></a>Teams에서 모임에 참가
 
@@ -25,6 +25,6 @@ Teams 모임에 참가하기 위해 먼저 모임 정책을 설정한 다음 사
 
 - 참가자 또는 게스트로 모임에 참가할 수 있는 대상을 제어하는 모임 [정책을 설정합니다.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests) 
 
-- Microsoft Teams [PowerShell cmdlet을 사용하여](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) 정책을 변경합니다.    
+- [PowerShell cmdlet을](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) Microsoft Teams 변경합니다.    
 
 **참고:** 정책 변경 내용을 적용하는 데 최대 24시간이 걸릴 수 있습니다.
