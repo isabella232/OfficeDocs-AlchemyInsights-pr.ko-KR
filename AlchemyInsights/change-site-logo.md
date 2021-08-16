@@ -13,12 +13,12 @@ ms.custom:
 - "9002502"
 - "4869"
 - "4870"
-ms.openlocfilehash: 8c45b297feb06d73121b8a473ef28c3820160316
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 140a8951d1268065642a81539d9fbf15db19edef8aa6fa4d6f1fd809c843d109
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818510"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070978"
 ---
 # <a name="change-site-logo"></a>사이트 로고 변경
 

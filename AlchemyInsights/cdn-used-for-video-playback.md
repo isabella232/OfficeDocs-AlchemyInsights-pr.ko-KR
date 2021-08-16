@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002552"
 - "5146"
-ms.openlocfilehash: d9c5f8f586e7f5aa079b28584375516ec8401ca7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 399be421994437d4cd2df644531334c58d177ec3293e7e379d84cd8326823a63
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819374"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071122"
 ---
 # <a name="cdn-used-for-video-playback"></a>비디오 재생에 사용되는 CDN
 
