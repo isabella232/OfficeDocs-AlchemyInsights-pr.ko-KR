@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9290"
 - "9005423"
-ms.openlocfilehash: d14e0fa2330bb5cab5a52720dcbc9fcaaa5a96f2
-ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.openlocfilehash: 513061891402b7b7e050c8a341ec544165bb27406d55d864a14641cd1f1e63c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067757"
 ---
 # <a name="get-started-with-microsoft-search"></a>Microsoft Search 시작
 

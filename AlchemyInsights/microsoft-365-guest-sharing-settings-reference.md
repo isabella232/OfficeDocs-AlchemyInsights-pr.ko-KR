@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000204"
 - "4843"
-ms.openlocfilehash: eb7ea40bc0f602905ac6c06af0a8569523e80df3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a94767d15b1a79db821ad25397ddd643ab77e6cd66ea6fd05cea55d2e02d3389
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810418"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098536"
 ---
 # <a name="microsoft-365-guest-sharing-settings-reference"></a>Microsoft 365 게스트 공유 설정 참조
 
