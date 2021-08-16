@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: a7550e651db1ea0b4e4a7c4f6fc43964b8d9bb09
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e69c0fdb2439053d3a5248a2d3dc8411c8f49a895a786327ed6e1775448751f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827078"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072418"
 ---
 # <a name="working-with-desktop-analytics"></a>Desktop Analytics 작업
 

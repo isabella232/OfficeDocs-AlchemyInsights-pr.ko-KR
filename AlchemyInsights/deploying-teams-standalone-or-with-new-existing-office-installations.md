@@ -1,5 +1,5 @@
 ---
-title: 독립 실행형 또는 기존 Office 설치를 사용 하 여 팀 배포
+title: 독립 실행 Teams 또는 새 설치 또는 기존 Office 배포
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: c3ca4365abc41509ccf602c5b9046655706840fc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8baefafc1c2f9583345779c5ae7a9d3d0e05c4b3b7e1b3a74a9a22f7ceed02a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806765"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102208"
 ---
-# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>독립 실행형 또는 기존 Office 설치를 사용 하 여 팀 배포
+# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>독립 실행 Teams 또는 새 설치 또는 기존 Office 배포
 
-Microsoft 팀은 이제 엔터프라이즈 용 Microsoft 365 앱, Microsoft 365 Apps 및 Mac 용 Office의 ***새 설치*** 과정에 포함 됩니다. 자세한 내용은 [Microsoft 팀이 Office의 새 설치에 포함 될 때 시작 되는 시기](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps) 를 참조 하세요.
+Microsoft Teams 새 설치의 일부로  엔터프라이즈용 Microsoft 365 앱, 비즈니스용 Microsoft 365 앱 Mac용 Office. 자세한 내용은 Microsoft Teams 설치에 포함되는 경우를 언제 [Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-또한 현재 채널의 버전 1906 부터는 기존 설치를 최신 버전으로 업데이트할 때 Windows를 실행 하는 장치에 대 한 Microsoft 365 앱 (Microsoft 365 앱)의 ***기존 설치에*** 팀이 추가 됩니다. 자세한 내용은 [Office의 기존 설치에 대 한](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps) 자세한 내용을 참조 하세요.
-
-> [!NOTE]
-> 이 롤아웃 일정을 기다리지 않으려면 [다음 지침을 수행](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)하 여 사용자에 대 한 독립 실행형으로 팀을 배포   하거나 사용자가 직접 팀을 설치 하도록 할 수 있습니다  [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) .
-
-조직이 팀을 배포할 준비가 되지 않은 경우 [신규](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) 또는 [기존](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) Office 설치에서 ***팀을 제외*** 하기 위해 수행할 수 있는 단계를 제공 합니다. 팀을 설치 하려고 하지만 사용자가 설치 된 후에 자동으로 시작 되지 않도록 하려면 [설치 후에 Microsoft 팀이 자동으로 시작 되지 못하도록](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)합니다 .를 참조 하세요.
-
-Windows를 실행 하는 장치에서 ***팀을 제거*** 하려면 [Microsoft 팀 제거](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81)를 참조 하세요. 여러 대상 컴퓨터나 사용자 로부터 Microsoft 팀을 정리 하려면 [Microsoft 팀 배포 정리](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)를 참조 하세요.
-
-공유 컴퓨터, RDS (원격 데스크톱 서비스) 또는 VDI (가상 데스크톱 인프라)를 사용 하는 경우에는 [공유 컴퓨터 및 vdi 환경을 Microsoft 팀과 함께](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)참조 하십시오.
-
-Mac 용 Office를 사용 하는 경우에 [는 mac에서 Microsoft 팀 설치](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)를 참조 하세요.
+또한 현재 채널의 버전 1906부터는 Teams 설치를  최신 버전으로 업데이트할 때 Windows 실행 중인 장치에서 엔터프라이즈용 Microsoft 365 앱(및 비즈니스용 Microsoft 365 앱)의 기존 설치에 Windows 추가됩니다. 자세한 내용은 기존 설치에 대한 정보를 [Office.](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 > [!NOTE]
-> 팀이 설치 된 후에는 새로운 기능과 품질 업데이트를 통해 약 2 주 동안 [자동으로 업데이트](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) 됩니다. 
+> 이 출시 일정을 기다리지 않는 경우 다음 지침에 따라 사용자에 대해 Teams [](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) 독립 실행형으로 배포하거나 사용자가 에서 Teams 설치하도록 할 수 [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) 있습니다.
+
+조직에서 배포할 준비가 Teams 조직의 새 설치 또는 기존 설치에서 Teams 제외하기 [](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) 위해 [](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) 취할 수 있는 Office.  설치 Teams 있지만 설치한 Teams 자동으로 시작하지 않도록 하려는 경우 설치 후 Microsoft Teams 자동으로 시작하지 못하도록 방지를 [참조합니다.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)
+
+실행 ***중인 장치에서*** Teams 제거하려면 Windows [제거를 Microsoft Teams.](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81) 여러 대상 Microsoft Teams 사용자로부터 정보를 정리하기 위해 Microsoft Teams [정리를 참조합니다.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
+
+공유 컴퓨터, RDS(원격 데스크톱 서비스) 또는 VDI(가상 데스크톱 인프라)를 사용하는 경우 에서 공유 컴퓨터 및 [VDI 환경을 Microsoft Teams.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)
+
+If you're using Mac용 Office, see [Microsoft Teams installations on a Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+
+> [!NOTE]
+> 설치 Teams 새 기능 및 품질 [](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) 업데이트로 약 2주마다 자동으로 업데이트됩니다. 

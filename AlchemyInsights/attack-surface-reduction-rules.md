@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11228"
 - "9005470"
-ms.openlocfilehash: 99feaa5c3f35a0bb78b99f47ac2be88cf3e1b62a
-ms.sourcegitcommit: 4b504650e11adb9894c37b6d8608b53f9d5fc13d
+ms.openlocfilehash: 0f2e3d2d2cfa205f95a5d5dc84f7293fbee165a2976248de75a96379becd6925
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52651502"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072202"
 ---
 # <a name="attack-surface-reduction-rules"></a>공격 노출 영역 축소 규칙
 

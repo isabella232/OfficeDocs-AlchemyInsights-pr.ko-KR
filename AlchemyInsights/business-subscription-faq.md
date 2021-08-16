@@ -22,12 +22,12 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: d9f11e265480a97025b8c57e4f012ce1e64bbed6
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 4f059459ea1c0867ae972f154f082b183040f4040a81e7cb42cf00e493bfcf6b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686100"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072130"
 ---
 # <a name="business-subscription-faq"></a>비즈니스 구독 FAQ
 

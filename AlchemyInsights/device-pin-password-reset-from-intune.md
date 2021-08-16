@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1278"
 - "6700008"
-ms.openlocfilehash: 66255fc87a55161158aa4121d68d7ccd04b552ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32f832e1df81469cb74798a3c404d4cc978952b207850d51a05e63acb4a4a2f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730993"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101992"
 ---
 # <a name="device-pinpassword-reset-from-intune"></a>Intune에서 장치 비밀번호/암호 재설정
 
