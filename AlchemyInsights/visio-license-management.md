@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, micurn
+ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002419"
 - "5116"
-ms.openlocfilehash: a06403c1c5c576ba5ad259ccb95a8d3808943ff1
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 483eb266d2804d22f722c7972c8f220bef08267474098fa63441dbaf19c5716c
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689484"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54503766"
 ---
 # <a name="visio-license-management"></a>Visio 라이선스 관리
 

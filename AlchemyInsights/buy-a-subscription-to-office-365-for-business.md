@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, drjones
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: b45615a13d566c4c66b55bc989971864890ded9c
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 541a38088833f8e9f79450bc74486365a1b34de845728a7a621a8f21e67cd162
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686064"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54503586"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>무료 평가판에서 Microsoft 365 구독 구입
 

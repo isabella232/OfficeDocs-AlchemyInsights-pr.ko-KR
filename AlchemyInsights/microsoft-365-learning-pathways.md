@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002632"
 - "5054"
-ms.openlocfilehash: 64424a843d82c2d669ba924ccac49de4f4f414bb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2f0872cc65d1c5f60d627f47f3d92f9a44543eacf4838c06feb04c082c88e29d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098500"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 학습 경로
 

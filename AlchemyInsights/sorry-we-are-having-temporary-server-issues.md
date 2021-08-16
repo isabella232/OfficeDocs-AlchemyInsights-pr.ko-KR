@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 앱 수정 죄송합니다. 임시 서버 문제 메시지가 있습니다.
+title: 앱 Microsoft 365 수정 죄송합니다. 일시적인 서버 문제 메시지가 있습니다.
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aa0d625856df1027146de5af57845224e3056d8c21d9ac4cefbd4a9c329f487c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835277"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021602"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Microsoft 365 앱 수정 "죄송합니다. 일시적인 서버 문제가 있습니다" 메시지 수정
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>앱 Microsoft 365 "죄송합니다. 일시적인 서버 문제가 있습니다." 메시지 수정
 
 이 메시지를 받으면 다음을 시도해 보아야 합니다.
 
-1. 방화벽, 바이러스 백신 소프트웨어 및 프록시 설정을 확인하여 Microsoft 365 앱에 대한 인터넷 액세스를 차단하지 않는지 확인합니다. URL [및 IP 주소 범위를 참조하세요.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+1. 방화벽, 바이러스 백신 소프트웨어 및 프록시 설정을 확인하여 방화벽이 앱에 대한 인터넷 액세스를 차단하지 Microsoft 365 확인합니다. URL [및 IP 주소 범위를 참조하세요.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
 2. 시작   >  **실행으로 이동한** 다음 **services.msc 를 입력합니다.** 다음 서비스가 모두 실행 중인지 확인
     - 네트워크 연결 장치 자동 설정

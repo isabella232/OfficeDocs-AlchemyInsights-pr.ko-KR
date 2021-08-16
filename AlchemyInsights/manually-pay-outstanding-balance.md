@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -19,12 +19,12 @@ ms.custom:
 - "9689"
 - "1500018"
 - "9690"
-ms.openlocfilehash: a08036976b7f9c962a68e782d9b5a11df14dceeb
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 1cff63fa1c79d8863fc4f37b3e046e9d15ed944c9bc57c54137720a0dabd33df
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688512"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54503874"
 ---
 # <a name="manually-pay-an-outstanding-balance"></a>미지불 잔액 정산
 
