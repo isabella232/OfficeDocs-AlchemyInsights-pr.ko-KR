@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: 680b0e869cdef360095e3f287a219261393ac0cac30868e541219de3485f0921
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 19b9471a610305fb25e61359d455d1824c5bec6033fd603da265af9333543ccc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54108922"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898430"
 ---
 # <a name="self-service-password-reset-sspr"></a>SSPR(셀프 서비스 암호 재설정)
 
@@ -28,8 +28,8 @@ ms.locfileid: "54108922"
 
     자세한 내용은 다음을 참조하세요.
 
-    기본 SSPR 설정 - [사용자가 암호를 직접 재설정할 수 있도록 허용](/microsoft-365/admin/add-users/let-users-reset-passwords)
+    기본 SSPR 설정 - [사용자가 암호를 직접 재설정할 수 있도록 허용](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords)
 
-    [SSPR FAQ](/azure/active-directory/authentication/active-directory-passwords-faq)
+    [SSPR FAQ](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
 
-    [SSPR 문제 해결사](/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
+    [SSPR 문제 해결사](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)

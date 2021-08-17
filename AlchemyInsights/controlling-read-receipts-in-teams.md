@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002246"
 - "4369"
-ms.openlocfilehash: 34fdfc7df6bde1ef93b52cb20983762c8d79ca94
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d1557cbacab8f2ffdfca7b8e073a14dce6467afeccd6b11ac0da3ce556e1fa3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816638"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057936"
 ---
 # <a name="controlling-read-receipts-in-teams"></a>Teams에서 읽음 확인 제어하기
 

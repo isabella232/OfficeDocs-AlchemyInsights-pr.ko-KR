@@ -16,12 +16,12 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: dfa1f65e8983fa06aad4b41ca387a4a4020e64fb0a8e2d7b1cce54e1ba4d07e8
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: bb12ac9bcb5f8eae7d03f4d3ad876e5858bd32fc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502470"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320949"
 ---
 # <a name="help-understanding-your-bill"></a>청구서 이해 지원
 
@@ -31,8 +31,8 @@ ms.locfileid: "54502470"
   
 - 라이선스가 구독에 추가되었거나 구독에서 제거되었습니다. 계약 중간에 라이선스가 변경되면 이러한 변경은 다음 송장에 반영됩니다. 이러한 변경에 대해 크레딧을 확인하고 이전 서비스 기간에 대해 계정에 다시 청구할 수 있습니다.
 
-- 구독이 취소되었습니다. 취소 후 미결 잔액에서 크레딧을 뺀 송장을 받습니다.
+- 구독이 취소되었습니다. 취소 후 미결제 잔액에서 크레딧을 뺀 청구서를 받게 됩니다.
 
 - 구독이 변경된 새 기간 및 라이선스 가격으로 갱신되었습니다.
 
-송장에 대한 자세한 내용은 [다음을 참조하세요. 송장 이해](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+송장에 대한 자세한 내용은 [다음을 참조하세요. 송장 이해](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

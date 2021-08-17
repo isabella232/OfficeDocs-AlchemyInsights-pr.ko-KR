@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9775"
 - "9004342"
-ms.openlocfilehash: f9f54ed2bfc5841df66d3e714112b9307455c182
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: b667e699e1595b21d80788123de13daffbe79a35b1671e9d35eaa6cd980693db
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083092"
 ---
 # <a name="working-with-authentication-libraries"></a>인증 라이브러리 작업
 
