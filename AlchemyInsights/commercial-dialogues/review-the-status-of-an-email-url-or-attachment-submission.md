@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 170219c96a82a00db66757874c9d0c447e9064c626331b153e070ad9010f7e7b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c93f281d8d9a19eb31df7c265a963e93089a0ef5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081832"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314814"
 ---
 # <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>전자 메일, URL 또는 첨부 파일 제출 상태 검토
 
@@ -25,5 +25,4 @@ ms.locfileid: "54081832"
 
 페이지에 제출 진행률이 표시되고 이전 제출으로 드릴다운하여 제출의 세부 정보 및 결과를 볼 수 있습니다.
 
-> [!NOTE]
-> 제출 탐색기를 사용하여 항목을 제출하면 결과가 표시될 때 몇 분 정도 걸릴 수 있습니다.
+**참고:** 제출 탐색기를 사용하여 항목을 제출한 후 결과가 표시될 때 몇 분 정도 걸릴 수 있습니다.

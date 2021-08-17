@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502398"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314922"
 ---
 # <a name="billing-and-payment"></a>청구 및 결제
 
@@ -46,8 +46,7 @@ ms.locfileid: "54502398"
 
 4. 기존 결제 방법을 사용하려는 경우, 드롭다운 목록에서 하나를 선택하고 **변경** 을 선택합니다.
 
-    > [!NOTE]
-    > 청구 프로필과 연결된 구독이 있는 경우, 신용 카드나 직불 카드로만 결제할 수 있습니다. **결제 방법** 페이지에 나열된 은행 계좌를 사용하는 경우, 드롭다운 목록에서 선택할 수 없습니다.
+    **참고:** 청구 프로필과 연결된 구독이 있는 경우 신용 카드 또는 직불 카드만 사용하여 결제할 수 있습니다. **결제 방법** 페이지에 나열된 은행 계좌를 사용하는 경우, 드롭다운 목록에서 선택할 수 없습니다.
 
 5. 새 결제 방법을 추가하려면 **결제 방법 추가** 를 선택합니다.
 
@@ -55,10 +54,10 @@ ms.locfileid: "54502398"
 
 7. 드롭다운 목록에 새 결제 방법이 이미 선택되어 있습니다. **변경** 을 선택합니다.
 
-자세한 내용은 [결제 방법 관리하기](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)를 참조하세요.
+자세한 내용은 [결제 방법 관리하기](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)를 참조하세요.
 
 **청구 주기**
 
 청구는 체크 아웃 시 선택한 청구 주기에 따라 월간 또는 매년 생성됩니다.  
 
-**참고:** 라이선스 추가 또는 제거와 같이 변경된 경우 연간 청구가 있는 주문에 중간에 청구서를 받을 수 있습니다. [청구 주기를 변경합니다.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**참고:** 라이선스 추가 또는 제거와 같이 변경된 경우 연간 청구가 있는 주문에 중간에 청구서를 받을 수 있습니다. [청구 주기를 변경합니다.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

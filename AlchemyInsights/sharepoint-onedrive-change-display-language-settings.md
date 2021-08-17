@@ -1,5 +1,5 @@
 ---
-title: SharePoint 또는 OneDrive의 기본 사이트 언어 변경
+title: 기본 사이트 언어 또는 SharePoint 변경합니다OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "9000298"
 - "1924"
-ms.openlocfilehash: a8c6fdd8790ec5b50c36c910448e0e1580902caf
-ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
+ms.openlocfilehash: d6a0f3a18981d9012aa64cffc3e9730ae550485083def4c229f1b2235ff98403
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49002599"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085306"
 ---
-# <a name="change-the-default-site-language-in-sharepoint-or-onedrive"></a>SharePoint 또는 OneDrive의 기본 사이트 언어 변경 
+# <a name="change-the-default-site-language-in-sharepoint-or-onedrive"></a>기본 사이트 언어 또는 SharePoint 변경합니다OneDrive 
 
-**사이트를 만든 후** 에는 SharePoint 또는 OneDrive의 기본 사이트 언어를 변경할 수 없습니다. 그러나 개인 표시 언어 설정을 변경할 수는 있습니다.
+사이트를 만든 후 SharePoint OneDrive 사이트 언어를 변경할 **수 없습니다.** 그러나 개인 표시 언어 설정을 변경할 수 있습니다.
 
-개인 설정을 변경 하려면 [개인 언어 및 지역 설정 변경을](https://support.office.com/article/Change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)참조 하세요.
+개인 설정을 변경하려면 개인 언어 및 지역 설정 [변경을 참조하세요.](https://support.office.com/article/Change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)
 
-사이트 사용자 인터페이스를 변경 하려면 [사이트의 사용자 인터페이스에 대해 사용 가능 하도록 설정할 언어 선택을](https://support.office.com/article/choose-the-languages-you-want-to-make-available-for-a-site-s-user-interface-16d3a83c-05ab-4b50-8fbb-ff576a3351e8)참조 하십시오.
+사이트 사용자 인터페이스를 변경하려는 경우 사이트의 사용자 인터페이스에 사용할 수 있도록 할 언어 [선택을 참조하세요.](https://support.office.com/article/choose-the-languages-you-want-to-make-available-for-a-site-s-user-interface-16d3a83c-05ab-4b50-8fbb-ff576a3351e8)
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d27d570a7bc0f2c1081ba7fd52264a20bf25a453
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888412"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314850"
 ---
 # <a name="fix-connection-policy"></a>연결 정책 수정
 
@@ -33,7 +33,6 @@ ms.locfileid: "57888412"
 
 4. 다음 **IP** 주소 또는 주소 범위에서 항상 메시지 허용 섹션의 항목을 검토하고 수신 허용 목록 설정이 **선택되어** 있는지 검토합니다.
 
-   > [!NOTE]
-   > Microsoft는 신뢰할 수 있는 보낸 사람에 대한 타사 소스를 구독합니다. 수신 확인 목록이 사용하도록 설정된 경우 이러한 신뢰할 수 있는 보낸 사람이 스팸으로 잘못 표시되지 않습니다. 받는 가음성(스팸으로 분류된 양호한 메일)의 수가 줄어들기 때문에 이 옵션을 선택하는 것이 좋습니다.
+   **참고:** Microsoft는 신뢰할 수 있는 보낸 사람에 대한 타사 소스를 구독합니다. 수신 확인 목록이 사용하도록 설정된 경우 이러한 신뢰할 수 있는 보낸 사람이 스팸으로 잘못 표시되지 않습니다. 받는 가음성(스팸으로 분류된 양호한 메일)의 수가 줄어들기 때문에 이 옵션을 선택하는 것이 좋습니다.
 
 자세한 내용은 [연결 필터링 구성](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy)을 참조하십시오.

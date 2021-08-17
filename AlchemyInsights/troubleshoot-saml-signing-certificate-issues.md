@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9406"
 - "9004341"
-ms.openlocfilehash: 290e740ccd7f3beac5b77e63c32c5b18c295070e6002dcdde44ce4a93f4330f6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fb043122edf5f99325f0403810eb0dc119d254e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105682"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314426"
 ---
 # <a name="troubleshoot-saml-signing-certificate-issues"></a>SAML 서명 인증서 문제 해결
 
@@ -31,13 +31,11 @@ SAML 서명 인증서 문제를 해결하려면 다음 권장 단계를 수행�
 
 3. 이 인증서가 만료되면 새 인증서를 만들고 응용 프로그램 공급업체로 업데이트한 다음 Azure 측에서 활성화하세요. 자세한 내용은 [곧 만료되는 인증서 갱신](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire)을 참조하세요.
 
-> [!NOTE]
-> 인증서가 만료될 경우, 사용자는 차단되지 않습니다.
+**참고**: 인증서가 만료될 경우, 사용자는 차단되지 않습니다.
 
-4. 현재 인증서가 만료되기 전에 수신될 [알림에 대한 전자 메일 주소를 추가](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#add-email-notification-addresses-for-certificate-expiration)합니다.
+4. 현재 인증서가 만료되기 전에 [알림용 전자 메일 주소를 추가](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#add-email-notification-addresses-for-certificate-expiration)합니다.
 
-> [!NOTE]
-> 4단계는 선택 사항입니다.
+**참고**: 4단계는 선택 사항입니다.
 
 5. 응용 프로그램의 SAML 인증서 서명 옵션 및 인증서 서명 알고리즘을 변경합니다. 자세한 내용은 [인증서 서명 옵션 및 서명 알고리즘 변경](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)을 참조하세요.
 

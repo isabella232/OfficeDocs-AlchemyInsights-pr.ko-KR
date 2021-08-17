@@ -1,5 +1,5 @@
 ---
-title: Outlook.com에서 지운 편지함 폴더 비우기
+title: Outlook.com에서 지워진 항목 폴더 비우기
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f17cefcc981fc2637aa0c90f4b476289b97e7969a26588664baf67485daf5d5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672458"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111802"
 ---
-# <a name="empty-the-deleted-items-folder"></a>지운 편지함 폴더 비우기
+# <a name="empty-the-deleted-items-folder"></a>지워진 항목 폴더 비우기
 
-1. 지운 편지함 폴더를 열고 **빈 폴더**를 선택 합니다.
-2. 페이지 맨 위에 있는 **복구 가능한 항목** 을 선택 하 고 **빈 폴더** 를 다시 선택 합니다.
+1. 지워진 항목 폴더를 열고 빈 폴더 **를 선택합니다.**
+2. 페이지 **맨 위에** 있는 복구 가능한 항목을 선택하고 빈 폴더를 **다시** 선택합니다.
 
-**지운 편지함 폴더를 비울 수 없음**
+**지워진 항목 폴더를 비우지 못했습니다.**
 
-- 전자 메일을 많이 삭제 한 경우 지운 편지함 폴더에서 항목을 이동 하거나 삭제 하는 데 시간이 오래 걸릴 수 있습니다. 삭제 하는 동안 브라우저 창을 열어 둡니다.
-- 여전히 전자 메일이 올바르게 삭제 되지 않으면 더 작은 일괄 처리를 선택 하 여 삭제 합니다.
-- 삭제 된 전자 메일이 복구 되 면 최근에 전자 메일을 삭제 했기 때문일 수 있습니다. 나중에 다시 시도해 보세요.
+- 전자 메일을 많이 삭제한 경우 해당 항목이 지우기 항목 폴더로 이동하거나 삭제되는 데 다소 시간이 걸릴 수 있습니다. 삭제가 진행된 동안 브라우저 창을 열어 두십시오.
+- 전자 메일이 여전히 제대로 삭제되지 않는 경우 삭제할 작은 일괄 처리를 선택합니다.
+- If deleted email comes back, it could be because you've deleted a lot of email recently. 나중에 다시 시도하십시오.

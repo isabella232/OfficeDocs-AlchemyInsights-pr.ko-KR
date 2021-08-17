@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5782"
-ms.openlocfilehash: 3ade6182d814f99625978c7e14678e67e6b57260
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 515263d56b147f0f0e0f47b779394f5bec50df89ab1ea93fc1042384270a2ba3
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313894"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894601"
 ---
 # <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defender for Office 365 라이선스 관리
 

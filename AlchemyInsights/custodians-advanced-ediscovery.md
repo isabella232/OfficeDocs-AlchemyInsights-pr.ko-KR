@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12580"
-ms.openlocfilehash: e7b971619744503cfe09f2ee1ae96ce89929f00943164ff1e0b26e15e74ab8b9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7999b2e7c4ab6523f9084d406484f2c58a3560a533a3137698f07a18c58d46f4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54504059"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894969"
 ---
 # <a name="custodians-in-advanced-ediscovery"></a>Advanced eDiscovery의 보유자
 
@@ -32,6 +32,6 @@ Advanced eDiscovery 사례에서 보유자를 관리하려면 다음을 수행�
 
 Advanced eDiscovery에서 보유자 활동을 관리하고 보는 방법에 대한 자세한 내용은 다음을 참조하세요.
 
-- [보유자 및 비보유 데이터 원본으로 작업](/microsoft-365/compliance/managing-custodians)
+- [보유자 및 비보유 데이터 원본으로 작업](https://docs.microsoft.com/microsoft-365/compliance/managing-custodians)
 
-- [보유자 감사 활동 보기](/microsoft-365/compliance/view-custodian-activity)
+- [보유자 감사 활동 보기](https://docs.microsoft.com/microsoft-365/compliance/view-custodian-activity)

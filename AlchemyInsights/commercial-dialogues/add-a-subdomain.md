@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 5cef08bd626ae7362fd3bf33f2f58a7b83b2b7cca7a64ee5abc9efaa546acd72
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5e26e2ed2aeeb12fafec9f59a57315aff813f1b0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54006350"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314886"
 ---
 # <a name="add-a-subdomain"></a>하위omain 추가
 
 하위 도메인을 추가하는 단계는 일반 도메인을 추가하는 단계와 같습니다. 
 
-> [!IMPORTANT]
-> 하위 도메인을 추가하려면 등록 기관의 웹 사이트에서 자체 DNS 설정을 관리해야 합니다. Microsoft에서 NS 레코드를 사용하여 DNS 설정을 관리하게 하는 경우 하위 도메인을 추가할 수 없습니다. 
+**중요:** 하위 도메인을 추가하려면 등록 기관의 웹 사이트에서 자체 DNS 설정을 관리해야 합니다. Microsoft에서 NS 레코드를 사용하여 DNS 설정을 관리하게 하는 경우 하위 도메인을 추가할 수 없습니다. 
 
 하위omain을 추가하기 위해 다음 단계를 수행합니다.
 
