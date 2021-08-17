@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002459"
 - "3764"
-ms.openlocfilehash: 3ef8cc3b3069629fcc495aa3cd7920d2020b20eb
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: fc25928b601cd6c36d6c5569a44288c12b156857453f15c312110464e621f251
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687792"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042348"
 ---
 # <a name="license-or-account-disabled"></a>라이선스 또는 계정 비활성
 

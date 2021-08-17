@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "4764"
-ms.openlocfilehash: 2e915860046dd66c7d7642c0b031717c2113681f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea2d30c1d42f6701c4f5e3cc451bbb34ae77ae7781e9f5382502eeb9782ea023
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836501"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042420"
 ---
 # <a name="license-not-working"></a>라이선스가 작동하지 않음
 

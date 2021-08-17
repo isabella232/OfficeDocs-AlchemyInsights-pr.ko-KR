@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002895"
 - "5550"
-ms.openlocfilehash: c6ad2fcb85ef68c42cea11ebe0d1564e957b4720
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c5b73e2dae4d2b98b6af05e147f93a493bac5a88cfcb9ea67c979264aba34ceb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794838"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042168"
 ---
 # <a name="managing-organization-global-address-list-gal-and-offline-address-book-oab"></a>조직 전체 주소 목록(GAL) 및 오프라인 주소록 관리(OAB)
 

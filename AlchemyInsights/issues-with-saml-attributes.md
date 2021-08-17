@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "7838"
-ms.openlocfilehash: a0bff21ccac29c7e0ae8369a5a8dc0ba9685cb63
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: d02dd5d019cc68b49b019dee2928924deca181a87e3d5c5f5e7689a8eb5664e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49876568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042888"
 ---
 # <a name="issues-with-saml-attributes"></a>SAML 특성 관련 문제
 
