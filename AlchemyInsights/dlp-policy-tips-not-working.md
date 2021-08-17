@@ -1,5 +1,5 @@
 ---
-title: DLP 정책 팁이 작동하지 않습니다.
+title: DLP 정책 팁 작동하지 않습니다.
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
-ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
+ms.openlocfilehash: f93b7efebd0a619acf300120cc6ece0adbedc39675f6e782fd982dc1f988edbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51958708"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079672"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP 정책 팁 문제
 
@@ -30,6 +30,6 @@ ms.locfileid: "51958708"
 
 - 콘텐츠가 중요한 정보 유형 엔터티 정의 에 설명된 규칙을 트리거하는 데 필요한 내용과 [일치하는지 확인](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- 정책 팁은 OWA와 Outlook 둘 다에 표시됩니다. 그러나 Outlook 2013 이상을 사용하는 경우 정책 팁은 특정 조건에서만 표시됩니다. 특정 조건 목록에 대한 자세한 내용은 정책 팁 표시를 위해 [Outlook 2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)이상에 지원되는 조건을 참조하세요.
+- 정책 팁은 OWA 및 정책 Outlook. 그러나 2013 Outlook 사용하는 경우 정책 팁은 특정 조건에서만 표시됩니다. 특정 조건 목록에 대한 자세한 내용은 정책 Outlook [2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)이상에 대해 지원되는 조건을 팁.
 
-DLP 정책 팁에 대한 자세한 내용은 [DLP](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) 정책 팁 참조 및 DLP 정책 팁에 대한 [지원 매트릭스를 참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
+DLP 정책 팁에 대한 자세한 [내용은 DLP 정책 팁에 팁 및](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) 지원 매트릭스를 [참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)

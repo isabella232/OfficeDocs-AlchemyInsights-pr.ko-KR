@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5154"
-ms.openlocfilehash: dfd77bc83b4b278e3630858f54fdfb109ade2a14
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e1f8227047daede71d0fa3b3557db0d95a379b99b76ab0c2fe1d6ed8cc213d4a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813874"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079456"
 ---
 # <a name="encryption-with-transport-rules"></a>전송 규칙을 사용하여 암호화
 

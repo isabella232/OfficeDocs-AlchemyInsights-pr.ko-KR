@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005616"
 - "9928"
-ms.openlocfilehash: c6b6cce2e356c9e5b1d822cbec623d1806357ce7
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: 9d3c16ee5b8e2f1a9bca4688df5232a9e36f2535f2cf1eb7e7fa3f64c5e674ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51123141"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079384"
 ---
 # <a name="get-help-with-windows-10-desktop"></a>Windows 10 데스크톱에 대한 도움말 보기
 
