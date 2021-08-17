@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: 7afc9d7a442bb6a1fdcc6cc624ba9039562a2796faa576592cc7d64dad42ff62
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c3bdd6ff2428be9c0b8f5d39934d44c76a26d97da2eabf5b74bc528a6db5b1c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53953227"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890816"
 ---
 # <a name="add-a-user"></a>사용자 추가
 
@@ -29,4 +29,4 @@ ms.locfileid: "53953227"
 
 3. 마법사를 따라 사용자 정보, 제품 라이선스, 선택적 역할, 프로필 정보를 추가합니다.
 
-자세한 내용은 [개별적으로 또는 대량으로 사용자 추가](/microsoft-365/admin/add-users/add-users)를 참조하세요.
+자세한 내용은 [개별적으로 또는 대량으로 사용자 추가](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)를 참조하세요.

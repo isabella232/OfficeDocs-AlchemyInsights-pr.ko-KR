@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: 928eac7dc5455a96d8f49f60a368f098f8e322bb
-ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
+ms.openlocfilehash: 5eaf53633be10a10df9c040bc2852152f51daa6b248f3773997e203cbb6b86f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2021
-ms.locfileid: "52882695"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108598"
 ---
 # <a name="set-up-advanced-ediscovery"></a>Advanced eDiscovery 설정하기
 

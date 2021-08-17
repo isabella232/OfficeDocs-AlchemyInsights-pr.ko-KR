@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: 168cf7c9fbe2d1ce6c0463092770719cdc63d45c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 59e0160dc3c206aa675841d391b4f45e953cda100b991992fe4668d697c9e069
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811534"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055704"
 ---
 # <a name="help-with-spfx-pages-and-web-parts"></a>SPFx 페이지 및 웹 파트에 대한 도움말
 

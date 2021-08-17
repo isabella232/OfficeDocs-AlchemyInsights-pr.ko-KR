@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 95f1c3481dbe02f0569522a38783b16c1d5f45cf47847d456dbed9ccda52c3c2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 90399a54ad9d77bb94f8c067f255274e4d2591823095b391f53ddf7514d338a6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53931203"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890764"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>구독을 Microsoft 365 취소하나요?
 
@@ -31,6 +31,6 @@ ms.locfileid: "53931203"
 3. **구독 취소** 창에서 취소 이유를 선택합니다. 또는 피드백을 입력합니다.
 4. **저장** 을 선택합니다.
 
-구독 취소 또는 옵션에 대한 자세한 내용은 구독 [취소를 참조하세요.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+구독 취소 또는 옵션에 대한 자세한 내용은 구독 [취소를 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-평가 기간 동안 구독을 계속 사용하려면 구독에 대한 거치지 청구를 해제할 수 있습니다. 자세한 내용은 비즈니스용 Microsoft 365 [갱신을 참조합니다.](/microsoft-365/commerce/subscriptions/renew-your-subscription)
+평가 기간 동안 구독을 계속 사용하려면 구독에 대한 거치지 청구를 해제할 수 있습니다. 자세한 내용은 비즈니스용 Microsoft 365 [갱신을 참조합니다.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)
