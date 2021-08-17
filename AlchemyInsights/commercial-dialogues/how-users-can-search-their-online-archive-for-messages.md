@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 7c5d4e29cf3d18493ea4a46fa75c3586aeb456c9dbfd55e116caa67b6cd11202
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 691439e12f69643fcb97596127c00e1388d53829
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034508"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303403"
 ---
 # <a name="how-users-can-search-their-online-archive-for-messages"></a>사용자가 온라인 보관함에서 메시지를 검색하는 방법
 
@@ -27,5 +27,4 @@ ms.locfileid: "54034508"
 2. 이 웹용 Outlook 보관함은 *In-Place Archive 입니다.* 보관 사서함 In-Place 이동한 다음 검색을 수행하십시오.
 3. 이 Outlook 2016 에서는 온라인 *보관함 - `name` >*<. 온라인 보관 사서함으로 이동한 다음 검색을 수행하세요.
 
-> [!TIP]
-> 사용자는 스마트폰과 같은 모바일 장치에서 Outlook 사용하여 온라인 보관 사서함에 액세스할 수 없습니다.
+**팁:** 사용자가 스마트폰과 같은 모바일 장치에서 Outlook 사용하여 온라인 보관 사서함에 액세스할 수 없습니다.

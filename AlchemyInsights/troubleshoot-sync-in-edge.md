@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9128"
 - "9004429"
-ms.openlocfilehash: 499f8e2473848834ae03da69cb98ab844c344e32
-ms.sourcegitcommit: e9fcd72e64d35f5ba14dfa0fbde39eae20d86cfe
+ms.openlocfilehash: c93fb4ab70114496d99eeba9b946106ce73b3736862bf8cb754f91b787a7f5ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53603290"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038834"
 ---
 # <a name="troubleshoot-problems-with-sync-in-microsoft-edge"></a>Microsoft Edge에서 동기화 문제 해결
 
