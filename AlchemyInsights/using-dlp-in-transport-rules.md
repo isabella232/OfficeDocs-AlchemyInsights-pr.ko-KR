@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5153"
-ms.openlocfilehash: e512b36b34c5fc4931fb0f796790ee4b01c6443c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ebc0fb718eb0572e849c5d780977deaee480a00c2825c18a12e4d2212342f17a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827222"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084100"
 ---
 # <a name="using-dlp-in-transport-rules"></a>전송 규칙에서 DLP 사용
 
