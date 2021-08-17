@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: 5eaf53633be10a10df9c040bc2852152f51daa6b248f3773997e203cbb6b86f7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 51a7e1c5d060f58a5bb0e551e31b8c9734858fc2ec88fc662b1d9a78d127bed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54108598"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893693"
 ---
 # <a name="set-up-advanced-ediscovery"></a>Advanced eDiscovery 설정하기
 
@@ -40,6 +40,6 @@ Advanced eDiscovery를 사용하면 텍스트 분석, 기계 학습, 관련성/�
 
 **4. Advanced eDiscovery 사례 만들기**
 
-Advanced eDiscovery를 설정하는 데 필요한 단계에 대한 자세한 내용은 [Advanced eDiscovery 시작하기](/microsoft-365/compliance/get-started-with-advanced-ediscovery)를 참조하세요.
+Advanced eDiscovery를 설정하는 데 필요한 단계에 대한 자세한 내용은 [Advanced eDiscovery 시작하기](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery)를 참조하세요.
 
-사례를 만들고 관리하는 방법에 대한 자세한 내용은 [Microsoft 365에서 Advanced eDiscovery 사례 만들기 및 관리](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case)를 참조하세요.
+사례를 만들고 관리하는 방법에 대한 자세한 내용은 [Microsoft 365에서 Advanced eDiscovery 사례 만들기 및 관리](https://docs.microsoft.com/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case)를 참조하세요.

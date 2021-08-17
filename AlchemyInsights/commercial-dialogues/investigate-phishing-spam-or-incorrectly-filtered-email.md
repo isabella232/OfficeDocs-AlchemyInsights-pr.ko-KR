@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948961"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894401"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>피싱, 스팸 또는 잘못 필터링된 전자 메일 조사
 
 제출 탐색기를 사용하여 Microsoft에 메시지를 제출합니다. 메시지 필터링 및 문제가 발생한 이유에 대한 즉각적인 피드백을 얻게 됩니다. 다음은 단계에 대한 요약입니다.
 
-1. Office 365 보안 & 센터로 이동하여 위협 관리  [제출을](https://go.microsoft.com/fwlink/p/?linkid=2077143)선택한 다음  >   **+새 제출을 선택합니다.**
-2. 새 제출 플라이아웃에서 세부 **정보를** 지정합니다.
-3. 사용자에게 의심스러운 전자 메일을 Microsoft에 보고해야 한다고 알리고 보고서 메시지 추가 기능도 이러한 용도로 사용해야 하는 도구입니다. [](https://go.microsoft.com/fwlink/?linkid=2092385)
+1. 의 Microsoft 365 Defender 포털에서 <https://security.microsoft.com> 전자 메일 &  \> **제출로 이동하세요.**
+
+   제출 **페이지로** 직접 이동하기 위해 를 <https://security.microsoft.com/reportsubmission> 사용하세요.
+
+2. 제출 **페이지에서** 분석을 위해  제출된 탭이 선택되어 있는지 확인한 다음 + 분석을 위해 **Microsoft에 제출을 클릭합니다.**
+
+3. 전자 메일, URL 또는 파일을 제출하는 옵션이 있는 플라이아웃이 표시됩니다. 자세한 내용은 관리 제출을 사용하여 의심되는 스팸, 피싱, URL 및 파일을 Microsoft에 제출을 [참조하세요.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+4. 보고서 메시지 추가 기능 또는 피싱 보고 추가 기능을 사용하여 받은 편지함에서 의심스러운 메시지를 보고해야 함을 [사용자에게 알릴 수 있습니다.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

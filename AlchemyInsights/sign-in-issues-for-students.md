@@ -13,12 +13,12 @@ ms.custom:
 - "9000744"
 - "3813"
 - "3818"
-ms.openlocfilehash: bd9ed8ff0f01842d906cb5385f000213e5917f87
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 55e50cce3a6d15fea45340d94ca9b62e19cfed65347cb4c7c3e30570d837260d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51787107"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084685"
 ---
 # <a name="sign-in-issues-for-students"></a>학생용 로그인 문제
 

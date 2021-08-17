@@ -1,5 +1,5 @@
 ---
-title: 사이트 이름 바꾸기
+title: 사이트 이름 다시 정하기
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,24 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 2cf5047714594c86eff86e5371e08ef110e5f3de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dcba86584c42587c89c9c7ae4cdb3f05b6e51bd509ab7a36a41de2ac00f8f391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721012"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110742"
 ---
-# <a name="rename-a-sharepoint-site"></a>SharePoint 사이트 이름 바꾸기
+# <a name="rename-a-sharepoint-site"></a>사이트 이름 SharePoint 이름 다시 매기기
 
-사이트 URL 변경/이름 바꾸기 단계는 [사이트 주소 변경](https://docs.microsoft.com/sharepoint/change-site-address)에 설명 되어 있습니다. 예를 들어로 변경할 수 https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 있습니다.
+사이트 URL을 변경/이름 바꾸는 단계는 사이트 주소 [변경에 설명되어 있습니다.](https://docs.microsoft.com/sharepoint/change-site-address) 예를 들어 에서 로 https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 변경합니다.
 
-이름을 바꾸는 동안 알려진 오류 [는 SharePoint 사이트 주소의 이름을 바꿀 때 오류](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)를 참조 하십시오.
+이름을 변경하는 동안 알려진 오류는 사이트 주소의 이름을 [SharePoint 오류를 참조하세요.](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)
 
-이름을 바꾼 후 알려진 효과에 대 한 자세한 내용은 [사이트 주소 변경의 결과](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address)를 참조 하세요.
+이름 바꾸기 후의 알려진 효과는 사이트 주소 변경의 [효과를 참조하세요.](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address)
 
-**참고:** SharePoint Online URL에서는 위의 예에서 URL의 "contoso" 부분에 있는 도메인 이름을 변경할 수 없습니다. 
+**참고:** 온라인 URL의 도메인 이름(위 예에서는 URL의 "contoso" 부분)을 변경할 SharePoint 없습니다. 
 
-자세한 내용은 다음을 참조하세요.
+자세한 내용은 다음 항목을 참조하세요.
 
 - [SharePoint 팀 사이트의 이름을 바꿀 수 없음](https://go.microsoft.com/fwlink/?Linkid=2018696)
-- [SharePoint 사이트 주소의 이름을 바꿀 때 오류가 발생 하는 경우](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)
+- [사이트 주소의 이름을 SharePoint 오류](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 3009984f0582453cd9d37ee8240efcf71f93383c0cee7b7a26a629a963ba0091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b50f9c8d64a77865f03357fd3442c8d367b6e96
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53936351"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314074"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>사용자에 대한 전자 메일 별칭 만들기 또는 추가
 
@@ -31,7 +31,7 @@ ms.locfileid: "53936351"
     
 4. 별칭 **상자에** 새 전자 메일을 입력한 다음 추가 를 **선택합니다.** GoDaddy 또는 다른 파트너로부터 구독을 구입한 경우 새 별칭을 기본으로 설정하려면 GoDaddy/파트너 관리 콘솔로 이동해야 합니다. 
     
-    **중요**: "매개 변수 이름 **'EmailAddresses"에** 일치하는 매개 변수를 찾을 수 없습니다." 오류 메시지가 표시될 경우 Microsoft에서 테넌트 또는 최근에 사용자 지정 도메인을 추가한 경우 사용자 지정 도메인 설정을 완료하는 데 시간이 좀 더 오래 드는 것입니다. 설정 프로세스를 완료하는 데 최대 4시간이 걸릴 수 있습니다. 설정 프로세스가 완료될 때까지 기다린 후 다시 시도하세요. 문제가 계속되는 경우 고객 지원에 문의하면 전체 동기화를 수행해 드립니다.
+    **중요:**"매개 변수 이름 **'EmailAddresses"에** 일치하는 매개 변수를 찾을 수 없습니다." 오류 메시지가 표시될 경우 Microsoft에서 테넌트 또는 최근에 사용자 지정 도메인을 추가한 경우 사용자 지정 도메인 설정을 완료하는 데 시간이 좀 더 오래 드는 것입니다. 설정 프로세스를 완료하는 데 최대 4시간이 걸릴 수 있습니다. 설정 프로세스가 완료될 때까지 기다린 후 다시 시도하세요. 문제가 계속되는 경우 고객 지원에 문의하면 전체 동기화를 수행해 드립니다.
     
     일반적으로 새 별칭을 적용하는 데 30분 정도 걸립니다.
     

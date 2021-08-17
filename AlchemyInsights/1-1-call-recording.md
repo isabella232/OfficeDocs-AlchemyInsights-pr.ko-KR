@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: 29383643e6867bca7fd31774a9594b82fdc080bb0e7254141e8c883ad861075e
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c17408442cec6c0877b7d66bc8a7fd3062eb0e47
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57886145"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314390"
 ---
 # <a name="11-call-recording"></a>1:1 통화 기록
 

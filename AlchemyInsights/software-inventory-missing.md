@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11382"
 - "9001470"
-ms.openlocfilehash: e886a53f8c063b5395dd002a7d16186985584d72
-ms.sourcegitcommit: 0c104e2bd34ccc09bcea389e470692e92bcf1f8f
+ms.openlocfilehash: 191d6ae772dc1b1c6b15071da9c4aca14429cf2db17be6ee0db6b23ea0d29e2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52658053"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084649"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>소프트웨어 인벤터리가 없거나 부정확 합니다.
 

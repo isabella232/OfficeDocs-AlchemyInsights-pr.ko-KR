@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11254"
 - "1200008"
-ms.openlocfilehash: 58d9f507b427556e5dee6156a838417778a8104acb5c43da659749fb738bd6eb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d9eab39763b92aa4c4e1beb759edfd9f041fc6d0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57882893"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314002"
 ---
 # <a name="administrative-units"></a>관리 단위
 

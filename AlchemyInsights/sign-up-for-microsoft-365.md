@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002572"
 - "5031"
-ms.openlocfilehash: 411bc7c069f80235713880d149ac10f68c836611
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ddca43516586c6ba49d87cbb23d9dff77cf2e4517d8b6ce3a46d00e535b59afb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835385"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084721"
 ---
 # <a name="sign-up-for-microsoft-365"></a>Microsoft 365 등록
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5708"
-ms.openlocfilehash: 0e371289cc1cf531909058ce2189cb3a5436d6fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c928d2fef83f2ae93aa764078739def8e1ec9f9d5cf3d9f11e22cd20702d4ddd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786891"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084757"
 ---
 # <a name="site-template-cannot-be-created"></a>사이트 서식 파일을 만들 수 없습니다.
 

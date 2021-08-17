@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: 54889cd480f85fc63254c8218d03e26541795620fe2711798c19c9c503637f92
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: e7d9616a1e3ff499cf7859699e837893927fcded
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892933"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313740"
 ---
 # <a name="buy-additional-licenses"></a>추가 라이선스 구입
 

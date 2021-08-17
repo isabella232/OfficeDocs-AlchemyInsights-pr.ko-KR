@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: aa497883706055a3124f76d731399e39ca3f72f6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 47eb83537d32b4ef966ddb9a9107c2535287730b3bb7bd75b32c894c6411aeca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809517"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110506"
 ---
 # <a name="resize-and-attach-images-on-android"></a>Android에서 이미지의 재배치 및 첨부
 

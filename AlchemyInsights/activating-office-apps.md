@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889260"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314246"
 ---
 # <a name="activating-microsoft-365-apps"></a>Microsoft 365 앱 정품 인증
 
-**참고**: 이전 버전의 Windows(예: Windows 7)를 사용하는 경우 TLS 1.2가 기본값으로 사용하도록 설정되어 있는지 확인하세요. 자세한 내용은 [Windows의 WinHTTP에서 기본 보안 프로토콜로 TLS 1.1 및 TLS 1.2를 사용하도록 업데이트](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)를 참조하세요.
+**참고**: Windows 이전 버전(예: Windows 7 SP1, Windows Server 2008 R2)을 사용하는 경우 [간단한 해결](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi)을 사용하여 TLS 1.2를 기본값으로 사용하도록 설정합니다. 자세한 내용은 [Windows의 WinHTTP에서 기본 보안 프로토콜로 TLS 1.1 및 TLS 1.2를 사용하도록 업데이트](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)를 참조하세요.
 
 Office 정품 인증을 받으려면 다음을 참조하세요.
 
@@ -38,7 +38,7 @@ Office 정품 인증 문제를 해결하려면 다음을 참조하세요.
 
 - [Mac용 Office를 설치하거나 정품 인증할 수 없는 경우](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**팁** Windows 컴퓨터에서 몇 가지 일반적인 Office 로그인 문제를 자동으로 진단하고 해결해드립니다. 자동화된 도구를 사용하려면 **[Office 365 지원 및 복구 도우미](https://aka.ms/SaRA-OfficeSignInScenario)** 를 다운로드하고 실행하십시오.
+**팁**: Windows 컴퓨터에서 몇 가지 일반적인 Office 로그인 문제를 진단하고 자동으로 해결할 수 있습니다. 자동화된 도구를 사용하려면 **[Office 365 지원 및 복구 도우미](https://aka.ms/SaRA-OfficeSignInScenario)** 를 다운로드하고 실행하십시오.
 
 Microsoft 365 앱에 로그인 할 수 없는 경우 아래의 단계를 따릅니다.
 

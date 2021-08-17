@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online, Office 365 및 SharePoint Microsoft Defender를 사용하도록 OneDrive Microsoft Teams
+title: 금고 Online, SharePoint 및 OneDrive 첨부 파일에 Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058872"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894469"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>SharePoint Online, Office 365 및 SharePoint Microsoft Defender를 사용하도록 OneDrive Microsoft Teams
+# <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>금고 Online, SharePoint 및 OneDrive 첨부 파일에 Microsoft Teams
 
-1. 전역 관리자 또는 보안 관리자 자격 증명을 사용하여 Office 365 및 준수 센터에 [로그인합니다.](https://protection.office.com/)
-2. 왼쪽 **창에서 위협** 관리를 선택한 다음 정책 금고  >  [선택합니다.](https://protection.office.com/safeattachment)
-3. 에 **대해 Microsoft Defender** 켜기Office 365 SharePoint, OneDrive 및 Microsoft Teams 를 선택한 다음 저장을 **선택합니다.**
+1. 전역 관리자 또는 보안 관리자 자격 증명을 사용하여 Microsoft 365 Defender 포털을 열고 정책 섹션의 정책 & 규칙 위협 금고 정책으로 <https://security.microsoft.com>  \>  \> **이동하십시오.** 
+
+   첨부 파일 **페이지로** 직접 금고 를 <https://security.microsoft.com/safeattachmentv2> 사용하세요.
+
+2. 첨부 **금고 페이지에서** 전역 설정을 **클릭합니다.**
+3. 플라이아웃이 나타나면 에 대해 **Microsoft Defender에서** Office 365, SharePoint, OneDrive 및 Microsoft Teams 를 **선택합니다.**
+
     > [!TIP]
     >
-    > - 전역 관리자 또는 SharePoint Online 관리자는 **DisallowInfectedFileDownload** 매개 변수를 *true로* 설정하여 다음 PowerShell cmdlet을 실행합니다. [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [검색된 파일에 대한 경고 설정](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > 다음 단계를 수행하여 금고, 첨부 파일 및 SharePoint, OneDrive 보호를 Microsoft Teams.
+    >
+    > - 사용자가 악성 파일을 다운로드하지 못하게 방지하려면 SharePoint `$true` Online PowerShell의 **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** cmdlet에서 *DisallowInfectedFileDownload* 매개 변수의 값을 사용합니다. 자세한 내용은 SharePoint Online PowerShell을 사용하여 사용자가 악성 파일을 다운로드하지 못하게 [합니다.를 참조하세요.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)
+    > - [검색된 파일에 대한 경고 정책 만들기](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
-자세한 내용은 microsoft [Defender for Office 365 for SharePoint,](https://go.microsoft.com/fwlink/?linkid=2092041)OneDrive 및 Microsoft Teams.
+자세한 내용은 금고, Office 365 및 에 대한 SharePoint 첨부 OneDrive [Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)

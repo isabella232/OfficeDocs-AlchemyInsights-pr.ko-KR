@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889320"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314282"
 ---
 # <a name="activate-your-subscription"></a>구독 활성화
 
