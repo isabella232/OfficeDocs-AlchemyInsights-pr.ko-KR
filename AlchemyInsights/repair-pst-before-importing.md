@@ -13,12 +13,12 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 1b6f3d55d69ce0664fa6316c6879ade9849d5950
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: a676953f5757a9e474ce0b65c2ddcf921322ba47ab93016aa05f23c8a70d8d24
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233720"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053112"
 ---
 # <a name="repair-pst-or-ost-files"></a>.pst 또는 .ost 파일 복구
 

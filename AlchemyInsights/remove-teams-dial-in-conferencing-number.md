@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: 8d78351a15886021621c81ba5900b3af5f58f308
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 062ade50a719b0477c39138f362daf7a23349eabb4d84fe0a54375326f25e3e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053220"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Teams 전화 접속 회의 번호 제거
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "3542"
-ms.openlocfilehash: 655fbec4d0722316babcfaed1be6a4cdffcb3072
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: abf1e723c0525286a54dfce0b6adc1a7d3997f4e7e99817573633f797ccf5d4e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830768"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053148"
 ---
 # <a name="renew-apple-apns-certificate"></a>Apple APNS 인증서 갱신
 
