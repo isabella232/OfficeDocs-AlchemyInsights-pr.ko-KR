@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820292"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060070"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Bitlocker 복구 키 액세스
 
-Bitlocker 설정 Intune 끝점 보호 정책을 구성할 때 Bitlocker 복구 정보를 Azure Active Directory에 저장할지 여부를 정의할 수 있습니다.
+Bitlocker 설정 Intune Endpoint Protection 정책을 구성할 때 Bitlocker 복구 정보를 해당 정책에 저장할지 여부를 정의할 Azure Active Directory.
 
 해당 설정이 구성된 경우 저장된 복구 데이터는 Intune 장치 블레이드의 장치 레코드 데이터의 일부로 Intune 관리자에게 다음 두 가지 방법으로 표시해야 합니다.
 
@@ -47,5 +47,5 @@ Intune에 등록하기 전에 장치가 암호화된 경우 복구 키가 OOBE �
  
 도메인 기반 그룹 정책을 통해 구성한 결과로 장치가 암호화된 경우 복구 정보가 사내 Active Directory에 저장될 수 있습니다.
 
-Azure Active Directory에 복구 키를 저장하도록 끝점 보호 정책을 구성했지만 특정 장치의 키가 업로드되지 않은 경우 MEM 콘솔에서 해당 장치에 대한 복구 키를 회전하여 업로드를 트리거할 수 있습니다. 자세한 내용은 [BitLocker 복구 키 회전을 참조합니다.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
+복구 키를 Azure Active Directory 복구 키를 저장하도록 끝점 보호 정책을 구성했지만 특정 장치의 키가 업로드되지 않은 경우 MEM 콘솔에서 해당 장치의 복구 키를 회전하여 업로드를 트리거할 수 있습니다. 자세한 내용은 [BitLocker 복구 키 회전을 참조합니다.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 

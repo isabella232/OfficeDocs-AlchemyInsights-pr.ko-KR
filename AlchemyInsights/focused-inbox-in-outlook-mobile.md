@@ -1,5 +1,5 @@
 ---
-title: Outlook mobile의 1800019 중요 받은 편지함
+title: 1800019 모바일의 Outlook 받은 편지함
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 3593277f39ac003cc56efafe20c7ede21b71ea1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be1962be5200c2b665e5c52abcabf151d27887e8fd39f7f9296381abdd430d51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744420"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117058"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a>Outlook mobile 용 중요 받은 편지함
+# <a name="focused-inbox-for-outlook-mobile"></a>모바일용 Outlook 받은 편지함
 
-[중요 받은 편지함 이란?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[중요한 받은 편지함이란?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[중요 받은 편지함에서 전자 메일을 이동 하는 규칙을 편집 하는 방법은 무엇 인가요?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[전자 메일을 받은 편지함 안과 밖으로 이동하는 규칙을 편집하려면 어떻게 해야 합니까?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[중요 받은 편지함을 해제 하거나 내 배지 개수 및 알림이 중요 받은 편지함에 동기화 되는지 여부를 변경 하려면 어떻게 해야 합니까?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[집중 받은 편지함을 끄거나 배지 수 및 알림이 집중된 받은 편지함과 동기화될지 여부를 변경하는 방법](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[중요 받은 편지함을 해제 하거나 알림이 중요 받은 편지 함으로 동기화 되는지 여부를 변경 하려면 어떻게 해야 합니까?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[집중된 받은 편지함을 끄거나 알림이 집중된 받은 편지함과 동기화될지 여부를 변경하는 방법](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[중요 및 기타 간을 전환 하는 방법](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[Focused와 Other 간에 전환하는 방법](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-자세한 내용은 [iOS 및 Android 용 Outlook에 대 한 앱 내 도움말 가져오기](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409) 를 참조 하세요.
+자세한 내용은 iOS 및 Android용 Outlook [앱 내 도움말을 다운로드하세요.](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
   

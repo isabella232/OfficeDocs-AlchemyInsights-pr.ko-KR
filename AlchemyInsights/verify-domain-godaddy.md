@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 248890e78f432015dbaa6eae712f42c96481afaa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 09f7b6fca226afb2e3ae53c58265886072c5c136317be390dccfc76f13efa94d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824333"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083704"
 ---
 # <a name="verify-your-domain-with-godaddy"></a>GoDaddy를 사용하여 도메인 확인
 
 도메인을 확인하려면 도메인 등록 기관에 TXT 레코드를 추가하여 도메인을 소유하고 있는지 확인해야 합니다. 
 
-먼저 설정 도메인 [을](https://admin.microsoft.com/Adminportal#/Domains) 선택하여  도메인 추가 마법사를 수행한 다음 \> 도메인 **추가 를 선택합니다.**
+먼저 도메인 [추가](https://admin.microsoft.com/Adminportal#/Domains) 마법사를 따라 도메인 **설정** 를 선택한 다음 \> 도메인 **추가 를 선택합니다.**
   
-단계별 지침은 [GoDaddy에서 Microsoft 365용](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) DNS 레코드 만들기를 참조하세요.
+단계별 지침은 [GoDaddy에서 DNS 레코드 Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) 참조하세요.

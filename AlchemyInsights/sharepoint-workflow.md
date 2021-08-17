@@ -15,12 +15,12 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 93ce636c1cb4dd9f25b47861da22c30b6db6953c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 34d7029c90b4f2a71e7f621a0b20fe4de3365f0f6182cd5b125a8c1a6055222a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58304771"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894133"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>작업의 워크플로 SharePoint
 

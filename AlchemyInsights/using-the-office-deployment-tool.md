@@ -12,31 +12,31 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: f3a5dbfc6b64ccd4f0b19a5f86236336e78838d4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 39a011d4b121492d222ff620e70d9860231b7bcfe0d7fd2ecfd93de1ef502f5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085838"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083776"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>ODT (Office 배포 도구) 사용
+# <a name="using-the-office-deployment-tool-odt"></a>ODT(Office 배포 도구) 사용
 
-ODT (Office 배포 도구)를 사용 하 여 Office 365 버전의 Office를 배포 합니다. Office 배포 도구 (setupodt.exe)는 명령줄에서 실행 되며 구성 XML 파일을 사용 하 여 Office를 배포할 때 적용할 설정을 결정 합니다.
+ODT(Office 배포 도구)를 사용하여 OFFICE 365 버전을 배포할 Office. Office 배포 도구(setup.exe)는 명령줄에서 실행되어 구성 XML 파일을 사용하여 배포할 때 적용할 설정을 Office.
   
-1. [Microsoft 다운로드 센터](https://go.microsoft.com/fwlink/p/?LinkID=626065)에서 최신 버전의 Office 배포 도구를 다운로드 합니다.
+1. Microsoft 다운로드 센터에서 Office 배포 도구의 최신 버전을 [다운로드합니다.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
 
-2. [OCT (Office 사용자 지정 도구)](https://config.office.com) 를 사용 하 여 배포 기본 설정을 선택 하 고 구성 XML 파일을 만듭니다. 구성 파일을 내보내 setupodt.exe가 있는 폴더에 로컬로 배치 합니다.
+2. [OCT(Office 사용자](https://config.office.com) 지정 도구)를 사용하여 배포 기본 설정을 선택하고 구성 XML 파일을 만들 수 있습니다. 구성 파일을 내보내고 구성 파일이 있는 동일한 폴더에 setup.exe 배치합니다.
 
-    **참고:** Office 설치 문제는 일반적으로 잘못 구성 되거나 malformatted configuration 파일로 인해 발생 합니다. 이러한 문제를 방지 하려면 Office 사용자 지정 도구를 사용 하 여 구성 파일을 만드는 것이 좋습니다. 기존 구성 파일을 Office 사용자 지정 도구로 가져올 수도 있습니다.
+    **참고:** Office 구성 파일이 잘못 구성되어 설치 문제가 자주 발생합니다. 이러한 문제를 방지하려면 Office 사용자 지정 도구를 사용하여 구성 파일을 만드는 것이 좋습니다. 기존 구성 파일을 사용자 지정 도구의 Office 있습니다.
 
-3. 관리자 권한 명령 프롬프트에서 setupodt.exe 상주 하는 위치로 전환한 다음 다운로드 모드에서 Office 개발 도구를 실행 하 고 방금 저장 한 구성 파일을 지정 합니다. 이 예제에서 구성 파일의 이름은 Configuration.xml입니다.
+3. 상승된 명령 프롬프트에서 setup.exe 위치로 전환하고 다운로드 모드에서 Office 배포 도구를 실행하고 방금 저장한 구성 파일을 지정합니다. 이 예제에서는 구성 파일의 이름이 다음과 Configuration.xml.
 
-```setupodt.exe /download Configuration.xml```
+```setup.exe /download Configuration.xml```
 
-4. 구성 모드에서 Office 개발 도구를 실행 하 고 구성 파일을 지정 합니다.
+4.Office 배포 도구를 구성 모드에서 실행하고 구성 파일을 지정합니다.
 
-```setupodt.exe /configure Configuration.xml```
+```setup.exe /configure Configuration.xml```
 
-**참고:** Office를 설치 하려는 클라이언트 컴퓨터에서이 단계를 실행 해야 하며 해당 컴퓨터에 대 한 로컬 관리자 권한이 있어야 합니다.
+**참고:** 설치하려는 클라이언트 컴퓨터에서 이 단계를 실행해야 Office 해당 컴퓨터에 대한 로컬 관리자 권한이 있어야 합니다.
 
-Office 배포 도구 365를 사용 하 여 엔터프라이즈 배포 시나리오에 대 한 자세한 내용은 [office 배포 도구 개요](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)를 참조 하세요. Office 사용자 지정 도구를 사용 하는 방법에 대 한 자세한 내용은 [Office 사용자 지정 도구 개요](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)를 참조 하세요.
+Office 배포 시나리오에 엔터프라이즈용 Microsoft 365 앱 배포 도구 사용에 대한 자세한 내용은 [Overview of the Office Deployment Tool를 참조하십시오.](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool) Office 사용자 지정 도구를 사용하는 방법에 대한 자세한 내용은 Office 사용자 지정 도구 [개요를 참조하십시오.](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)

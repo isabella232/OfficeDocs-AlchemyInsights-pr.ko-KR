@@ -1,5 +1,5 @@
 ---
-title: SharePoint 사이트에 대 한 팔 로우 또는 팔 로우 취소
+title: 사이트 팔로우 또는 SharePoint 팔로우
 ms.author: pebaum
 author: v-miegge
 ms.date: 04/21/2020
@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 254f67b606d013e08dc80d320b1bc611f031cea0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 077a72c56e8adc4617efe2d98e11069684c2f4227e2590144017be30fb19548e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744433"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116986"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>SharePoint 사이트에 대 한 팔 로우 또는 팔 로우 취소
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>사이트 팔로우 또는 SharePoint 팔로우
 
-사용자에 게 SharePoint 리소스를 팔 로우 하거나 팔 로우 하는 동안 문제가 발생 하면 다음 단계를 완료 합니다.
+사용자가 리소스의 팔로우 또는 SharePoint 발생하는 경우 다음 단계를 완료합니다.
 
-* 사용자에 게 로그 아웃 하 고 SharePoint에 다시 로그인 하도록 요청 하 고 동일한 단계에 따라 SharePoint 리소스의 팔 로우를 취소 합니다.
-* 문제가 특정 사이트 또는 모든 사이트에 있는지 확인 합니다. 특정 사이트에서 문제가 발생 하는 경우 사이트 **설정 > 사이트 기능을 관리**하 여 콘텐츠를 > 하는 "다음 콘텐츠" 기능이 사이트에 대해 활성 상태 인지 확인 합니다. 기능이 활성으로 설정 된 경우 사이트에 대해이 기능을 비활성화 했다가 다시 활성화 해 봅니다.
-* 사용자에 게 다른 인터넷 브라우저를 사용해 서 문제가 사용자의 브라우저와 관련이 있는지 확인 하도록 요청 합니다.
-* 모든 사용자와 사이트의 동일한 문제가 발생 하는 경우 [서비스 상태 대시보드](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) 를 확인 하 여 조직에 영향을 준 것이 있는지 살펴봅니다.
+* 사용자에게 로그인한 후 다시 로그인하도록 요청하고 SharePoint 동일한 단계를 수행하여 SharePoint 리소스를 SharePoint 합니다.
+* 문제가 특정 사이트 또는 모든 사이트에 있는지 여부를 판단합니다. 특정 사이트에서 문제가 발생하는 경우 다음 콘텐츠에 대해 사이트 기능 관리로 설정 > "콘텐츠 설정 >" 기능이 활성화되어 **> 합니다.** 기능이 활성으로 설정된 경우 사이트에 대해 기능을 비활성화하고 다시 활성화합니다.
+* 사용자에게 다른 인터넷 브라우저를 시도하여 문제가 사용자의 브라우저와 관련이 있는지 확인합니다.
+* 모든 사용자와 모든 사이트에서 동일한 문제가 발생하는 [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) 경우 서비스 상태 대시보드를 확인하여 조직이 영향을 겪고 있는지 확인할 수 있습니다.

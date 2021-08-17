@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 00710319f8d8b6ecd9d99d76751ecb256b2f867d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39296e35191b43d3bb6e6dc8364e97395e9dca65f29413265cd5e7ef8a87828e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737816"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091363"
 ---
 # <a name="how-admins-can-search-a-users-archive-mailbox"></a>관리자가 사용자의 보관 사서함을 검색하는 방법
 
