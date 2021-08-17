@@ -14,12 +14,12 @@ ms.assetid: ''
 ms.custom:
 - "9000192"
 - "12469"
-ms.openlocfilehash: ce9491c2553a3658ac31905e5c49d0b13cdad654
-ms.sourcegitcommit: 380ee556007d2be389b1a99795bca04bc1f9f60f
+ms.openlocfilehash: 201ec54b870a5f4c169e7e85c759d0e23cbfd7cd6dbe61e43eb0c6b536510e20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53604929"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084996"
 ---
 # <a name="sharepoint-shared-with-feature"></a>SharePoint 공유 기능
 

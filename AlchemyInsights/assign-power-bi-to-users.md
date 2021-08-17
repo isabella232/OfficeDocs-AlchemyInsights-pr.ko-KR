@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002564"
 - "4964"
-ms.openlocfilehash: e14be7908c5b44302ab3e90149c2027f77c5873ad610cb42cdff4e022c4409c0
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ce6ef3c408456cdcd2a8627294508c703212d33d5fd97631e1529e3f05e91bdc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500346"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894745"
 ---
 # <a name="assign-power-bi-to-users"></a>사용자에게 Power BI 할당
 
@@ -33,4 +33,4 @@ ms.locfileid: "54500346"
 5. **앱 및 서비스를 설정 또는 해제** 를 클릭하여 할당하거나 제거합니다.
 6. **할당** 에 이어 **닫기** 를 클릭합니다.
 
-라이선스를 더 구매하거나 라이선스를 제거하려면 [라이선스 구입 또는 제거](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)를 참조하세요.
+라이선스를 더 구매하거나 라이선스를 제거하려면 [라이선스 구입 또는 제거](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)를 참조하세요.
