@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 133b4dab80a69c7c47e1193e6109551ca665552fbf9168dde8be14096336efe5
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498978"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898898"
 ---
 # <a name="change-your-billing-address"></a>청구 주소 변경
 
@@ -35,7 +35,7 @@ ms.locfileid: "54498978"
 3. 결제 **방법 세부 정보 페이지에서** 편집을 **클릭합니다.**
 4. 청구 주소를 업데이트한 다음 저장을 > **클릭합니다.**
 
-주소 및 알림 변경에 대한 자세한 내용은 비즈니스용 앱의 청구 주소 [Microsoft 365 참조하세요.](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+주소 및 알림 변경에 대한 자세한 내용은 비즈니스용 앱의 청구 주소 [Microsoft 365 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
 
 **청구 계정 정보 변경**
 

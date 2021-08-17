@@ -16,12 +16,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 541a38088833f8e9f79450bc74486365a1b34de845728a7a621a8f21e67cd162
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: fc052672ecb4363204f3756080c7031fde44738ec9b9955aa7ffbe9b57d2603a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503586"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899026"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>무료 평가판에서 Microsoft 365 구독 구입
 
@@ -38,7 +38,7 @@ You've tried Microsoft 365, and now you're ready to buy. 평가판에서 구매�
 1. 관리 센터에서 청구 구매  서비스 \> [페이지로](https://go.microsoft.com/fwlink/p/?linkid=868433) 이동합니다.
 2. 구입하려는 구독을 찾고 구입을 선택하고 단계에 따라 체크 아웃합니다.
 
-자세한 내용은 무료 [평가판에서 구독 구입을 참조하세요.](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
+자세한 내용은 무료 [평가판에서 구독 구입을 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
 
 **문제 해결**
 

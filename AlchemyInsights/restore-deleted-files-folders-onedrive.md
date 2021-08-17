@@ -1,5 +1,5 @@
 ---
-title: OneDrive에서 삭제 된 파일 또는 폴더 복원
+title: 삭제된 파일 또는 폴더를 OneDrive
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3172"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 619c796dc1675cea33186d12af9df60adf2aaf31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b02cc8ce9bfe9c87b23d17aba0809a28cc558390812473914d378d60ea30a660
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808497"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109822"
 ---
-# <a name="restore-deleted-files-or-folders-in-onedrive"></a>OneDrive에서 삭제 된 파일 또는 폴더 복원
+# <a name="restore-deleted-files-or-folders-in-onedrive"></a>삭제된 파일 또는 폴더를 OneDrive
 
-실수로 OneDrive에서 파일 또는 폴더를 삭제 한 경우 나중에 OneDrive 휴지통에서 복구할 수 있습니다.
+실수로 파일 또는 폴더를 삭제한 OneDrive 나중에 해당 파일 또는 폴더를 OneDrive 수 있습니다.
 
-* [OneDrive에서 삭제 된 파일 또는 폴더 복원](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
+* [삭제된 파일 또는 폴더를 OneDrive](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
-여러 OneDrive 파일을 삭제, 덮어쓰기, 손상 또는 맬웨어가 감염 된 경우에는 OneDrive 전체를 이전 시간으로 복원할 수 있습니다.
+많은 OneDrive 덮어치거나 손상되거나 맬웨어에 감염된 경우 전체 파일을 이전 OneDrive 복원할 수 있습니다.
 
-* [OneDrive 복원](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [사용자 OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

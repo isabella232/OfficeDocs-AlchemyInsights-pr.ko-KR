@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002274"
 - "4492"
-ms.openlocfilehash: b036c7c958f5ca02d035eecc4a31d1c610276871
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f2927f20cd0607cc7a8f9902d3464c863fa9849aa518edc7061bb2dcf81cc534
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824117"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055056"
 ---
 # <a name="insufficient-user-permissions"></a>사용자 권한 부족
 

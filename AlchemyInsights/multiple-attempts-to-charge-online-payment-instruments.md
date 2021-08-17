@@ -16,12 +16,12 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 01048236f5278d9c0c866e64b2f01e221f9e12d530b795467c638387b111d85e
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: d65e2d4404ec6bfceb653c4f04deb7529c056cc746e9fefb113cdc1fd16261b1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502722"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889768"
 ---
 # <a name="past-due-account"></a>기한이 지난 계정이 있나요?
 
@@ -29,8 +29,8 @@ ms.locfileid: "54502722"
 
 1. 관리 센터에서 청구 > **제품 & [로 이동하세요.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 미지불 잔액이 있는 구독을 찾습니다. 청구 **섹션에서** 구독에 기한이 지난 결제가  있는 옆의 **잔액** 결제를 클릭하여 전체 미지불 잔액을 결제합니다.
-2. 신용 카드를 소유하고 있는 경우 만료 날짜를 변경하거나 다른 카드를 선택하거나 새 카드를 추가할 [수 있습니다.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
-3. 신용 카드를 소유하지 않은 경우 다른 신용 카드를 선택하거나 새 카드를 [추가할 수 있습니다.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+2. 신용 카드를 소유하고 있는 경우 만료 날짜를 변경하거나 다른 카드를 선택하거나 새 카드를 추가할 [수 있습니다.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+3. 신용 카드를 소유하지 않은 경우 다른 신용 카드를 선택하거나 새 카드를 [추가할 수 있습니다.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 4. 업데이트를 완료한 후 저장을 **클릭합니다.**
 
 **참고:** 지급이 이행된 후 기한 지난 알림이 잠시 동안 계속 표시될 수 있습니다. 지원에 문의하기 **전에 48시간** 이상 기다렸다가 문의하시기 바랍니다.

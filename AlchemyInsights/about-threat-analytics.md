@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 844f595033b3a7ea87d8224e1a75c4b135d790fad21ad43e35784b951f312cc5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1bbf1e95a244502feaa1247cdc5a58c80d116e388caf18b732d6ba0b85039418
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53955720"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889440"
 ---
 # <a name="about-threat-analytics"></a>위협 분석
 
 위협 분석은 전문 Microsoft 보안 연구원이 제공하는 Microsoft 제품 내 위협 인텔리전스 솔루션입니다. 보안 팀은 활성 위협 공격자 및 캠페인, 인기 있는 새 공격 기술, 중요한 취약성, 일반적인 공격 표면 및 일반적인 맬웨어를 포함하여 가능한 한 효율적으로 새로운 위협에 대응할 수 있도록 디자인되었습니다. 통합 보안 환경의 일부로 위협 분석은 Microsoft 365 Defender 구독자 및 Microsoft Defender for Endpoint 및 Microsoft Defender for Office 사용할 수 있습니다. 
 
-자세한 내용은 새로운 위협 추적 및 [대응을 참조하세요.](/microsoft-365/security/defender/threat-analytics)
+자세한 내용은 새로운 위협 추적 및 [대응을 참조하세요.](https://docs.microsoft.com/microsoft-365/security/defender/threat-analytics)
 
 제품을 평가하고 Microsoft 365 Defender 정식 라이선스를 사용 중이면 위협 분석 및 위협 보고서에 액세스할 수 있습니다. 

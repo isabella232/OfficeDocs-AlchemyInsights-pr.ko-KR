@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b94244ff76129c61fbcc6675e8ea67b583cc39ec
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 4dfe82d88b6884a8302ff7a5d4325b8d9075b60d51c8570cc88470d9ee222895
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736677"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058620"
 ---
 # <a name="get-started-with-microsoft-365-defender"></a>Microsoft 365 Defender 시작
 
@@ -25,5 +25,5 @@ ms.locfileid: "50736677"
 
 - [개요](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
 - [필수 구성 요소](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
-- [Microsoft 365 Defender 켜기](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
+- [설정 Microsoft 365 Defender](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
 - [문제 해결](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)

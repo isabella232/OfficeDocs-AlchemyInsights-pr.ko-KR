@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3040"
 - "9000585"
-ms.openlocfilehash: 8adda2a4a2c9a41d67747a68eb9eeafb1bf2ae34
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5b3aee7d7beae7629fa73b9ee4d80aefb995cf2121b45ebec8e224c28c99489e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109966"
 ---
 # <a name="resolving-print-failures-in-word"></a>Word에서 인쇄 오류 해소
 

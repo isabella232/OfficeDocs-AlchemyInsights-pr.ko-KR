@@ -1,5 +1,5 @@
 ---
-title: 엔터프라이즈 응용 프로그램 목록 표시
+title: 응용 프로그램 목록 Enterprise
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "9837"
-ms.openlocfilehash: f5c1a77e415d4bbaa5718a6668af95934db7e5ae
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 99e4f7e676610103355736ce847930c6c5d2d7532c4756ac4551a8d9b3020176
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51379916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116734"
 ---
-# <a name="get-a-list-of-enterprise-applications"></a>엔터프라이즈 응용 프로그램 목록 표시
+# <a name="get-a-list-of-enterprise-applications"></a>응용 프로그램 목록 Enterprise
 
 1. Powershell 명령을 통해 엔터프라이즈 응용 프로그램(모든 응용 프로그램 또는 표시 이름, ID, 식별자 URIS 등으로 필터링)의 목록을 얻거나 [Get-AzureADApplication (AzureAD)을](https://docs.microsoft.com/powershell/module/azuread/get-azureadapplication)참조하세요. 
 2. Powershell 명령을 통해 서비스 사용자 개체(모든 개체 또는 ID로 필터링된 개체) 목록을 얻하려면 [Get-AzureADServicePrincipal (AzureAD)를](https://docs.microsoft.com/powershell/module/azuread/get-azureadserviceprincipal)참조하세요.
@@ -52,9 +52,9 @@ ms.locfileid: "51379916"
 
 7. 사용되지 않는 Azure 앱 목록을 **내보내야 합니다.** – 감사 보고서
 
-    Azure AD Premium 라이선스가 있는 경우 Azure AD는 최대 30일 동안만 응용 프로그램 로그를 표시할 수 있습니다.
+    Azure AD는 라이선스가 있는 경우 최대 30일 동안만 응용 프로그램 로그를 Azure AD Premium 있습니다.
     데이터를 30일 이상 보존하는 두 가지 옵션이 있습니다. Azure AD [보고 API를](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-reporting-api) 사용하여 프로그래밍식으로 데이터를 검색하고 데이터베이스에 저장할 수 있습니다. 또는 감사 로그를 타사 SIEM 시스템에 통합할 수 있습니다.
 
     또한 모든 응용 프로그램 및 소유 응용 프로그램에 대한 앱 목록을 Azure Active Directory>앱 등록에서 모든 응용 프로그램/소유 응용>>다운로드할 수 있습니다.
 
-    MS Graph를 통해 응용 프로그램 목록을 얻었다면 목록 응용 프로그램 [- Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) 및 응용 프로그램 리소스 [유형 - Microsoft Graph v1.0을 참조하세요.](https://docs.microsoft.com/graph/api/resources/application)
+    MS 응용 프로그램을 통해 응용 프로그램 목록을 Graph 응용 프로그램 목록 - Microsoft Graph [v1.0](https://docs.microsoft.com/graph/api/application-list) 및 응용 프로그램 리소스 유형 - Microsoft Graph [v1.0을 참조하세요.](https://docs.microsoft.com/graph/api/resources/application)

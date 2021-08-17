@@ -16,12 +16,12 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 14bbb6ed3a174435a2112be2eeb794a79cd13f8677270878e0fc5036509c8e08
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 223f489e54c14fb7d72359f1c0acc72922f01b275991465219d52f592267d4ed
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499734"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899062"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>청구서가 생성된 경우
 
@@ -31,4 +31,4 @@ ms.locfileid: "54499734"
 
 신용 카드 및/또는 은행 계좌(해당하는 경우) 결제는 송장 날짜 **다음날에 결제됩니다.**
   
-자세한 내용은 송장 [이해를 참조합니다.](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+자세한 내용은 송장 [이해를 참조합니다.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

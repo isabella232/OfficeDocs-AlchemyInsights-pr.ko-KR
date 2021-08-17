@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 3b1409ba54da2354933e9202af9501868d9b1c90
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2a6edab560edf98ff77a8cfad8582d8010f32e180a5868cab720aae6751f0c14
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833189"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054978"
 ---
 # <a name="investigate-a-billing-charge-from-microsoft-or-msbill-dot-info"></a>Microsoft 또는 MSbill.info에서 청구 요금 조사하기
 
