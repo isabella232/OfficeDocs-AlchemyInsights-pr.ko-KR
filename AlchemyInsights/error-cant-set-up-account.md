@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9807"
 - "9005648"
-ms.openlocfilehash: 8660ff1099f2f540f62336b0dac664d2b0c08efa
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 1eec2ce79b1711d39f132ae55c05499fdc259a9a4ea784e3dac4ecf89d8cc4bc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898335"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057144"
 ---
 # <a name="error-sorry-we-cant-set-up-your-account-right-now-nomatchingeligibleproductsfound"></a>오류: 죄송합니다. 지금은 계정을 설정할 수 없습니다(NoMatchingEligibleProductsFound)
 

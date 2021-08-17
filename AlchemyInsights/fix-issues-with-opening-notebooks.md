@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002359"
 - "4718"
-ms.openlocfilehash: 0d31e84fbb4faaadc435f826c61860c69ba01744
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1015b3a82fa4e90c66ca05cf528167d0a0e120e8e6833d1b0c21948f453436b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812830"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057072"
 ---
 # <a name="fix-issues-with-opening-notebooks"></a>전자 필기장 열기 문제 해결
 

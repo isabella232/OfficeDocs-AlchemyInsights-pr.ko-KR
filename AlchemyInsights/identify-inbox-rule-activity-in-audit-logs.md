@@ -13,27 +13,30 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e27c6433c65079af93f2a02a998b7179222336b0cae1149f4196f6fb6558ddac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976871"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891301"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>감사 로그에서 받은 편지함 규칙 활동 식별
 
-Microsoft 365 보안 및 준수 센터에서 감사 로그 검색을 & 받은 편지함 규칙 이벤트(받은 편지함 규칙 만들기, 수정 및 삭제)를 볼 수 있습니다.
+감사 로그 검색을 사용하여 받은 편지함 규칙 Microsoft 365 규정 준수 센터(받은 편지함 규칙 만들기, 수정 및 삭제)를 볼 수 있습니다.
 
-1. Microsoft 365 [센터에 로그인합니다.](https://protection.office.com/)
+1. 다음 단계 중 하나를 실행합니다.
+   - 의 Microsoft 365 규정 준수 센터 솔루션 <https://compliance.microsoft.com> **감사로** \> **이동하십시오.** 또는 감사 페이지로 직접 이동하기 위해 **를** <https://compliance.microsoft.com/auditlogsearch> 사용하세요.
+   - 의 Microsoft 365 Defender <https://security.microsoft.com> 포털에서 감사로 **이동 합니다.** 또는 감사 페이지로 직접 이동하기 위해 **를** <https://security.microsoft.com/auditlogsearch> 사용하세요.
 
-2. 검색 감사 **로그 검색**  >  **페이지로** 이동합니다.
+2. 감사 **페이지의 검색** **탭에서** 다음 설정을 구성합니다.
+   - **날짜 및 시간 범위:** 시작 및  끝  상자에서 날짜/시간 범위를 선택합니다.
+   - **활동:** 다음 값 중 하나 이상을 선택합니다.
+     - **New-InboxRule 사용자로부터 받은 편지함 규칙 Outlook Web App**
+     - **Set-InboxRule 에서 규칙 Outlook Web App.**
+     - **클라이언트에서 받은 편지함 Outlook 업데이트**
 
-3. 시작 날짜 및  종료 날짜 필드에서 날짜 범위를 **선택합니다.**
+3. 완료되면 검색을 **클릭합니다.** 활동은 새 감사 **검색** 페이지에 표시됩니다.
 
-4. 사서함 **Exchange** 아래에서 활동 필드가 받은 편지함 규칙 **만들기/수정/사용/사용** 안 함을 로 설정되어 있는지 확인 
+4. 결과에서 활동을 선택하여 세부 정보 플라이아웃을 열 수 있습니다. 받은 편지함 규칙 설정에 대한 정보가 매개 변수 **필드에** 표시됩니다.
 
-5. **검색** 을 클릭합니다.
-
-결과에서 감사 레코드를 선택합니다. 세부 정보 플라이아웃에서 추가 정보를 **클릭합니다.** 받은 편지함 규칙 설정에 대한 정보가 매개 변수 **필드에** 표시됩니다.
-
-자세한 내용은 [Determining if a user created an inbox rule을 참조하십시오.](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+자세한 내용은 [Determining if a user created an inbox rule 을 참조하십시오.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-created-an-inbox-rule)

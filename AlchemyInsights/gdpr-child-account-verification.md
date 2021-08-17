@@ -14,16 +14,16 @@ ms.custom:
 - "788"
 - "8000038"
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: 6ad5de2c3595c775d7b5080c2ac116dd002e6777
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 844679cba6b109a2c552c38e1884040cd545cd260930eb7aabed6ed0911c8a50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707969"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057000"
 ---
-# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>Microsoft 계정에 표시 된 생년월일이 잘못 되었습니다.
+# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>Microsoft 계정에 표시되는 생년월일이 잘못되었습니다.
 
-Microsoft는 계정 보안을 매우 심각 하 게 받아들입니다. 최근 자녀의 Microsoft 계정에 대 한 자녀 보호 동의를 제공 하 라는 메시지가 표시 되었을 수 있습니다. 보호자 동의를 제공 하거나 Microsoft 계정에서 생년월일을 업데이트 하는 데 도움이 필요한 경우 [에는 보존 기간 확인](https://go.microsoft.com/fwlink/p/?linkid=874364)을 참조 하십시오.
+Microsoft는 계정 보안을 매우 심각하게 고려합니다. 최근에 자녀의 Microsoft 계정에 대해 부모 동의를 제공하라는 메시지가 표시될 수 있습니다. 부모 동의를 제공하거나 Microsoft 계정에서 생년월일을 업데이트하는 데 도움이 필요한 경우 부모 동의에 대한 연령 [확인을 참조하세요.](https://go.microsoft.com/fwlink/p/?linkid=874364)
   
-[보호자 통제 및 Microsoft 자녀 계정](https://go.microsoft.com/fwlink/p/?linkid=874365)에 대해 자세히 알아보세요.
+부모 동의 및 [Microsoft 자식 계정에 대해 자세히 알아보시다.](https://go.microsoft.com/fwlink/p/?linkid=874365)
   
