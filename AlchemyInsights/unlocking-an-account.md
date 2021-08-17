@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: a154856693a8a87ccf9f832d33ee46df7414af23f03aa043b38e6a6c64d5ebaa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a356b9907bb1b76ea753aac29eb176005bb45e22d8e1279dffd09af2cda9642b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972281"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899250"
 ---
 # <a name="unlocking-an-account"></a>계정 잠금 해제
 
@@ -25,7 +25,7 @@ ms.locfileid: "53972281"
 
 **전자 메일 제한됨**
 
-사용자 중 누군가 전자 메일을 보낼 수 없도록 제한이 된 경우, 관리자는 계정을 [직접 차단 해제](/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)할 수 있습니다. 사용자는 제한이 해제된 후 1시간 이내에 전자 메일을 보낼 수 있습니다.
+사용자 중 누군가 전자 메일을 보낼 수 없도록 제한이 된 경우, 관리자는 계정을 [직접 차단 해제](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)할 수 있습니다. 사용자는 제한이 해제된 후 1시간 이내에 전자 메일을 보낼 수 있습니다.
 
 **사용자 암호 재설정**
 
@@ -39,6 +39,6 @@ ms.locfileid: "53972281"
 
 2. 사용자를 선택하고 세 개의 점(추가 작업)을 클릭한 다음 **로그인 상태 편집** 을 클릭합니다.
 
-셀프 서비스 암호 재설정을 비롯한 더 많은 암호 재설정 시나리오는 [온라인 결제 수단으로 청구할 수 있는 다양한 시도를 위한Microsoft 365 Business 암호 재설정](/microsoft-365/admin/add-users/reset-passwords)을 참조하세요.
+셀프 서비스 암호 재설정을 비롯한 더 많은 암호 재설정 시나리오는 [온라인 결제 수단으로 청구할 수 있는 다양한 시도를 위한Microsoft 365 Business 암호 재설정](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)을 참조하세요.
 
-이 서비스는 손상된 계정 및/또는 스팸 발신의 증거를 감지하여 사용자가 전자 메일을 보내지 못하도록 합니다. 예방 조치로 사용자를 위해 [Microsoft 365에서 손상된 전자 메일 계정에 응답](/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)의 단계를 따릅니다.
+이 서비스는 손상된 계정 및/또는 스팸 발신의 증거를 감지하여 사용자가 전자 메일을 보내지 못하도록 합니다. 예방 조치로 사용자를 위해 [Microsoft 365에서 손상된 전자 메일 계정에 응답](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)의 단계를 따릅니다.

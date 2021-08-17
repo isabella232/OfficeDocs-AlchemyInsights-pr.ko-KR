@@ -16,12 +16,12 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
-ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
+ms.openlocfilehash: 416dfbf8607976cdf27736c057cecac652484b19848d6c9b9680e265394819b3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52569657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086566"
 ---
 # <a name="reset-or-change-passwords"></a>암호 다시 설정 또는 변경
 

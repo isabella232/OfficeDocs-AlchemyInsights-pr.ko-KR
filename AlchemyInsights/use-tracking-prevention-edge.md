@@ -15,12 +15,12 @@ ms.custom:
 - "10979"
 - "9004625"
 - "9006450"
-ms.openlocfilehash: c97aa5dca553791b13297963a7953570bc5aa031a43ddf5234d5352f09c7eec6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4f1a006b24fe77438bc0d54d72bec440128740ac417d7a9dfc93c90d8f0d49ad
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54037614"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889508"
 ---
 # <a name="use-tracking-prevention-in-microsoft-edge-chromium"></a>Microsoft Edge(Chromium)에서 추적 방지 사용
 
@@ -30,4 +30,4 @@ ms.locfileid: "54037614"
 - **균형**. 기본 수준으로, 웹에서 사용자를 따라다니는 광고 수를 줄이길 원하는 사용자를 위해 설계되었습니다. 균형 수준은 사용자가 절대 사용하지 않는 사이트의 트래커를 차단할 뿐만 아니라 호환성 문제가 발생할 위험도 최소화합니다.
 - **엄격**. 가장 제한이 많고, 가장 강력한 개인 정보 보호를 위해서라면 웹 사이트 호환성을 희생해도 괜찮다고 생각하는 사용자를 위해 설계되었습니다.
 
-개인 정보 설정을 업데이트하려면 Microsoft Edge 브라우저에서 **설정** > **개인 정보, 검색 및 서비스** 로 이동합니다. 추적 방지 설정을 업데이트하고, 트래커를 차단하고, 검색 데이터를 지우고, 다른 개인 정보 및 보안 옵션을 탐색하여 데이터를 안전하게 유지하세요. 자세한 내용은 [Microsoft Edge 추적 방지](/microsoft-edge/web-platform/tracking-prevention)를 참조하세요. 
+개인 정보 설정을 업데이트하려면 Microsoft Edge 브라우저에서 **설정** > **개인 정보, 검색 및 서비스** 로 이동합니다. 추적 방지 설정을 업데이트하고, 트래커를 차단하고, 검색 데이터를 지우고, 다른 개인 정보 및 보안 옵션을 탐색하여 데이터를 안전하게 유지하세요. 자세한 내용은 [Microsoft Edge 추적 방지](https://docs.microsoft.com/microsoft-edge/web-platform/tracking-prevention)를 참조하세요. 

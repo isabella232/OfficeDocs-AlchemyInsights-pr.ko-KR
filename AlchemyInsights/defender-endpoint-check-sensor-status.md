@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11084"
 - "9003537"
-ms.openlocfilehash: 4943287fe010aacc456670105761b0e8e6b4269ce24086bc5000c9ccc916c8f8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cefebe63e45caab176ba84a35280378ace7e6b3115c48694ed043a39b4d93c1e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994223"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890060"
 ---
 # <a name="defender-endpoint-check-sensor-status"></a>Defender 엔드포인트 확인 센서 상태
 
@@ -40,6 +40,6 @@ ms.locfileid: "53994223"
 
 내보내기 기능을 사용하여 CSV 형식으로 전체 목록을 다운로드할 수 있습니다.
 
-자세한 내용은 [엔드포인트용 Microsoft Defender에서 센서 상태 확인](/microsoft-365/security/defender-endpoint/check-sensor-status)을 참조하세요.
+자세한 내용은 [엔드포인트용 Microsoft Defender에서 센서 상태 확인](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/check-sensor-status)을 참조하세요.
 
-장치가 대화가 불가능하게 되거나 잘못 구성된 원인에 대한 자세한 내용은 [엔드포인트용 Microsoft Defender에서 비정상 센서 수정](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors)을 참조하세요.
+장치가 대화가 불가능하게 되거나 잘못 구성된 원인에 대한 자세한 내용은 [엔드포인트용 Microsoft Defender에서 비정상 센서 수정](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors)을 참조하세요.

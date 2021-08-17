@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12063"
 - "9000273"
-ms.openlocfilehash: 18361d69f8ddebaaa483b9665142fae4ae671061b49ae4d611bb5e85c7cb2d82
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 21b06a9b5e836fa83f4d37617857eabb6289c30771d69225de662415d513d720
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54033500"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890152"
 ---
 # <a name="configure-retention-policies-for-teams-locations"></a>특정 위치에 대한 보존 Teams 구성
 
@@ -36,5 +36,5 @@ ms.locfileid: "54033500"
 
 참고: 비공개 채널 메시지는 현재 보존 정책에 의해 지원되지 않습니다.
 
-팀 보존 및 알려진 구성 문제에 대한 자세한 내용은 보존 정책 및 Teams [참조하세요.](/microsoft-365/compliance/create-retention-policies#retention-policy-for-teams-locations)
+팀 보존 및 알려진 구성 문제에 대한 자세한 내용은 보존 정책 및 Teams [참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/create-retention-policies#retention-policy-for-teams-locations)
 

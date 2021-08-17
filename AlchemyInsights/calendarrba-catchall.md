@@ -1,5 +1,5 @@
 ---
-title: 1081 달력-RBA CatchAll
+title: 1081 일정 - RBA CatchAll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 3c7dff50fba4bd667d1432bd295edf404b459309
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcc2fbcc73e0c03b09d55de3eadb00273e83379476dfff4af8e2c758c91230d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734377"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059376"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>대화방 사서함 만들기 및 관리
 
-Exchange 관리 센터에서 대화방 사서함을 만들고 수정 하려면 [대화방 사서함 만들기 및 관리](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)를 참조 하십시오.
+Exchange 관리 센터에서 방 사서함을 만들고 수정하려면 방 사서함 만들기 및 [관리를 참조하세요.](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)
 
-대화방 및 장비 사서함에 대 한 자세한 내용은 [room 및 장비 사서함](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)을 참조 하십시오.
+공간 및 장비 사서함(리소스 사서함)에 대한 자세한 내용은 [Room and equipment mailboxes를 참조합니다.](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)

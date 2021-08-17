@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10967"
 - "9002613"
-ms.openlocfilehash: f2f829580281519ae9466f3d5452f1f80da59cfd
-ms.sourcegitcommit: 974bf19f4262841ab2bfd81c10a243eab05484c4
+ms.openlocfilehash: 82915053ff4133685a8a5f8864350336627b50d646eec577e9077cdd6fdfee5c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51871428"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059304"
 ---
 # <a name="change-from-credit-card-or-bank-account-payments-to-invoice"></a>신용 카드 또는 은행 계좌 결제에서 청구서로 변경
 

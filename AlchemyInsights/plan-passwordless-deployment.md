@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10394"
 - "9005762"
-ms.openlocfilehash: a167e33a5d9cb7900aabceda37466d731d784345
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 01ae0eda39a22fa0be217aade1c960914cb9e3e2646ec66ff24a2b8a87272d10
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086638"
 ---
 # <a name="plan-your-passwordless-deployment"></a>암호 없는 배포 계획
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11116"
 - "9000701"
-ms.openlocfilehash: 30c327fde0930f00cde8a1a6785295f7ec20a737
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: 55c6ac4de6f6d00e76b5f5257c823108f324d994bd2a926cd52ba6dfa6158b4a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52107523"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059340"
 ---
 # <a name="cant-access-user-data-via-the-microsoft-teams-admin-center"></a>Microsoft Teams 관리 센터를 통해 사용자 데이터에 액세스할 수 없습니다.
 
