@@ -1,5 +1,5 @@
 ---
-title: Microsoft Intune에서 iOS 장치 등록 관련 문제 해결
+title: 장치에서 iOS 장치를 등록하는 데 Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,14 +10,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 14f7a897f0c7504db1b605485e170183c3a1afb2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0aaece95effa468af5c906a8bd07e5b00ffa3df37b4e2cb296d64108efec94e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823469"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047982"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Microsoft Intune에서 iOS 장치 등록 관련 문제 해결
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>장치에서 iOS 장치를 등록하는 데 Microsoft Intune
 
 아래 나열된 리소스를 검토하여 지금 문제를 해결합니다. 
   
@@ -27,7 +27,7 @@ ms.locfileid: "51823469"
     
 - **이 서비스는 지원되지 않습니다. 등록 정책 없음:** APNS(Apple 푸시 알림 서비스)를 구성하거나 갱신해야 합니다. 이 [문서에서 해당](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) 작업을 하는 방법에 대한 지침을 검토하세요. 
     
-- **사용자 라이선스 유형이 잘못되었거나 사용자 이름이 인식되지 않습니다.** 사용자에게 Intune 또는 EMS 라이선스를 할당해야 합니다. 다음 문서를 검토하여 Office 관리 센터 또는 Azure [Portal을](https://docs.microsoft.com/intune/licenses-assign) 통해 라이선스를 [할당합니다.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
+- **사용자 라이선스 유형이 잘못되었거나 사용자 이름이 인식되지 않습니다.** 사용자에게 Intune 또는 EMS 라이선스를 할당해야 합니다. 다음 문서를 검토하여 관리 센터 [](https://docs.microsoft.com/intune/licenses-assign) 또는 Azure Office [라이선스를 할당합니다.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
     
 문제를 해결하는 데 도움이 되는 추가 리소스:
   
@@ -35,6 +35,6 @@ ms.locfileid: "51823469"
     
 2. 다음 문서를 검토하여 등록과 해결 방법을 방지하는 일반적인 오류의 목록을 확인합니다. [문제 해결 가이드](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) 및 [문제 해결 문서](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).
     
-3. [Microsoft Intune에서 iOS 장치를 등록하는 방법에 대해 자세히 알아보습니다.](https://docs.microsoft.com/intune/ios-enroll)
+3. [에서 iOS 장치를 등록하는 방법을 Microsoft Intune.](https://docs.microsoft.com/intune/ios-enroll)
     
 

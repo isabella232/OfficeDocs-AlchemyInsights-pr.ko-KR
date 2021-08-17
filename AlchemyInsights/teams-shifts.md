@@ -1,5 +1,5 @@
 ---
-title: 팀 이동
+title: Teams Shifts
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750709"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106499"
 ---
-# <a name="using-teams-shifts"></a>팀 이동 사용
+# <a name="using-teams-shifts"></a>Shifts Teams 사용
 
-이동 설정, 사용자 이동 사용 및 이동 앱 관리 방법을 포함 하 여 이동 앱을 관리 하는 방법에 대 한 자세한 내용은 다음을 참조 하십시오.
+교대조를 설정하고, 사용자를 위해 Shifts를 사용하도록 설정하고, Shifts 앱을 관리하는 방법을 포함하여 Shifts 앱을 관리하는 방법에 대한 자세한 내용은 다음을 참조하세요.
  
-- [Microsoft 팀에서 조직에 대 한 이동 앱을 관리](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts)합니다.
-- [조직의 특정 사용자에 대 한 이동 사용 또는 사용 안 함](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
+- [에서 조직의 Shifts](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts)앱을 Microsoft Teams.
+- [조직의 특정 사용자에 대해 Shifts를](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)사용하도록 설정하거나 사용하지 않도록 설정
 
-이동 일정 관리를 포함 하 여 팀의 이동에 대 한 자세한 내용은 [팀에 대 한 교대](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)를 참조 하십시오.
+Shifts 일정 관리를 비롯한 Teams 대한 자세한 내용은 [Shifts for Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)
 
-**유효 2020 년 6 월 30 일**(Microsoft Staffhub)이 만료 되었습니다. 자세한 내용은 [Microsoft StaffHub이 만료](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)됨을 참조 하십시오.
+**2020년 6월 30일부터** Microsoft Staffhub가 사용 중지됩니다. 자세한 내용은 [Microsoft StaffHub가 사용 중지 를 참조하세요.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
 

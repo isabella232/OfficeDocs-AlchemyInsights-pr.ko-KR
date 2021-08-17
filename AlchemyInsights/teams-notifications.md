@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: 281ddc7d729a8749084925b85568d441bf8e7502
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1f01e98ec970005446150d393f8c04725050991c2a011fad98f22113f2246681
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830984"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106546"
 ---
 # <a name="teams-notifications-faq"></a>Teams 알림 FAQ
 

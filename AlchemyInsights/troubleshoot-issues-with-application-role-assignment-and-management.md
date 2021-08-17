@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7816"
 - "9004358"
-ms.openlocfilehash: aa2b3ba3648723715e9553f95c3a01fd3d7d9485
-ms.sourcegitcommit: a61a29dbd0382370fea0be5fa4a61c9a1a9354c7
+ms.openlocfilehash: a5330dc9a80a6f0abbb9bc05cd6c6e4e4aea149f3afd4102103e8eafb44d4b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49884623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048018"
 ---
 # <a name="troubleshoot-issues-with-application-role-assignment-and-management"></a>응용 프로그램 역할 할당 및 관리 관련 문제 해결
 

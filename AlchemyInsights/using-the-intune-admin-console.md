@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1790"
 - "9000214"
-ms.openlocfilehash: 179e22f4b40f4d89f804bb01cc585a13098bd7b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d93efc93402ebb98fe0b59cd65f3c0e7e7ac8053df9560d6980535b82d3813db
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794953"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047910"
 ---
 # <a name="using-the-intune-admin-console"></a>Intune 관리 콘솔 사용
 
