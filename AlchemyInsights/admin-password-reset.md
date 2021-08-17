@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: 9465ee400b8043cf0adb9638819e26b9cc5fe15c0d4c73d13a1f4fc237b2e6ea
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8bc0737711820a1d45c5ab81625cede5285577b16225497a3e86e64b3cf24ed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952507"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883057"
 ---
 # <a name="admin-password-reset"></a>관리자 암호 다시 설정
 
@@ -29,4 +29,4 @@ ms.locfileid: "53952507"
 
 - 다른 관리자가 **사용자 > [활성 사용자](https://portal.office.com/adminportal/home#/users)** 에서 암호를 재설정할 수 있습니다. 해당 계정을 선택하고 열쇠 아이콘을 클릭합니다.  또는 자격 증명이 캐시된 경우에는 [새 관리자 계정을 만들고](https://portal.office.com/adminportal/home#/users) 해당 계정을 사용하여 로그인한 다음 자체 관리자 암호를 다시 설정할 수 있습니다.
 
-더 많은 암호 재설정 시나리오를 보려면 [Office 365 비즈니스 암호 재설정](/microsoft-365/admin/add-users/reset-passwords)을 시도하거나 지원 사례를 열어 지원을 받아 보세요.
+더 많은 암호 재설정 시나리오를 보려면 [Office 365 비즈니스 암호 재설정](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)을 시도하거나 지원 사례를 열어 지원을 받아 보세요.

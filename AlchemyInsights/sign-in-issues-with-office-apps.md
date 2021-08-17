@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002389"
 - "4657"
-ms.openlocfilehash: e6d0addc98c8dcd482cbf2007636af6fb8b5cde2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b9bea4f7deb789dfc3ead76302bcd1bb9708e306d8fb9dac4a9e7b8631bf9ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831164"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050880"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Microsoft 365 앱에 로그인하는 동안 문제 발생
 

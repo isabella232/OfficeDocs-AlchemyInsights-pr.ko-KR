@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11511"
 - "9000292"
-ms.openlocfilehash: f994e034a74ef3df7185a4886cde7386c423befc
-ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
+ms.openlocfilehash: 8339e76788f6187913783c1ffdca529680e406d79a832db2e85daf73461f56df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2021
-ms.locfileid: "52883048"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051060"
 ---
 # <a name="sharepoint-powershell-unable-to-connect"></a>SharePoint PowerShell에 연결할 수 없습니다.
 

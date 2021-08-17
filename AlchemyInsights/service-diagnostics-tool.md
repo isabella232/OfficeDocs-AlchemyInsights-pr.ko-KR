@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "10873"
-ms.openlocfilehash: dfa59c86508c8658c880f4f3f21a002524e909d1
-ms.sourcegitcommit: 254b25150fa326628084d08479b0e7dd8b7d479a
+ms.openlocfilehash: e6c20af2c3fc54b203f3bda5c0c0f00faacd92800566bd507867c4e9fe4a23f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51590300"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052320"
 ---
 # <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>Windows Virtual Desktop용 서비스 진단 도구
 

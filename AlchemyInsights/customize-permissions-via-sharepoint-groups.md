@@ -1,5 +1,5 @@
 ---
-title: SharePoint 그룹을 통해 SharePoint 사이트 권한을 사용자 지정하는 방법
+title: SharePoint 그룹을 통해 사이트 권한을 사용자 지정하는 SharePoint 방법
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3165"
-ms.openlocfilehash: 6141f801002aba0c74966eebe659a0228d2eda69
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b17c6f5798542c8b890332c1b3e5e3712fb484483b6dc461b7fa9fbcc757106d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079924"
 ---
-# <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>SharePoint 그룹을 통해 SharePoint 사이트 권한을 사용자 지정하는 방법 
+# <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>SharePoint 그룹을 통해 사이트 권한을 사용자 지정하는 SharePoint 방법 
 
 SharePoint 그룹은 사이트 및 콘텐츠에 모두 동일한 사용 권한 집합을 가진 사용자 모음입니다. 한 번에 한 사람에게 사용 권한을 할당하는 대신, 그룹을 사용하여 한 번에 여러 사람에게 동일한 사용 권한 수준을 편리하게 할당할 수 있습니다.
 
