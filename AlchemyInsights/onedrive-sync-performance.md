@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5840"
-ms.openlocfilehash: 6fa34593012fd81283eaac50661be8ec9adaf6b4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e20cb167f00e71a4dabb89b6679283d7e1aeaad68ca56a87222fb3d61f7dc6f5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832748"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075802"
 ---
 # <a name="onedrive-sync-performance"></a>OneDrive 동기화 성능
 

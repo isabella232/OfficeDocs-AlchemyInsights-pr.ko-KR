@@ -15,12 +15,12 @@ ms.custom:
 - "9006494"
 - "8361"
 - "11114"
-ms.openlocfilehash: 583e3f4401901bec70b0cef3444066c220cbb554
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: 25d772146cfb4274266c14506bb865a3f23df40743c693d4f2d22cf8ca701e52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989716"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104746"
 ---
 # <a name="use-a-property-list-to-configure-the-policy-settings-for-microsoft-edge-on-macos"></a>속성 목록을 사용하여 macOS에서 Microsoft Edge 정책 설정 구성
 

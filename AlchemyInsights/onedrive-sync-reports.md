@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006594"
 - "11275"
-ms.openlocfilehash: 30b6425f11e181dad04da931d3f9da0d7e0efaa0
-ms.sourcegitcommit: 6c46f0158ebad6aaeadb6822ff5455df174db2e8
+ms.openlocfilehash: 8557fa3fc7c15cef6921269971ebe31e5470b4170ebfc0230dfb9e36b1a03076
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2021
-ms.locfileid: "52585946"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075760"
 ---
 # <a name="onedrive-sync-reports-in-the-app-admin-center"></a>앱 관리 센터의 OneDrive 동기화 보고서
 

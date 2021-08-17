@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919645"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304339"
 ---
 # <a name="understand-billing-amount"></a>청구 금액에 대한 이해
 
@@ -67,7 +67,9 @@ ms.locfileid: "53919645"
 - **엔터프라이즈 포털** 에 로그인합니다. **보고서** 를 선택합니다.
 - 탭의 오른쪽 상단 모서리에서 **M** 에서 **C** 로 보기를 전환하고 송장의 기간에 일치시킵니다.
 - **Azure 마켓플레이스** 합계는 마켓플레이스 송장의 **총 판매** 와 일치해야 합니다.
-- 사용 현황 기반 요금에 대한 자세한 내용을 보려면 **사용 현황 다운로드** 로 이동하세요. **마켓플레이스 요금** 에서 **다운로드** 를 선택합니다. **참고**: 해당 보고서는 세금을 포함하지 않거나 일회성 구입을 표시하지 않습니다.
+- 사용 현황 기반 요금에 대한 자세한 내용을 보려면 **사용 현황 다운로드** 로 이동하세요. **마켓플레이스 요금** 에서 **다운로드** 를 선택합니다. 
+
+**참고**: 해당 보고서는 세금을 포함하지 않거나 일회성 구매를 표시하지 않습니다.
 
 **CSP(클라우드 솔루션 공급자)**
 
