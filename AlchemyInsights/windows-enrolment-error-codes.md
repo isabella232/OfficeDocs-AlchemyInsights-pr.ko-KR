@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "4863"
-ms.openlocfilehash: a84637d7135cef04921ce76bc3582538a003d731
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 51973ea1d6b9365a67ef57a19df5470de32e9cf71d2f4e471d69e7fa2caa44a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825917"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047334"
 ---
 # <a name="windows-enrolment-error-codes"></a>Windows 등록 오류 코드
 

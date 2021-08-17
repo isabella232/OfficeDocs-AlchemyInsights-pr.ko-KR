@@ -1,5 +1,5 @@
 ---
-title: OneDrive 설치 및 구성
+title: 설치 및 구성 OneDrive
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -14,21 +14,21 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c36cc3e32d158198f233aeb791e145d961b9af5b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e69ea8b7f99db8dcabb13aca2c9e1c69cb9f3758839a3fa28f0b0b9a5b6a534c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609517"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078124"
 ---
-# <a name="install-and-configure-onedrive"></a>OneDrive 설치 및 구성
+# <a name="install-and-configure-onedrive"></a>설치 및 구성 OneDrive
 
-OneDrive 동기화 클라이언트는 Windows 10과 함께 사전 설치되어 있습니다. Windows 7 또는 Mac용 OneDrive를 설치하거나 휴대폰 또는 태블릿용 모바일 앱을 다운로드하려면 [https://onedrive.com/download](https://onedrive.com/download) .
+OneDrive 동기화 클라이언트가 미리 설치되어 Windows 10. OneDrive 7 또는 Windows 또는 휴대폰 또는 태블릿용 모바일 앱을 다운로드하려면 로 [https://onedrive.com/download](https://onedrive.com/download) 이동하세요.
   
-Windows에서 OneDrive 동기화 클라이언트를 설정하기 위해 다음을 참조합니다.
+클라이언트에서 OneDrive 동기화 클라이언트를 설정 Windows 참조합니다.
   
-- [OneDrive는 OneDrive](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) 파일 저장소, 공유, 공동 작업 및 동기화 기능을 시작하는 가이드를 설정했습니다.
+- [OneDrive 파일 저장,](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) 공유, 공동 작업 및 동기화 기능을 OneDrive 시작하세요.
 
-- [비즈니스용 OneDrive 파일을 동기화할 컴퓨터 설정](https://go.microsoft.com/fwlink/?linkid=533375)
+- [파일 동기화를 위해 컴퓨터 비즈니스용 OneDrive 설정](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [새 OneDrive 동기화 클라이언트를 사용하여 SharePoint 파일 동기화](https://go.microsoft.com/fwlink/?linkid=871666)

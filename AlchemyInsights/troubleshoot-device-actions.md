@@ -13,12 +13,12 @@ ms.custom:
 - "9002274"
 - "4388"
 - "4389"
-ms.openlocfilehash: 9e9ed287e1d02a8b0997416faf069f0af26a5ae7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e57d24bf9c1c0f8c6307308cc8d8cb8fd06d6a48f0462dc504e0f54eb2844718
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834989"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106078"
 ---
 # <a name="troubleshoot-device-actions"></a>장치 동작 문제 해결
 

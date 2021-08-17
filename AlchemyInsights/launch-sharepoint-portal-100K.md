@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11468"
 - "9006707"
-ms.openlocfilehash: 005a2549e387454ed8b4b2240402a5c11b6f6130
-ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
+ms.openlocfilehash: 7d6936c885f9fbfbf036a9036bcd6eef0013174de150da1737df69a6fa3d2834
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "52689991"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077980"
 ---
 # <a name="launch-sharepoint-portal-with-100k-users"></a>100K 사용자와 함께 SharePoint 포털 시작
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 1fe4b99b480de199e531cec22015a5fe00453d82
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c2fb5d7ca8e074e69dbb7c35aab35754c14508a5d91b12a1fc943fadda242040
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834197"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047226"
 ---
 # <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Word 문서를 XPS 또는 PDF로 변환하는 문제 해결
 
@@ -41,4 +41,4 @@ ms.locfileid: "51834197"
 
 2. PDF **또는 XPS로 게시 창에서** 접근성을 위해 **옵션** 문서 구조  >  **태그를 선택합니다.** 원하는 다른 옵션을 설정하고 확인 을 **선택합니다.**
 
-Office 파일을 XPS 또는 PDF로 변환하는 옵션에 대한 자세한 내용은 PDF 또는 XPS 저장 또는 [변환을 참조하세요.](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110)
+파일 파일을 XPS 또는 PDF로 Office 옵션에 대한 자세한 내용은 PDF 또는 XPS 저장 또는 [변환을 참조하세요.](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8327"
 - "9004625"
-ms.openlocfilehash: 168de7f2bd5b0b928df746edd7942c91ca6e3dde
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
+ms.openlocfilehash: 0ca9a289d45a926c79bc456d2937021e9639e0a3c9b680525aaf954ba45ce329
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51408781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078088"
 ---
 # <a name="install-application-guard-with-microsoft-edge"></a>Microsoft Edge를 사용하여 Application Guard 설치
 

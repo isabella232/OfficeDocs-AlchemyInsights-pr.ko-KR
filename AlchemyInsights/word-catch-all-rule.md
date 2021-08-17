@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3481"
 - "9001466"
-ms.openlocfilehash: 538bf292b5baa51a6a24ae4c2d060848cea97695
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dfe6ed1a1ca2fd7975840853c18dcee681ead28fba2b22092ca7edee925c8a62
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834233"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047262"
 ---
 # <a name="common-issues-and-resolutions-with-word"></a>Word의 일반적인 문제 및 해결
 

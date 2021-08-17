@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002428"
 - "4712"
-ms.openlocfilehash: d4856271c7cdb4993dce90bdee7086e440b72ac9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9ca4c7520cc733138944aecb581a9ad62d60c3f86f907030dc0a7780f30ddcc6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51805476"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047118"
 ---
 # <a name="yammer-common-issues-and-resolutions"></a>Yammer 일반적인 문제 및 해결 방법
 
