@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dac6690b66181455a1c9c0f40a642b71f2af3516d91ea0853d06564b017b03a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820040"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059602"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>대기실 설정 및 Teams 참여 수준 제어
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>대기실 설정 및 대기실 참가 Teams
 
 전화 접속, 외부 및 익명 사용자를 비롯한 모든 사용자가 대기실을 우회하도록 허용할 경우 PowerShell을 사용하여 이 작업을 수행할 수 있습니다.  다음은 조직의 전역 모임 정책을 수정하는 예입니다.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-이 cmdlet은 현재 비즈니스용 Skype PowerShell 모듈을 사용해야 합니다. 이 cmdlet을 사용하기 위한 설정은 [PowerShell을](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)통해 정책 관리를 확인 합니다.
+이 cmdlet은 현재 PowerShell 모듈을 비즈니스용 Skype 필요합니다. 이 cmdlet을 사용하기 위한 설정은 [PowerShell을](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)통해 정책 관리를 확인 합니다.
 
 정책을 설정한 후 사용자에게 적용해야 합니다. 또는 글로벌 정책을 수정한 경우 자동으로 사용자에게 적용됩니다. 정책이 변경될 경우 정책이 적용될 때까지 **최소 4시간에서 최대 24시간을** 기다려야 합니다. 
 
 이러한 변경을 통해 허용하는 내용을 정확하게 이해하기 전에 아래 설명서를 검토해야 합니다.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Teams 모임 대기실 정책 컨트롤 이해
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>모임 Teams 정책 컨트롤 이해
 
-이러한 설정은 모임에 참가하기 전에 대기실에서 대기하는 모임 참가자와 모임에 참가할 수 있는 참가 수준을 제어합니다. PowerShell을 사용하여 Teams 관리 센터에서 아직 구현되지 않은 모임 정책 설정("출시 예정"으로 표시)을 업데이트할 수 있습니다. 모든 사용자가 대기실을 우회할 수 있도록 하는 예제 PowerShell cmdlet은 아래를 참조하세요.
+이러한 설정은 모임에 참가하기 전에 대기실에서 대기하는 모임 참가자와 모임에 참가할 수 있는 참가 수준을 제어합니다. PowerShell을 사용하여 아직 구현되지 않은 모임 정책 설정("출시 예정"으로 표시)을 업데이트할 수 Teams 있습니다. 모든 사용자가 대기실을 우회할 수 있도록 하는 예제 PowerShell cmdlet은 아래를 참조하세요.
 
 - [자동으로 사용자](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) 입력은 사용자가 직접 모임에 참가할지 또는 인증된 사용자가 참가할 때까지 대기실에서 대기할지 여부를 제어하는 이끌이 정책입니다.
 
@@ -44,4 +44,4 @@ ms.locfileid: "51820040"
 
 - [이끌이가](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) 대기실 설정을 무시하도록 허용(출시 예정)은 모임 이끌이가 자동으로 사용자 허용 및 전화 접속 사용자가  새 모임을  예약할 때 대기실을 무시하도록 허용에서 설정한 대기실 설정을 무시할 수 있는지 여부를 제어하는 이끌이 정책입니다.
 
-**참고:** Microsoft [Teams 모임 정책에](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) 대한 전체 개요는 Teams에서 모임 정책 관리를 참조하세요.
+**참고:** 모임 정책에 대한 Teams 개요는 Manage [meeting policies를](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) Microsoft Teams 참조하세요.

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029738"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895893"
 ---
 # <a name="expired-subscription"></a>만료된 구독
 
@@ -35,7 +35,7 @@ ms.locfileid: "54029738"
 3. **이 구독 다시 활성화** 창의 드롭다운 목록에서 결제 방법을 선택하거나 **결제 방법 추가** 를 선택합니다.
 4. **저장** 을 선택합니다.
 
-자세한 내용은 [구독 다시 활성화](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)를 참조하세요.
+자세한 내용은 [구독 다시 활성화](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)를 참조하세요.
 
 **새 구매 만들기**
   
@@ -44,4 +44,4 @@ ms.locfileid: "54029738"
 3. 필요한 라이선스 수를 입력하고 매월 지불할지 또는 1년 동안 지불할지 여부를 선택해야 합니다. 현재 라이선스가 없는 모든 사용자에게 라이선스를 자동으로 할당할지 여부를 선택 합니다. 그런 다음 **지금 체크 아웃 을 선택하세요.**
 4. 나머지 단계에 따라 체크 아웃을 완료합니다.
 
-자세한 내용은 다른 구독 [구입을 참조하세요.](/microsoft-365/commerce/buy-another-subscription)
+자세한 내용은 다른 구독 [구입을 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)

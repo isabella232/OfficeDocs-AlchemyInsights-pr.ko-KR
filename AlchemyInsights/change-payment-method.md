@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500022"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895497"
 ---
 # <a name="change-payment-method"></a>결제 방법 변경
 
@@ -36,6 +36,6 @@ ms.locfileid: "54500022"
 6. **결제 방법 추가** 창에서 계좌 정보를 입력하고 **저장** 을 선택합니다. 테넌트와 동일한 국가의 결제 방법을 사용해야 합니다.
 7. 드롭다운 목록에 새 결제 방법이 이미 선택되어 있습니다. **변경** 을 선택합니다.
 
-결제 방법을 추가, 업데이트, 바꾸거나 삭제하는 방법에 대한 자세한 내용은 결제 방법 [관리를 참조합니다.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+결제 방법을 추가, 업데이트, 바꾸거나 삭제하는 방법에 대한 자세한 내용은 결제 방법 [관리를 참조합니다.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-결제 방법 간에 변경하는 방법에 대한 자세한 내용은 구독 결제 [방법을 참조하세요.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+결제 방법 간에 변경하는 방법에 대한 자세한 내용은 구독 결제 [방법을 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

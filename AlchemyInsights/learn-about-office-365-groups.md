@@ -1,5 +1,5 @@
 ---
-title: 610 Microsoft 365 그룹에 대해 알아보기
+title: 610 그룹 Microsoft 365 대해 자세히
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 7ada16406b79317882831c54bdee117153723dd9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d58d72ff81be8b1ea2873996043f2b08b550233ab4a817f4e2476944624a17b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087466"
 ---
-# <a name="learn-about-microsoft-365-groups"></a>Microsoft 365 그룹에 대 한 자세한 정보
+# <a name="learn-about-microsoft-365-groups"></a>그룹 Microsoft 365 대해 자세히
 
-Microsoft 365 그룹은 이미 사용 중인 Office 365 도구에서 작동 하는 서비스 이므로 문서를 작성 하거나, 스프레드시트를 작성 하거나, 프로젝트 계획 작업을 수행 하거나, 모임을 예약 하거나, 전자 메일을 보낼 때 동료와 공동으로 작업할 수 있습니다. 자세한 내용은 [Microsoft 365 그룹에 대 한](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)자세한 정보를 참조 하세요.
+Microsoft 365 그룹은 이미 사용하는 Office 365 사용할 수 있는 서비스로, 문서를 작성하거나, 스프레드시트를 만들거나, 프로젝트 계획에서 작업하거나, 모임을 계획하거나, 전자 메일을 보낼 때 팀원과 공동 작업을 할 수 있습니다. 자세한 내용은 그룹 에 대한 [자세한 Microsoft 365 참조하세요.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)
