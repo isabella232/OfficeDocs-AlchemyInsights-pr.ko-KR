@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ea0f3dd2c1e21455b4750afbf9c43c931ad34bf357e94dd604ffe5bcdd2fa64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816134"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080356"
 ---
 # <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>사용자가 다른 조직과 공동 작업할 수 있도록 조직 관계 만들기
 
@@ -25,7 +25,7 @@ ms.locfileid: "51816134"
 2. **조직** > **공유** 로 이동합니다.
 3. **조직 공유** 에서 **새로 만들기** 를 클릭합니다.
 4. **새 조직 관계** 의 **관계 이름** 상자에 조직 관계의 이름을 입력합니다.
-5. **공유할 도메인** 상자에 일정을 보도록 허용할 외부 Office 365 또는 Exchange 온-프레미스 조직의 도메인을 입력합니다. 도메인을 두 개 이상 입력하려면 도메인 이름을 쉼표로 구분합니다. 예: contoso.com, service.contoso.com
+5. **공유할 도메인 상자** 에 일정을 보도록 허용할 외부 Office 365 또는 Exchange 온-프레미스 조직의 도메인을 입력합니다. 도메인을 두 개 이상 입력하려면 도메인 이름을 쉼표로 구분합니다. 구분합니다(예: contoso.com, service.contoso.com).
 6. **약속 있음/없음 일정 정보 공유 사용** 확인란을 선택하여 목록에 포함한 도메인에 대해 일정 공유를 설정합니다. 약속 있음/없음 일정 정보의 공유 수준과 약속 있음/없음 일정 정보를 공유할 수 있는 사용자를 설정합니다.  
 
 약속 있음/없음 액세스 수준을 설정하려면 다음 중 하나를 선택합니다.

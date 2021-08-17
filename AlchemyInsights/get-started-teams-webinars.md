@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: f5ef7d216d5c6b1a116f3a58cdd7fc9c3263f94732c45a403381b987381be37b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 82c6524011f996de07025e4401604101f50a326b37e38b890524626325a01aaf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53964423"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888248"
 ---
 # <a name="getting-started-with-teams-webinars"></a>웨비나 Teams 시작
 
@@ -27,4 +27,4 @@ ms.locfileid: "53964423"
 
 **참고:** 웨비나 기능은 여전히 테넌트에 Microsoft 365 진행 중입니다. 
 
-웨비나를 설정하고 구성하는 방법에 대한 자세한 내용은 Teams 에서 웨비나에 대한 설정을 [Microsoft Teams.](/microsoftteams/set-up-webinars)
+웨비나를 설정하고 구성하는 방법에 대한 자세한 내용은 Teams 에서 웨비나에 대한 설정을 [Microsoft Teams.](https://docs.microsoft.com/microsoftteams/set-up-webinars)

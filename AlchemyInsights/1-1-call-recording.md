@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: befb89c28396be3dc60d9d812a0c6aced69bea3c1c48d88a4ab81a34d6c259b0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 29383643e6867bca7fd31774a9594b82fdc080bb0e7254141e8c883ad861075e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918997"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886145"
 ---
 # <a name="11-call-recording"></a>1:1 통화 기록
 
@@ -28,7 +28,7 @@ ms.locfileid: "53918997"
 
 *AllowCloudRecordingForCalls*   통화 정책 옵션은 기본적으로 $False **설정되어** 있습니다. 모든 사용자가 1:1 통화를 녹음하지 못하게 차단하려면 조치를 취할 필요가 없습니다.  
 
-1:1 통화의 모든 사용자에 대해 통화 기록을 사용하도록 설정하려면 [powerShell에서](/microsoftteams/teams-powershell-install) Teams cmdlet을 실행합니다. 
+1:1 통화의 모든 사용자에 대해 통화 기록을 사용하도록 설정하려면 [powerShell에서](https://docs.microsoft.com/microsoftteams/teams-powershell-install) Teams cmdlet을 실행합니다. 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 

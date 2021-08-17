@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: 4094371ee0a3b3ec8d29454fd66f3e9e7c3f35a91b9ea05f308325bc447ce11c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926323"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887446"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>Edge 브라우저를 사용하여 표시기가 작동하지 않음
 
-표시기를 만든 후에는 Edge(Smartscreen)가 표시기를 사용할 수 없습니다. 자세한 내용은 [IP 및 URL/도메인 표시기 생성](/microsoft-365/security/defender-endpoint/indicator-ip-domain)을 참조하세요.
+표시기를 만든 후에는 Edge(Smartscreen)가 표시기를 사용할 수 없습니다. 자세한 내용은 [IP 및 URL/도메인 표시기 생성](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain)을 참조하세요.
 
 ## <a name="step-1-ensure-the-following"></a>1단계: 다음을 확인하세요.
 
@@ -34,7 +34,7 @@ ms.locfileid: "53926323"
 
 ## <a name="step-2-troubleshoot-the-potential-issue"></a>2단계: 잠재적인 문제를 해결합니다.
 
-- 클라이언트가 요구 사항을 충족하는지 확인합니다. 자세한 내용은 [IP 및 URL/도메인에 대한 지표 만들기](/microsoft-365/security/defender-endpoint/indicator-ip-domain)를 참조하세요.
+- 클라이언트가 요구 사항을 충족하는지 확인합니다. 자세한 내용은 [IP 및 URL/도메인에 대한 지표 만들기](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain)를 참조하세요.
 - Edge 브라우저의 최신 버전을 실행 중인지 확인합니다. 최신 버전을 찾으려면 [내 Microsoft Edge 버전 확인](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb)을 참조하세요.
 - Edge 브라우저를 다시 시작합니다.
 - 표시기를 설정한 사이트로 이동합니다. 사이트가 예상대로 표시되지 않으면 3단계로 계속 진행합니다. 

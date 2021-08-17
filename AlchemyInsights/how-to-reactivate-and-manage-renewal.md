@@ -16,12 +16,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d73e92cb4422113f50d55d7fad529b1bc0dd6cb5
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 88b80e69ec898bcf195633f3170d906c67bf8ab072ea2987364d32f750b74462
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689052"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887542"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>구독을 다시 활성화하고 재발생 청구를 관리하는 방법
 
@@ -32,7 +32,7 @@ ms.locfileid: "53689052"
 3. **이 구독 다시 활성화** 창의 드롭다운 목록에서 결제 방법을 선택하거나 **결제 방법 추가** 를 선택합니다.
 4. **저장** 을 선택합니다.
 
-자세한 내용은 [구독 다시 활성화](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)를 참조하세요.
+자세한 내용은 [구독 다시 활성화](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)를 참조하세요.
 
 월 또는 연 단위로 청구를 관리하기 위해 **되풀이 청구** 를 설정하거나 해제할 수 있습니다.
   
@@ -42,4 +42,4 @@ ms.locfileid: "53689052"
 4. **되풀이 청구 설정 편집** 창에서 **켜기**, **한켜기(단, 한 번만 갱신)**, 또는 **끄기** 를 선택합니다.
 5. **저장** 을 선택합니다.
 
-자세한 내용은 [되풀이 청구 해제 또는 설정](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)을 참조하세요.
+자세한 내용은 [되풀이 청구 해제 또는 설정](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)을 참조하세요.

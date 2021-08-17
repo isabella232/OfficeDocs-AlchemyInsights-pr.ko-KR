@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3417"
 - "3800012"
-ms.openlocfilehash: 8a3691e741fd6874908c30fe3517e6d0b8670a3b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3f159020ac608eac169138231e16455420eeb96edc849fb882fd748a34bf6965
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51789762"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053436"
 ---
 # <a name="create-or-configure-a-room-mailbox"></a>방 사서함 만들기 또는 구성
 

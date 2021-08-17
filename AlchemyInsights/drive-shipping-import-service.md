@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11514"
 - "9003046"
-ms.openlocfilehash: ea9f78176bcc3208c01da5ccfaeb97af4373a5b5d1a4abc652422a0f85df7d9a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e524935c4600d4f043e39dc3c261eb21be97bfbaeb30dc1279676e2d5578ba4b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004196"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888308"
 ---
 # <a name="drive-shipping-in-the-microsoft-365-import-service"></a>Microsoft 365 Import Service의 드라이브 배송
 
@@ -41,4 +41,4 @@ PST 파일을 포함하는 하드 드라이브는 BitLocker로 암호화해야 �
 
 - 드라이브 발송을 사용하여 Microsoft 365 사서함에 PST 파일을 가져오는 데 드는 비용은 1GB의 데이터당 2,000원입니다.
 
-드라이브 배송 방법을 사용하여 PST를 가져오는 방법에 대한 자세한 내용은 [드라이브 배송을 사용하여 조직의 PST 파일 가져오기](/microsoft-365/compliance/use-drive-shipping-to-import-pst-files-to-office-365)를 참조하세요.
+드라이브 배송 방법을 사용하여 PST를 가져오는 방법에 대한 자세한 내용은 [드라이브 배송을 사용하여 조직의 PST 파일 가져오기](https://docs.microsoft.com/microsoft-365/compliance/use-drive-shipping-to-import-pst-files-to-office-365)를 참조하세요.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11142"
-ms.openlocfilehash: 0a89b121f2f425b0a81fa250650f108e9af48c9da39dfc8a62b07541d3a6c3dd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f77fdbb315db8317a6a1374f05489a7f5a0bedcec484dc9ac53a473098583949
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54098068"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886638"
 ---
 # <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>보안 Microsoft Intune 사용하여 Windows 10 구성
 
@@ -30,5 +30,5 @@ Intune 보안 기준은 사용자와 장치를 보호하는 데 도움이 됩니
 
 Intune을 새로 사용하며 시작할 위치를 알 수 없는 경우 보안 기준을 사용하면 보안 프로필을 빠르게 만들고 배포할 수 있습니다. 현재 그룹 정책을 사용하는 경우 관리 목적으로 Intune으로 마이그레이션하는 것이 Intune에 기본 제공되어 최신 관리 기능을 포함하기 때문에 보안 기준을 훨씬 더 쉽게 사용할 수 있습니다.
 
-자세한 내용은 보안 [기준 Windows 모바일](/windows/security/threat-protection/windows-security-baselines) 장치 관리를 [참조하세요.](/windows/client-management/mdm/)
+자세한 내용은 보안 [기준 Windows 모바일](https://docs.microsoft.com/windows/security/threat-protection/windows-security-baselines) 장치 관리를 [참조하세요.](https://docs.microsoft.com/windows/client-management/mdm/)
 

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 1623ea2269e18a0333b0bfddef7c5797ce3db57bb74ee4646a3aa94b8e821fa1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 86acc3a8568d5e30a46abc0d1bd6496530e586138b548e59f5c212bc0006c783
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499554"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886297"
 ---
 # <a name="too-many-licenses"></a>라이선스가 너무 많나요?
 
@@ -36,4 +36,4 @@ ms.locfileid: "54499554"
 4. 라이선스 **제거 창의** 총  라이선스 수량  상자에 이 구독에 대해 원하는 총 라이선스 수를 입력합니다. 예를 들어 라이선스가 100개인 경우 25개 라이선스를 제거하려면 75를 입력합니다.
 5. **저장** 을 선택합니다.
 
-자세한 내용은 [라이선스 구입 또는 제거를 참조합니다.](/microsoft-365/commerce/licenses/buy-licenses)
+자세한 내용은 [라이선스 구입 또는 제거를 참조합니다.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
