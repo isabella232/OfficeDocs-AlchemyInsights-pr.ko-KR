@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1965"
 - "9000337"
-ms.openlocfilehash: 25aa596d548e01d8f355448f33dd873064d597f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34ed86c3044a0b73bc2cc94a7032b8f2c99dd643a497eadfdf3b26172c1200df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108958"
 ---
 # <a name="emerging-issue"></a>새로운 문제
 
-여러 고객은 보고 하는 것과 비슷한 문제에 대해 complained 합니다. 이 문제를 조사 하 고 있습니다.
+여러 고객이 보고하는 문제와 유사한 문제를 불만을 나타냈습니다. We are looking into this issue.
 
-[서비스 상태 대시보드](https://admin.microsoft.com/adminportal/home#/servicehealth) 를 확인 하 여 인시던트에 영향을 주는 서비스에 업데이트 된 상태로 유지 하세요.
+서비스 상태 [대시보드를 확인하여](https://admin.microsoft.com/adminportal/home#/servicehealth) 인시던트에 영향을 미치는 모든 서비스에 대한 업데이트를 유지하세요.

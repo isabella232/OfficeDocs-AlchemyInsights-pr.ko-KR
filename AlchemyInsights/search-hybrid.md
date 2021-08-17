@@ -12,18 +12,18 @@ ms.assetid: ''
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: b7c837e1230e40077f997fcdea91fcf14e374998
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e04e1f6dd0d3be08f2698ddb907a5c58ee07e38f8403926188006f799537026
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774105"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109030"
 ---
 # <a name="search-and-hybrid"></a>검색 및 하이브리드
 
-- SharePoint Online의 하이브리드 및 페더레이션된 검색에 대 한 정보가 필요 하십니까? 이 경우에는 [이 문서](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)를 참조 하세요.
+- 온라인에서 하이브리드 및 페더임 검색에 대한 SharePoint 필요하세요? 그렇다면 이 문서를 [참조하세요.](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)
 
-- 하이브리드 연결 된 검색 계획에 대 한 정보가 필요 한가요?  이 경우에는 [이 문서](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)를 참조 하세요.
+- 하이브리드 통합 검색 계획에 대한 정보가 필요한가요?  그렇다면 이 문서를 [참조하세요.](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)
 
 
 

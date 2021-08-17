@@ -15,12 +15,12 @@ ms.custom:
 - "5200006"
 - "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: a298f8e285b5fa84bcd5c3d21a00ca3a53aa4275a87d91452e6c41587fd20e7b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 44a6ca5d8ab4a27b844dadb6da8e0d8c6cf9657f1543883389eee6e7d743a930
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54102829"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891501"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>SharePoint 그룹에 속한 Microsoft 365 사이트 삭제
 
@@ -29,6 +29,6 @@ ms.locfileid: "54102829"
 중요:
 
 - 삭제된 사이트는 93일 동안 복구할 수 있습니다. 삭제된 그룹은 30일 이내에 복원해야 합니다. [사이트 관리 센터에서](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) 직접 삭제된 SharePoint 복원합니다. 삭제된 [그룹을 **보고 복원하려면**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups)그룹 관리를 **선택한** 다음 **삭제를 선택합니다.**
-- 사이트가 보존 정책의 일부인 경우 사이트가 보안 및 준수 관리 센터에서 제거될 때까지 & [수 있습니다.](https://protection.office.com/?rfr=AdminCenter#/retention) 자세한 내용은 보존 정책 [개요를 참조하세요.](/microsoft-365/compliance/retention-policies)
+- 사이트가 보존 정책의 일부인 경우 사이트가 보안 및 준수 관리 센터에서 제거될 때까지 & [수 있습니다.](https://protection.office.com/?rfr=AdminCenter#/retention) 자세한 내용은 보존 정책 [개요를 참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
   
-자세한 내용은 새 사이트 관리 센터에서 [사이트 SharePoint 참조하세요.](/sharepoint/manage-sites-in-new-admin-center)
+자세한 내용은 새 사이트 관리 센터에서 [사이트 SharePoint 참조하세요.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)
