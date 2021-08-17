@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12064"
 - "9006408"
-ms.openlocfilehash: 31924446f76ae8354773c8608968dca4ff3e24cf389f95ad02713e601fb7ff47
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: eeaf233d46fee73649c25d501abe161d28fc31d5b37011b862876f6fd34f0140
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53986933"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893245"
 ---
 # <a name="issues-related-to-office-scripts"></a>Office 스크립트와 관련된 문제
 
@@ -32,13 +32,13 @@ Office 스크립트를 사용하려면 조직의 사용자에게 Office 데스�
 - Office 365 A3
 - Office 365 A5
 
-Office 스크립트 설정에 대한 변경 내용을 적용하는 데 최대 48시간이 걸릴 수 있습니다. 자세한 내용은 [Office 스크립트 설정 관리](/microsoft-365/admin/manage/manage-office-scripts-settings)를 참조하세요.
+Office 스크립트 설정에 대한 변경 내용을 적용하는 데 최대 48시간이 걸릴 수 있습니다. 자세한 내용은 [Office 스크립트 설정 관리](https://docs.microsoft.com/microsoft-365/admin/manage/manage-office-scripts-settings)를 참조하세요.
 
-Office 스크립트는 Power Automate로 작동하므로 사용자가 Office 스크립트를 사용하는 동안 조직 데이터가 보호되도록 기존 DLP(데이터 손실 방지) 정책을 검토하는 것이 좋습니다. 자세한 내용은 [DLP(데이터 손실 방지) 정책](/power-automate/prevent-data-loss)을 참조하세요.
+Office 스크립트는 Power Automate로 작동하므로 사용자가 Office 스크립트를 사용하는 동안 조직 데이터가 보호되도록 기존 DLP(데이터 손실 방지) 정책을 검토하는 것이 좋습니다. 자세한 내용은 [DLP(데이터 손실 방지) 정책](https://docs.microsoft.com/power-automate/prevent-data-loss)을 참조하세요.
 
 자세한 내용은 다음을 참조하세요.
 
-[Office 스크립트 설명서](/office/dev/scripts/)<br/>
+[Office 스크립트 설명서](https://docs.microsoft.com/office/dev/scripts/)<br/>
 [Excel의 Office 스크립트 소개](https://support.microsoft.com/office/introduction-to-office-scripts-in-excel-9fbe283d-adb8-4f13-a75b-a81c6baf163a)<br/>
 [웹용 Excel에서 Office 스크립트 공유](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b)<br/>
-[웹용 Excel에서 Office 스크립트 기록, 편집 및 만들기](/office/dev/scripts/tutorials/excel-tutorial)
+[웹용 Excel에서 Office 스크립트 기록, 편집 및 만들기](https://docs.microsoft.com/office/dev/scripts/tutorials/excel-tutorial)

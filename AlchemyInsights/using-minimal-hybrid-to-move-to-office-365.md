@@ -1,5 +1,5 @@
 ---
-title: 최소 하이브리드를 사용 하 여 Microsoft로 이동
+title: 최소 하이브리드를 사용하여 Microsoft로 이동
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "691"
 - "3500010"
 ms.assetid: f974fc09-ae6e-4b3d-94cb-1b1021d2ee31
-ms.openlocfilehash: 78906cf95cbb9e6cccc9f960d44fb5d3dad29eec
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: ec20bb87441462f2d14fa3d59633a9739535e838b06ef45ca33082a9c018d55c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653519"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084028"
 ---
-# <a name="using-minimal-hybrid-to-move-to-microsoft-365"></a>최소 하이브리드를 사용 하 여 Microsoft 365로 이동
+# <a name="using-minimal-hybrid-to-move-to-microsoft-365"></a>최소 하이브리드를 사용하여 하이브리드로 Microsoft 365
 
-빠른 마이그레이션이 라고도 하는 최소 하이브리드에 대 한 자세한 내용은 최소 하이브리드 사용을 참조 하 여 [Exchange 사서함을 Microsoft 365로 빠르게 마이그레이션합니다](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate).
+Express 마이그레이션으로도 알려진 최소 하이브리드에 대한 자세한 내용은 Use Minimal Hybrid to quickly migrate Exchange [mailboxes to Microsoft 365.](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate)

@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918473"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312765"
 ---
 # <a name="frequent-excel-crashes"></a>자주 Excel 충돌이 발생하나요?
 
@@ -28,8 +28,7 @@ ms.locfileid: "53918473"
 
 3. 사용 Add-Ins 상자에서 사용하지 않도록 설정할 추가 기능 옆에 있는 확인란의 선택을 취소한 다음 확인을 **클릭합니다.**
 
-> [!NOTE]
-> 시작 Excel 충돌하는 경우 프로그램을 시작하는 동안 Ctrl을 금고 모드로 시작하십시오.
+**참고:** Excel 동안 크래시가 발생하면 프로그램을 시작하는 동안 금고 Ctrl을 눌러 금고 모드로 시작하십시오.
   
 문제가 계속 발생하면 다음 문서를 참조합니다.
   

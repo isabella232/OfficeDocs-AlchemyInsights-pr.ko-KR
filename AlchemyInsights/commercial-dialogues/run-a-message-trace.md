@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: c5b9c550d02e5201572f2e55154988a33128a047ab373134a59188f6ab59820b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c21a12855895c8e7f29c2a5917763940c30489e2aa3461cc0dc99799b86c9a34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890604"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081796"
 ---
 # <a name="run-a-message-trace"></a>메시지 추적 실행
 
-의 Exchange 포털에서  메시지 추적을 Microsoft 365 Defender <https://security.microsoft.com> 있습니다.
+메시지 추적은 보안 및 준수 센터의 메일 흐름 Office 365 & 실행됩니다.
 
-자세한 내용은 Microsoft 365 Defender 포털의 메시지 [추적을 참조하세요.](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)
+메시지 추적을 실행 하는 방법에 대 한 자세한 내용은 Office 365 보안 및 준수 센터에서 & [합니다.](https://go.microsoft.com/fwlink/?linkid=2103855)

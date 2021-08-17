@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003021"
 - "5757"
-ms.openlocfilehash: 1c126a088b79bc8ad415a5679e18d4da3fde8b15
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5853ffad9ce1f19d2cbbf107b83ae485512ec539328fc609b507e41e1a22c9e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830716"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110470"
 ---
 # <a name="resolving-billing-and-payment-errors"></a>대금 청구 및 결제 오류 해결
 
@@ -25,7 +25,7 @@ ms.locfileid: "51830716"
 
 - **청구된 금액** 이 예상했던 것과 다릅니다.
 - 라이선스가 구독에 추가되었거나 구독에서 제거되었습니다. 계약 중간에 라이선스가 변경되면 이러한 변경은 다음 송장에 반영됩니다. 이러한 변경에 대한 책임으로 이전 서비스 기간에 대한 크레딧과 재발행 청구서를 확인할 수 있습니다.
-- 구독이 취소되었습니다. 취소 후 미결 잔액에서 크레딧을 뺀 송장을 받습니다.
+- 구독이 취소되었습니다. 취소 후 미결제 잔액에서 크레딧을 뺀 청구서를 받게 됩니다.
 - 구독이 변경된 새 기간 및 라이선스 가격으로 갱신되었습니다.
 - 송장에 대한 자세한 내용은 [송장 이해하기](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)를 참조하세요.
 - **신용 카드 결제 처리 문제** 가 있습니다.

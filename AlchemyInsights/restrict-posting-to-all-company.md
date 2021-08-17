@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003219"
 - "9667"
-ms.openlocfilehash: eb7db65b163bec39a5186bc3e2339ff8a2960deb
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: 8329b94e6496b8ae408ec157446333b486e25496d4c83abaf62bd22b9f8a1f3c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "50995300"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109318"
 ---
 # <a name="restrict-posting-to-all-company"></a>모든 회사에 게시 제한
 

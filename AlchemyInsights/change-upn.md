@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 60b8f4d1cdf64369709b8bd2703d3ae77ae5a410
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818258"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082408"
 ---
 # <a name="change-a-users-email-address"></a>사용자의 전자 메일 주소 변경
 
 다른 사람의 전자 메일 주소를 쉽게 변경할 수 있습니다. 다음 단계를 따르면 됩니다.
   
-1. Microsoft 365 관리 센터에서 사용자 페이지로 [이동하거나](https://go.microsoft.com/fwlink/p/?linkid=834822) 사용자 활성 **사용자를** \> **선택합니다.**
+1. In the Microsoft 365 관리 센터, go to the [Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active Users**.
     
 2. 사용자를 선택합니다.
     

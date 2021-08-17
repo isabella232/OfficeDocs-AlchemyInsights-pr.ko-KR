@@ -14,18 +14,18 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929203"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893409"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>사용자가 악성 이메일을 받았습니까?
 
-- 이제 [보안 및 규정 센터의 관리자 제출](https://sip.protection.office.com/reportsubmission)을 사용하여 Microsoft에 악의적인 전자 메일을 보고할 수 있습니다.
+이제 악의적인 전자 메일을 [Microsoft 365 Defender 포털에서 제출](https://sip.security.microsoft.com/reportsubmission?viewid=admin)을 통해 Microsoft에 보고할 수 있습니다.
 
-[관리자 제출](https://sip.protection.office.com/reportsubmission)에 제출된 메시지가 검색되고 **세부 정보** 에 표시된 다음 결과가 표시됩니다.
+[관리자 제출](https://security.microsoft.com/reportsubmission?viewid=admin)에 제출된 메시지가 검색되고 세부 정보에 표시된 다음 결과가 표시됩니다.
 
 - 전송 시 보낸 사람의 전자 메일 인증에 오류가 있는 경우입니다.
 - 메시지의 평가 결과에 영향을 주거나 재정의할 수 있는 정책 조회에 대한 정보입니다.
@@ -39,9 +39,9 @@ ms.locfileid: "53929203"
 그 동안 [이 문서](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)의 지침에 따라 사용자 받은 편지함에서 악성 전자 메일을 제거할 수 있습니다.
 
 - Office 365용 Microsoft Defender 고객은 다음을 할 수 있습니다.
-    - [위협 탐색기를 사용하여 의심스러운 전자 메일 검색 및 삭제](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-    - [안전한 링크를 사용하여 악성 URL에 액세스 차단](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)
-    - 악성 URL을 클릭하고 액세스한 사용자 추적: [피싱 URL 및 평가 결과 데이터 보기](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
-    - 수동으로 [자동 조사 시작](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
+  - [위협 탐색기를 사용하여 의심스러운 전자 메일 검색 및 삭제](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
+  - [안전한 링크를 사용하여 악성 URL에 액세스 차단](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links)
+  - 악성 URL을 클릭하고 액세스한 사용자 추적: [피싱 URL 및 평가 결과 데이터 보기](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+  - 수동으로 [자동 조사 시작](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
 [악성 URL 및 파일로부터 보호](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats) 지침에 따라 악성 파일 및 URL로부터 보호 받을 수 이습니다.

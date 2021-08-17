@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b6fbaf3f2ab30888d7a8f9d6f5aeccb65b5cfd0b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918901"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312831"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>"필수 연금술 헤더 H1, H2가 작동하지 않습니다."
 연산 제작에 대한 모범 사례 및 지침:
@@ -27,8 +27,8 @@ ms.locfileid: "53918901"
     1. ms.custom 필드에 연금 파트너 [](https://alchemyportal.azurewebsites.net) 포털의 규칙 ID 또는 버킷 ID를 포함합니다. ex. ***ms.custom: 100021***
 1. 이 파일의 맨 위에 있는 나머지 메타데이터를 템플릿으로 사용 합니다.
 1. 연산 파트너 [포털에서](https://alchemyportal.azurewebsites.net)고객 인사이트 **제목:** 섹션으로 이동하여 인사이트를 위한 H1 타이틀의 시작점으로 활용합니다. 
-    > [!NOTE]
-    > 연금 Insights 맨 위에는 H1이 하나만 있어야 합니다. 아니면 프로덕션에서 중단됩니다. H2는 렌더링되지 않습니다. 따라서  굵게 또는 다른 규칙을 사용하여 개별 섹션을 의미합니다.
+
+**참고:** Insights H1이 맨 위에 있어야 합니다. 아니면 프로덕션에서 중단됩니다. H2는 렌더링되지 않습니다. 따라서  굵게 또는 다른 규칙을 사용하여 개별 섹션을 의미합니다.
 1. 다음으로, 연산 규칙 페이지의 Customer Insights 초안 자료를 사용하여 본문을 채우기
     1. 글머리 기호 목록이 괜찮습니다.
     1. 번호 매기기 목록도

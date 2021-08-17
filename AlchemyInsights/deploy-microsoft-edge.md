@@ -15,12 +15,12 @@ ms.custom:
 - "11088"
 - "9005291"
 - "9006490"
-ms.openlocfilehash: 1340a86087612ae052ad549dae2a2a2ddfea6df274190ed18cd37aeb7af2de54
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2324f120964695f7f641b8ecd701c3c1bef6bc4f62b82800d88f79cc54b945d5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948133"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893477"
 ---
 # <a name="deploy-microsoft-edge"></a>Microsoft Edge 배포
 
@@ -28,8 +28,8 @@ ms.locfileid: "53948133"
 
 Microsoft Edge를 배포하는 데 사용할 수 있는 도구는 다음과 같습니다.
 
-- [Windows용 Microsoft Intune](/mem/intune/apps/apps-windows-edge) 또는 [macOS용 Microsoft Intune](/mem/intune/apps/apps-edge-macos)
-- [구성 관리자](/DeployEdge/deploy-edge-with-configuration-manager)
+- [Windows용 Microsoft Intune](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge) 또는 [macOS용 Microsoft Intune](https://docs.microsoft.com/mem/intune/apps/apps-edge-macos)
+- [구성 관리자](https://docs.microsoft.com/DeployEdge/deploy-edge-with-configuration-manager)
 - [Microsoft Edge용 MSI 파일](https://www.microsoft.com/edge/business/download)을 사용하는 다른 도구
 
 **배포 유효성 검사**

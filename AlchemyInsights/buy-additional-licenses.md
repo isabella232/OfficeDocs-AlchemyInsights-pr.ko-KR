@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: 86a51ca294c18c5a596d626f4e2caf8e0a2fa9cdf554d0390dd31b97445a0b6d
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 54889cd480f85fc63254c8218d03e26541795620fe2711798c19c9c503637f92
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499086"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892933"
 ---
 # <a name="buy-additional-licenses"></a>추가 라이선스 구입
 
@@ -31,8 +31,8 @@ ms.locfileid: "54499086"
 3. 총 **라이선스 수량** 상자에 이 구독에 대해 원하는 총 라이선스 수를 입력합니다.  예를 들어 라이선스가 100개인 경우 25개 이상을 추가하려는 경우 125를 입력합니다.
 4. **저장** 을 선택합니다.
 
-자세한 내용은 [라이선스 구입 또는 제거를 참조합니다.](/microsoft-365/commerce/licenses/buy-licenses)
+자세한 내용은 [라이선스 구입 또는 제거를 참조합니다.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **추가 리소스**
 
-[비즈니스용 Microsoft 365 사용자에게 라이선스 할당](/microsoft-365/admin/manage/assign-licenses-to-users)
+[비즈니스용 Microsoft 365 사용자에게 라이선스 할당](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)

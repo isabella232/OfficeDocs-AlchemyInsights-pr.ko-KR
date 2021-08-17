@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6115"
 - "9003200"
-ms.openlocfilehash: 51fd4f0abb3b9842085d0de02267037f6782c605eef9fcd64580ab8ccb18b4d3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88890b757c7fc7b44d3f474cce5b8c79f7e78e07fb9e1572e1a27f8f17e36274
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53977483"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892657"
 ---
 # <a name="external-users-cant-send-email-to-microsoft-365-group"></a>외부 사용자는 Microsoft 365 그룹에 전자 메일을 보낼 수 없음
 
@@ -30,4 +30,4 @@ ms.locfileid: "53977483"
 4. **저장** 을 선택합니다.</br>
     최대 1시간 동안 설정을 반영할 수 있습니다. 
 
-Microsoft 365 그룹에 전자 메일을 보내는 데 여전히 문제가 있는 경우 [비즈니스 관리자에 대한 Microsoft 365 전자 메일 배달 문제 찾기 및 해결](/exchange/troubleshoot/email-delivery/email-delivery-issues)을 참조하세요.
+Microsoft 365 그룹에 전자 메일을 보내는 데 여전히 문제가 있는 경우 [비즈니스 관리자에 대한 Microsoft 365 전자 메일 배달 문제 찾기 및 해결](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/email-delivery-issues)을 참조하세요.

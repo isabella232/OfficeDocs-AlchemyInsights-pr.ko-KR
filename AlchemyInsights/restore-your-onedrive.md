@@ -1,5 +1,5 @@
 ---
-title: OneDrive 복원
+title: 사용자 OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 741c227b5d39282d53d36cefebe9e86290167447
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ab60bc794d50c031e22a7c1497d529f0403dde9b5a45708a54495117c1939f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801298"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109354"
 ---
-# <a name="restore-your-onedrive"></a>OneDrive 복원
+# <a name="restore-your-onedrive"></a>사용자 OneDrive
 
-여러 OneDrive 파일을 삭제, overwritted 손상 또는 맬웨어로 감염 된 경우 지난 30 일 이내에 이전 시간으로 OneDrive를 복원할 수 있습니다.
+많은 OneDrive 파일이 맬웨어에 의해 삭제, 덮어오기, 손상 또는 감염되는 경우 전체 OneDrive 이전 시간으로 복원할 수 있습니다.
   
-1. 웹 브라우저에서 OneDrive로 이동 합니다.
+1. 웹 브라우저에서 OneDrive 사이트로 이동하세요.
     
-2. 오른쪽 위에 있는 설정 아이콘을 클릭 한 다음 **OneDrive 복원을**선택 합니다.
+2. 오른쪽 설정 아이콘을 클릭한 다음 복원을 **OneDrive.**
     
-3. 목록에서 날짜를 선택 하거나 **사용자 지정 날짜 및 시간**을 선택 합니다.
+3. 목록에서 날짜를 선택하거나 사용자 지정 **날짜 및 시간을 선택합니다.**
     
-4. **복원을** 클릭 하 여 선택한 날짜 이후의 모든 작업을 실행 취소 합니다. 
+4. **복원을** 클릭하여 선택한 날짜 이후의 모든 활동을 취소합니다. 
     
-[파일 복원을 사용한 추가 도움말](https://go.microsoft.com/fwlink/?linkid=872874)
+[파일 복원 사용에 대한 추가 도움말](https://go.microsoft.com/fwlink/?linkid=872874)
   
 
