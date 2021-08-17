@@ -13,24 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403245"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883361"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft Secure Score
 
-Microsoft 보안 점수를 사용하여 환경의 보안을 더 안전하게 만들 수 있습니다. 이를 보안에 대한 신용 점수로 생각할 수 있습니다. 이 정보에서는조지의 보안을 개선하는 데 도움이 될 수 있는 조치를 알려 줄 수 있습니다.
+Microsoft 보안 점수를 사용하여 환경의 보안을 더 안전하게 만들 수 있습니다. 이를 보안에 대한 신용 점수로 생각할 수 있습니다. 조직의 보안을 개선하는 데 도움이 될 수 있는 조치를 알려 줄 수 있습니다.
 
-1. [Office 365 보안](https://go.microsoft.com/fwlink/p/?linkid=2077143)및 준수 & 로 이동 합니다.
-1. Microsoft 보안 점수 카드를 선택하거나 [Microsoft 보안 점수로 이동 합니다.](https://go.microsoft.com/fwlink/?linkid=2099589)
-    > [!TIP]
-    >  Microsoft 보안 점수 개요 페이지에서 보안에 대한 권장 사항에 대한 개선 작업을 선택합니다. 테이블에서 필터 또는 그룹화 를 선택하여 순서대로 완료하면 더 나을 수 있는 작업을 빠르게 식별할 수 있습니다.
-1. 목록에서 개선 작업을 선택합니다. 동작에 대한 간단한 설명을 제공하는 플라이아웃이 나타납니다.
-1. 설정 **보기를** 클릭한 다음 다음 단계에 제공된 지침을 **따릅니다.**
+1. 의 Microsoft 365 Defender 포털에서 <https://security.microsoft.com> 보안 **점수로 이동합니다.**
+
+   보안 점수 페이지로 직접 **이동하기** 위해 다음을 사용하세요. <https://security.microsoft.com/securescore>
+
+2. 검토할 작업 및  상위 개선  작업 섹션의 개요 탭에서 보안에 대한 권장 사항을 참조하세요. 
+
+3. 개선 **작업 탭에서** 개선  작업  항목의 순위 항목의 상태 값은 **To address** 또는  **Regressed입니다.** 테이블에서 **Filter** 또는 **Group을** 사용하여 순서대로 완료하면 더 나을 수 있는 작업을 빠르게 식별할 수 있습니다.
+
+4. 개선 작업 **탭의** 목록에서 주소 또는 회귀 항목을 **선택합니다.**  새 페이지가 열리면 전체 설명과 문제 해결을 위한 **관리** 단추가 표시됩니다.
+
     > [!NOTE]
     > 권장 보안 기능을 구성하기 위한 포인트가 제공되지만 일부 작업은 [점수가 지정되지 않음]으로 레이블이 **지정됩니다.** 즉, 개선 작업을 구현하는 경우에도 점수에 대한 점수가 주어지지 않습니다. 그렇지 않으면 점수가 업데이트되는 데 *최대 24시간이* 걸릴 수 있습니다.
 
-Microsoft 보안 점수에 대한 자세한 내용은 Microsoft 보안 점수를 [참조하세요.](https://go.microsoft.com/fwlink/?linkid=2103077)
+Microsoft 보안 점수에 대한 자세한 내용은 Microsoft 보안 점수를 [참조하세요.](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)

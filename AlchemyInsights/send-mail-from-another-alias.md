@@ -14,12 +14,12 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 8bb9d2667ca8d08120b0d4dd7dc8f362212c39e6
-ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
+ms.openlocfilehash: 704d5f5bb251c02169f155635c48633ec55848936b4fd211a3b2978811a45dc7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53389259"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052500"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>별칭 또는 보조 주소에서 전자 메일 보내기
 

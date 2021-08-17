@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 8750c9036f258d9c5edc94bb027d564140bbd9914712cc1f25ff3abc3f4b9468
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041592"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883137"
 ---
 # <a name="outbound-relay-pool"></a>아웃바운드 릴레이 풀
 
-Microsoft는 사용자 계정을 통해 전자 메일을 릴레이하거나 전달하기 위한 구성을 Microsoft 365. 특정 시나리오의 메시지는 특수 릴레이 풀을 사용하여 Microsoft 365 릴레이됩니다. 릴레이 풀을 사용하여 보낸 메시지는 받는 사람의 정크 메일 폴더에 저장될 수 있습니다. 자세한 내용은 [아웃바운드 배달 풀을 참조하세요.](/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+Microsoft는 사용자 계정을 통해 전자 메일을 릴레이하거나 전달하기 위한 구성을 Microsoft 365. 특정 시나리오의 메시지는 특수 릴레이 풀을 사용하여 Microsoft 365 릴레이됩니다. 릴레이 풀을 사용하여 보낸 메시지는 받는 사람의 정크 메일 폴더에 저장될 수 있습니다. 자세한 내용은 [아웃바운드 배달 풀을 참조하세요.](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
 릴레이 풀을 사용하는 시나리오를 피하기 위해 전달/릴레이된 메시지가 다음 조건 중 하나를 충족하는지 확인하십시오.
 
