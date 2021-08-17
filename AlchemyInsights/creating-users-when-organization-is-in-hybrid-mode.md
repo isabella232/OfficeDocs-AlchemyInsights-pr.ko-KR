@@ -1,5 +1,5 @@
 ---
-title: 744 조직이 하이브리드 모드일 때 사용자 만들기
+title: 744 조직이 하이브리드 모드에 있는 경우 사용자 만들기
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 8365e8687939e8759b5e9e0ae3b321b5e0a21c5f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01ce3e4698f19c882ac0034aacb3a1455973e7eeeb3bd38d4c28a0070d739405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102946"
 ---
 # <a name="create-users-in-hybrid-deployments"></a>하이브리드 배포에서 사용자 만들기
 
-조직이 온-프레미스 환경과 Microsoft 365 간의 하이브리드 배포 인 경우 온-프레미스 Active Directory에서 모든 사용자 개체를 만들어야 합니다. 조직에 동기화 되도록 해당 OU (조직 구성 단위)에 사용자 개체를 만듭니다.
+조직이 사내 환경과 프레미스 환경 간의 하이브리드 배포인 Microsoft 365 Active Directory에 모든 사용자 개체를 만들어야 합니다. 적절한 OU(조직 구성 단위)에서 사용자 개체를 만들어 조직에 동기화합니다.

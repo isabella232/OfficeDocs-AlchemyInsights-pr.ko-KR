@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "11941"
 - "9007100"
-ms.openlocfilehash: 662b2fb30187337b772fb5ea09c7323703a511f3
-ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
+ms.openlocfilehash: f16a13eca800044fa0e6a40e3f085a21196e625d00f7898cdc0f5a20a218b170
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53532961"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102888"
 ---
 # <a name="debug-webview2-apps"></a>WebView2 앱 디버그
 
