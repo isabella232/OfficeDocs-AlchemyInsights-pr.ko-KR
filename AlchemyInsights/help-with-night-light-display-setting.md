@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005578"
 - "9930"
-ms.openlocfilehash: db551db6edab7fca1cb465cf466575a2dbcd755e
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: 7da8d4cefe2140340892544d73b9f8e3f3fdc679e9d58f2ad5ac12bf30830c5c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51123142"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078730"
 ---
 # <a name="help-with-the-night-light-display-setting"></a>야간 표시 설정 도움말
 

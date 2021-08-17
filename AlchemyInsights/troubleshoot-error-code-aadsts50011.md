@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9802"
 - "9005744"
-ms.openlocfilehash: 6acf0ce3615669babd1a912ffd782b3750b93500
-ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.openlocfilehash: f808422833b5bcd5b7179d4427af26a634e19e02b6c7116027a2d10eb474bb91
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901629"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048522"
 ---
 # <a name="troubleshoot-error-code-aadsts50011"></a>오류 코드 AADSTS50011 문제 해결
 
