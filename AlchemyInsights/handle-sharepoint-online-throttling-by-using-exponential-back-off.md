@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: 79eac285a9816a53369ef0fac5bd158f1234615d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5cef5125e13cfe351d5909332212906e642a8c9bb840835f909fa3a6cdd7a441
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811786"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043545"
 ---
 # <a name="handle-sharepoint-online-throttling-by-using-exponential-back-off"></a>지수 백오프를 사용하여 SharePoint Online 제한을 처리
 

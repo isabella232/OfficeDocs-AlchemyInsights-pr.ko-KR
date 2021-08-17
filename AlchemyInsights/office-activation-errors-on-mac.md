@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4488"
-ms.openlocfilehash: db17f222ccd245b7c9199c159098fbcc8e78c003
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e10f8371eee6a1e3d0f09da4ba6eb517564957d005dbe9c11c00c35a640fbd0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51802569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076576"
 ---
 # <a name="office-activation-errors-on-mac"></a>Mac의 Office 정품 인증 오류
 

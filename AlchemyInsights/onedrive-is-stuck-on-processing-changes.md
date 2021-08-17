@@ -1,5 +1,5 @@
 ---
-title: OneDrive가 변경 내용을 처리 하지 않음
+title: OneDrive 처리가 빨라진 경우
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,15 +13,15 @@ ms.assetid: ''
 ms.custom:
 - "9003089"
 - "5842"
-ms.openlocfilehash: 984d7975e14d4ecfc91b4602470e4341f63d3122
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 603afed979f9b15315fd41e1ab139936ec0bb7a21ad4bcb3a56279a104bc0267
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076063"
 ---
-# <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive가 변경 내용을 처리 하지 않음
+# <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive 처리가 빨라진 경우
 
-OneDrive에 오랫동안 "변경 처리 중"이 표시 되는 경우 온라인 파일을 열거나, 대기열에 파일이 많이 걸려 있거나, 파일을 매우 많이 동기화 했기 때문일 수 있습니다. 읽은 OneDrive는 권장 단계 및 자세한 정보에 대 한  ["변경 처리 중"에 걸려](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) 있습니다.
+이 OneDrive "변경 내용 처리"가 오랫동안 표시될 경우 온라인 파일이 열려 있는 경우, 큐에 많은 파일이 남아 있기 때문에 또는 매우 큰 파일 동기화가 될 수 있습니다. 제안된 OneDrive 자세한 내용은 "변경 내용 [처리"에](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) 대한 자세한 내용을 읽지 않습니다.
 
-추가 도움이 필요한 경우  [OneDrive 지원에 전자 메일을 보낼](https://go.microsoft.com/fwlink/p/?LinkId=528676)수 있습니다.
+추가 도움이 필요한 경우 지원 에 전자 [메일을 OneDrive 있습니다.](https://go.microsoft.com/fwlink/p/?LinkId=528676)

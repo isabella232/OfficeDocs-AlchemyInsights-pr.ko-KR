@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002502"
 - "4868"
-ms.openlocfilehash: c0f823b827980e4ff1a888a121213eabcabb14a9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f0412f2cc310d5c2ee033f9dfca0eafa19ff815d691778bd7ba6030e6c494bdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105008"
 ---
 # <a name="unable-to-change-site-logo"></a>사이트 로고를 변경할 수 없습니다.
 
@@ -25,7 +25,7 @@ Office 365 그룹의 SharePoint 사이트에서 사이트 로고를 변경 하�
 
 - 이 요청을 처리하는 동안 오류가 발생했습니다.
 
-- "그룹 속성 HiddenFromAddressListsEnabled가 true로 설정되어 있는지 또는 주소록 정책이 그룹에 설정되었는지 확인합니다. 설정되어 있지 않으면 나중에 다시 시도하세요."
+- "그룹 속성 HiddenFromAddressListsEnabled가 true로 설정되어 있는지 또는 주소록 정책이 그룹에 설정되어 있는지 확인합니다. 그렇지 않으면 나중에 다시 시도하세요."
 
 - 로드하는 동안 사이트 정보 창이 일시 중지됩니다.
 

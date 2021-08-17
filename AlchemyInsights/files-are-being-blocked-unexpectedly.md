@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9355"
 - "3200002"
-ms.openlocfilehash: b69f53e0a6d7f7dd02ffae01aee903fa0b7934e9
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: 58db07300928ac27fb19d923a9610d92559ef5e11749a145b890d774c5911bb1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50530130"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043581"
 ---
 # <a name="files-are-being-blocked-unexpectedly"></a>파일이 예기치 않게 차단되고 있나요?
 

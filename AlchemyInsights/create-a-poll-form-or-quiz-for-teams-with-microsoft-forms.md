@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001726"
 - "3825"
-ms.openlocfilehash: 0b13aac8deff4da1377dab5e287e7d251053accc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f3f37062e8d4b423786eaa727569205552dd18e34ea605edf09ffe5b12a16b6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816314"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044310"
 ---
 # <a name="create-a-poll-form-or-quiz-for-teams-with-microsoft-forms"></a>Microsoft Forms로 Teams에 대한 설문 조사, 양식 또는 퀴즈 만들기
 

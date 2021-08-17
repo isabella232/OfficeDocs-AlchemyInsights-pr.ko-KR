@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9141"
 - "9005291"
-ms.openlocfilehash: 5b03d188aa78be83928cf262f1d86f3f933c85ab
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: ff965b3f2fd747763185fcf4cd43479b1cd7189ed737005c2aca4a723df135cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50530129"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043662"
 ---
 # <a name="evaluate-your-existing-browser-environment-and-define-goals"></a>기존 브라우저 환경을 평가하고 목표 정의
 

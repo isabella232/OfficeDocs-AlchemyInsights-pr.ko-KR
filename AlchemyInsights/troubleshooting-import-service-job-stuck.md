@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7907"
 - "9003046"
-ms.openlocfilehash: 987383037f843d347477c0becc859c663736a676
-ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
+ms.openlocfilehash: bf07102d01d85eaed8ea95b571a0eabea7c4b7448839294f37e5e30134e04282
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52059847"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105106"
 ---
 # <a name="troubleshooting-import-service-job-stuck"></a>가져오기 서비스 작업 멈춤 문제 해결
 

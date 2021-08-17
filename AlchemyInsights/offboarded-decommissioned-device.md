@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 46ac46c583cd0ac956797737d8150277f0d79ba5
-ms.sourcegitcommit: c685f197dbf83a9dfd85e9acfdf14a4daf0e9a5a
+ms.openlocfilehash: 814301e9cd8197e62dcca68ab3bdde1618d210f73a744b53bb5af7b861eb02bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52319176"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076658"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>장치 인벤토리에서 오프보딩되거나 해제된 장치를 제거하는 데 문제가 있습니다.
 
@@ -26,15 +26,15 @@ ms.locfileid: "52319176"
 
 보안을 위해 장치는 포털에 최대 180일 동안 기록 레코드로 남아 있습니다. 그러나 구성된 보존 기간에 따라 장치 데이터가 제거됩니다.
 
-**참고:** 오프보딩되거나 해제된 장치는 7일  후에 자동으로 비활성 상태로 전환됩니다. 또한 지난 30일 동안 활성화되지 않은 장치는 조직 위협 및 취약성 관리 노출 점수 또는 장치용 Microsoft 보안 점수를 반영하는 데이터에 반영되지 않습니다.
+**참고:** 오프보딩되거나 해제된 장치는 7일  후에 자동으로 비활성 상태로 전환됩니다. 또한 지난 30일 동안 활성화되지 않은 장치는 조직이 노출 점수 또는 장치에 대한 Microsoft 보안 점수를 위협 및 취약성 관리 데이터를 고려하지 않습니다.
  
 여전히 장치 인벤토리 보기에서 특정 장치를 보고 싶지 않은 경우 장치 태그를 배치하여 장치 인벤토리 보기에서 해제된 장치를 필터링해 봐야 합니다.
 
-자세한 내용은 다음을 참조하세요.
+자세한 내용은 다음 항목을 참조하세요.
 
 [Microsoft Defender for Endpoint Service에서 장치 오프보딩](/microsoft-365/security/defender-endpoint/offboard-machines.md)
 
-[위협 및 취약성 관리의 노출 점수](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
+[노출 점수(위협 및 취약성 관리](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
 
 [Endpoint용 Microsoft Defender에서 불안정한 센서 수정](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
 
