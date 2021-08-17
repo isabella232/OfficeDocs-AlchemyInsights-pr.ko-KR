@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001494"
 - "4387"
-ms.openlocfilehash: e4ebb6b826fdd5434ca4188343c9756941da32b3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 63ff26a9a9a397280d9e60d6cff0e6395f5a1c8e59fc1f9aae80925f4e2fdbe4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836573"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054156"
 ---
 # <a name="learn-more-about-microsoft-endpoint-manager"></a>Microsoft 끝점 관리자에 대해 자세히 알아보기
 

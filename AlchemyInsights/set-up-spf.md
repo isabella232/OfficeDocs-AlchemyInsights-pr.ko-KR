@@ -12,12 +12,12 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 2e2a8fbbc979d0079321e68e808eda7c37694995
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 3ae7fecc0d06f3c86c53b1bccf187efa907de6331e0534696edc1b0c80581f31
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544656"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108382"
 ---
 # <a name="set-up-spf"></a>SPF 설정
 

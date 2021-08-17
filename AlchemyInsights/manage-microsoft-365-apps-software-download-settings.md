@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "5733"
-ms.openlocfilehash: 7ca7e8a979acdb09765095f0ae6ab61ef9a43b3c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 479c4fbfb46479af01d9b9dbc4b7a994ab27bc5bd8a8b8751f3dc9d203a60313
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803262"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054048"
 ---
 # <a name="manage-office-installation-options"></a>Office 설치 옵션 관리
 

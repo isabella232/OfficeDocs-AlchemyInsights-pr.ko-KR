@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "3543"
-ms.openlocfilehash: 66590b8a063e74e80bbe3e1e497c596d63a54ece
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3dd0b42558f7543de84f45690596f2829195db9f4972c54ed239add7fe87b37c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054955"
 ---
 # <a name="intune-ios-set-up-apns-certificate"></a>Intune iOS에서 APNS 인증서 설정
 

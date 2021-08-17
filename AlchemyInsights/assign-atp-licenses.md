@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: 517edd98ff30977b50a9634fbc274c77fe36c52eff4dc5c27b24e1d57dc7cc8e
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e50b9f1c388758bfe91652be734661170d36660fc8f30a3bd2d77e189e8bd813
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501750"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888896"
 ---
 # <a name="assign-microsoft-defender-for-office-365-licenses"></a>Microsoft Defender for Office 365 라이선스 할당
 
@@ -33,4 +33,4 @@ Microsoft Defender for Office 365 센터의 사용자에게 할당할 Microsoft 
 5. 앱 **및 서비스 켜기 또는**  끄기를 클릭하여 할당하거나 제거합니다.
 6. **할당을** 클릭하고 를 **닫습니다.**
 
-라이선스를 더 구매하거나 라이선스를 제거하려면 [라이선스 구입 또는 제거](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)를 참조하세요.
+라이선스를 더 구매하거나 라이선스를 제거하려면 [라이선스 구입 또는 제거](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)를 참조하세요.

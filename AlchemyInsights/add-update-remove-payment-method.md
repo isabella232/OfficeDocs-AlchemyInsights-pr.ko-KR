@@ -14,25 +14,25 @@ ms.custom:
 - commerce_billing
 - "9002348"
 - "4574"
-ms.openlocfilehash: 815de782f7e5968135f199960b5c90466b083af208ff087ddd5688539c27b592
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 4115988c9ea6c3e07f4eff260442ee13838086b502e4457073307978c1e3e01b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501174"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889116"
 ---
 # <a name="add-update-or-remove-payment-method"></a>결제 방법 추가, 업데이트 또는 제거하기
 
-**중요**: 은행 계좌로 결제하는 방법은 일부 국가나 지역에서는 사용할 수 없습니다. 자세한 내용은 [구독 결제 방법](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)을 참조하세요. 
+**중요**: 은행 계좌로 결제하는 방법은 일부 국가나 지역에서는 사용할 수 없습니다. 자세한 내용은 [구독 결제 방법](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)을 참조하세요. 
 
 신용 카드나 직불 카드 또는 은행 계좌(자동 이체)를 사용하여 Microsoft의 제품 및 서비스를 구매할 수 있습니다.
 
-- 결제 방법으로 은행 계좌를 추가하려면 [결제 방법 추가하기](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method)를 참조하세요.
+- 결제 방법으로 은행 계좌를 추가하려면 [결제 방법 추가하기](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method)를 참조하세요.
 
-- 은행 계좌에 대한 정보를 업데이트하려면 [결제 방법 세부 정보 업데이트](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details)를 참조하세요.
+- 은행 계좌에 대한 정보를 업데이트하려면 [결제 방법 세부 정보 업데이트](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details)를 참조하세요.
 
-- 결제 방법을 은행 계좌로 변경하거나 은행 계좌에서 변경하려면 [결제 방법 변경](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method)을 참조하세요.
+- 결제 방법을 은행 계좌로 변경하거나 은행 계좌에서 변경하려면 [결제 방법 변경](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method)을 참조하세요.
 
-- 결제 방법으로 사용하는 은행 계좌를 제거하려면 [결제 방법 제거](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method)를 참조하세요.
+- 결제 방법으로 사용하는 은행 계좌를 제거하려면 [결제 방법 제거](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method)를 참조하세요.
 
-자세한 내용은 [결제 수단 관리](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)를 참조하세요.
+자세한 내용은 [결제 수단 관리](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)를 참조하세요.

@@ -14,12 +14,12 @@ ms.custom:
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: 4bfbe6b2dd9a2112f0cb7af0d6e7a46693bc70680895fd674ddb0332b7071797
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d0ef27e7c03eb8bcd9de74c58a5e0398d8892a6eb0ab50944b3c2201247fa0b8
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937107"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889224"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory가 동기화되지 않습니다.
 
@@ -29,8 +29,8 @@ ms.locfileid: "53937107"
 
 1. [최신 버전의 AADConnect를 다운로드합니다.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [익스프레스 설치에 대한 지침을 따릅니다.](/azure/active-directory/hybrid/how-to-connect-install-express)
+2. [익스프레스 설치에 대한 지침을 따릅니다.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
-Azure AD Connect는 Windows Server 2012 이상에 설치해야 합니다. 이 서버는 도메인에 연결되어 있어야 하며 도메인 컨트롤러나 구성원 서버일 수 있습니다. Azure AD 요구 사항 및 커넥트 전체 목록은 [Azure AD](/azure/active-directory/hybrid/how-to-connect-install-prerequisites)커넥트.
+Azure AD Connect는 Windows Server 2012 이상에 설치해야 합니다. 이 서버는 도메인에 연결되어 있어야 하며 도메인 컨트롤러나 구성원 서버일 수 있습니다. Azure AD 요구 사항 및 커넥트 전체 목록은 [Azure AD](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)커넥트.
 
-AADConnect 서비스 계정에 대한 자세한 내용은 [Azure AD Connect:계정 및 사용 권한](/azure/active-directory/hybrid/reference-connect-accounts-permissions)을 참조하세요.
+AADConnect 서비스 계정에 대한 자세한 내용은 [Azure AD Connect:계정 및 사용 권한](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)을 참조하세요.

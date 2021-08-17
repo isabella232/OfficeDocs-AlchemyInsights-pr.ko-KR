@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500005"
 - "5110"
-ms.openlocfilehash: b4a85f63009f66a8273481a092a1b677d5659d10
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 80007315ccb868bb8c001cd21bb7c4ec53bba1d5e3a0106ebef557ede0398a96
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816378"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080824"
 ---
 # <a name="covid-19-invoice-questions"></a>COVID-19 송장 관련 질문
 

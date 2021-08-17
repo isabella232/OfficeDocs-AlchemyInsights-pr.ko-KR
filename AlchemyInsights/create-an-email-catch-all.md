@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 2b9131a620139a93ddb844fd49d8fa2ed68e52c2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0d20f7bcffa3be43fc6186a938bf4a7338722f5cd225b860da6357398db26a69
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816206"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080752"
 ---
 # <a name="create-an-email-catch-all"></a>전자 메일 catch 모두 만들기
 

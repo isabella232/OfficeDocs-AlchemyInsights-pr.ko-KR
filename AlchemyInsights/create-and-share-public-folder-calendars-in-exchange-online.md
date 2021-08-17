@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "634"
 - "3500007"
-ms.openlocfilehash: d8b28d373db21da42b90aeef75139affd802a5d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ea393011d270fb342d09107f097fcfe685c67833d5a7106bf46b3c7fab0e352
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712645"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080536"
 ---
 # <a name="create-and-share-public-folder-calendars-in-exchange-online"></a>Exchange Online에서 공용 폴더 캘린더를 만들고 공유합니다.
 

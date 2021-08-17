@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: be0086b8c2e1907d28e81227b82ade09fc46c1ed4749a50ac0c776eb431ece56
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937755"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889320"
 ---
 # <a name="activate-your-subscription"></a>구독 활성화
 
 **구독 활성화**
 
-- 사용자에게 서비스에 대한 액세스 권한을 부여하려면 라이선스를 할당하세요. 자세한 방법은 [사용자에게 라이선스 할당](/microsoft-365/admin/manage/assign-licenses-to-users)을 참조하세요.
+- 사용자에게 서비스에 대한 액세스 권한을 부여하려면 라이선스를 할당하세요. 자세한 방법은 [사용자에게 라이선스 할당](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)을 참조하세요.
 - 이미 라이선스가 할당되어 있으면 [내 계정 페이지](https://portal.office.com/account/#installs)에서 다운로드 가능한 응용 프로그램을 찾을 수 있습니다. 이 페이지에는 할당된 라이선스를 기준으로 다운로드할 수 있는 응용 프로그램 목록이 표시됩니다.
-- Office 응용 프로그램을 이미 다운로드한 경우에는 회사 또는 학교 계정을 사용하여 응용 프로그램에 로그인해야 할 수도 있습니다. 모든 Office 응용 프로그램(Word, Excel 등)에서 **파일 > 계정**(아래쪽 근처)을 선택하여 이 작업을 수행할 수 있습니다. 사용자 정보에서 **계정 전환** 을 선택합니다. 자세한 내용은 [Office 응용 프로그램 설치하기](/microsoft-365/admin/setup/install-applications)를 참조하세요.
+- Office 응용 프로그램을 이미 다운로드한 경우에는 회사 또는 학교 계정을 사용하여 응용 프로그램에 로그인해야 할 수도 있습니다. 모든 Office 응용 프로그램(Word, Excel 등)에서 **파일 > 계정**(아래쪽 근처)을 선택하여 이 작업을 수행할 수 있습니다. 사용자 정보에서 **계정 전환** 을 선택합니다. 자세한 내용은 [Office 응용 프로그램 설치하기](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)를 참조하세요.
 
 **구독 다시 활성화**
 
@@ -36,9 +36,9 @@ ms.locfileid: "53937755"
 3. **이 구독 다시 활성화** 창의 드롭다운 목록에서 결제 방법을 선택하거나 **결제 방법 추가** 를 선택합니다.
 4. **저장** 을 선택합니다.
 
-자세한 정보는 [구독 다시 활성화](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)를 참조하세요.
+자세한 정보는 [구독 다시 활성화](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)를 참조하세요.
 
 **제품 키로 새 구독 활성화**
 
 - 제품 키를 사용하여 새 Microsoft 365 구독을 정품 인증하려면 [Office 제품 키를 입력하는 위치](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)를 참조합니다.
-- Microsoft 365 제품 키를 입력하고 화면의 지시에 따라 구독을 활성화합니다. 활성화하는 데 문제가 있으면 [일반적인 제품 키 오류 및 해결 방법](/microsoft-365/commerce/product-key-errors-and-solutions) 목록을 확인하세요.
+- Microsoft 365 제품 키를 입력하고 화면의 지시에 따라 구독을 활성화합니다. 활성화하는 데 문제가 있으면 [일반적인 제품 키 오류 및 해결 방법](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions) 목록을 확인하세요.
