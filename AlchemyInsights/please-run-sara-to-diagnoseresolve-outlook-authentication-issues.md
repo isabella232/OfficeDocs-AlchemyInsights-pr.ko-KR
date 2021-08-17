@@ -1,5 +1,5 @@
 ---
-title: 182 SaRA를 실행 하 여 Outlook 인증 문제를 진단 하 고 해결 하십시오.
+title: 182 인증 SaRA 진단하고 해결하도록 Outlook 실행합니다.
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: aa1e831eac829f3bd35f34e2fbe34923c5af0d3a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 461424e2c5726deb3a63e6588d1043278d4835e4b2d891e9a5413d54bc445a72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802027"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040711"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>SaRA를 사용하여 Outlook 인증 문제 진단 및 해결
 
-**참고**: 조직에 대해 [보안 기본값](https://aka.ms/securitydefaults) 을 사용할 수 있는지 여부를 확인 하세요. 테 넌 트를 10 월 21 2019 일 이후에 만든 경우 Outlook에서 암호를 입력 하 라는 메시지가 반복적으로 발생 하는 경우 테 넌 트에서 **보안 기본값** 을 사용 하도록 설정 했을 수 있습니다.
+**참고:** 조직에 보안 기본값이 [설정되어](https://aka.ms/securitydefaults) 있는지 확인합니다. 2019년 10월 21일 이후에 테넌트가 만들어지며 Outlook 암호를 반복적으로 요청하는  경우 테넌트에서 보안 기본값을 사용하도록 설정한 것일 수 있습니다.
 
-Outlook을 사용 하 여 영향을 받는 컴퓨터에서 [암호 진단을 요청](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) 하는 것이 좋습니다. 이 [SaRA](https://diagnostics.office.com/#/) 진단은 자동 검사를 수행 하 고 검색 된 문제를 해결 하는 데 사용할 수 있는 가능한 솔루션을 반환 합니다.
+계속해서 암호를 묻는 Outlook 영향을 받는 컴퓨터의 암호 진단을 계속 요청하는 Outlook 좋습니다. [](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) 이 [SaRA](https://diagnostics.office.com/#/) 진단은 자동화된 검사를 통해 감지된 문제를 해결하기 위해 사용할 수 있는 해결 방법을 반환합니다.

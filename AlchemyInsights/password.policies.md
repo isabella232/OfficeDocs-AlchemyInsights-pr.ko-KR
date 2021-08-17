@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "9277"
-ms.openlocfilehash: 826e266d08aa68c0d4213d8058a0244f404fe965
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 12751288d04a2ec5993bf4a546b7d0c862f8f171f5bfd7a337cb79cb95792056
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50718205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040836"
 ---
 # <a name="password-policies"></a>암호 정책
 

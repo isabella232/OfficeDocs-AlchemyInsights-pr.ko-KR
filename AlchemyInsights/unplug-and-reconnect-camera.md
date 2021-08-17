@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 9c733c69b1430c9a5439caf99cf8f6fddff60ef5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 48b63bab69eac91942fc1b0f3fe63f6d004992bb49757de8df6e3bdcf9d447d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827726"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073750"
 ---
 # <a name="unplug-and-reconnect-camera"></a>카메라 언플러 및 다시 연결
 

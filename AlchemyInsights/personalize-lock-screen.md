@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9787"
 - "9005401"
-ms.openlocfilehash: 8b68237078cbc04f99e5612711d732b798bec16b
-ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
+ms.openlocfilehash: a2bf0027c094f8ca603eb47ac49d41f0e677c68ff8ee4711306d037bf826255c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52702365"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040712"
 ---
 # <a name="personalize-your-lock-screen-in-windows-10"></a>Windows 10에서 잠금 화면 개인 설정
 

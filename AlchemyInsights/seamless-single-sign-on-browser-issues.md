@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 507dc5a3bdc5f1bc27cf12865daf98df6c702827
-ms.sourcegitcommit: f835aa80f2d85e9c0549be9395110377dba50f3d
+ms.openlocfilehash: f8617c15072f70778f7f4b151e75ffce4749f89ffa2b4d91730937c26aaeabbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50530822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074290"
 ---
 # <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>원활한 SSO(Single Sign-On) 브라우저 문제 해결
 
@@ -31,10 +31,10 @@ ms.locfileid: "50530822"
 
 - Seamless SSO는 Firefox의 개인 검색 모드에서 작동하지 않습니다.
 - 고급 보호 모드가 켜져 있는 Internet Explorer 원활한 SSO가 작동하지 않습니다.
-- Seamless SSO는 Microsoft Edge(레거시)의 비공개 검색 모드에서 작동하지 않습니다.
+- 원활한 SSO는 레거시(레거시)의 개인 검색 모드에서 Microsoft Edge 않습니다.
 - Seamless SSO는 iOS 및 Android의 모바일 브라우저에서 작동하지 않습니다.
 
-Seamless SSO는 Chromium을 기반으로 하는 다음 버전의 Microsoft Edge를 지원하며, InPrivate 및 게스트 모드에서는 디자인에 따라 작동합니다.
+Seamless SSO는 설치를 기반으로 Microsoft Edge 다음 버전의 Chromium InPrivate 및 게스트 모드에서 디자인에 따라 작동합니다.
 
 **권고**
 

@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: dab7eacb617c8f3a8bd63634e974166b6e448d75
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: ad743cea4b8735b35b90bd5bf3d0b5b933184ed82858e828a68beb2ca2f8270c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464875"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103558"
 ---
 # <a name="block-user-made-email-signatures"></a>사용자가 만든 전자 메일 서명 차단
 
-다음 솔루션은 웹용 Outlook에서 만든 전자 메일 서명에만 적용됩니다. Outlook 앱의 서명을 차단할 수 있는 것은 Outlook 앱의 프레미스 앱이 있는 Exchange Server.
+다음 솔루션은 해당 솔루션에서 만든 전자 메일 서명에만 웹용 Outlook. Outlook 있는 경우 Outlook 앱에서 서명을 차단할 수 Exchange Server.
 
-1. 관리 센터에서 관리 센터 Exchange **를**  >  **선택 합니다.**
+1. In the admin center, choose **Admin centers**  >  **Exchange.**
 2. 정책에 **대한**  >  **Outlook Web App 클릭합니다.**
 3. 정책을 선택한 다음 연필 아이콘을 클릭하여 편집합니다.
 4. 기능 **추가 옵션**  >  **을 클릭합니다.**

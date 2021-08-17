@@ -1,5 +1,5 @@
 ---
-title: 데이터 저장소 위치 변경 Microsoft Defender ATP
+title: Microsoft Defender ATP의 데이터 저장소 위치 변경
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001222"
 - "6032"
-ms.openlocfilehash: b01e113bd8c8387009f6f7b857c3a8bf977ec4fd
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 098253c12e0d0bf03f1c50af66a7a84635f699218ca734e53965bcfd55edb930
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543115"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103594"
 ---
-# <a name="change-data-storage-location-for-microsoft-defender-atp"></a>데이터 저장소 위치 변경 Microsoft Defender ATP
+# <a name="change-data-storage-location-for-microsoft-defender-atp"></a>Microsoft Defender ATP의 데이터 저장소 위치 변경
 
-Microsoft에서 사용하는 데이터 저장소 위치를 Microsoft Defender ATP Microsoft에서 지원 사례를 여는 것이 좋습니다.
+Microsoft Defender ATP에서 사용하는 데이터 저장소 위치를 변경하기 위해 Microsoft에서 지원 사례를 여는 것이 좋습니다.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: eb6bec37afc8702ec76dec5868c68f26e7c8b2633214a5c3f9776d7bb555bf64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ca9dd54a7ba8007da5f78b7c4fd8b2e0cfff6d5f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071482"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303835"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>구독을 Microsoft 365 취소하나요?
 
@@ -30,7 +30,6 @@ ms.locfileid: "54071482"
 
 **환불: 다음 청구 주기 내에 비분정 크레딧이 반환됩니다.**
 
-> [!NOTE]
-> 취소 옵션이 없는 경우 구독을 선택하여 세부 정보 페이지를 봐야 합니다. 구독 **및 결제 설정 섹션에서** 구독 **취소를 선택합니다.**
+**참고:** 취소 옵션이 없는 경우 구독을 선택하여 세부 정보 페이지를 봐야 합니다. 구독 **및 결제 설정 섹션에서** 구독 **취소를 선택합니다.**
 
-자세한 내용은 구독 [취소를 참조하세요.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+자세한 내용은 구독 [취소를 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

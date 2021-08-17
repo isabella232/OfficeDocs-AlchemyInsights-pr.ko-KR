@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5078"
-ms.openlocfilehash: 4f5756932509b0b0554dbf33c268745c01fad548
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d9400a1dc52f1eecde925a31d13ec49c3eaeaa506e02d42a15c643259609ea24
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819662"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103666"
 ---
 # <a name="cancel-subscription-from-partner"></a>파트너 구독 취소
 

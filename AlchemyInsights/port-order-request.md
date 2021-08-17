@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4554"
-ms.openlocfilehash: e624d24718f4b5dac833454775c5f7c626719f90
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3e76aa101ab5f6429b7854c4d3bfbbec92b6cc8cc53373f7c465ddf5320b3ba1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51801309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040656"
 ---
 # <a name="port-order-request"></a>주문 요청 전송
 
