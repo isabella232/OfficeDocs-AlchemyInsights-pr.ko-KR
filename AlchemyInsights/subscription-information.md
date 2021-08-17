@@ -16,12 +16,12 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 7a9f09f559f070759261b261cc52c04af2cd9007
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 9ea0d1b5eaafbd177badd78b86405ab272997ccaf527fea2df739cc98ce1a9f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53680412"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049944"
 ---
 # <a name="subscription-information"></a>구독 정보
 

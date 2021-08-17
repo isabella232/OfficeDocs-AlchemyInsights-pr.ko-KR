@@ -13,16 +13,16 @@ ms.assetid: 858c2f23-bcf5-42e4-92c5-8749eed29dfb
 ms.custom:
 - "835"
 - "2000020"
-ms.openlocfilehash: 42b275309ff7a63899bc03898dd29884fd797a4c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2229ccac30b1bddb943a5fb9a944167895a41129608326ced437231166920610
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050052"
 ---
 # <a name="solutions-for-error-30179-25"></a>오류 30179-25에 대한 해결 방법
 
-"Office를 스트리밍할 수 없습니다."(오류 코드 [30179-25)](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)메시지에 오류가 표시될 수 있습니다( 하드 드라이브의 공간이 너무 희미해진 경우).
+하드 드라이브의 공간이 0이면 "스트림을 스트리밍할 수 Office"(오류 코드 [30179-25)라는](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)메시지가 표시될 수 있습니다.
   
-[하드 드라이브에 공간을 비우고](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) [Office를 다시 설치합니다.](https://portal.office.com/OLS/MySoftware.aspx)
+[하드 드라이브에 공간을 비우고](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) 를 다시 [Office.](https://portal.office.com/OLS/MySoftware.aspx)
   

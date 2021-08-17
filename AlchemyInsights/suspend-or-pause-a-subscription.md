@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: ae36b1500e48e9a12547daa27d5b1d035d8b2ba5
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 565578622249269604c8dcb1ec10b1f1036e17673e26bd0eb15a38d323aa28bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687720"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107023"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>구독 일시 중단 또는 일시 중지
 
