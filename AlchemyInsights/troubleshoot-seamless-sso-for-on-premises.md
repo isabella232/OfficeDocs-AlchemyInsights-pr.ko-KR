@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9370"
 - "9004357"
-ms.openlocfilehash: a8d14b12bfb3b02da0468eee70af26344465a2a2
-ms.sourcegitcommit: 3fb39a080cc8680d960b8468ac9355389a3e2df4
+ms.openlocfilehash: c4f46306c153c8b1598329479474895ec1ac292e07f9bc61323a90d708f34885
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50753446"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105522"
 ---
 # <a name="troubleshoot-seamless-single-sign-on-sso-for-on-premises"></a>온-프레미스용 원활한 SSO(Single Sign-On) 문제 해결
 
@@ -34,7 +34,7 @@ ms.locfileid: "50753446"
 
 **권고**
 
-- [Azure Active Directory 원활한 Single Sign-On: 질문과 대답](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq) - 이 문서에서는 Azure Active Directory 원활한 Single Sign-On(원활한 SSO)에 대한 질문과 대답을 제공합니다. 새로운 콘텐츠가 있는지 지속적으로 다시 확인하세요.
+- [Azure Active Directory 원활한 Single Sign-On: 질문과 대답](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq) - 이 문서에서는 Azure Active Directory 원활한 Single Sign-On(원활한 SSO)에 대한 질문과 대답을 제공합니다. 새 콘텐츠를 계속 다시 확인하세요.
 - [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) - 원활한 SSO에 대한 기능 요청이나 기술적 질문을 하는 방법에 대한 정보를 제공합니다.
 
 **문제 해결**

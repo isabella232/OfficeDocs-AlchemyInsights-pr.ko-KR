@@ -1,5 +1,5 @@
 ---
-title: 팀에서 전화 번호로 통화
+title: 2016년 8월 1일부로 전화 Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6661"
 - "9003561"
-ms.openlocfilehash: 2ee43145f8ff5e23a02167a3d758b24153878374
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 75b5d22db01020281697f38d0b7f021f8a280c3389a9e61e1b69d9b002cb8d6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334204"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046038"
 ---
-# <a name="call-a-phone-number-in-teams"></a>팀에서 전화 번호로 통화
+# <a name="call-a-phone-number-in-teams"></a>2016년 8월 1일부로 전화 Teams
 
-**통화**를 진행 하 고 **전화 번호**를 선택 하 고 다이얼 패드를 사용 하 여 번호를 입력 합니다. **통화**를 클릭 합니다.
+통화로  **이동하여** 번호로 전화를  **걸기를 선택하고** 다이얼 패드를 사용하여 번호를 입력합니다. 그런 다음 **통화를 클릭합니다.**
 
-전화를 걸 수 있는 옵션이 표시 되지 않으면 조직에서 통화 요금제를 구입 하지 않은 것일 수 있습니다. 그러나 팀에서 다른 사용자에 게 전화를 걸 수 있습니다.  
+번호로 전화를 걸 수 있는 옵션이 없는 경우, 해당 사용자가 통화 플랜을 구매하지 않은 것일 수 있습니다. 그러나 여전히 다른 사용자와 통화할 수 Teams.  
 
-자세한 내용은 [팀에서 전화 번호 호출](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078)을 참고 하십시오.
+자세한 내용은 에서 전화 [번호로 Teams.](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078)

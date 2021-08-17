@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9406"
 - "9004341"
-ms.openlocfilehash: 3bc8b2e751395b8a099fb5079ad40c5c93222e0e
-ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
+ms.openlocfilehash: 290e740ccd7f3beac5b77e63c32c5b18c295070e6002dcdde44ce4a93f4330f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50529275"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105682"
 ---
 # <a name="troubleshoot-saml-signing-certificate-issues"></a>SAML 서명 인증서 문제 해결
 

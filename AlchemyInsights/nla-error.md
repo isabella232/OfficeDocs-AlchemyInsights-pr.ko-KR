@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9032"
 - "9005217"
-ms.openlocfilehash: fde9896c58312ee8823a5f911bed3102ccec2495
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 23f520bb1bc2ebce0a7813adde7dccab70bde0db3369f018c9d2db6f57b74798
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077188"
 ---
 # <a name="nla-error"></a>NLA 오류
 

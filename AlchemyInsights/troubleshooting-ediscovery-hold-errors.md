@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11274"
 - "3200003"
-ms.openlocfilehash: 1df2b7153cac99419adc4f72b1c3732e7c746eac
-ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
+ms.openlocfilehash: 2a7372c7b20b87c8c774eae4ca4540a3bd19709596405da041eeaa24db310fa7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2021
-ms.locfileid: "52583756"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105394"
 ---
 # <a name="troubleshooting-ediscovery-holds-errors"></a> eDiscovery 보류 오류 문제 해결
 

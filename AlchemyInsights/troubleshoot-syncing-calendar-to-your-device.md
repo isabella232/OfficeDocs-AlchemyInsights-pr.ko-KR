@@ -1,5 +1,5 @@
 ---
-title: 3800017 장치에서 일정 동기화 문제 해결
+title: 3800017 일정 동기화 문제 해결
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "619"
 - "3800017"
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
-ms.openlocfilehash: 271c2161868b43aa7f8b18bb9bbad967b121125e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fbc597db13fb513930d141f8bfc7bfc8f7a52de6edfb12bf7db64a46e3cbdaa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664788"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105521"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>장치와 일정 동기화 문제 해결
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>디바이스에 일정 동기화 문제 해결
 
-모바일 전자 메일을 처음 설정 하는 동안 동기화 문제가 발생 한 경우에는 [내 전화나 태블릿에 일정 및 연락처를 동기화 할 수 없습니다](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).를 참조 하세요.
+모바일 전자 메일을 처음 설정하는 동안 동기화 문제가 있는 경우 내 휴대폰 또는 태블릿과 일정 및 연락처를 동기화할 [수 없습니다.를 참조하세요.](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)
   
