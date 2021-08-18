@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007063"
 - "11926"
-ms.openlocfilehash: 3db3546bdcbb9737cbdff187b618c51e971035d395ca5cae8195bbc0e360b313
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c89319420e00ff2de8384baaa01469819eab4df7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889976"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318690"
 ---
 # <a name="deploy-sharepoint-in-microsoft-365"></a>배포 SharePoint 배포 Microsoft 365
 

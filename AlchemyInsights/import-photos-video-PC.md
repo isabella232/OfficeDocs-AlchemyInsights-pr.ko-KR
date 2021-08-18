@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9822"
 - "9005408"
-ms.openlocfilehash: 59765fbdf1716455d8ba3df7a62540ab1982570f
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 8d593c8a7299dec6b9c8668d19f5924b16e34f83fb64e82190dcf4d2666fecb6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898080"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115546"
 ---
 # <a name="import-photos-and-videos-to-your-pc"></a>PC로 사진 및 비디오 가져오기
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 4b3035444966e89d32c4375482a155ae85bff240
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a135d20c4f6c6c387c57a5b3007048e33fcc4cf3af0a6d12cad91b62d53463c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464881"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090962"
 ---
 # <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>디렉터리 동기화를 통해 사용자를 Office 365에 프로비전하기 위한 준비
 
@@ -29,7 +29,7 @@ ms.locfileid: "50464881"
 1. **디렉터리 개체 및 특성 준비**.
 1. **UPN 특성 준비**.
 1. **AD DS에** 대체 UPN 접미사 선택적 추가
-1. **Office 365 UPNS와** 프레미스 UPNS를 일치합니다.
+1. **프레미스 UPNS와 Office 365 일치합니다.**
 1. **디렉터리 통합 도구**.
 
-각 준비 단계에 대한 자세한 내용은 [Office 365에](https://aka.ms/office365assistantprovisionuserstooffice365)디렉터리 동기화를 통해 사용자를 프로비전하기 위한 준비 문서를 참조하세요.
+각 준비 단계에 대한 자세한 내용은 [Prepare to provision users through directory synchronization to Office 365 문서를 참조하십시오.](https://aka.ms/office365assistantprovisionuserstooffice365)

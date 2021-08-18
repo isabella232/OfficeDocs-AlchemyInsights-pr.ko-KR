@@ -16,12 +16,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 88b80e69ec898bcf195633f3170d906c67bf8ab072ea2987364d32f750b74462
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5d5a82afa849b7de7750ec997da007cd89763696
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887542"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318482"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>구독을 다시 활성화하고 재발생 청구를 관리하는 방법
 

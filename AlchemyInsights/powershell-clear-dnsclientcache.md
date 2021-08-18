@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12458"
 - "9007450"
-ms.openlocfilehash: 0c4a970a0077b3342b6bbe4895c2b062dd9a193d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 1d8e2ca98fbda90c3d20e97fbffaf6f1b5ab1096e989e6faf62a1ecd95b1ce9b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58315518"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902006"
 ---
 # <a name="powershell-clear-dnsclientcache-cmdlet"></a>PowerShell Clear-DnsClientCache cmdlet
 

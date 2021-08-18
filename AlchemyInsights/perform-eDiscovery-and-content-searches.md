@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317482"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902050"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>콘텐츠 검색 및 eDiscovery 검색을 수행하는 방법
 
@@ -31,7 +31,8 @@ ms.locfileid: "58317482"
 4. 키워드 및 콘텐츠 위치를 포함하여 필요한 검색 조건을 입력합니다.
 5. 저장을 **&** 실행을 선택하여 검색 이름을 지정하고, 검색을 시작한 다음 결과를 미리 에 저장합니다.
 
-**참고:** **Microsoft 365** 센터 솔루션에서  >   **eDiscovery를** 확장하고 원하는 eDiscovery 도구를 선택합니다.
+> [!NOTE]
+> 준수 **Microsoft 365**  >  **솔루션에서** **eDiscovery를** 확장하고 원하는 eDiscovery 도구를 선택합니다.
 
 콘텐츠 검색, 결과 내보내기 및 데이터를 보유할 eDiscovery 사례 만들기에 대한 자세한 내용은 [콘텐츠](https://docs.microsoft.com/microsoft-365/compliance/content-search) 검색 및 [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)사례를 참조하세요.
 

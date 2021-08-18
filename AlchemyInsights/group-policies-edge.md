@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006493"
 - "11109"
-ms.openlocfilehash: 3bb3e7756cade296671d679b0ad7babe3051d418
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 6ac4d32f6a8e90165db3f346d929594cc1f5db00b9f39ab9744ff1e017c58af1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58295877"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901698"
 ---
 # <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>다음에서 사용할 수 있는 업데이트 관련 그룹 정책 Microsoft Edge
 

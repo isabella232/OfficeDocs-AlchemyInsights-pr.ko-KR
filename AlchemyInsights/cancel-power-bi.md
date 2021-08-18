@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 9587793d60f9394721e192f5eb32e7cc9ecd1d43c77e970207a817cb30b5d799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045893"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318956"
 ---
 # <a name="cancel-power-bi"></a>취소 Power BI
 
@@ -33,7 +33,6 @@ Power BI 취소할 수 Microsoft 365 관리 센터.
 
 **환불: 다음 청구 주기 내에 비분정 크레딧이 반환됩니다.**
 
-> [!NOTE]
-> 취소 옵션이 없는 경우 구독을 선택하여 세부 정보 페이지를 봐야 합니다. 구독 **및 결제 설정 섹션에서** 구독 **취소를 선택합니다.**
+**참고:** 취소 옵션이 없는 경우 구독을 선택하여 세부 정보 페이지를 봐야 합니다. 구독 **및 결제 설정 섹션에서** 구독 **취소를 선택합니다.**
 
-자세한 내용은 구독 [취소를 참조하세요.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+자세한 내용은 구독 [취소를 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

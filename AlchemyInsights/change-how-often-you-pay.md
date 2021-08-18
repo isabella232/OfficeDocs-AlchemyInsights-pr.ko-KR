@@ -17,12 +17,12 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: 888bac8b4ff8cf5c0ad7616cf4e87c0003e922ae89f9faf7872b94aba76f7027
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b42fe2e660b83d40737855ff84d313c6b7df1860
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891573"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318910"
 ---
 # <a name="change-how-often-you-pay"></a>결제 방법 변경
 
@@ -33,7 +33,6 @@ ms.locfileid: "57891573"
 3. 구독 세부 정보 페이지의 구독 및 결제 설정 **섹션에서** 청구 주기 **편집을 선택합니다.**
 4. 청구 **주기 편집** 창에서 청구 빈도에 대한 옵션을 선택한 다음 변경을 **선택합니다.**
 
-> [!NOTE]
-> 월별 또는 연간 청구만 가능합니다.
+**참고:** 월별 또는 연간 청구만 가능합니다.
 
 자세한 내용은 [청구 주기 변경](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)을 참조하세요.

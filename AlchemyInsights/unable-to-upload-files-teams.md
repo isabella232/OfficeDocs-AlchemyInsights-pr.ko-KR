@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10803"
 - "9003042"
-ms.openlocfilehash: 53edcba2ba628e86128f86efbc17c67398872cdc
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 63a3d57bd78476ffc4009bf90d42e8e7c57a220eb2e181f34c4b7833552c66cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505907"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091760"
 ---
 # <a name="unable-to-upload-files-to-teams-chat"></a>Teams 채팅에 파일을 업로드할 수 없음
 

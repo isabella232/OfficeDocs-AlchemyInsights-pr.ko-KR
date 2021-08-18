@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10103"
 - "9005694"
-ms.openlocfilehash: 4288df86055912590d23eec8f68969d21ee5895e
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: 776c457607a44bf689a200f4fbbc9cb33cfd9276c29891459ffb4d8a77a3c266
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115618"
 ---
 # <a name="i-have-a-damaged-microsoft-accessory"></a>손상된 Microsoft 액세서리가 있는 경우
 

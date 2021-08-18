@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 9acb8cc687b7ff4bedaad6c30a9830efbb65d9199a794d844fe040628451ef8c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b18863fe1f85d6619f8a07b7e6801f390c6b827c9c445f68117c6d3497550931
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894333"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091002"
 ---
 # <a name="more-resources-on-alert-policies"></a>경고 정책에 대한 추가 리소스
 
 자세한 내용은 다음 문서를 참조하십시오.
 
-[Microsoft 365의 알림 정책](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)
+[보안 및 준수 센터의 경고 정책](https://go.microsoft.com/fwlink/?linkid=2103211)

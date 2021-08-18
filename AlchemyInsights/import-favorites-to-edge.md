@@ -15,12 +15,12 @@ ms.custom:
 - "11023"
 - "9005491"
 - "9006474"
-ms.openlocfilehash: a4636532111248d91a2e2b3d52fcc2e896aa7cd5
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: 72e73cf4ff806b1aaedd231a85074492885aae0eb41a33e4a2906cf15fda877a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470264"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115582"
 ---
 # <a name="import-favorites-from-google-chrome-or-mozilla-firefox-to-microsoft-edge"></a>Google Chrome 또는 Mozilla Firefox에서 Microsoft Edge로 즐겨찾기 가져오기
 

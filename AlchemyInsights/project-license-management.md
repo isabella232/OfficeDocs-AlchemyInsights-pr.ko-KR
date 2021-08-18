@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002424"
 - "5105"
-ms.openlocfilehash: 8b787e3229e7e1c457d1afb2809b55fa762083cc
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ba02d35b3983e3734167d2603d3ebe45686f2ba960c88e8dd989289af4c54d08
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318166"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901886"
 ---
 # <a name="project-license-management"></a>Project 라이선스 관리
 

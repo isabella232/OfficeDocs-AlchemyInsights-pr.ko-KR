@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9449"
 - "9005491"
-ms.openlocfilehash: 23a4f21c960f1809b66f631d34efec3c1e87ec20
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.openlocfilehash: 9748ffa06ed4d5911a73c4fd512957ca132cb9dbcba4c666e263d332a50ac727
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51441172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115690"
 ---
 # <a name="import-favorites-from-internet-explorer-to-microsoft-edge"></a>Internet Explorer에서 Microsoft Edge로 즐겨찾기 가져오기
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002325"
 - "4514"
-ms.openlocfilehash: 3b8ef531dbaef257c8ad1d7588173d70f6eb3272
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9ffe1268d6ff51f9a187e8d4c9ed72169f03dbc120b4c89e852af2ff64195a04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090778"
 ---
 # <a name="common-password-issues-and-resolutions"></a>일반적인 암호 문제 및 해결 방법
 

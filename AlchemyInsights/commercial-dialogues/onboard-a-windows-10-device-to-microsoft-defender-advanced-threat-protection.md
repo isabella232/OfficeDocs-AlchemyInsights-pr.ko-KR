@@ -1,5 +1,5 @@
 ---
-title: MDATP(Microsoft Defender Advanced Threat Protection)에 Windows 10 장치 온보딩
+title: MDATP(Windows 10 Advanced Threat Protection)에 장치 온보딩
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 51e6e2c1504002af5408d678399fdd1d691ae096
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 133ff4256c007600857d16d60bf494ea314c8d874c02d3afcbc3ff1a29b9c802
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736529"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091090"
 ---
-# <a name="onboard-a-windows-10-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>MDATP(Microsoft Defender Advanced Threat Protection)에 Windows 10 장치 온보딩
+# <a name="onboard-a-windows-10-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>MDATP(Windows 10 Advanced Threat Protection)에 장치 온보딩
 
-MDATP는 Windows 10에 대해 다음과 같은 배포 도구 및 방법을 지원합니다.
+MDATP는 다음과 같은 배포 도구 및 방법을 Windows 10.
 
 - 그룹 정책
 - Microsoft Endpoint Configuration Manager
-- Microsoft Intune을 포함한 모바일 장치 관리
+- 모바일 장치 관리를 비롯한 Microsoft Intune
 - 로컬 스크립트
 
-자세한 내용은 Windows 10 장치용 [온보더링 도구 및 방법을 참조합니다.](https://go.microsoft.com/fwlink/?linkid=2143460)
+자세한 내용은 장치용 [온보더링 도구 및 Windows 10 참조합니다.](https://go.microsoft.com/fwlink/?linkid=2143460)
