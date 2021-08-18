@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "4567"
-ms.openlocfilehash: 207713f9d3b9a18cd8d240fed06355bda14652d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3122fad95953cc0d75e5440dff415cc20ec496d45e94d13d6102d6f5659b332c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51787251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086062"
 ---
 # <a name="set-up-or-troubleshoot-cloud-voicemail"></a>클라우드 음성 사서함 설정 또는 문제 해결
 

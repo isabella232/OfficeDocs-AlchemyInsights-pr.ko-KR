@@ -15,12 +15,12 @@ ms.custom:
 - "6933"
 - "11940"
 - "9007101"
-ms.openlocfilehash: a1d127003cb0332600b09fce9e640c2050b3d1d3
-ms.sourcegitcommit: a9eb1cb42da49898cc211557193ca61a00499084
+ms.openlocfilehash: c7d13ac6a84dc95477b18bc460a98134b02efd6bae0096fe2038da13b5e3a07d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53255897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086890"
 ---
 # <a name="pdf-reader-in-microsoft-edge"></a>PDF 읽기 Microsoft Edge
 

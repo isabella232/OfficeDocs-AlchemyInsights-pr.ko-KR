@@ -16,12 +16,12 @@ ms.custom:
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.date: 04/21/2020
-ms.openlocfilehash: 373d517c29a98bb035e8b0785f9d9889b37734d80fa6113de34544d49f08cdf1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4fd484d890f08e4a85a23993655f46a0fea26926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937719"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315374"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Microsoft 볼륨 라이선스 구독 활성화
 
@@ -31,5 +31,5 @@ ms.locfileid: "53937719"
 4. 정품 인증 전자 메일은 등록 또는 로그인의 두 가지 옵션을 **제공합니다.** 이전에 평가판을 만든 경우 로그인 **을 선택 합니다.** 아직 테넌트가 없는 Microsoft 365 등록 **을 선택해 을(를) 선택해야 하는 것입니다.**
 5. 기존 관리자 자격 증명을 Microsoft 365 관리 센터 [https://admin.microsoft.com](https://admin.microsoft.com) ()에 로그인합니다. 로그인하면 구매를 확인하는 다른 전자 메일이 수신됩니다.
 6. 로그인한 후 청구 제품 페이지로  이동하여 구매한 구독이 현재 활성 \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) 상태인지 확인하십시오. 
-    > [!NOTE]
-    > VLSC에서 **구독** 탭을 선택하면 구독이 활성화되어 있는지 확인하는 세부 정보를 볼 수도 있습니다.
+
+    **참고:** VLSC에서 **구독** 탭을 선택하면 구독이 활성화되어 있는지 확인하는 세부 정보를 볼 수도 있습니다.

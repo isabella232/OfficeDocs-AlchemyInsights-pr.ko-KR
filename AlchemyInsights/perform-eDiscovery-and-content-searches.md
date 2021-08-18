@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: 678f61d88879e5ecf7ccb23414d79cba66dc3c218ab0caed3d2957d863e0596b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630219"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086818"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>콘텐츠 검색 및 eDiscovery 검색을 수행하는 방법
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c8aa49e299697abbd0e35d7762d8723570fc366
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004268"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315590"
 ---
 # <a name="download-usage-data"></a>사용 현황 데이터 다운로드
 
@@ -26,8 +26,7 @@ Azure 엔터프라이즈 계약과 연결된 구독을 선택했습니다.
 
 EA(Azure) Enterprise 사용 현황 데이터를 보고 다운로드하려면 다음 단계를 수행합니다.
 
-> [!NOTE]
-> 요금 보기 정책을 사용하도록 설정한 엔터프라이즈 관리자, 계정 소유자 또는 부서 관리자 되어야 합니다. 
+**참고:** 요금 보기 정책을 사용하도록 설정한 엔터프라이즈 관리자, 계정 소유자 또는 부서 관리자 되어야 합니다. 
 
 1. Azure Portal에 로그인하고 비용 관리 **+ 청구를 검색합니다.**
 2. 청구 프로필을 선택하고 사용 현황 **+ 요금 을 클릭합니다.**

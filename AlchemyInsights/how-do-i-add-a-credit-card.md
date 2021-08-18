@@ -16,12 +16,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 8cbfd7790c1805b2a6399e7a346ab3d471575a8c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 6af7a3ac9554e48b83e2582f3724577273104a5b8b7fefdc41b15977ec0e1abb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313173"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896565"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>신용 카드를 추가하려면 어떻게 해야 하나요?
 

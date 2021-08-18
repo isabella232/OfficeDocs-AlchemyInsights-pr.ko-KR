@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: fb9a4d17f553c14a7b2ec1fb1a3e721310791f5f38dd58b696162f766243c1f2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f19ab35837085b4a99212ab445d815a899c2c9df
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53921409"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315446"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>사서함에 피싱 또는 스팸이 너무 많이 있나요?
 
@@ -26,7 +26,7 @@ Microsoft 365 피싱 또는 스팸 메시지가 배달된 이유를 확인하는
 
 사용자가 보고서 메시지 추가 기능을 통해 Microsoft에 직접 보고하도록 허용할 [수 있습니다.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
-**알고 있나요?**: 이제 Message [Trace](https://security.microsoft.com/messagetrace) 및 E5/Microsoft Defender에서 직접 샘플을 제출할 수 있습니다Office 365 계획 2 고객은 위협 탐색기에서 샘플을 제출할 [수 있습니다.](/microsoft-365/security/office-365-security/threat-explorer)
+**알고 있나요?**: 이제 Message [Trace](https://security.microsoft.com/messagetrace) 및 E5/Microsoft Defender에서 직접 샘플을 제출할 수 있습니다Office 365 계획 2 고객은 위협 탐색기에서 샘플을 제출할 [수 있습니다.](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)
 
 Microsoft 365 Defender 포털에서 분석을 위해 메시지를 제출하는 Microsoft 365 Defender 자세한 내용은 분석을 위해 샘플 제출 [비디오를 참조합니다.](https://go.microsoft.com/fwlink/?linkid=2166435)
 

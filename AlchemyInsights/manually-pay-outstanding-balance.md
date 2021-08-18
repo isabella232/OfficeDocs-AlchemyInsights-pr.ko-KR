@@ -19,12 +19,12 @@ ms.custom:
 - "9689"
 - "1500018"
 - "9690"
-ms.openlocfilehash: 1cff63fa1c79d8863fc4f37b3e046e9d15ed944c9bc57c54137720a0dabd33df
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7640630de510d802be03142129e71545aa145d515cc8a4b9adf79cdf8779844f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503874"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896421"
 ---
 # <a name="manually-pay-an-outstanding-balance"></a>미지불 잔액 정산
 
@@ -35,4 +35,4 @@ ms.locfileid: "54503874"
 3. 오른쪽 창에서 현재 결제 방법을 선택하고 다른 결제 방법을 선택하거나 새 결제 방법을 추가한 다음 **잔액 정산** 을 선택합니다.
 4. 은행에서 요구하는 경우 추가 보안 및 인증 정보를 입력하라는 메시지가 표시될 수 있습니다.
 
-자세한 내용은 [결제 방법 관리](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) 및 [구독 방법](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)를 참조하세요.
+자세한 내용은 [결제 방법 관리](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) 및 [구독 방법](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)를 참조하세요.

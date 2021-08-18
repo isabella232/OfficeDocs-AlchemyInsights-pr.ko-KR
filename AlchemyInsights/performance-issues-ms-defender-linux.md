@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "11491"
 - "9001464"
-ms.openlocfilehash: 26ad9631111c250fd8b9ec32d4a6122f37f82513b7542231e402317aea4949dd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b1200f0dd206e27cccf96778beb0326c846e7504e51be283193b2630edfb4509
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899406"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086746"
 ---
 # <a name="performance-issues-for-microsoft-defender-for-endpoint-on-linux"></a>Linux의 엔드포인트용 Microsoft Defender 성능 문제
 
 이 문서에서는 Linux의 엔드포인트용 Microsoft Defender에 대한 성능 문제를 식별하는 단계를 안내합니다.
 
-먼저 발생한 문제가 [최신 버전](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-whatsnew)으로 해결되었는지 확인하는 것이 중요합니다. 
+먼저 발생한 문제가 [최신 버전](/microsoft-365/security/defender-endpoint/linux-whatsnew)으로 해결되었는지 확인하는 것이 중요합니다. 
 
-조사를 시작하려면 [Linux의 엔드포인트용 Microsoft Defender의 성능 문제 해결](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-support-perf)을 참조하세요.
+조사를 시작하려면 [Linux의 엔드포인트용 Microsoft Defender의 성능 문제 해결](/microsoft-365/security/defender-endpoint/linux-support-perf)을 참조하세요.
 
 ## <a name="exclusions"></a>제외
 
 제외는 성능 문제를 완화하는 데 도움이 될 수 있습니다. 추가 위험이 파악되고 문서화되도록 시작하기 전에 제외 사항을 검토하세요.
 
-자세한 내용은 [Linux의 엔드포인트용 Microsoft Defender에 대한 제외 구성 및 유효성 검사](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-exclusions)를 참조하세요.
+자세한 내용은 [Linux의 엔드포인트용 Microsoft Defender에 대한 제외 구성 및 유효성 검사](/microsoft-365/security/defender-endpoint/linux-exclusions)를 참조하세요.
 
 제외할 파일 및 폴더가 여러 개 있고 모두 동일한 마운트 지점에 있는 경우 마운트 지점을 제외하는 것이 더 쉬울 수 있습니다. 2월 릴리스 101.22.80부터 전체 마운트 지점을 제외할 수 있습니다.
 

@@ -15,12 +15,12 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: f5acc591221c7e5fb44d4505bea56d635ceb6f36de5a2126cdcf40f815168a1e
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 28c754610a3a8363e47959d3f1e6f5077472f9430e93322ab20cba2ad0ac7390
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501786"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896685"
 ---
 # <a name="creditrefund"></a>신용/환불
 
@@ -36,4 +36,4 @@ ms.locfileid: "54501786"
 
 **비분제된 크레딧은 다음 청구 주기 내에 반환됩니다.**
 
-자세한 내용은 취소 및 [환불 프로세스를 참조하세요.](/microsoft-365/commerce/subscriptions/cancel-your-subscription) 
+자세한 내용은 취소 및 [환불 프로세스를 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) 
