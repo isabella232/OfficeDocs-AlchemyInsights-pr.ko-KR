@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: a3e84e32eac09d8788bbec56185f3cfc714cfb4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7855d8dac488fe62d8e0ad8ee2ad46e615ea031fc535eb54dfde9512c8921ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694859"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113386"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Microsoft Intune 문제 해결
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>문제 해결 Microsoft Intune
 
-지금 문제를 해결 하려면 아래 목록에 있는 리소스를 검토 하세요.
+아래에 나열된 리소스를 검토하여 지금 문제를 해결합니다.
   
-1. [Intune 문제 해결 포털](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) 을 사용 하 여 일반적인 오류를 진단 하 고 해결 합니다. 자세한 내용을 보려면 [이 문서 ](https://docs.microsoft.com/intune/help-desk-operators)를 검토 하세요.
+1. [Intune 문제 해결 포털을](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) 사용하여 몇 가지 일반적인 실패를 진단하고 해결합니다. 자세한 [내용은 이 ](https://docs.microsoft.com/intune/help-desk-operators)문서를 검토합니다.
     
-2. [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)을 검토 하 여 일반적인 문제에 대 한 답과 해결책을 찾아봅니다.
+2. [Intune TechNet을 검토하여 ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)일반적인 문제에 대한 답변과 해결 방법을 찾아볼 수 있습니다.
     
-3. [서비스 상태를 확인](https://portal.office.com/AdminPortal/Home#/servicehealth) 하 여 서비스 상태가 표시 되도록 합니다. 
+3. 서비스 상태를 [확인하여](https://portal.office.com/AdminPortal/Home#/servicehealth) 서비스 상태를 확인할 수 있습니다. 
     
-4. 계획, 방법, 문제 해결 문서 등에 대 한 [Intune 설명서](https://docs.microsoft.com/intune/) 를 검토 합니다. 
+4. [계획, 방법,](https://docs.microsoft.com/intune/) 문제 해결 문서 등은 Intune 설명서를 참조하세요. 
     
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6253"
 - "9003349"
-ms.openlocfilehash: 1385d015052ccc9c056cdb9e6a45e86177031c9b
-ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
+ms.openlocfilehash: 4588b9a967dc51098be39906d0909e2a729e186a9943ee79e71d6ab50a666107
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50291726"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088694"
 ---
 # <a name="help-with-presence-in-microsoft-teams"></a>Microsoft Teams의 현재 상태에 대한 도움말
 

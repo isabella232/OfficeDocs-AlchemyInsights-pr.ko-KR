@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005404"
 - "9935"
-ms.openlocfilehash: d640ae3ba9956fc161a017b0ed1c4ca3205cec9e
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: 6d7fc6ec34fb7daacc6a07de31851630a10d75f06f0ed4a91565330e9eb9ff4e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51123148"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088701"
 ---
 # <a name="help-with-windows-themes"></a>Windows 테마 도움말
 

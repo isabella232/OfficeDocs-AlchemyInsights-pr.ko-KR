@@ -1,5 +1,5 @@
 ---
-title: 사용자에 게 SharePoint 및 OneDrive에 대 한 액세스 권한 부여
+title: 사용자에게 사용자 및 SharePoint 액세스 OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a7e9c0b7ffa5c11a2e24ee5fda6491f049f985f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e3d645f3c45525107f42a074899a30ef26bd559e5c5657e7b8ef69d406357b32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677213"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088906"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>사용자에 게 SharePoint 및 OneDrive에 대 한 액세스 권한 부여
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>사용자에게 사용자 및 SharePoint 액세스 OneDrive
 
 > [!NOTE]
-> 이전에 액세스 한 여러 사용자가 OneDrive 또는 SharePoint 사이트를 사용할 수 없는 경우 일시적인 서비스 문제가 있을 수 있습니다. [서비스 상태 대시보드 확인](https://portal.office.com/adminportal/home#/servicehealth)
+> 이전에 액세스한 OneDrive SharePoint 사이트 또는 사이트가 제공되지 않는 경우 일시적인 서비스 문제가 있을 수 있습니다. [서비스 상태 대시보드 확인](https://portal.office.com/adminportal/home#/servicehealth)
   
-조직의 사용자가 SharePoint 및 OneDrive에 로그인 하 고 사용할 수 있도록 하려면 계정을 추가 하 고 SharePoint 및 OneDrive에 대 한 액세스 권한을 부여 하는 라이선스가 있는지 확인 해야 합니다. 사용자를 추가 하는 가장 쉬운 방법은 Microsoft 365 관리 센터에 있습니다.
+조직의 사용자가 로그인하고 SharePoint 및 OneDrive 사용할 수 있게 하려는 경우 해당 사용자에 대한 계정을 추가하고 해당 사용자에게 SharePoint 및 OneDrive. 사용자를 추가하는 가장 쉬운 방법은 사용자 Microsoft 365 관리 센터.
   
-1. [Microsoft 365 관리 센터에서 활성 사용자 페이지로](https://portal.office.com/adminportal/home#/users)이동한 다음 **사용자 추가**를 클릭 합니다.
+1. 에서 활성 사용자 [페이지로 이동하여](https://portal.office.com/adminportal/home#/users)Microsoft 365 관리 센터 **추가를 클릭합니다.**
     
-2. 사용자에 대 한 정보를 입력 하 고 **제품 라이선스**에 라이선스가 할당 되 고 **SharePoint Online** 이 선택 되어 있는지 확인 합니다. 
+2. 사용자에 대한 정보를 입력하고 제품 라이선스 아래에서 라이선스가 할당되어 SharePoint **온라인을** 선택해야 합니다. 
     
-조직에서 외부 공유를 허용 하는 경우 사용자는 SharePoint 및 OneDrive 콘텐츠를 조직 외부의 사용자와 공유할 수 있습니다. 이러한 외부 사용자 라이선스를 제공할 필요는 없습니다. 또한 공유가 "기존 외부 사용자만"으로 설정 되지 않은 경우 계정을 추가할 필요가 없습니다. 이 경우 조직의 디렉터리에 없는 사용자는 Azure AD 관리 센터에서 게스트 사용자로 추가 해야 합니다.
+조직에서 외부 공유를 허용하는 경우 사용자는 조직 외부의 사용자와 SharePoint OneDrive 공유할 수 있습니다. 이러한 외부 사용자에게 라이선스를 부여할 필요는 없습니다. 공유를 "기존 외부 사용자만"으로 설정하지 않는 한 계정도 추가할 필요가 없습니다. 이 경우 사용자가 조직의 디렉터리에 없는 경우 Azure AD 관리 센터에서 게스트 사용자로 추가해야 합니다.
   
 

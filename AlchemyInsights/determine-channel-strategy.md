@@ -15,16 +15,16 @@ ms.custom:
 - "9005291"
 - "11089"
 - "9006490"
-ms.openlocfilehash: 89a6b59b9c7dbae3df90e1173f1a66648c99beb9f75de8b56ab9f07a40daca68
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 06ad41ae0d76b5734d6a399e023d1ae84f5b86d8b9b48d7696619dbf22d88618
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54102136"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899950"
 ---
 # <a name="determine-channel-strategy"></a>채널 전략 결정
 
-Microsoft Edge는 브라우저 업데이트의 수를 제어하는 4개의 채널로 릴리스됩니다. 각 채널에 대한 자세한 내용은 [채널 개요](/DeployEdge/microsoft-edge-channels#channel-overview)를 참조하세요.
+Microsoft Edge는 브라우저 업데이트의 수를 제어하는 4개의 채널로 릴리스됩니다. 각 채널에 대한 자세한 내용은 [채널 개요](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels#channel-overview)를 참조하세요.
 
 안정적 채널은 대부분의 장치에 배포하려는 채널이지만, 사용자는 여러 채널과 장치를 배포하는 것을 고려해야 합니다.
 

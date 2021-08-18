@@ -13,12 +13,12 @@ ms.collection: Adm_O364
 ms.custom:
 - "9003533"
 - "10882"
-ms.openlocfilehash: 0a6bb8372fa66a8b8256b982ebdc10588455d020
-ms.sourcegitcommit: 326c10f16cf15e823cc97cb4c6a7153343f88f93
+ms.openlocfilehash: faa6757e52df3af2314daf58c534ac2a9b9e98c71276f9e9b02c02f8d9cc88d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51596736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113638"
 ---
 # <a name="microsoft-365-apps-admin-center"></a>Microsoft 365 앱 관리 센터
 
