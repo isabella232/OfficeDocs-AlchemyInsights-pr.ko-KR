@@ -17,12 +17,12 @@ ms.custom:
 - "9001497"
 - "4736"
 - "3551"
-ms.openlocfilehash: 0dcb9eae3241ae76850e9c5149b4c813b6967c70a431c3bea38fba1843967a95
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d9e65533910eae15c58eb6b0881bdc60ebf1f5bbfaf0880da90811cb95c820a9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53959478"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897318"
 ---
 # <a name="reactivate-your-subscription"></a>구독 다시 활성화
 
@@ -33,7 +33,7 @@ ms.locfileid: "53959478"
 3. **이 구독 다시 활성화** 창의 드롭다운 목록에서 결제 방법을 선택하거나 **결제 방법 추가** 를 선택합니다.
 4. **저장** 을 선택합니다.
 
-자세한 내용은 [구독 다시 활성화](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)를 참조하세요.
+자세한 내용은 [구독 다시 활성화](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)를 참조하세요.
 
 **구독 갱신 관리**
 
@@ -45,4 +45,4 @@ ms.locfileid: "53959478"
 4. **되풀이 청구 설정 편집** 창에서 **켜기**, **한켜기(단, 한 번만 갱신)**, 또는 **끄기** 를 선택합니다.
 5. **저장** 을 선택합니다.
 
-자세한 내용은 [반복 요금 해제 또는 설정](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)을 참조하세요.
+자세한 내용은 [반복 요금 해제 또는 설정](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)을 참조하세요.

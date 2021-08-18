@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "441"
 - "1500017"
-ms.openlocfilehash: eaac309cda64aafa5c2d3f99d7761ee7f4faa75f1fa138a095615efe927e109b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bb372f31392d6a8875a6c1e0a1905bcffb0da016b61eaf5bc6dbb2bcbb561a45
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001982"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898698"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>구독을 다시 활성화하는 방법
 
@@ -32,4 +32,4 @@ ms.locfileid: "54001982"
 3. **이 구독 다시 활성화** 창의 드롭다운 목록에서 결제 방법을 선택하거나 **결제 방법 추가** 를 선택합니다.
 4. **저장** 을 선택합니다.
 
-자세한 내용은 [구독 다시 활성화](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)를 참조하세요.
+자세한 내용은 [구독 다시 활성화](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)를 참조하세요.

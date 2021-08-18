@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10978"
 - "9006450"
-ms.openlocfilehash: 72107a456fa4856a90677867c8970d218893a0ad
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: 94dc244b987bd1e151ce6e5c933a83b19a6ced33bfbd176c8bbf1e8ce83370b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52990213"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087358"
 ---
 # <a name="learn-about-the-security-features-of-microsoft-edge"></a>Microsoft Edge 보안 기능에 대해 알아보기
 

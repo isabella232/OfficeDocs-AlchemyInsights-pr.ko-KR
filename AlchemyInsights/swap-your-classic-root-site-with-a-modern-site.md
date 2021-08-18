@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e8501414498bf1937e98abaca32987e3276bb54e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940825"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316146"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>클래식 루트 사이트를 최신 사이트로 바꾸기
 
@@ -28,8 +28,8 @@ ms.locfileid: "53940825"
     - [Invoke-SPOSiteSwap을](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) 사용하여 원본 사이트를 보관하는 동안 사이트의 위치를 다른 사이트와 바환할 수 있습니다. 팀 사이트(그룹에 연결되지 않은) 및 커뮤니케이션 사이트에 모두 사용할 수 있습니다. 
 
 - 사이트의 콘텐츠를 계속 사용하지만 기존 사이트를 커뮤니케이션 사이트로 변환할 수 있는 추가 기능이 곧 도입될 예정입니다. 
->[!Important]
->이러한 기능은 점진적으로 출시될 것입니다. 메시지 센터에서 업데이트를 계속 확인합니다. 
+
+**중요:** 이러한 기능은 점진적으로 롤아웃될 것입니다. 메시지 센터에서 업데이트를 계속 확인합니다. 
 
 ## <a name="known-issues-with-swapping-sites"></a>사이트 교체와 관련한 알려진 문제
 

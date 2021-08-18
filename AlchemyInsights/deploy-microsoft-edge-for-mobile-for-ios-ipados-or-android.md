@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e576bf74ee9e4035ea765ccc0f5e9173fc08be71
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005456"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315626"
 ---
 # <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>iOS/iPadOS Microsoft Edge Android용 모바일 서비스 배포
 
@@ -28,8 +28,7 @@ ms.locfileid: "54005456"
 - Azure Active Directory 응용 프로그램 프록시와 통합
 - 관리되는 즐겨찾기 및 홈페이지 바로 가기
 
-> [!NOTE]
-> 사용자가 모바일 장치를 등록하지 못하도록 차단한 경우 이 가이드 시나리오는 작동하지 않습니다. 사용자는 직접 Microsoft Edge 설치해야 합니다.
+**참고:** 사용자가 모바일 장치를 등록하지 못하도록 차단한 경우 이 가이드 시나리오는 작동하지 않습니다. 사용자는 직접 Microsoft Edge 설치해야 합니다.
 
 iOS/iPadOS Microsoft Edge Android용 모바일 앱을 배포하기 위해 다음을 참조합니다.
 

@@ -1,5 +1,5 @@
 ---
-title: 아웃 바운드 스팸
+title: 아웃바운드 스팸
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "2643"
 ms.assetid: ''
-ms.openlocfilehash: 182cec016346dbc32d807a2d43ef0bd29209dcca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fb48fd972fd0b5f4f273f1134c8122ee9a5260cef56f7520f0da066cb230012
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769261"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112810"
 ---
-# <a name="outbound-spam"></a>아웃 바운드 스팸
+# <a name="outbound-spam"></a>아웃바운드 스팸
 
-아웃 바운드 스팸 (스팸으로 표시 되는 아웃 바운드 메시지)에 대 한 가양성을 확인 하는 경우 예제 메시지와 함께 지원 티켓을 엽니다.
+아웃바운드 스팸(스팸으로 표시되어 있는 양호한 아웃바운드 메시지)에 가음이 표시되어 있는 경우 예제 메시지와 함께 지원 티켓을 여는 것이 좋습니다.

@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: d6d8f87c9c1ba76c6d0c83a7cac6f259028771e3b1f8d8755729381f79f5b342
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e18aaa8abe7fd7cf501b612ecb08b9fca7d9c36e0e6552f75742beb770063e93
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016454"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897049"
 ---
 # <a name="review-or-act-on-an-alert"></a>경고 검토 또는 행동
 
-다음 단계를 따릅니다:
+다음 단계를 따르세요.
 
-1. 보안 및 준수 [& 로 이동](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. 경고 **경고 보기**  >  **[를 클릭합니다.](https://go.microsoft.com/fwlink/?linkid=2103301)**
-1. 경고를 클릭합니다. 세부 정보 창에서 경고를 트리거한 내용을 시청합니다.
-1. 경고에 대한 작업을 수행하려면 세부 정보 근처에서 제공된 링크를 클릭합니다.
-1. **경고를** 닫려면 확인 을 클릭합니다.
+1. 다음 작업 중 하나를 수행하십시오.
+   - 의 Microsoft 365 규정 준수 센터 <https://compliance.microsoft.com> 에서 경고 **로 이동 합니다.** 또는 에서 직접 페이지를 열 수 <https://compliance.microsoft.com/compliancealerts> 있습니다.
+   - 의 Microsoft 365 Defender 포털에서 <https://security.microsoft.com> **경고로 이동합니다.** 또는 에서 직접 페이지를 열 수 <https://security.microsoft.com/alerts> 있습니다.
+2. 경고를 선택합니다. 나타나는 세부 정보 플라이아웃에서 경고를 트리거한 내용을 시청합니다.
+3. 경고에 대한 작업을 수행하려면 제공된 링크를 클릭합니다.
+4. **경고를** 닫려면 확인 을 클릭합니다.
 
-경고 관리에 대한 자세한 내용은 보안 및 규정 준수 센터의 경고 정책을 [참조합니다.](https://go.microsoft.com/fwlink/?linkid=2103211)
-
+경고 관리에 대한 자세한 내용은 에서 [경고 정책을 Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11382"
 - "9001470"
-ms.openlocfilehash: 191d6ae772dc1b1c6b15071da9c4aca14429cf2db17be6ee0db6b23ea0d29e2d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f26fab92d0159c06eb600cf9ec4161892561a719e8d113d15bfbac133301e793
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54084649"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897602"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>소프트웨어 인벤터리가 없거나 부정확 합니다.
 
@@ -32,8 +32,8 @@ ms.locfileid: "54084649"
 
 1. 소프트웨어 증거 섹션을 확인하여 소프트웨어가 어떻게 감지되었는지 알아보세요.
 1. 소프트웨어가 지원되는지 확인합니다. 소프트웨어는 현재 위협 및 취약성 관리에서 지원되지 않는 경우에도 장치 수준에서만 볼 수 있습니다. 그러나 제한된 데이터만 사용할 수 있습니다.
-1. 포털에서 부정확성을 보고하는 단계는 [부정확성 보고](/microsoft-365/security/defender-endpoint/tvm-software-inventory?view=o365-worldwide#report-inaccuracy)를 참조하세요.
+1. 포털에서 부정확성을 보고하는 단계는 [부정확성 보고](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-software-inventory?view=o365-worldwide#report-inaccuracy)를 참조하세요.
    
     **참고**: MDE 포털에서 부정확성을 보고하는 것은 엔지니어링을 위한 단방향 채널입니다. 문제가 긴급하면 지원 티켓을 여세요.
 
-더 자세한 내용은 [소프트웨어 인벤토리 - 위협 및 취약성 관리](/microsoft-365/security/defender-endpoint/tvm-software-inventory)를 참조하세요.
+더 자세한 내용은 [소프트웨어 인벤토리 - 위협 및 취약성 관리](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-software-inventory)를 참조하세요.

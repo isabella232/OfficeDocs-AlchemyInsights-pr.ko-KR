@@ -15,12 +15,12 @@ ms.custom:
 - "663"
 - "1500007"
 ms.date: 04/21/2020
-ms.openlocfilehash: 2d270fa84f6135ffdb5a42c0838c519ac4963a9873e3d021fcfcebf6c409fac6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1f4666a45695450e01efd5356de50a38a4f6c7aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53935595"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316054"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>선불 구독에 시트 추가
 
@@ -31,8 +31,7 @@ ms.locfileid: "53935595"
 3. 구독 세부 정보 페이지의 라이선스 **섹션에서** 라이선스 **추가를 선택합니다.**
 4. 라이선스 **추가 창에서** 새 제품 키와 사용하지 않은 제품 키 사용을 선택하고 다음 을 **선택합니다.**
 5. 제품 키를 입력하고 다음 을 **선택합니다.**
-    > [!NOTE]
-    > 제품 키가 두 개 이상 있는 경우 **다른 제품 키 추가** 를 선택하여 입력할 수 있습니다.
+    **참고:** 제품 키가 두 개 이상  있는 경우 다른 제품 키 추가를 선택하여 입력할 수 있습니다.
 6. 주문 세부 정보를 검토한 다음 사용 을 **선택합니다.**
 
 자세한 내용은 제품 키를 사용하여 유료 구독에 라이선스 추가 또는 [연장을 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

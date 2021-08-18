@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004286"
 - "7656"
-ms.openlocfilehash: 6655bbe9482400eeb3cfdf0b91bdc595e3d98fbff0f6d9244db8bb4dd958305e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ace8e256e3771f82512abcb9e20b832381eedf80
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53951859"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315916"
 ---
 # <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>AggregateGroupMailbox Microsoft 365 그룹에 전송된 전자 메일에 대해 수신된 전체 NDR
 
@@ -26,8 +26,7 @@ ms.locfileid: "53951859"
 
 `New-TransportRule -SentTo @("AggregateGroupMailbox.A.201708181918@contoso.onmicrosoft.com") -DeleteMessage:$true -Name 'Agg1' -StopRuleProcessing:$false -Mode 'Enforce' -Comments '' -RuleErrorAction 'Ignore' -SenderAddressLocation 'Header'`
 
-> [!NOTE]
-> **-SentTo의** SMTP 주소를 테넌트에 있는 집계 그룹 사서함의 SMTP 주소로 바 대체합니다. 받은 NDR에서 집계 그룹 사서함의 SMTP 주소를 얻을 수 있습니다.
+**참고:** **-SentTo의** SMTP 주소를 테넌트에 있는 집계 그룹 사서함의 SMTP 주소로 바 대체합니다. 받은 NDR에서 집계 그룹 사서함의 SMTP 주소를 얻을 수 있습니다.
 
 
 

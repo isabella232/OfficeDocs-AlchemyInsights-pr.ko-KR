@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11503"
 - "9005462"
-ms.openlocfilehash: c19a12a88f8fe1f1f011b8faad40f6e4edee028d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: fc4fa43bae2761e806b7a830d0bd94f373e273ef8fe32912399a527070a2a553
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311837"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897510"
 ---
 # <a name="using-automated-investigation-executing-actions-andor-remediation-actions"></a>자동화된 조사 사용, 작업 실행 및/또는 수정 작업
 

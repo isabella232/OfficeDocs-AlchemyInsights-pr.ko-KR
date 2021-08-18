@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
-ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
+ms.openlocfilehash: 946c7d86068026620163868463c4bb37108b1d60c4495ec548dc36043bce8414
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53023145"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898750"
 ---
 # <a name="get-business-assist"></a>비즈니스 지원 시작
 
-1. In the Microsoft 365 관리 센터, go to the [Microsoft 365용 비즈니스 도우미 page](https://go.microsoft.com/fwlink/p/?linkid=2158423), select a billing frequency, and then select **Buy**.
+1. In the Microsoft 365 관리 센터, go to the [Business Assist for Microsoft 365 page](https://go.microsoft.com/fwlink/p/?linkid=2158423), select a billing frequency, and then select **Buy**.
 2. 단계에 따라 체크 아웃합니다.
 
-자세한 내용은 [를](/microsoft-365/admin/misc/business-assist)Microsoft 365용 비즈니스 도우미.
+자세한 내용은 비즈니스 지원 에서 비즈니스 지원을 [Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/misc/business-assist)
