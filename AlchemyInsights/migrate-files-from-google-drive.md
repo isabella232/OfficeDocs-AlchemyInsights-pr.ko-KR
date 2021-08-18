@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8001"
 - "5300030"
-ms.openlocfilehash: 2ba7e9c773dd22697ab4b956a1b532b098a99feaca81a1009885ea87e287b6e3
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c7783ed9d0c1d1b7ddaf1752aed0d82ed0fb9d16
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897950"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316420"
 ---
 # <a name="migrate-files-from-google-drive"></a>Google Drive에서 파일 마이그레이션
 

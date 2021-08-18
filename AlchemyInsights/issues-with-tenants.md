@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7824"
 - "9004325"
-ms.openlocfilehash: 43f75564667bbb952076d4c12d7a1dd1e7e99731
-ms.sourcegitcommit: 4e2d640a618c786700e8b276533554d51956f080
+ms.openlocfilehash: 36207a4f9013443e0862cda6dad02c91dec926ba159a53b7434c261e4e719959
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50716164"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087934"
 ---
 # <a name="issues-with-tenants"></a>테넌트 문제
 

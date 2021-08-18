@@ -15,19 +15,18 @@ ms.custom:
 - "9002903"
 - "5582"
 - "5583"
-ms.openlocfilehash: 0a6d169a0fdff9fe7dec9d7175f80d092a0251839f2c4d29f42f1b884c6a6f44
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3624a8f4f7ca00d5a133e25361b33861aa05592c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53986744"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316456"
 ---
 # <a name="license-or-subscription-faq"></a>라이선스 또는 구독 FAQ
 
 - 조직이 소유한 구독이나 라이선스를 찾으려면 **청구** > [제품](https://go.microsoft.com/fwlink/p/?linkid=842054)으로 이동하세요.
 - 구독에서 [라이선스 추가 또는 제거](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)합니다.
-    > [!NOTE]
-    > 사용자에게 할당되지 않은 라이선스 요금이 계속 청구됩니다. 불필요한 요금 청구을 방지하려면 라이선스를 제거하여 라이선스 수를 줄이세요.
+    **참고**: 사용자에게 할당되지 않은 라이선스 요금이 계속 청구됩니다. 불필요한 요금 청구을 방지하려면 라이선스를 제거하여 라이선스 수를 줄이세요.
 . [계정 간 라이선스 전송](https://docs.microsoft.com/alchemyinsights/transfer-licenses-between-tenants)
 - [만료 혹은 비활성화된 구독 재활성화](https://go.microsoft.com/fwlink/p/?linkid=2117519)
 - [구독 결제에 사용된 결제 방법 편집](https://go.microsoft.com/fwlink/p/?linkid=2117167)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 40da85009f051005940429dcd2ac81ec9fa6dd64
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883361"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316982"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft Secure Score
 
@@ -34,7 +34,6 @@ Microsoft 보안 점수를 사용하여 환경의 보안을 더 안전하게 만
 
 4. 개선 작업 **탭의** 목록에서 주소 또는 회귀 항목을 **선택합니다.**  새 페이지가 열리면 전체 설명과 문제 해결을 위한 **관리** 단추가 표시됩니다.
 
-    > [!NOTE]
-    > 권장 보안 기능을 구성하기 위한 포인트가 제공되지만 일부 작업은 [점수가 지정되지 않음]으로 레이블이 **지정됩니다.** 즉, 개선 작업을 구현하는 경우에도 점수에 대한 점수가 주어지지 않습니다. 그렇지 않으면 점수가 업데이트되는 데 *최대 24시간이* 걸릴 수 있습니다.
+    **참고:** 권장 보안 기능을 구성하기 위한 포인트가 제공되지만 일부 작업은 [점수가 지정되지 않음]으로 레이블이 **지정됩니다.** 즉, 개선 작업을 구현하는 경우에도 점수에 대한 점수가 주어지지 않습니다. 그렇지 않으면 점수가 업데이트되는 데 *최대 24시간이* 걸릴 수 있습니다.
 
 Microsoft 보안 점수에 대한 자세한 내용은 Microsoft 보안 점수를 [참조하세요.](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)

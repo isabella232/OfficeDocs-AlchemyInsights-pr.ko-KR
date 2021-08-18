@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11470"
 - "9000292"
-ms.openlocfilehash: 2d5f0486ed8d4cbd95603f223bc0e48c4dcf38abb001d1616ca968b1d6bba7de
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fa0e2766e1526d8e81cb247029e7c0fd98630b96
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54044238"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316824"
 ---
 # <a name="endpoint-dlp-not-deployed-to-users-device"></a>엔드포인트 DLP가 사용자의 장치에 배포되지 않음
 
@@ -34,4 +34,4 @@ ms.locfileid: "54044238"
 
 - 클라우드로 업로드 활동에 대한 정책 작업을 적용하려면, 엔드포인트 장치에 Microsoft Chromium Edge 브라우저를 설치하세요.
 
-Endpoint DLP 배포에 대한 추가 요구 사항은 [Endpoint 데이터 손실 방지 시작하기](/microsoft-365/compliance/endpoint-dlp-getting-started#prepare-your-endpoints)를 참조하세요.
+Endpoint DLP 배포에 대한 추가 요구 사항은 [Endpoint 데이터 손실 방지 시작하기](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#prepare-your-endpoints)를 참조하세요.

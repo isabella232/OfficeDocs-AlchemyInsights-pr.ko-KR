@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100408"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316646"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Mac용 보관 파일로 Outlook 내보내기
 
@@ -24,8 +24,7 @@ ms.locfileid: "54100408"
 
 1. 도구 **탭에서** 내보내기를 **클릭합니다.**
 
-> [!NOTE]
-> 내보내기 **단추가 없는** 경우 최신 버전의 업데이트가 Outlook. 도움말 Outlook **업데이트** **확인 을 클릭합니다.** 모든 Outlook 적용되어도 내보내기 단추가 계속 표시되지 않는 경우  파일 메뉴의 내보내기 Outlook **확인합니다.** 
+    **참고:** 내보내기 **단추가 표시되지** 않습니다. 최신 버전의 업데이트가 Outlook. 도움말 Outlook **업데이트** **확인 을 클릭합니다.** 모든 Outlook 적용되어도 내보내기 단추가 계속 표시되지 않는 경우  파일 메뉴의 내보내기 Outlook **확인합니다.** 
 
 2. 보관 **파일로 내보내기(.olm)** 상자에서 내보낼 항목을 확인하고 계속을 **클릭합니다.**
 
