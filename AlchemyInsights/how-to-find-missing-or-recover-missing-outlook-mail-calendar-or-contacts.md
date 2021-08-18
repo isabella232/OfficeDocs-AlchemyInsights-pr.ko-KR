@@ -13,18 +13,22 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7693ec5585ce7562f2feeacc94c592885ccc2ec2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029162"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323164"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>전자 메일에서 누락된 메시지, 연락처 또는 일정 항목을 찾아 복구하는 Outlook
 
-1. In Outlook, go to your email folder list, and then select **Deleted Items**. **중요:** 지우기 항목  폴더가 없지만 휴지통 폴더가 대신 표시되면 계정에서 더 이상 지우기 항목 폴더에 없는 항목 복구를 **지원하지 않습니다.** 
+1. In Outlook, go to your email folder list, and then select **Deleted Items**. 
 
-2. 홈 **메뉴에서** **서버에서 삭제된 항목 복구를 클릭합니다.** **중요:** 메뉴에 **서버에서** 삭제된 항목 복구 명령이 없는 경우 계정은 더 이상 지우기 항목 폴더에 없는 항목 복구를 **지원하지** 않습니다.
+    **중요:** 지우기 항목  폴더가 없지만 휴지통 폴더가 대신 표시되면 계정에서 더 이상 지우기 항목 폴더에 없는 항목 복구를 **지원하지 않습니다.** 
+
+2. 홈 **메뉴에서** **서버에서 삭제된 항목 복구를 클릭합니다.** 
+
+    **중요:** 메뉴에 **서버에서** 삭제된 항목 복구 명령이 없는 경우 계정은 더 이상 지우기 항목 폴더에 없는 항목 복구를 **지원하지** 않습니다.
 
 3. 복구할 항목을 선택하고 선택한 항목 **복원을 클릭한** 다음 확인 을 **클릭합니다.**
 

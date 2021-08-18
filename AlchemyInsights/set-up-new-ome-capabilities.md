@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "11216"
-ms.openlocfilehash: 0edf2f0f86267726ff8111bfa06c139823695263c0c3282fd96af0623f91cbaf
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f5edc0cf39ae17724383432a770846ac3f8c3f97
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897758"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322617"
 ---
 # <a name="set-up-new-ome-capabilities"></a>새로운 OME 기능 설정
 

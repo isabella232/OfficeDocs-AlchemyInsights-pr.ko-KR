@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: eab64b90775c28a84ebd33774ec5bf68303892dd4b2880493a4b236d9d8993d0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a4505b586f474568ea6ec71f23f3c7eab868fe05
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53916997"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322301"
 ---
 # <a name="change-the-domain-for-a-microsoft-365-group"></a>그룹에서 도메인 Microsoft 365 변경
 
@@ -29,5 +29,4 @@ ms.locfileid: "53916997"
 - 수정할 M365 그룹을 검색하여 선택한 다음 일반 탭의  전자 메일 주소에서 **편집을** 클릭합니다. 
 - 이제 기본 전자 메일 주소의 도메인을 변경할 수 있으며 전자 메일 별칭을 추가할 수도 있습니다.
 
-> [!IMPORTANT]
-> 일반 메일 그룹 및 메일 사용이 가능한 보안 그룹을 사용하면 M365 관리 센터, 그룹 섹션에서 더 적은 설정을 관리할 **수** 있습니다. 세부 정보를 더 관리하려면 M365  관리 센터에서 편집할 때 설정 탭을 클릭하고 Exchange 관리 센터 옵션에서 추가 설정 **관리를** 선택합니다.
+> **중요:** 일반 메일 그룹 및 메일 사용이 가능한 보안 그룹을 사용하면 M365 관리 센터, 그룹 섹션에서 더 적은 설정을 관리할 **수** 있습니다. 세부 정보를 더 관리하려면 M365  관리 센터에서 편집할 때 설정 탭을 클릭하고 Exchange 관리 센터 옵션에서 추가 설정 **관리를** 선택합니다.

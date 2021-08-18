@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12623"
-ms.openlocfilehash: da394ca319a6adaaf0e4c450008cee66ff59da3721dcde2df515a6140095b61a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f95b4506078256d1752b0b5f3451a75354fc0115
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892985"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322443"
 ---
 # <a name="bulk-add-custodians-in-advanced-ediscovery"></a>Advanced eDiscovery의 보유자 일괄 추가
 

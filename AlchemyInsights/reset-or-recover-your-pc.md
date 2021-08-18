@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002949"
 - "5646"
-ms.openlocfilehash: 5ca94b3f812478b2221d0fcc070b7e7273e45dc3633e46c99384a270a624015e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e1f2d494f965d2d9fb1bcfcd8e4e224d9e68e7c2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53991505"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322689"
 ---
 # <a name="reset-or-recover-your-pc"></a>PC 초기화 또는 복구
 
-**IMPORTANT**: 디바이스를 암호환 경우에는 BitLocker 키를 사용하여 PC를 재설정해야 합니다. BitLocker 키를 모르는 경우, [내 BitLocker 복구 키 찾기](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key)를 참조하세요.
+**중요**: 디바이스를 암호환 경우에는 BitLocker 키를 사용하여 PC를 재설정해야 합니다. BitLocker 키를 모르는 경우, [내 BitLocker 복구 키 찾기](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key)를 참조하세요.
 
 **설정에서 PC 재설정**
 

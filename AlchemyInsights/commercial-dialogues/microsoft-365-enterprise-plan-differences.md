@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1f89ef2bc4b477ea9071b7f6eb9e5982a77a2fbe5099a633908b5026ccaf26b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539758"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119254"
 ---
 # <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise 차이점
 

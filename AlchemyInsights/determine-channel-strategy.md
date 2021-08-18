@@ -15,12 +15,12 @@ ms.custom:
 - "9005291"
 - "11089"
 - "9006490"
-ms.openlocfilehash: 06ad41ae0d76b5734d6a399e023d1ae84f5b86d8b9b48d7696619dbf22d88618
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 19efa16e7cf665648a03dc95da9d68841ca9e531
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899950"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323246"
 ---
 # <a name="determine-channel-strategy"></a>채널 전략 결정
 
@@ -28,8 +28,7 @@ Microsoft Edge는 브라우저 업데이트의 수를 제어하는 4개의 채�
 
 안정적 채널은 대부분의 장치에 배포하려는 채널이지만, 사용자는 여러 채널과 장치를 배포하는 것을 고려해야 합니다.
 
-> [!NOTE]
-> 단일 장치에 둘 이상의 채널을 설치할 수 있습니다.
+**참고**: 단일 장치에 둘 이상의 채널을 설치할 수 있습니다.
 
 **여러 장치 및 채널**
 

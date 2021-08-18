@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002578"
 - "4996"
-ms.openlocfilehash: d01f91a4b5fefd881f71f92321537d938fdb1850bb5b163738e4322312d7f02b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b40595e0567359f4c4cf2f37dff54d4de57c9d6d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898974"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322357"
 ---
 # <a name="change-the-default-link-type-for-a-site"></a>사이트의 기본 연결 종류 변경
 

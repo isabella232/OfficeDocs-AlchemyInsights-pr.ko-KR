@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6031"
 - "9001222"
-ms.openlocfilehash: 7626b300a5da6169e339c7fc60eb37489aefb827c501af74d4366bcaab6a38d2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 49c04aae6f4c6b270fe274b9911ddfa263495891
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891225"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323082"
 ---
 # <a name="issues-accessing-sections-of-microsoft-defender-for-office-365-portal"></a>Office 365용 Defender 포털의 섹션에 대한 액세스 관련 문제
 

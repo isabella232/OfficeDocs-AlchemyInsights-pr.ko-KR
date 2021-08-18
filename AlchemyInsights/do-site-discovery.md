@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9143"
 - "9005291"
-ms.openlocfilehash: 4653fdef7e9226f05809d56e9a445cd1da35b0578c088bea72252a281d4527d2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5ae99192c769dd5d5acae1c6e8f9b021e824b465
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030764"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322173"
 ---
 # <a name="do-site-discovery"></a>사이트 검색 시작
 
@@ -36,8 +36,7 @@ ms.locfileid: "54030764"
 
 Internet Explorer를 사용하고 있는 경우 최신 웹 표준으로 업그레이드한 사이트와 Internet Explorer가 여전히 필요한 사이트를 모를 수 있습니다. 이러한 사이트에서만 Internet Explorer 모드를 사용할 수 있도록 이러한 사이트를 찾아서 기업 사이트 목록에 추가할 수 있습니다.
 
-> [!NOTE]
-> [엔터프라이즈 사이트 검색](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery)은 Internet Explorer 모드가 필요할 수 있는 사이트를 검색합니다. Windows 10, Windows 8.1 또는 Windows 7의 Internet Explorer 11을 통해 Windows Internet Explorer 8을 실행하는 시스템에 대한 데이터를 수집할 수 있습니다.
+**참고**: [엔터프라이즈 사이트 검색](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery)은 Internet Explorer 모드가 필요할 수 있는 사이트를 검색합니다. Windows 10, Windows 8.1 또는 Windows 7의 Internet Explorer 11을 통해 Windows Internet Explorer 8을 실행하는 시스템에 대한 데이터를 수집할 수 있습니다.
 
 **데이터 분석**
 
@@ -47,8 +46,7 @@ Internet Explorer를 사용하고 있는 경우 최신 웹 표준으로 업그�
 3. 앱을 테스트하여 기본적으로 작동하지 않는지 확인합니다. 많은 사이트에서 최신 브라우저를 검색할 때 최신 콘텐츠를 제공하고 Internet Explorer를 검색할 때만 기존 콘텐츠를 제공합니다.
 4. 테스트에 실패한 경우 엔터프라이즈 사이트 목록에 앱을 추가합니다.
 
-> [!NOTE]
-> 앱을 구성하는 모든 사이트를 그룹화하는 것이 좋습니다. 이렇게 하면 앱을 업그레이드할 때 Internet Explorer 모드에서 전체 사이트를 제거하고 해당 앱에 대한 최신 브라우저를 사용하는 것이 더 쉽습니다.
+**참고**: 앱을 구성하는 모든 사이트를 그룹화하는 것이 좋습니다. 이렇게 하면 앱을 업그레이드할 때 Internet Explorer 모드에서 전체 사이트를 제거하고 해당 앱에 대한 최신 브라우저를 사용하는 것이 더 쉽습니다.
 
 사이트 검색을 완료하고 데이터를 분석했으면 채널 전략을 살펴볼 준비가 되었습니다.
 

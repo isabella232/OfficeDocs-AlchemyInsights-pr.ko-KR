@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054804"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321913"
 ---
 # <a name="issues-with-links-and-urls"></a>링크 및 URL 문제
 
@@ -42,15 +42,13 @@ ms.locfileid: "54054804"
     - 플랫폼(iOS/Android/UWP)
     - iOS의 번들 ID와 같은 앱을 빌드하는 데 사용되는 정보와 Android Azure Portal 앱 등록의 패키지 이름 및 서명 해시가 도움이 됩니다. 자세한 내용은 [플랫폼 구성 및 리디렉션 URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris)를 참조하세요.
 
-> [!NOTE]
-> 웹 API 및 IWA(사용자 이름/암호)를 자동으로 사용하는 일부 방법은 리디렉션 URI가 필요하지 않습니다.
+**참고**: 웹 API 및 IWA(사용자 이름/암호)를 자동으로 사용하는 일부 방법은 리디렉션 URI가 필요하지 않습니다.
 
 **웹 응용 프로그램을 배포했습니다. 배포된 앱을 테스트할 때 회신 URL 불일치 메시지가 나타나는 경우**
 
 웹 응용 프로그램을 배포하는 모든 위치에 대한 리디렉션 URI를 추가합니다. 자세한 내용은 [Azure Portal을 사용하여 웹앱 앱 등록](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration)을 참조하세요.
 
-> [!NOTE]
-> 해당 위치에 응용 프로그램을 배포한 직후 위치에 대한 리디렉션 URI를 추가합니다.
+**참고**: 해당 위치에 응용 프로그램을 배포한 직후 위치에 대한 리디렉션 URI를 추가합니다.
 
 **충분한 회신 URL을 등록할 수 없는 경우**
 

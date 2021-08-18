@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a216d0e06a3e6865ca0ed157d976e5623ddbd9b02624e387a2f9755315f913bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818190"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119614"
 ---
 # <a name="change-your-wi-fi-router-password"></a>라우터 Wi-Fi 변경
 
 라우터의 Wi-Fi 변경하기 위해 다음 단계를 따르세요.
 
-1. 시작 **설정 네트워크**  >  **&** 및  >  **공유** 센터  >  **를 선택합니다.**
+1. 시작 **설정** 네트워크 & 및 공유  >    >    >  **센터 를 선택합니다.**
 
 2. 활성 **네트워크 보기에서** 연결된 네트워크를 확인합니다. 연결 옆에 있는 파란색 **링크를 선택합니다.**<br>
 

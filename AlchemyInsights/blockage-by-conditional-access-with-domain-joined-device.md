@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9834"
 - "9003257"
-ms.openlocfilehash: f0d092dfbc805b1e4fa7d26803227118b39ecacca9fa330bb5de8458d4aa0f57
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d71bb376615191f507d39b99d9e51ca77d929b90
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950302"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323444"
 ---
 # <a name="im-getting-blocked-by-conditional-access-with-domain-joined-device"></a>도메인에 가입된 장치를 사용하여 조건부 액세스에서 차단되는 경우
 
@@ -52,8 +52,7 @@ Azure AD PRT가 있는지 확인하려면 장치에서 `dsregcmd/status` 명령�
 
 이 문제를 해결하기 위해 영향을 받는 장치에서 `dsregcmd/leave`을(를) 실행한 다음 Azure AD에 다시 연결합니다. 자세한 내용은 이 [문서](https://docs.microsoft.com/azure/active-directory/devices/faq#q-why-do-my-users-see-an-error-message-saying-your-organization-has-deleted-the-device-or-your-organization-has-disabled-the-device-on-their-windows-10-devices)를 참조하세요.
 
-> [!NOTE]
-> 장치가 Windows 10, 1809 업데이트이며 VPN/클라우드 프록시를 사용하고 "AzureAdPrt" 상태와 관련된 문제가 표시되거나 앱에 SSO 문제(PRT가 있음에도 Outlook이 사서함에 연결되지 않음)가 있는 경우 이번 패치 [KB4554354](https://support.microsoft.com/topic/march-30-2020-kb4554354-os-build-17763-1132-deaba49b-4b29-55b9-caee-3e2d87dd75a2) 또는 4월 누적 업데이트 [KB4549949](https://support.microsoft.com/topic/april-14-2020-kb4549949-os-build-17763-1158-76d9a3af-b20b-8996-bd4d-7b50c505fda6)를 통해 해당 컴퓨터에 PRT 오류를 방지하세요.
+**참고**: 장치가 Windows 10, 1809 업데이트이며 VPN/클라우드 프록시를 사용하고 "AzureAdPrt" 상태와 관련된 문제가 표시되거나 앱에 SSO 문제(PRT가 있음에도 Outlook이 사서함에 연결되지 않음)가 있는 경우 이번 패치 [KB4554354](https://support.microsoft.com/topic/march-30-2020-kb4554354-os-build-17763-1132-deaba49b-4b29-55b9-caee-3e2d87dd75a2) 또는 4월 누적 업데이트 [KB4549949](https://support.microsoft.com/topic/april-14-2020-kb4549949-os-build-17763-1158-76d9a3af-b20b-8996-bd4d-7b50c505fda6)를 통해 해당 컴퓨터에 PRT 오류를 방지하세요.
 
 
 

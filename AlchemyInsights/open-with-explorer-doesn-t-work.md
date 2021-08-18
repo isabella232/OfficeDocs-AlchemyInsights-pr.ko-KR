@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: 164d5fe8c992df825d1f52f19792e1623526c35c58ff2f1e1ab601fdcf5f0f53
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2ba6f08b40dd194bf1ffd9a455a134a2fc553b51
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54011342"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321867"
 ---
 # <a name="open-with-explorer-isnt-working"></a>탐색기가 작동하지 않는 경우 열기
 
@@ -27,7 +27,6 @@ ms.locfileid: "54011342"
     
 2. 아래로 스크롤하여 WebClient 서비스로 이동한 다음 상태 **열을** 검사합니다. WebClient 서비스 상태가 실행되고 있지 않은 경우 서비스를 두 번 클릭하고 **시작을** 클릭한 다음 확인을 **클릭합니다.**  필요한 경우 시작 유형 상자에서 **수동** 또는  자동을 선택하여 서비스를 **사용하도록** 설정하십시오. 
     
-> [!NOTE]
-> 파일 탐색기에서 열기 문제를 해결하려면 [탐색기에서 열기를 참조합니다.](https://go.microsoft.com/fwlink/?linkid=871665) 더 나은 대안으로 동기화를 탐색합니다. SharePoint 클라이언트와 동기화를 OneDrive 동기화 [합니다.](https://go.microsoft.com/fwlink/?linkid=871666) 
+**참고:** 파일 탐색기에서 열기 문제를 해결하려면 [탐색기에서 열기를 참조합니다.](https://go.microsoft.com/fwlink/?linkid=871665) 더 나은 대안으로 동기화를 탐색합니다. SharePoint 클라이언트와 동기화를 OneDrive 동기화 [합니다.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 

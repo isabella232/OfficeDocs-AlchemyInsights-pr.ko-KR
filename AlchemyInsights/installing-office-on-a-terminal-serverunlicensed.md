@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7e435df1515878ab4fe935ab8148daee29b8e3820095fc6e49db45de4c6279db
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 35ef317ea87fedd01c08fee5b370e3c81e515c27
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055164"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322005"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>터미널 Office 설치
 
@@ -28,8 +28,7 @@ ms.locfileid: "54055164"
 
 기본 설치 엔터프라이즈용 Microsoft 365 앱 사용하는 Microsoft 365 관리 센터 RDS에 설치하려면 다음 단계를 사용합니다.
 
-> [!TIP]
-> Microsoft 365를 다운로드하고 [실행하여](https://aka.ms/SaRA_OfficeSCA_M365Portal) 공유 지원 및 복구 도우미 정품 인증 엔터프라이즈용 Microsoft 365 앱 설치할 수 있습니다.
+    **Tip**: You can also download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) to install Microsoft 365 Apps for enterprise in shared computer activation mode.
   
 1. 구독을 Microsoft 365 확인 [방법 알아보기](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
