@@ -15,24 +15,22 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892433"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330674"
 ---
 # <a name="update-credit-card-information"></a>신용카드 정보 업데이트
 
 1. Microsoft 365 관리 센터에서 **청구** \> [결제 방법](https://go.microsoft.com/fwlink/p/?linkid=2018806) 페이지로 이동합니다.
 
-    > [!NOTE]
-    > 업데이트가 완료되기 전에 관리 홈페이지로 돌아가는 루프가 발생하면 Inprivate 또는 시크릿 모드를 사용해 보세요.
+    **참고**: 업데이트가 완료되기 전에 관리 홈페이지로 돌아가는 루프가 발생하면 Inprivate 또는 시크릿 모드를 사용해 보세요.
   
 2. 업데이트하려는 신용 카드를 선택합니다.
 
-    > [!NOTE]
-    > 다른 관리자가 결제 수단을 추가한 경우 해당 신용 카드 또는 은행 계좌 정보를 업데이트할 수 없습니다. 신용 카드가 곧 만료되고 다른 관리자가 신용 카드를 업데이트할 수 없는 경우 **결제 수단 추가** 를 선택하여 구독에 대해 다른 신용 카드나 새 은행 계좌를 추가하여 서비스 중단을 막을 수 있습니다.
+    **참고**: 다른 관리자가 결제 수단을 추가한 경우 해당 신용 카드 또는 은행 계좌 정보를 업데이트할 수 없습니다. 신용 카드가 곧 만료되고 다른 관리자가 신용 카드를 업데이트할 수 없는 경우 **결제 방법 추가** 를 선택하여 구독에 대해 다른 신용 카드나 새 은행 계좌를 추가하여 서비스 중단을 막을 수 있습니다.
   
 3. **결제 방법 세부 정보** 창에서 **편집** 을 선택합니다. 
 

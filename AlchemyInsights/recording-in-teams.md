@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: bf17bb3ed8bab2379b4435d23e5cc0e2491580a6128780b1e6166513e54c6abd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d9f6d700ad3fe35c10bcee198ee46cc7892c09eb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901298"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329556"
 ---
 # <a name="recording-in-teams"></a>Teams에서 녹음/녹화
 

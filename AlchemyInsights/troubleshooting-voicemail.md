@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 36ba65c1ee67631a8b3c24c3407f46e3304541c5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972389"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330750"
 ---
 # <a name="troubleshooting-voicemail"></a>음성메일 문제 해결
 
@@ -31,7 +31,7 @@ ms.locfileid: "53972389"
 1. 사용자 **관리를 선택합니다.**
 1. 사용자를 검색하고 통화 중 통화 중이 있는 정책으로 통화 정책을 변경하는 것은 해제로 전화를 걸 때 **사용할** 수 **있습니다.**
 1. **적용** 을 클릭합니다.
-> [!NOTE]
-> 정책 변경 내용을 복제하는 데 최대 24시간이 걸릴 수 있습니다.
+
+**참고:** 정책 변경 내용을 복제하는 데 최대 24시간이 걸릴 수 있습니다.
 
 이 기능에 대한 자세한 내용은 통화 중 사용 가능을 [참조하세요.](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)

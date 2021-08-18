@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9735"
 - "9003224"
-ms.openlocfilehash: 3ead2702c2fbd26b2e5596e26e9189c2f97baf93c93ec3cbd57f15c855b5128e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b365921d3ca64e8ad4bd3891e11add8043b2a903
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001478"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329832"
 ---
 # <a name="import-and-export-from-yammer"></a>Yammer에서 가져오기 및 내보내기
 
@@ -29,8 +29,7 @@ ms.locfileid: "54001478"
 - **기본이 아닌 모드**: 사용자는 [주소록에서 추가](https://support.microsoft.com/office/manage-yammer-community-members-75253554-d0f3-4148-b835-e6a9a8a0c294)를 사용하여 그룹 설정 내에서 (사용자 100명 이내로 제한) 그룹으로 가져오거나 네트워크 관리자 내에서 [일괄 업데이트](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users)를 사용하여 네트워크로 가져올 수 있습니다.
 - **기본 모드**: 그룹 멤버 자격 및 네트워크 멤버 자격 작업은 [Microsoft 365 관리 포털](https://docs.microsoft.com/microsoft-365/admin/add-users), [Azure AD 포털](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)또는 다른 Azure AD 옵션을 사용하여 수행해야 합니다. 기본 모드의 네트워크에서는 더 이상 대량 업데이트 및 기타 레거시 기능에 액세스할 수 없습니다.
 
-> [!IMPORTANT]
-> 데이터 내보내기 기능이 다른 네트워크에서 사용된 경우에도 Yammer는 네트워크 관리자 내에서 콘텐츠 가져오기 기능을 지원하지 않습니다. 콘텐츠는 파트너 솔루션 또는 Yammer REST API에 의해 다시 게시될 수 있습니다.
+    **중요**: 데이터 내보내기 기능이 다른 네트워크에서 사용된 경우에도 Yammer는 네트워크 관리자 내에서 콘텐츠 가져오기 기능을 지원하지 않습니다. 콘텐츠는 파트너 솔루션 또는 Yammer REST API에 의해 다시 게시될 수 있습니다.
 
 **내보내기**
 

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002564"
 - "4964"
-ms.openlocfilehash: ce6ef3c408456cdcd2a8627294508c703212d33d5fd97631e1529e3f05e91bdc
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 52c85712f81d8373a7c24d363fc3598e1fa4edd2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894745"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329240"
 ---
 # <a name="assign-power-bi-to-users"></a>사용자에게 Power BI 할당
 

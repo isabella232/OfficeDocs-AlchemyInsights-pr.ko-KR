@@ -19,12 +19,12 @@ ms.custom:
 - "9689"
 - "1500018"
 - "9690"
-ms.openlocfilehash: 7640630de510d802be03142129e71545aa145d515cc8a4b9adf79cdf8779844f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 07865696104f54eafefe5634a52db343f47bdec2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896421"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329704"
 ---
 # <a name="manually-pay-an-outstanding-balance"></a>미지불 잔액 정산
 

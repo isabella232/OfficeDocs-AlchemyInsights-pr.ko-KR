@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 78fc3eeae7fc8fe4cf620b21cf095e24978dd695
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998949"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328296"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>구독 관리 - 보안 및 규정 준수 요청 - Azure 산업 규정 준수 인증
 
@@ -38,8 +38,7 @@ ms.locfileid: "53998949"
 
 - **GDPR 준수:** 데이터 처리 계약에 대한 질문이 있는 경우 "온라인 서비스 약관"의 7페이지부터 "데이터 보호 약관"을 참조하세요. OST는 기본 데이터 처리 용어를 포함하지만 표준 상업용 계약에 통합됩니다. 무엇보다 GDPR 의무에 관한 계약 약정을 제공합니다. 또한 42페이지부터 "첨부 파일 4"의 계약 종료 시 GDPR 관련 약관을 참조하세요. 이 섹션에서는 데이터 프로세서 및 다른 데이터 프로세서에 대한 하위 프로세서로의 Microsoft GDPR 의무에 대해 설명합니다.
 
-> [!NOTE]
-> 다른 PDF 뷰어에 문제가 기록되어 있는 경우 Adobe Acrobat Reader를 사용하여 PDF 문서를 여는 것이 좋습니다. 브라우저 창에서 열지 않고 파일을 로컬로 다운로드하는 것이 좋습니다. 이 경우 오류가 발생할 수 있습니다.
+**참고:** 다른 PDF 뷰어에 문제가 기록되어 있는 경우 Adobe Acrobat Reader를 사용하여 PDF 문서를 여는 것이 좋습니다. 브라우저 창에서 열지 않고 파일을 로컬로 다운로드하는 것이 좋습니다. 이 경우 오류가 발생할 수 있습니다.
 
 - **HDS 규정 준수:** Azure는 이제 프랑스 요구 사항에 따라 인증된 "건강 데이터 호스팅"입니다. 자세한 내용은 "Microsoft Azure 인증을 받아야 프랑스에서 중요한 건강 데이터를 호스팅할 수 있습니다."를 참조하세요.
 
@@ -49,8 +48,7 @@ ms.locfileid: "53998949"
 
 - **하위 처리기** 변경에 대한 고객 알림: Microsoft 개인 데이터 하위 처리기 목록에 대한 변경 내용 알림을 받지 못하게 옵트인(opt in)할 수 있습니다.
 
-> [!NOTE]
-> 온라인 서비스 고객 데이터 및 개인 데이터 목록 알림은 완전히 자동화됩니다. 자세한 내용은 Microsofts Data Protection Resources를 참조하세요.
+**참고:** 온라인 서비스 고객 데이터 및 개인 데이터 목록 알림은 완전히 자동화됩니다. 자세한 내용은 Microsofts Data Protection Resources를 참조하세요.
 
 **추천 문서**
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 73f4b037ba2c68a7d4606942ff6af712091126d169079eef77007712959f58b5
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 9a68cc443b0f7dd2a706718cef1073bdf1a4ecd9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57885797"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329276"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>오디오 회의 브리지에 무료 번호 할당
 

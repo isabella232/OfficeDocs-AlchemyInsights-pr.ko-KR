@@ -16,12 +16,12 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 80b709c3474594858b3bc0e7104fdeb00343bee7cb2a5bdd414b791a1cb49564
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1cbd1e84557fcba3b5192ed06cd4b1162ba4e4ce
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899986"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330592"
 ---
 # <a name="view-my-bill-or-invoice"></a>내 청구서 또는 송장 보기
 

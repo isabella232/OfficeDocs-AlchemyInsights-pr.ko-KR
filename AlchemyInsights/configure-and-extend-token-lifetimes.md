@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7778"
 - "9004351"
-ms.openlocfilehash: 97e89feda45439dae59acca5817fdf359623d647997d08a5cbe4a6314fa6db3a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ce100fcc2c62d62477f78e10b3cc9233fc2f5c5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54044922"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329092"
 ---
 # <a name="configure-and-extend-token-lifetimes"></a>토큰 수명 구성 및 연장
 
@@ -34,8 +34,7 @@ Azure AD B2C(Azure Active Directory B2C)에서 토큰의 수명 및 호환성을
 
 토큰 수명은 1시간이고 세션 수명은 24시간입니다. 즉, 24시간 동안 요청이 없는 경우 새 토큰을 요청하기 전에 다시 로그인해야 합니다.
 
-> [!NOTE]
-> 2020년 5월 30일 이후에는 새 테넌트가 구성 가능한 토큰 수명 정책을 사용하여 세션 및 토큰을 구성할 수 없습니다. 그 후 몇 개월 이내에 더사용이 중단되며, 이는 곧 기존 세션에 대한 사용을 중단하고 토큰 정책을 새로 고치게 됩니다. 사용 중지 후에도 액세스 토큰 수명을 구성할 수 있습니다.
+**참고**: 2020년 5월 30일 이후에는 새 테넌트가 구성 가능한 토큰 수명 정책을 사용하여 세션 및 토큰을 구성할 수 없습니다. 그 후 몇 개월 이내에 더사용이 중단되며, 이는 곧 기존 세션에 대한 사용을 중단하고 토큰 정책을 새로 고치게 됩니다. 사용 중지 후에도 액세스 토큰 수명을 구성할 수 있습니다.
 
 
 

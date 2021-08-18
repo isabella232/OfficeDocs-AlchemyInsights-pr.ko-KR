@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 035c5301ebd06b1d39d0dd7e2f00ce058505c69f05630d7ad27fb5476ab4ef24
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901742"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330178"
 ---
 # <a name="canceling-your-subscription"></a>구독 취소
 
@@ -30,7 +30,6 @@ ms.locfileid: "57901742"
   
 **환불: 다음 청구 주기 내에 비분정 크레딧이 반환됩니다.**
 
-> [!NOTE]
-> 취소 옵션이 없는 경우 구독을 선택하여 세부 정보 페이지를 봐야 합니다. 구독 **및 결제 설정 섹션에서** 구독 **취소를 선택합니다.**
+**참고:** 취소 옵션이 없는 경우 구독을 선택하여 세부 정보 페이지를 봐야 합니다. 구독 **및 결제 설정 섹션에서** 구독 **취소를 선택합니다.**
 
 자세한 내용은 구독 [취소를 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

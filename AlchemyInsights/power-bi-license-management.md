@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002564"
 - "4969"
-ms.openlocfilehash: a5a6895c0adb3345309585d5c26b8bf4969a02a8b51cd7d537105f81c3d9ea4f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 6f6c10d349f000874a1eece493b05ba5c220b8c9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891044"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329612"
 ---
 # <a name="power-bi-license-management"></a>Power BI 라이선스 관리
 

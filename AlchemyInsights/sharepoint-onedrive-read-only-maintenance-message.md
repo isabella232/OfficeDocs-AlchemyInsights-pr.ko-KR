@@ -13,12 +13,12 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 376b653b18857103586e25edd0ad6801a7bbe0a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53910552"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329454"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only 사용하려고 할 때 유지 관리 메시지에 대한 SharePoint OneDrive
 
@@ -38,8 +38,6 @@ ms.locfileid: "53910552"
 2. 검색 **지우기에서** **지우기 대상 선택을 선택합니다.**
 3. 쿠키 **및 저장된 웹 사이트 데이터 를 선택하고** 지우기 **를 선택합니다.**
 
->[!Note] 
-> 이러한 단계는 Mozilla Firefox 또는 Google Chrome과 같은 다른 브라우저를 사용하는 경우 다를 수 있습니다.
+**참고:** Mozilla Firefox 또는 Google Chrome과 같은 다른 브라우저를 사용하는 경우 이러한 단계가 다를 수 있습니다.
 
->[!Note] 
-> 또 다른 옵션은 새 InPrivate 창에서 SharePoint 사이트 또는 OneDrive 열 수 있습니다.
+**참고:** 다른 옵션은 새 InPrivate 창에서 SharePoint 사이트 또는 OneDrive 여는 것입니다.

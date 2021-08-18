@@ -13,12 +13,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 949c447f2be86a0ee31f1f7d417f744e955cb926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085846"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328378"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>업데이트 및 SharePoint 버전 OneDrive 
 
@@ -39,7 +39,6 @@ ms.locfileid: "54085846"
 
 - [버전 제한](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
->[!Note] 
->사용자 Microsoft 365 경우 새 비즈니스용 OneDrive 라이브러리를 만들 때 버전 관리가 기본적으로 설정되고 문서의 마지막 500개 버전이 자동으로 저장됩니다. 이렇게 하면 중요한 문서나 데이터가 잃지 않도록 할 수 있습니다. 버전 관리 기능을 사용하도록 설정하지 않은 비즈니스용 OneDrive 사이트 또는 팀 사이트에 기존 라이브러리가 있는 경우 해당 라이브러리에 대해 버전 관리 기능을 사용할 수 있습니다.
+**참고:** Microsoft 365 경우 새 비즈니스용 OneDrive 라이브러리를 만들 때 버전 관리가 기본적으로 설정되고 문서의 마지막 500개 버전이 자동으로 저장됩니다. 이렇게 하면 중요한 문서나 데이터가 잃지 않도록 할 수 있습니다. 버전 관리 기능을 사용하도록 설정하지 않은 비즈니스용 OneDrive 사이트 또는 팀 사이트에 기존 라이브러리가 있는 경우 해당 라이브러리에 대해 버전 관리 기능을 사용할 수 있습니다.
 
 

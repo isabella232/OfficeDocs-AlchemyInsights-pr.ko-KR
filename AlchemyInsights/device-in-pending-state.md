@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d8a55f8c9a9fc30c653152c2f1b185874cea3ee
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53914009"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330378"
 ---
 # <a name="device-in-pending-state"></a>보류 중인 상태의 장치
 
@@ -40,8 +40,7 @@ ms.locfileid: "53914009"
     1. 장치는 먼저 레지스트리 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]의 클라이언트 쪽 SCP에서 테넌트 정보를 검색합니다. 자세한 내용은 문서를 [참조하세요.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)
     1. 오류가 발생하면 장치가 SCP에서 테넌트 정보를 얻기 위해 사내 Active Directory와 통신합니다. SCP를 확인하면 이 문서를 [참조합니다.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)
 
-    > [!NOTE]
-    > Active Directory에서 초기 유효성 검사를 위해 클라이언트 쪽 SCP만 사용하여 SCP를 사용하도록 설정하는 것이 좋습니다.
+    **참고:** Active Directory에서 SCP를 사용하도록 설정하고 초기 유효성 검사를 위해 클라이언트 쪽 SCP만 사용하는 것이 좋습니다.
 
 2. Windows 10 Azure AD에 대해 인증하기 위해 시스템 컨텍스트에서 Azure AD와 통신을 합니다.
 
@@ -55,11 +54,9 @@ ms.locfileid: "53914009"
 
 6. 다음에 로그인하여 Windows 10 등록이 완료됩니다.
 
-    > [!NOTE]
-    > VPN을 사용 중일 때 로그프/로그인이 도메인 연결을 종료하는 경우 수동으로 등록을 트리거할 수 있습니다. 이를 위해
-    >
-    > 관리자 `dsregcmd /join` 프롬프트에서 로컬로 발급하거나 PSExec을 통해 PC로 원격으로 발급합니다.
-    >
-    > 예: `PsExec -s \\win10client01 cmd, dsregcmd /join`
+    **참고:** VPN을 사용 중일 때 로그프/로그인이 도메인 연결을 종료하는 경우 수동으로 등록을 트리거할 수 있습니다. 이를 위해
+    
+    관리자 `dsregcmd /join` 프롬프트에서 로컬로 발급하거나 PSExec을 통해 PC로 원격으로 발급합니다.\
+    예: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
 장치 등록에 Azure Active Directory 일반적인 문제는 [장치 FAQ 를 참조하세요.](https://docs.microsoft.com/azure/active-directory/devices/faq)

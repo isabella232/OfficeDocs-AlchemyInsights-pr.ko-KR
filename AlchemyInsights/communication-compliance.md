@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090742"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329924"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Microsoft 365의 커뮤니케이션 규정 준수
 
@@ -43,5 +43,4 @@ ms.locfileid: "54090742"
 
 위의 것이 없는 경우 커뮤니케이션 규정 준수를 시도하려는 경우 E5 의 **[평가판에 Office 365 Enterprise.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
-> [!NOTE]
-> 정책에서 전자 메일 메시지가 완전히 처리되는 데 최대 24시간이 걸릴 수 있습니다. 정책에서 Microsoft Teams, Yammer 및 타사 플랫폼의 통신을 완전히 처리하기까지 최대 48시간이 걸릴 수 있습니다.
+**참고:** 정책에서 전자 메일 메시지가 완전히 처리되는 데 최대 24시간이 걸릴 수 있습니다. 정책에서 Microsoft Teams, Yammer 및 타사 플랫폼의 통신을 완전히 처리하기까지 최대 48시간이 걸릴 수 있습니다.

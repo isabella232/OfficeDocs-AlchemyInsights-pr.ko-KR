@@ -15,12 +15,12 @@ ms.custom:
 - "10979"
 - "9004625"
 - "9006450"
-ms.openlocfilehash: 4f1a006b24fe77438bc0d54d72bec440128740ac417d7a9dfc93c90d8f0d49ad
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ae8fc8dc329bb631db313cd576a0f121e7a7179a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889508"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330638"
 ---
 # <a name="use-tracking-prevention-in-microsoft-edge-chromium"></a>Microsoft Edge(Chromium)에서 추적 방지 사용
 
