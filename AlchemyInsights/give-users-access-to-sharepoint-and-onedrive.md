@@ -12,17 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: e3d645f3c45525107f42a074899a30ef26bd559e5c5657e7b8ef69d406357b32
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c27997b1bca1d47ad876a0a6941607517912333
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088906"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333129"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>사용자에게 사용자 및 SharePoint 액세스 OneDrive
 
-> [!NOTE]
-> 이전에 액세스한 OneDrive SharePoint 사이트 또는 사이트가 제공되지 않는 경우 일시적인 서비스 문제가 있을 수 있습니다. [서비스 상태 대시보드 확인](https://portal.office.com/adminportal/home#/servicehealth)
+**참고:** OneDrive SharePoint 이전에 액세스한 여러 사용자가 사이트 또는 사이트 사이트를 사용할 수 없는 경우 일시적인 서비스 문제가 있을 수 있습니다. [서비스 상태 대시보드 확인](https://portal.office.com/adminportal/home#/servicehealth)
   
 조직의 사용자가 로그인하고 SharePoint 및 OneDrive 사용할 수 있게 하려는 경우 해당 사용자에 대한 계정을 추가하고 해당 사용자에게 SharePoint 및 OneDrive. 사용자를 추가하는 가장 쉬운 방법은 사용자 Microsoft 365 관리 센터.
   

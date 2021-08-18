@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088870"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333165"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Teams 라이브 이벤트 시작
 
@@ -27,7 +27,9 @@ Microsoft Teams 라이브 이벤트는 대규모 온라인 사용자에게 스�
 
 - 먼저, Teams 라이브 이벤트가 [사용자의 국가 및 지역에서 사용이 가능](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability)한지를 확인합니다. 라이브 이벤트는 일부 국가에서는 아직 지원되지 않습니다.  라이선스를 할당하고 정책을 설정했지만 여전히 Teams 라이브 이벤트를 만들 수 없는 경우, 라이브 이벤트를 아직 사용할 수 없는 국가나 지역에 있을 수 있습니다.
 
-- [Office 365 Enterprise E1, E3 또는 E5 라이선스 또는 Office 365 A3 또는 A5 라이선스](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **참고**: 최근 Teams 사용량이 증가하여 Teams 라이선스를 사용자에게 할당할 경우 완전히 설정할 때까지 24시간 정도 걸릴 수 있습니다. 그런 다음, Teams 정책을 할당할 수 없으며 전화 및 오디오 회의와 같은 일부 Teams 기능에 액세스하지 못할 수 있습니다.
+- [Office 365 Enterprise E1, E3 또는 E5 라이선스 또는 Office 365 A3 또는 A5 라이선스](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
+
+    **참고**: 최근 Teams 사용량이 증가하여 Teams 라이선스를 사용자에게 할당할 경우 완전히 설정할 때까지 24시간 정도 걸릴 수 있습니다. 그런 다음, Teams 정책을 할당할 수 없으며 전화 및 오디오 회의와 같은 일부 Teams 기능에 액세스하지 못할 수 있습니다.
 
 - [Microsoft Teams 관리 센터에서 라이브 이벤트를 만들기 위한](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy) 권한
 

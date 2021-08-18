@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 61372075ac8ccf04606a8003b4ec29f89fc048e5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894469"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332385"
 ---
 # <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>금고 Online, SharePoint 및 OneDrive 첨부 파일에 Microsoft Teams
 
@@ -28,11 +28,8 @@ ms.locfileid: "57894469"
 2. 첨부 **금고 페이지에서** 전역 설정을 **클릭합니다.**
 3. 플라이아웃이 나타나면 에 대해 **Microsoft Defender에서** Office 365, SharePoint, OneDrive 및 Microsoft Teams 를 **선택합니다.**
 
-    > [!TIP]
-    >
-    > 다음 단계를 수행하여 금고, 첨부 파일 및 SharePoint, OneDrive 보호를 Microsoft Teams.
-    >
-    > - 사용자가 악성 파일을 다운로드하지 못하게 방지하려면 SharePoint `$true` Online PowerShell의 **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** cmdlet에서 *DisallowInfectedFileDownload* 매개 변수의 값을 사용합니다. 자세한 내용은 SharePoint Online PowerShell을 사용하여 사용자가 악성 파일을 다운로드하지 못하게 [합니다.를 참조하세요.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)
-    > - [검색된 파일에 대한 경고 정책 만들기](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
+    **팁:** 다음 단계를 수행하여 금고, 파일 및 SharePoint 첨부 OneDrive 보호를 Microsoft Teams.
+    - 사용자가 악성 파일을 다운로드하지 못하게 방지하려면 SharePoint `$true` Online PowerShell의 **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** cmdlet에서 *DisallowInfectedFileDownload* 매개 변수의 값을 사용합니다. 자세한 내용은 [Use SharePoint Online PowerShell to prevent users from downloading malicious files을 참조하세요.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)
+    - [검색된 파일에 대한 경고 정책 만들기](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
 자세한 내용은 금고, Office 365 및 에 대한 SharePoint 첨부 OneDrive [Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)

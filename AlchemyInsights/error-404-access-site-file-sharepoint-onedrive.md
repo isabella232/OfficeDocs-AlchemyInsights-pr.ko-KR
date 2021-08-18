@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 6818f0e5bd82bd7f8f4e955749aa0defecc5b5d947383de4571c23a4bd316497
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4f64426642e8213176b29d55b3091249762b4fa3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54117778"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333271"
 ---
 # <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>오류 404: 파일 또는 SharePoint 찾을 수 OneDrive
 
-404 찾을 수 없는 오류가 발생하는 경우 [오류: 404 파일/페이지를](/sharepoint/troubleshoot/administration/error-404-onedrive-sharepoint)찾을 수 OneDrive 또는 SharePoint.
+404 찾을 수 없는 오류가 발생하는 경우 [오류: 404 파일/페이지를](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-404-onedrive-sharepoint)찾을 수 OneDrive 또는 SharePoint.

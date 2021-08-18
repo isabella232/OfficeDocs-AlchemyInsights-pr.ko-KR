@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9001727"
 - "3824"
-ms.openlocfilehash: dded19e22d59df01c30685d8666b0c5837d8e0e8552e0c0bddd549b268ee20d8
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 2d4e344d56dee84634f37624b5b3dfc1e8d5a098
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499122"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331419"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Microsoft 구독 취소하기
 

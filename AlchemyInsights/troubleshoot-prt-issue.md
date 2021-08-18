@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a005c4a6848bbf0725560375df1220ce906cbb5f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972722"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330965"
 ---
 # <a name="troubleshoot-prt-issue"></a>PRT 문제 해결
 
@@ -34,8 +34,7 @@ ms.locfileid: "53972722"
     1. 장치는 먼저 레지스트리 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]의 클라이언트 쪽 SCP에서 테넌트 정보를 검색합니다. 자세한 정보는 이 [문서](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)를 참조하세요.
     2. 오류가 발생하면 장치가 SCP(서비스 연결 지점)에서 테넌트 정보를 얻기 위해 사내 AD(Active Directory)와 통신합니다. SCP를 확인한 후 이 문서를 [참조하시기 바랍니다.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point) 
 
-> [!NOTE]
-> AD에서 SCP를 사용하도록 설정하고 초기 유효성 검사를 위해 클라이언트 쪽 SCP만 사용하는 것이 좋습니다.
+**참고:** AD에서 SCP를 사용하도록 설정하고 초기 유효성 검사를 위해 클라이언트 쪽 SCP만 사용하는 것이 좋습니다.
 
 2. Windows 10 Azure AD에 대해 인증하기 위해 시스템 컨텍스트에서 Azure AD와 통신을 합니다. 장치 등록 연결 테스트 스크립트를 사용하여 장치가 시스템 계정의 Microsoft 리소스에 액세스할 수 있는지 확인할 수 있습니다.
 
@@ -47,8 +46,7 @@ ms.locfileid: "53972722"
 
 6. 다음에 로그인하여 Windows 10 등록이 완료됩니다. 
 
-> [!NOTE]
-> VPN을 사용 중일 때 로그프 로그인 프로세스로 도메인 연결이 종료되면 수동으로 등록을 트리거할 수 있습니다.
+**참고:** VPN을 사용 중일 때 로그프 로그인 프로세스로 도메인 연결이 종료되면 수동으로 등록을 트리거할 수 있습니다.
  1. 관리자 프롬프트에서 로컬로 또는 PSExec을 통해 PC에 원격으로 dsregcmd /join을 발급합니다. 예를 들어 PsExec -s \\ win10client01 cmd, dsregcmd /join
 
  2. 하이브리드 가입 문제에 대한 자세한 내용은 장치 문제 [해결을 참조합니다.](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082408"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332441"
 ---
 # <a name="change-a-users-email-address"></a>사용자의 전자 메일 주소 변경
 
@@ -31,7 +31,7 @@ ms.locfileid: "54082408"
     
 4. 별칭 **상자에** 새 전자 메일을 입력한 다음 추가 를 **선택합니다.**
     
-    **중요**: "매개 변수 이름 **'EmailAddresses"에** 일치하는 매개 변수를 찾을 수 없습니다." 오류 메시지가 표시될 경우 Microsoft에서 테넌트 또는 최근에 사용자 지정 도메인을 추가한 경우 사용자 지정 도메인 설정을 완료하는 데 시간이 좀 더 오래 드는 것입니다. 설정 프로세스를 완료하는 데 최대 4시간이 걸릴 수 있습니다. 설정 프로세스가 완료될 때까지 기다린 후 다시 시도하세요. 문제가 계속되는 경우 고객 지원에 문의하면 전체 동기화를 수행해 드립니다.
+    **중요:**"매개 변수 이름 **'EmailAddresses"에** 일치하는 매개 변수를 찾을 수 없습니다." 오류 메시지가 표시될 경우 Microsoft에서 테넌트 또는 최근에 사용자 지정 도메인을 추가한 경우 사용자 지정 도메인 설정을 완료하는 데 시간이 좀 더 오래 드는 것입니다. 설정 프로세스를 완료하는 데 최대 4시간이 걸릴 수 있습니다. 설정 프로세스가 완료될 때까지 기다린 후 다시 시도하세요. 문제가 계속되는 경우 고객 지원에 문의하면 전체 동기화를 수행해 드립니다.
     
     "죄송합니다. 사용자를 편집할 **수 없습니다. 사용자 정보를 검토하고**"다시 시도하세요." 다시 시도하면 전역 관리자가 아니며 사용자 이름을 변경할 수 있는 권한이 없습니다.
     

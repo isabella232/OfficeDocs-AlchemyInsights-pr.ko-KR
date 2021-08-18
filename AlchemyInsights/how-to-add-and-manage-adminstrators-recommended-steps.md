@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963793"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339038"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>관리자를 추가 및 관리하는 방법 - 권장 단계
 
@@ -46,7 +46,7 @@ ms.locfileid: "53963793"
 3. **IAM(액세스 제어)** 클래식 관리자 추가 공동 관리자 추가로 이동하여 공동 관리자 추가 창을 열 수 있습니다(공동 관리자 추가 옵션을 사용하지 않도록 설정하면 권한이 없다는  >    >    >   것입니다). 
 4. 추가할 사용자를 선택하고 추가 를 **클릭합니다.**
 
-**더 알아보세요:**
+**자세한 정보:**
 - [공동 관리자 추가](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
 - [공동 관리자 제거](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
 - [서비스 관리자 변경](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
@@ -75,7 +75,7 @@ Azure AD(Azure AD) 조직에서 새 사용자를 추가하거나 기존 사용�
 - [자습서: RBAC 및 Azure Portal을 사용하여 사용자에게 액세스 권한 부여](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Azure에서 RBAC 문제 해결](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Azure 관리 그룹을 사용하여 리소스 구성](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [전자 메일을 통해 Azure 송장 복사본을 요청하는 방법](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [전자 메일을 통해 Azure 송장 복사본을 요청하는 방법](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Azure에서 신용 카드 또는 직불 카드를 추가, 업데이트 또는 제거하는 방법](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [구독 관리(다시 활성화/취소/전환)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

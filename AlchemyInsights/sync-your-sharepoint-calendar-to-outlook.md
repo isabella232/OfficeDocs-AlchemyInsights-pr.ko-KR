@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 8ea1a6bf5b02f804014eb6841e774a67e2e6b23dd6a0758c48f05271644f1601
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ca2ec22177b3fbe2ba4d82ae7482e3a1dcc00a37
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54008885"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331665"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>일정을 장치와 동기화하는 데 문제가 있습니다.
 
@@ -31,7 +31,6 @@ SharePoint 일정은 그룹 일정과 때때로 혼동되는 클래식 Microsoft
 3. 클래식 리본 메뉴에서 일정 을 클릭한 다음 커넥트 **클릭하여** Outlook.
 4. 동기화를 확인하는 팝업에서 허용을 **클릭합니다.**
 
->[!Note]
-> 동기화된 일정을 변경하면 Outlook 일정에 표시될 SharePoint 일정에 표시됩니다.
+**참고:** 동기화된 일정을 변경하면 Outlook 일정에 변경이 SharePoint 표시됩니다.
 
 그룹에 대한 자세한 Microsoft 365 이 문서를 [참조하세요.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)

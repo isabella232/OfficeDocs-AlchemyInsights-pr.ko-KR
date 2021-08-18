@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: 19b9471a610305fb25e61359d455d1824c5bec6033fd603da265af9333543ccc
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 40c443711d4974a41ff3a3848ceabd4d068f845d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898430"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332599"
 ---
 # <a name="self-service-password-reset-sspr"></a>SSPR(셀프 서비스 암호 재설정)
 

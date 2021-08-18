@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: ea5000a06f86c0bc33cb057b67f6001fd1a4d5bddd39ac3324cd3b5c74ecdae7
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e08dbb4bbc0a1bbaef5e90e4fc21ee87ae90b80
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900694"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330868"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>OneDrive로의 로그인 문제 해결
 

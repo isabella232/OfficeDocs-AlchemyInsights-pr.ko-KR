@@ -16,12 +16,12 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: 12dbc4208afebc4f7e812a0a418df8a0d6871b1952d4c3896326c2c1e72deff2
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 54527a4b72be37864f9f6d0dd007c7f0c7b8e0c1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503334"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332665"
 ---
 # <a name="price-doesnt-look-correct"></a>가격이 정확하지 않은가요?
 

@@ -14,12 +14,12 @@ ms.custom:
 - "12673"
 - "12731"
 - "9007646"
-ms.openlocfilehash: 1ad09c906060e0ce117995839a2d83c4f97859634b906f99f0b6c0d72a4efa9e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 883bdfb4801a9beb8eacf17dd9b675b3353084ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53942417"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331629"
 ---
 # <a name="temporary-mail-flow-delay-for-bulk-emails"></a>대량 전자 메일에 대한 임시 메일 흐름 연기
 
@@ -27,6 +27,6 @@ ms.locfileid: "53942417"
 
 "432 4.3.21 사서함 서버 사용 중, 메일이 의도적으로 지연되었습니다."
 
-이는 예정된 유지 관리 기간입니다. Microsoft는 전자 메일이 적시에 성공적으로 배달되도록 하는 것이 중요하다는 것을 이해하므로 대량이 아닌 전자 메일 메시지를 우선적으로 처리합니다. 
+이 항목은 예정된 유지 관리 기간입니다. Microsoft는 전자 메일이 적시에 성공적으로 배달되도록 하는 것이 중요하다는 것을 이해하므로 대량이 아닌 전자 메일 메시지를 우선적으로 처리합니다. 
 
 이 시간 동안 대량 메일 발송이 지연될 수 있습니다. 영향을 받는 모든 전자 메일은 24시간 이내에 자동으로 배달됩니다.
