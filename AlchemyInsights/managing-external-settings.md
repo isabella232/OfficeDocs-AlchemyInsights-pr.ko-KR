@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8322"
 - "9003227"
-ms.openlocfilehash: 7caf46f9988ddbcbb16c0a2751dbda85bd7da34c
-ms.sourcegitcommit: 616ae0cbd5769e12ae428e00088840cf05e52b6a
+ms.openlocfilehash: a988d792c51a81eac9aad3e8b2cd20fec9b2df51766f8919312e933a806e47ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50282834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114718"
 ---
 # <a name="managing-external-settings"></a>외부 설정 관리
 
@@ -34,7 +34,7 @@ ms.locfileid: "50282834"
 **게스트 사용자 액세스 권한 관리**
 
 1. 전역 관리자는 외부 공동 작업 설정 페이지에서 게스트 액세스 권한을 구성하여 Azure Portal을 통해 디렉터리의 게스트 액세스 권한을 관리할 수 있습니다. [이 설정에 대해 자세히 알아보세요](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions?WT.mc_id=Portal-Microsoft_Azure_Support).
-2. 게스트가 Teams 또는 SharePoint와 같은 앱에 액세스하도록 하려면 게스트 액세스를 허용하도록 해당 앱을 구성했는지 확인합니다. [Teams 설정](https://docs.microsoft.com/microsoftteams/guest-access?WT.mc_id=Portal-Microsoft_Azure_Support) 및 [Sharepoint](https://docs.microsoft.com/sharepoint/external-sharing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)에 대해 자세히 알아보세요.
+2. 게스트가 Teams 또는 SharePoint와 같은 앱에 액세스하도록 하려면 게스트 액세스를 허용하도록 해당 앱을 구성했는지 확인합니다. [Teams 설정](https://docs.microsoft.com/microsoftteams/guest-access?WT.mc_id=Portal-Microsoft_Azure_Support) 및 [SharePoint](https://docs.microsoft.com/sharepoint/external-sharing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)에 대해 자세히 알아보세요.
 
 **초대 구성:**
 

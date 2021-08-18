@@ -16,12 +16,12 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 598701d6883132c20d13345db846356a5cc89b6a2ca6f76a8a6a05c57e494f8b
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 0ab2a4575f360abd4757d25626a1ab3d5888b887
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503206"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318202"
 ---
 # <a name="compare-microsoft-365-for-business"></a>비즈니스 Microsoft 365 비교
 

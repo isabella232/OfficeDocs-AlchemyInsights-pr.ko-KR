@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10024"
 - "9003951"
-ms.openlocfilehash: 3b5208c203935a2a4315ebd6bcfd574017bef0f2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c755c5fd417ebff22548c3ba59e5f5628d5a14a6acdb38950737ea70b9e545c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803024"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114826"
 ---
 # <a name="manage-surface-pro-x-devices"></a>Surface Pro X 장치 관리
 

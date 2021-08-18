@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9951"
 - "9005721"
-ms.openlocfilehash: bc8c288bc492f7c4c4a2d7114bd32ca51425a065
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: db5637da389bc5b583ea996a034e4664986b1275e06d8952c1a64d6f8aa302d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089662"
 ---
 # <a name="send-feedback-to-microsoft-with-feedback-hub"></a>피드백 허브로 Microsoft로 피드백 보내기
 

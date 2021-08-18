@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 538c79344fc9a10b3400a79c2d2aa1b0e6d99fe2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976979"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318386"
 ---
 # <a name="how-to-update-email-settings-in-outlook-for-pc"></a>PC용 Outlook 전자 메일 설정을 업데이트하는 방법
 
@@ -31,8 +31,7 @@ ms.locfileid: "53976979"
 
 5. 수신 또는 나가는 서버 포트 또는 SSL 설정을 업데이트해야 하는  경우 고급 탭으로 이동하여 원하는 내용을 변경합니다.
 
-> [!NOTE]
-> **AOL 및 Verizon** 고객의 경우: 수신 및 발신 서버 암호화  연결의 드롭다운 상자에서 **SSL/TLS를** 선택하면 2017년 11월 7일 이후에도 전자 메일을 보내고 받을 수 있습니다.
+    **참고:** AOL 및 **Verizon** 고객의 경우: 수신 및 발신 서버  암호화 연결의 드롭다운 상자에서 **SSL/TLS를** 선택하면 2017년 11월 7일 이후에도 전자 메일을 보내고 받을 수 있습니다.
 
 6. 설정 업데이트가 완료되면 **확인,** 다음, 마친을 **클릭합니다.**
 

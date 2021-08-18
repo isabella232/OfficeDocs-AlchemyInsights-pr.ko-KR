@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 0dc2ecfa0bb5703c619dc1b2d6b4d517f999da0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bfa66492397adfd121fd3c9ddb2c190394cbc9a771a3e2c2db656ad438e404f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823973"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114784"
 ---
 # <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>기본 전자 메일 주소를 설정하거나, 사용자 특성을 변경하거나, 동기화된 사용자를 제거/삭제할 수 없습니다.
 
-사용자 환경에 대해 디렉터리 동기화를 사용하도록 설정한 경우 Microsoft 365 관리 센터를 사용하여 일부 사용자 또는 개체 특성을 변경할 수 없습니다.
+사용자 환경에 대해 디렉터리 동기화를 사용하도록 설정한 경우 사용자 또는 개체 특성 중 일부를 사용자 또는 개체 특성을 변경할 수 Microsoft 365 관리 센터.
 
 동기화된 사용자와 모든 특성을 완전히 관리하기 위해 로컬 Active Directory 사용자 및 그룹 관리 콘솔(adsiedit.msc)을 사용하세요.  
 

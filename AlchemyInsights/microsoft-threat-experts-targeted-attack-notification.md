@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: afc210b65353d2487884070aadb3455a3b510fa7f2ef2800bef31cb77a5f1751
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012134"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901474"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft 위협 전문가 - 대상 공격 알림
 
@@ -38,4 +38,4 @@ ms.locfileid: "54012134"
 
 전자 메일을 통해 대상 공격 알림을 받으면 전자 메일 알림 규칙을 생성합니다. 
 
-자세한 [내용은 Microsoft 위협 전문가 기능 구성](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) 및 관리를 참조합니다.
+자세한 [내용은 Microsoft 위협 전문가 기능 구성](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) 및 관리를 참조합니다.

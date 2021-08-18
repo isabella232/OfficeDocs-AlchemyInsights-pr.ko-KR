@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: cd3d7d272552d5cd3f21f41160522001d79339d84a6d2259e1b1868deee66ef0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 741d22c4231886b385b0bc2361e429929ef58f4b84d56e51186f129fc5d07921
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087250"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901594"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>네트워크 SharePoint 라이브러리 매핑
 
@@ -24,8 +24,8 @@ ms.locfileid: "54087250"
 
 새 OneDrive 동기화 대신 드라이브를 매핑하기로 선택한 경우 다음 단계를 따라야 합니다. [](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88)
 
-- [SharePoint Online에 연결하는 매핑된 네트워크 드라이브 문제 해결](/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+- [SharePoint Online에 연결하는 매핑된 네트워크 드라이브 문제 해결](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
 
-- [클라이언트가 TLS 1.2를 지원하지 않는 경우 인증 오류가 발생합니다.](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
+- [클라이언트가 TLS 1.2를 지원하지 않는 경우 인증 오류가 발생합니다.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
 
 **참고:** Internet Explorer 10 또는 Windows 8 Windows 7과 함께 Windows 드라이브를 매핑할 때 **Access가** 거부되거나 **경로에** 액세스할 수 없는 경우 이 핫픽스를 설치하여 이 문제를 [해결합니다.](https://support.microsoft.com/topic/error-when-you-open-a-sharepoint-document-library-in-windows-explorer-or-map-a-network-drive-to-the-library-after-you-install-internet-explorer-10-96e640ba-059f-9b09-bb91-2a0319ee8b1d)

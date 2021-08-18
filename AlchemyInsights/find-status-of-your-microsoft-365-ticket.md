@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002251"
 - "4362"
-ms.openlocfilehash: 3ddf6b87ec40f9b91e47cc2938c9160a9158a8d3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e574fd9edda3547e9257741d99f370449e2c171369fc5ef941cadc4e70060f0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813046"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089626"
 ---
 # <a name="find-the-status-of-your-microsoft-365-ticket"></a>Microsoft 365 티켓 상태 확인
 

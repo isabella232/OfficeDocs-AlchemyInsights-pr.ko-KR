@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002575"
 - "5030"
-ms.openlocfilehash: 091d635af2027f29aae66a2ef7a8c8ce77c4393d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4499475ad21418b57341e23c3e3ce0afb58a14834fcb2115e4dffc9881f1b6cf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836465"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115042"
 ---
 # <a name="license-reservation-does-not-show"></a>라이선스 예약에서 표시되지 않음
 

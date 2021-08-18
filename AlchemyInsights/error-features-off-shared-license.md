@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9811"
 - "9005394"
-ms.openlocfilehash: 573a1906b1dc4f5f413bf0e14fdd962ff8e8bb74
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 2e0968cd870f068beb7a6c0f6135ca218899a73bb68840b983f515bbc760b3ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898220"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090058"
 ---
 # <a name="error-most-features-are-turned-off-because-a-shared-computer-license"></a>오류: 공유 컴퓨터 라이선스를 사용할 수 없으므로 대부분의 기능이 해제되어 있습니다...
 

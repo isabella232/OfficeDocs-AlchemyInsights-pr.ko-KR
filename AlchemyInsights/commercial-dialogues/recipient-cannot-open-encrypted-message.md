@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 336e1906526c07d8db51f61a867fef9ff87c871c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967159"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317748"
 ---
 # <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>보호된 메시지를 볼 수 있는 문제를 Outlook
 
@@ -28,8 +28,7 @@ ms.locfileid: "53967159"
 
 1. 사용되는 전자 메일 클라이언트에 따라 메시지 읽기 또는 유사한 **프롬프트를** 클릭합니다. 사용자는 로그인하여 일회용 코드를 받을 수 있는 페이지로 리디렉션됩니다.
 
-> [!NOTE]
-> Gmail 사용자의 경우 Gmail로 로그인할지 묻는 요청이 표시됩니다. 허용을 클릭하면 메시지가 새 탭에서 **열립니다.**
+    **참고:** Gmail 사용자의 경우 Gmail로 로그인할지 묻는 요청이 표시됩니다. 허용을 클릭하면 메시지가 새 탭에서 **열립니다.**
 
 2. 전자 메일에서 일회용 코드를 확인한 다음 브라우저 창에 해당 코드를 입력합니다.
 

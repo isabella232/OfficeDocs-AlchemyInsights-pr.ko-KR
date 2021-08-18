@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: 2117e6bf5b8c39216d273e5970ca8cbe6ac8ec62
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 74d32a4c452e9dab0b52846fdc1baf7bb282ece40cfe2c11b041be355f23882a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089590"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>해결됨 - "현재 Office 라이선스가 할당되지 않음"
 
