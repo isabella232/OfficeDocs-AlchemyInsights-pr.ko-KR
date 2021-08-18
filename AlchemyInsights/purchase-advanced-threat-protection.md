@@ -15,16 +15,16 @@ ms.custom:
 - commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: d1d0a481ee5d5803a5ff1205bc167bf301902cbdceccf0a6ceb8497ebc65e54a
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 46a734244b2eedc6da69738dc19e51513d165c2cb1afc3ab99e91a856e20f674
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503118"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901030"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-Office 365용 Microsoft Defender는 Microsoft 365 E5, Office 365 E5, Office 365 A5, Microsoft 365 Business Premium 등의 특정 구독에 포함되어 있습니다. 구독에 microsoft Defender for Office 365 포함되어 있지 않은 경우 특정 구독에 대한 추가 Office 365 Microsoft [Defender를](/microsoft-365/security/office-365-security/office-365-atp) 구입할 수 있습니다. 다음을 통해 구매 Microsoft 365 관리 센터.
+Office 365용 Microsoft Defender는 Microsoft 365 E5, Office 365 E5, Office 365 A5, Microsoft 365 Business Premium 등의 특정 구독에 포함되어 있습니다. 구독에 microsoft Defender for Office 365 포함되어 있지 않은 경우 특정 구독에 대한 추가 Office 365 Microsoft [Defender를](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) 구입할 수 있습니다. 다음을 통해 구매 Microsoft 365 관리 센터.
 
 1. 관리 센터에서 청구 구매 서비스  >  [페이지로](https://go.microsoft.com/fwlink/p/?linkid=868433) 이동합니다.
 2. 서비스 구매 페이지의  아래쪽에 있는  추가 기능 섹션에서 추가 기능용 Microsoft Defender를 Office 365 세부 정보를 **선택합니다.**
@@ -33,6 +33,6 @@ Office 365용 Microsoft Defender는 Microsoft 365 E5, Office 365 E5, Office 365 
 5. 필요한 경우 주문 및 가격 정보를 검토하고 다음 을 **선택합니다.**
 6. 결제 방법을 선택하거나 새 결제 방법을 추가한 다음 주문 관리  >  **홈으로 이동을 선택합니다.**
 
-사용자에게 라이선스를 할당하기 위해 사용자에게 라이선스 할당을 [참조합니다.](/microsoft-365/admin/manage/assign-licenses-to-users)
+사용자에게 라이선스를 할당하기 위해 사용자에게 라이선스 할당을 [참조합니다.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-라이선스를 더 구매하거나 라이선스를 제거하려면 [라이선스 구입 또는 제거](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)를 참조하세요.
+라이선스를 더 구매하거나 라이선스를 제거하려면 [라이선스 구입 또는 제거](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)를 참조하세요.

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: 762995215f5b4f5957f1f452a71efe5f20c9a9fe84ab1255a59fb7e67dda15fa
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502974"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900962"
 ---
 # <a name="purchase-power-bi"></a>구매 Power BI
 
@@ -33,6 +33,6 @@ Power BI 에서 구매할 **수 Microsoft 365 관리 센터.**
 5. 가격 정보를 검토하고 다음 을 **선택합니다.**
 6. 결제 정보를 제공하고 주문 관리  >  **홈으로 이동을 선택합니다.**
 
-사용자에게 라이선스를 할당하기 위해 사용자에게 라이선스 할당을 [참조합니다.](/microsoft-365/admin/manage/assign-licenses-to-users)
+사용자에게 라이선스를 할당하기 위해 사용자에게 라이선스 할당을 [참조합니다.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-라이선스를 더 구입하거나 제거하려면 비즈니스 구독에 대한 라이선스 구입 [또는 제거를 참조하세요.](/microsoft-365/commerce/licenses/buy-licenses)
+라이선스를 더 구입하거나 제거하려면 비즈니스 구독에 대한 라이선스 구입 [또는 제거를 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

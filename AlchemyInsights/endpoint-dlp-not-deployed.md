@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11470"
 - "9000292"
-ms.openlocfilehash: fa0e2766e1526d8e81cb247029e7c0fd98630b96
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 56783b007b5eebc7ca671247f24f5b513b9d8f5c321f59a63170425c2d376a94
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316824"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900254"
 ---
 # <a name="endpoint-dlp-not-deployed-to-users-device"></a>엔드포인트 DLP가 사용자의 장치에 배포되지 않음
 

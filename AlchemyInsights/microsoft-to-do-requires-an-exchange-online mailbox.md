@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5751"
 - "9003043"
-ms.openlocfilehash: 3f31263e938df7019753ab44231c3f7fedea8a4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10ea96671133724dea312ef6b51a4a0ceb974050d8bd0dbdd9e89b895e76e671
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777790"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113962"
 ---
 # <a name="microsoft-to-do-requires-an-exchange-online-mailbox"></a>Microsoft To Do에는 Exchange 온라인 편지함이 필요합니다.
 

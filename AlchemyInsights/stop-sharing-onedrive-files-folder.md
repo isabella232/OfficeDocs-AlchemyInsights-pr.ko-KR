@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3169"
-ms.openlocfilehash: a70c62351d549111390dadcbe195fe273cd30000c638d765822e43d0ccd07dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0ebe6cbc730d2b3de6cbbe471d17c9ee8caeeee8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889600"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317406"
 ---
 # <a name="how-to-stop-sharing-onedrive-or-sharepoint-files-or-folders"></a>파일 또는 폴더 공유를 OneDrive SharePoint 중지하는 방법
 

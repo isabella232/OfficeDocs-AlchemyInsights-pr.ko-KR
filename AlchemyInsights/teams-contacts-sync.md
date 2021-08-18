@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004610"
 - "11540"
-ms.openlocfilehash: 0ffa91f0e31a4904db87f0df6d9b4c51b05ae2758a5ce0d96c77ef4456f6d033
-ms.sourcegitcommit: 71501cde5bcb73f4dcf23944d400a4db10f37033
+ms.openlocfilehash: 36273e998bbf97e261dbaa49b3b57aab17216e9f0e9bd29c5d2b9f6c0d9803e4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/09/2021
-ms.locfileid: "57807195"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900770"
 ---
 # <a name="teams-contacts-sync"></a>Teams 연락처 동기화
 
@@ -31,6 +31,6 @@ Teams는 조직 Active Directory의 연락처와 사용자의 Outlook 기본 폴
     1. 폴더의 내용을 삭제합니다.
     1. 컴퓨터를 다시 시작하고 Teams를 시작합니다.
 1. 연락처가 Outlook에 있는 경우 연락처 목록에 추가해야 합니다. Outlook의 주소 표시줄에서 **파일** 을 선택한 다음 **연락처에 추가** 를 선택합니다.
-1. 사용자의 Exchange 사서함이 (온-프레미스가 아닌) 온라인에 호스팅되어 있는지 확인합니다. 자세한 내용은 [Exchange와 Microsoft Teams의 상호 작용 방식](/microsoftteams/exchange-teams-interact)을 참조하세요.
+1. 사용자의 Exchange 사서함이 (온-프레미스가 아닌) 온라인에 호스팅되어 있는지 확인합니다. 자세한 내용은 [Exchange와 Microsoft Teams의 상호 작용 방식](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)을 참조하세요.
 1. 연락처 정보에 연락처의 전화 번호가 추가되었는지 확인합니다.
 1. 검색 표시줄에서 연락처의 전자 메일을 검색합니다. 연락처 목록에 대한 동기화를 재개할 수 있는 연락처입니다.

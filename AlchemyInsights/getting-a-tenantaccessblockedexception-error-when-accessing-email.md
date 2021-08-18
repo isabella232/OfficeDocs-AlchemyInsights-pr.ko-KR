@@ -1,5 +1,5 @@
 ---
-title: 127 전자 메일에 액세스할 때 TenantAccessBlockedException 오류를 가져올 것인가?
+title: 127 전자 메일에 액세스할 때 TenantAccessBlockedException 오류가 발생하나요?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706637"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089446"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>전자 메일에 액세스할 때 TenantAccessBlockedException 오류 발생 여부
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>전자 메일에 액세스할 때 TenantAccessBlockedException 오류 발생
 
-이 오류가 표시 되는 몇 가지 이유가 있습니다. 예시:
+이 오류가 발생하는 이유는 몇 가지가 있습니다. 예제:
 
-- **Billing** \> Microsoft 365 관리 센터의 **[제품](https://portal.office.com/adminportal/home#/subscriptions)** 청구 페이지에서 구독이 유효한 지 확인 합니다.
+- 구독이 청구 내 제품  페이지에서 유효한지 \> **[](https://portal.office.com/adminportal/home#/subscriptions)** Microsoft 365 관리 센터.
 
-- **Billing** \> Microsoft 365 관리 센터의 청구 **[금액 & 지불](https://portal.office.com/adminportal/home#/billoverview)** 페이지에서 기한이 경과 된 알림이 있는지 확인 합니다.
+- 청구 청구서 및 결제  페이지의 & 기한이 지난 알림을 \> **[](https://portal.office.com/adminportal/home#/billoverview)** Microsoft 365 관리 센터.
 
-- 사용자의 계정에 대 한 청구 및 구독이 최근에 업데이트 된 경우 변경 내용을 전파 하는 데 시간이 걸릴 수 있습니다. 몇 분 후에 다시 시도 하 고 문제가 계속 되 면 microsoft에 문의 하세요.
+- 계정의 청구 및 구독이 최근에 업데이트된 경우 변경 내용이 전파되는 데 시간이 걸릴 수 있습니다. 몇 분 후에 다시 시도하고 문제가 계속되면 문의하세요.

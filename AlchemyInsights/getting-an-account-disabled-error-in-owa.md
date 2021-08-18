@@ -1,5 +1,5 @@
 ---
-title: 123 OWA에서 계정 사용 안 함 오류를 가져올 수 있나요?
+title: 123 OWA에서 계정 사용 안 합니까?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,13 +14,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 4e2f7a0d370c32dc6e38d65e04d54d473ba4db20
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73879d883bd942d1b4bd59bf4ebf290d358349fbeb026b3234934319014d21af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089338"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>웹용 Outlook에서 계정을 사용할 수 없도록 설정 하는 중 오류가 발생 한 경우
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>사용자 계정에서 사용하지 않도록 설정한 웹용 Outlook?
 
-웹에서 Outlook을 열려고 할 때 **계정이 사용 하지 않도록 설정** 된 경우  `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` (이전의 outlook web App) 조직 관리자가 웹용 outlook에 대 한 액세스를 사용 하지 않도록 설정 했을 수 있습니다. 관리자는 [사서함에 대해 사용 또는 사용 안 함 Outlook Web App](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)항목의 단계를 수행 하 여이 오류를 해결할 수 있습니다.
+오류가 발생하면  조직 관리자가 웹용 Outlook(이전의 Outlook Web App)를 열려고 할 때 계정이 사용하지 않도록 설정되어 있을 수 `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` 웹용 Outlook. 관리자는 사서함에 대해 사서함을 만들거나 사용하지 않도록 설정 항목의 단계를 수행하여 Outlook Web App [수 있습니다.](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)

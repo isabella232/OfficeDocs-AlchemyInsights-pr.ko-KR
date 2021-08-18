@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11224"
 - "9006572"
-ms.openlocfilehash: dc49d1f538d39711e65ba4e9e9297268dc8b8f2ba228aebc6a7154658c688deb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: e4638771bf0b4ffcb8254edd43cea3484bb95d39
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899510"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316778"
 ---
 # <a name="error-546-or-5414-related-to-hop-count-exceeded"></a>홉 수와 관련된 오류 5.4.6 또는 5.4.14 초과
 

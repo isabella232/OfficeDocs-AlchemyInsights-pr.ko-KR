@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: fb944ae8dac7a8a222d2946025d8009216d6ca02efa750977bc9037bf578c8a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea5000a06f86c0bc33cb057b67f6001fd1a4d5bddd39ac3324cd3b5c74ecdae7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972614"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900694"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>OneDrive로의 로그인 문제 해결
 
@@ -29,7 +29,7 @@ ms.locfileid: "53972614"
 
 **OneDrive 동기화 클라이언트에 로그인하는 문제 해결**
 
-- 오류 코드 0x004de40을 해결하는 단계는 [OneDrive에 로그인할 때 발생하는 오류 코드 0x8004de40](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)을 참조하세요.
+- 오류 코드 0x004de40을 해결하는 단계는 [OneDrive에 로그인할 때 발생하는 오류 코드 0x8004de40](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)을 참조하세요.
 - 사이트를 방문하여 OneDrive 또는 SharePoint 사이트에 로그인하고 사이트의 메뉴 막대 맨 위에 있는 **동기화** 단추를 클릭합니다.
 - OneDrive.com이 아니라 비즈니스용 OneDrive에 로그인하고 있는지 확인합니다. 방문하는 URL이 onedrive.live.com으로 시작한다면 해당 사이트는 비즈니스용 OneDrive를 위한 위치가 아닙니다. 비즈니스용 OneDrive에 로그인하는 간단한 방법은 이 링크https://portal.office.com/onedrive를 사용한 다음, 회사 또는 학교 계정을 사용하여 로그인하는 것입니다.
 - 계속 문제가 있는 경우 [OneDrive를 다시 설정](https://support.microsoft.com/office/reset-onedrive-34701e00-bf7b-42db-b960-84905399050c)해 보세요.
@@ -48,5 +48,5 @@ ms.locfileid: "53972614"
 
 **기타 문제 해결 팁**
 
-전역, 라이선스 또는 사용자 관리자일 경우 영향을 받는 사용자에게 [올바른 라이선스를 할당](/microsoft-365/admin/manage/assign-licenses-to-users)합니다.
+전역, 라이선스 또는 사용자 관리자일 경우 영향을 받는 사용자에게 [올바른 라이선스를 할당](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)합니다.
 

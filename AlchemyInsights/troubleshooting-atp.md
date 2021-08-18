@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 484ec1102500b9cce4a1489e016b73e9f73d609e4af95fff13405857d34f3978
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038811"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900658"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-- **메시지 배달이 지연되는 경우** Microsoft [Defender에서](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) 첨부 파일 정책에 대해 동적 Office 365 금고 사용합니다. 이렇게 하면 악의적인 파일로부터 받는 사람을 보호하면서 메시지 지연을 방지하는 데 도움이 됩니다.
+- **메시지 배달이 지연되는 경우** Microsoft [Defender에서](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) 첨부 파일 정책에 대해 동적 Office 365 금고 사용합니다. 이렇게 하면 악의적인 파일로부터 받는 사람을 보호하면서 메시지 지연을 방지하는 데 도움이 됩니다.
 
 - **Microsoft에 가짓 긍정 또는 거짓 부정을 보고하고 싶나요?** 제출 [탐색기를 사용합니다.](https://protection.office.com/reportsubmission)
 
