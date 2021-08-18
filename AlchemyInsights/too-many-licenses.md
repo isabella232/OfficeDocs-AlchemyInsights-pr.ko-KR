@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 86acc3a8568d5e30a46abc0d1bd6496530e586138b548e59f5c212bc0006c783
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: bad24eee4ea93b7fcb604202bcedbfee018a7e34
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57886297"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321565"
 ---
 # <a name="too-many-licenses"></a>라이선스가 너무 많나요?
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8232"
 - "9004597"
-ms.openlocfilehash: f58915cac2e85d8f29f2cb03f85c278e781effaa80d5981b7b5b68170094fc9d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0cbdf5031de899ecb9d3c78016148c581f2da0c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54091776"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320567"
 ---
 # <a name="auto-apply-labeling"></a>레이블 자동 적용
 
@@ -30,8 +30,8 @@ Office 앱의 콘텐츠에 레이블을 자동으로 적용하려면:
 1. 마법사의 **이 레이블 범위 정의** 에서 **파일 및 전자 메일** 을 선택합니다. 
 1. 마법사의 단계를 수행한 다음 파일 및 전자 메일에 대한 자동 레이블 지정 설정을 구성합니다. 
 
-Office 앱의 자동 레이블 지정에 대한 자세한 내용은 [Office 앱에 자동 레이블 지정을 구성하는 방법](/microsoft-365/compliance/apply-sensitivity-label-automatically#how-to-configure-auto-labeling-for-office-apps)을 참조하세요.
+Office 앱의 자동 레이블 지정에 대한 자세한 내용은 [Office 앱에 자동 레이블 지정을 구성하는 방법](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically#how-to-configure-auto-labeling-for-office-apps)을 참조하세요.
 
 SharePoint, OneDrive 및 Exchange에 대한 자동 레이블 지정 정책을 설정하려면 [SharePoint, OneDrive 및 Exchange에 대한 자동 레이블 지정 정책을 구성하는 방법](https://go.microsoft.com/fwlink/?linkid=2148841)을 참조하세요.
 
-콘텐츠에 민감도 레이블을 자동으로 적용하는 방법에 대한 자세한 내용은 [콘텐츠에 자동으로 민감도 레이블 적용](/microsoft-365/compliance/apply-sensitivity-label-automatically)을 참조하세요.
+콘텐츠에 민감도 레이블을 자동으로 적용하는 방법에 대한 자세한 내용은 [콘텐츠에 자동으로 민감도 레이블 적용](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)을 참조하세요.

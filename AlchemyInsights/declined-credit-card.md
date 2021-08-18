@@ -16,12 +16,12 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 31b3cfed4b5cadd2b5b2290fc8ed6e203225a0235be141140b5ecbd01efc2f98
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 30d8820d5074aa00de95263301464f7e5259acb4
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892693"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321117"
 ---
 # <a name="declined-credit-card"></a>신용 카드 거부
 

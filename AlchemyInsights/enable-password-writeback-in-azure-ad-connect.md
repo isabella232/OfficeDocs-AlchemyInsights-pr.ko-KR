@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 2ad7568bded3c8e4832e0e433a2d715e6307e4bb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 63304667cce67c48fd8bbeee52ff6d61d033ea38fd8d4c4d96c240847dab2cab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118210"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Azure AD Connect에서 암호 쓰기 저장 사용
 

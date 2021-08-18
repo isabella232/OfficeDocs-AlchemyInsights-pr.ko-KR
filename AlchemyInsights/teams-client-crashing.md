@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: a292e160abcfc26ffebc454d32ee489a319a23f4bb81e70fe5dbe72bfd0b8b81
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: bef16351b55ac4765539d66ab86a71183f66f0dd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890344"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321631"
 ---
 # <a name="teams-client-crashing"></a>Teams 클라이언트 충돌
 
@@ -38,10 +38,11 @@ Teams 클라이언트가 계속 충돌하는 경우, 문제를 재현해 보세�
 1. 단계 레코더를 사용하여 단계를 캡처할 수 있습니다.
     - 불필요하거나 중요한 응용 프로그램을 모두 종료합니다.
     - 단계 레코더를 시작하고 영향을 받은 사용자 계정으로 로그인하여 문제를 재현해 보세요.
-    - [기록한 재현 단계를 캡처하는 팀 로그를 수집합니다](https://docs.microsoft.com/microsoftteams/log-files). **참고**: 영향을 받은 사용자의 로그인 주소를 캡처해야 합니다.
+    - [기록한 재현 단계를 캡처하는 팀 로그를 수집합니다](https://docs.microsoft.com/microsoftteams/log-files). 
+    
+    **참고**: 영향을 받은 사용자의 로그인 주소를 캡처해야 합니다.
     - 덤프 및/또는 오류 버킷 정보를 수집합니다(Windows). 충돌이 발생하는 컴퓨터에서 Windows Powershell을 실행하고 다음 명령을 실행합니다(각 명령 후에 Enter 키를 누릅니다).
 
-    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
-    `notepad .\FaultBuckets.txt`
+    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt` `notepad .\FaultBuckets.txt`
     
 2. 텍스트 파일이 생성되어 화면에 나타나면 파일을 저장하고 서비스 요청에 첨부합니다. 

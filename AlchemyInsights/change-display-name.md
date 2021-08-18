@@ -12,12 +12,12 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: c7657935ca752744b6a53fbbff1e69b8642239a074376722cbb0b1fa4036650c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cbaebcf71380d558d6d34237373d07aa59584623
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53979427"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321357"
 ---
 # <a name="change-your-display-name"></a>표시 이름 변경
   
@@ -27,8 +27,7 @@ ms.locfileid: "53979427"
 
 2. 전자 메일 계정을 선택한 다음 변경 을 **선택합니다.**
 
-    > [!NOTE]
-    > 표시 이름을 변경하는 옵션이 표시되지 않는 경우 Microsoft Exchange 계정이 사용 중일 수 있습니다. 이 경우 표시 이름을 변경하려면 관리자에게 문의해야 합니다. 사용자 [이름 및 전자 메일 주소 변경을 참조하세요.](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+    **참고:** 표시 이름을 변경하는 옵션이 표시되지 않는 경우 Microsoft Exchange 계정이 사용 중일 수 있습니다. 이 경우 표시 이름을 변경하려면 관리자에게 문의해야 합니다. 사용자 [이름 및 전자 메일 주소 변경을 참조하세요.](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 3. 표시 이름을 변경한 후 확인을  클릭하여 변경 내용을 저장합니다. 변경 내용이 조직 전체에 반영되는 데 몇 시간이 걸릴 수 있습니다.
 

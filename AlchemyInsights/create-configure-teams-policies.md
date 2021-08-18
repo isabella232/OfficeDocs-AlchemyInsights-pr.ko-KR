@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12851"
 - "9000734"
-ms.openlocfilehash: 6e4a61c7d723486c98737edacebb671e44cb75a618872a37098642021aa70c38
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 397f545127af3b9569dceb5cfe2eec39931e67a5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874437"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321163"
 ---
 # <a name="create-and-configure-teams-policies"></a>Teams 정책 만들기 및 구성
 

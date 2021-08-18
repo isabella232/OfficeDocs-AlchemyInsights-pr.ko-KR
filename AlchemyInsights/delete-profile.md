@@ -14,12 +14,12 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5ac46a90e3ad928723ba601043acce92c23d5c84
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005528"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320164"
 ---
 # <a name="delete-a-profile"></a>프로필 삭제
 
@@ -31,8 +31,7 @@ ms.locfileid: "54005528"
 
 3. 메일 **대화** 상자에서 삭제할 프로필을 선택한 다음 제거를 **클릭합니다.**
 
-    > [!NOTE]
-    > Outlook 삭제하면 오프라인 데이터가 제거될 수 있습니다. Outlook.pst(데이터 파일) 또는 온라인 계정에 저장된 정보(예: Outlook.com, Exchange 또는 Microsoft 365 계정에 저장된 정보는 손실되지 않습니다.
+    **참고:** Outlook 삭제하면 오프라인 데이터가 제거될 수 있습니다. Outlook.pst(데이터 파일) 또는 온라인 계정에 저장된 정보(예: Outlook.com, Exchange 또는 Microsoft 365 계정에 저장된 정보는 손실되지 않습니다.
   
 For **Outlook for Mac** profile management, see Manage [profiles or identities in Outlook for Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) or use the following steps.
   

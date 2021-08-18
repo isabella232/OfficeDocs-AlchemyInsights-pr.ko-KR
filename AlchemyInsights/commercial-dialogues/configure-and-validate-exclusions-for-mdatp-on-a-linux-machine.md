@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b2487e283f37498539bfac0583ef7e21d1817db0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53916421"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321291"
 ---
 # <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Linux 컴퓨터의 MDATP 제외 구성 및 유효성 검사
 
@@ -25,5 +25,4 @@ MDATP 검사에서 특정 파일, 폴더, 프로세스 및 처리된 파일을 �
 
 자세한 내용은 [Linux용 MDATP에](https://go.microsoft.com/fwlink/?linkid=2144517)대한 제외 구성 및 유효성 검사를 참조합니다.
 
-> [!IMPORTANT]
-> 이 문서에 설명된 제외는 끝점 감지 및 응답(EDR)을 포함하여 Linux용 MDATP의 다른 기능에는 적용되지 EDR. 이 문서에 설명된 방법을 사용하여 제외하는 파일은 여전히 경고 및 기타 EDR 트리거할 수 있습니다.
+**중요:** 이 문서에 설명된 제외는 끝점 감지 및 응답(EDR)을 포함하여 Linux용 MDATP의 다른 기능에는 적용되지 EDR. 이 문서에 설명된 방법을 사용하여 제외하는 파일은 여전히 경고 및 기타 EDR 트리거할 수 있습니다.
