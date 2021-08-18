@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8210"
-ms.openlocfilehash: 23f5e5fe9e00a4bb00f96d2023c81f6413a7d8b808fd46bfc94483944bb898dc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 679dea6d488cf74f51baee2b3b498dc64b95530e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53999750"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324929"
 ---
 # <a name="password-writeback-is-not-working"></a>암호 쓰기 저장이 작동하지 않습니다.
 
@@ -31,8 +31,7 @@ ms.locfileid: "53999750"
     - 라이선스 요구 사항에 대한 자세한 내용은 Azure AD 셀프 서비스 암호 재설정에 대한 라이선스 [요구 사항을 참조하세요.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
 - 적절한 라이선스 중 하나를 사용하려면 관리자 계정과 테스트 사용자 계정이 하나 이상 있습니다.
 - 암호 쓰기 저장이 커넥트 Azure AD Emulator 도메인 컨트롤러 서버에 연결해야 합니다. Active Directory 동기화 커넥트 속성을 마우스 오른쪽 단추로 클릭한 다음  디렉터리 파티션 구성을 선택하여 기본 도메인 컨트롤러를 사용하도록 Azure AD 2013을 구성할 **수 있습니다.** 이 섹션에서 도메인  컨트롤러 연결 설정 섹션을 찾아 기본 설정 도메인 컨트롤러만 사용이라는 **확인란을 선택합니다.**
-  > [!NOTE]
-  > 기본 설정 DC가 PDC 에뮬레이터가 아닌 경우 Azure AD 커넥트 암호 쓰기 저장을 위해 PDC에 계속 도달합니다.
+    **참고:기본** 설정 DC가 PDC 에뮬레이터가 아닌 경우 Azure AD 커넥트 암호 쓰기 저장을 위해 PDC에 계속 도달합니다.
 - 암호 재설정이 구성되고 테넌트에서 사용하도록 설정되었습니다. 자세한 내용은 사용자가 Azure AD 암호를 [재설정할 수 있도록 설정을 참조하세요.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)
 - 암호 쓰기 저장을 사용하도록 설정하는 데 사용되는 관리자 계정이 클라우드 관리자 계정(사내 AD가 아닌 Azure AD에서 생성)으로 설정되어 있는지 확인
 - 최신 서비스 팩이 설치된 Windows Server 2008 R2, Windows Server 2012 또는 Windows Server 2012 R2를 실행하는 단일 또는 다중 포리스트 AD Windows Server 2012 배포가 있는 경우

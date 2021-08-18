@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: a356b9907bb1b76ea753aac29eb176005bb45e22d8e1279dffd09af2cda9642b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 031e1e8368ffc55c38c6053b0f17ef618b3d6833
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899250"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324893"
 ---
 # <a name="unlocking-an-account"></a>계정 잠금 해제
 

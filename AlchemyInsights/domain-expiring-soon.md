@@ -14,12 +14,12 @@ ms.custom:
 - "10933"
 - "9006437"
 - "5300030"
-ms.openlocfilehash: 633665db4b68d84105c23dbb8140ef2222c728322d8d6dfc8e5488c603eea669
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9462deefe62f2fb6fffd1703d4cca84a83c84eef
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53965179"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325553"
 ---
 # <a name="domain-registration-expiration"></a>도메인 등록 만료
 

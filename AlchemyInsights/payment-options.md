@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "1639"
 - "9000134"
-ms.openlocfilehash: aedfec0491365ff23ec518768b160e7285702aeec418277a89e8079fb2ac6896
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ee601c667a0d2aefb8ced7444fd5e2319924dc13
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895669"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324404"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>비즈니스용 Microsoft 365 구독에 대한 결제 옵션
   

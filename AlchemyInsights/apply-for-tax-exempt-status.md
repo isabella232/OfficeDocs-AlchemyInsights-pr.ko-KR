@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 14ad3eeb39d57431841618453b1d5ab01ca88b0392df99e8a7754c140c1ea478
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 71a9a5a89f6434949da12dd70055e9cc902e4eb1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57886029"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324210"
 ---
 # <a name="apply-for-tax-exempt-status"></a>면세 자격 신청
 

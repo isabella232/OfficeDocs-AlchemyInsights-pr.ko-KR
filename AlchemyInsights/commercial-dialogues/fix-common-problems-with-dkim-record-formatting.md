@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 5b3dc2338843906fbc7151322b82f304b4ed04b28d8ceb349f2705c309cdeae8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e55175e7613d220eaf956d3c7fd02213dcd5803d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930067"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323996"
 ---
 # <a name="fix-common-problems-with-dkim-record-formatting"></a>DKIM 레코드 서식의 일반적인 문제 해결
 
@@ -28,5 +28,4 @@ DKIM 설정 문제를 해결하려면 DKIM CNAME 레코드(TXT 레코드 아님)
 
 일반적으로 DNS 레코드에 대한 도움이 필요한 경우 [DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)호스팅 공급자에서 DNS 레코드 만들기를 Office 365.
 
-> [!NOTE]
-> 도메인의 DNS 호스팅 서비스에서 DKIM DNS 레코드를 만들거나 업데이트한 후 DNS 레코드가 전파될 때까지 기다려야 합니다.
+**참고:** 도메인의 DNS 호스팅 서비스에서 DKIM DNS 레코드를 만들거나 업데이트한 후 DNS 레코드가 전파될 때까지 기다려야 합니다.

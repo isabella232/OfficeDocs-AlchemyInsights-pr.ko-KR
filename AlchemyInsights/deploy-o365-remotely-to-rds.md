@@ -13,24 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 55b86557ec205dde2c459d76e8e330d2a8271dbec723f079e119ebe409b41c3f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b8df97c19937a757c1de9865b6c7b8d1cddfd62d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54031484"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325609"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>RDS엔터프라이즈용 Microsoft 365 앱 터미널 서버 또는 VDI에서 공유하기 위해 배포
 
 이전의 엔터프라이즈용 Microsoft 365 앱(RDS)를 사용하여 원격 데스크톱 서비스를 배포하는 경우:
 
 - E Enterprise 3 또는 Microsoft 365 E5와 같이 비즈니스용 Microsoft 365 또는 Office 365 Office 365 Enterprise 요금제가 엔터프라이즈용 Microsoft 365 앱 엔터프라이즈용 Microsoft 365 앱 있어야 합니다.
-   > [!NOTE]
-   > 비즈니스용 Microsoft 365 앱 Microsoft 365 Business Standard 계획에는 엔터프라이즈용 Microsoft 365 앱.
+   **참고:** 비즈니스용 Microsoft 365 앱 Microsoft 365 Business Standard 요금제에 포함된 엔터프라이즈용 Microsoft 365 앱.
 - 공유 컴퓨터 [활성화를 사용하도록 설정해야 합니다.](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)
 
-> [!NOTE]
-> Microsoft 365를 다운로드하고 [실행하여](https://aka.ms/SaRA_OfficeSCA_M365Portal) 공유 지원 및 복구 도우미 정품 인증 엔터프라이즈용 Microsoft 365 앱 설치할 수 있습니다.
+**참고:** Microsoft 365를 다운로드하고 실행하여 공유 컴퓨터 [지원 및 복구 도우미](https://aka.ms/SaRA_OfficeSCA_M365Portal) 엔터프라이즈용 Microsoft 365 앱 설치할 수 있습니다.
 
 Office 배포 도구를 사용하여 사용자 지정된 설치에 대한 선행 작업, 설정 지침 및 지침에 대한 자세한 내용은 [Deploy 엔터프라이즈용 Microsoft 365 앱 by using Remote Desktop Services를 참조하십시오.](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)
 

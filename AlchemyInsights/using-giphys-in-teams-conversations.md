@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 296c2f80d35f1c93ab3c60e0be65fd96c953ca81
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54104314"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323526"
 ---
 # <a name="using-giphys-in-teams-conversations"></a>대화에서 giphy Teams 사용
 
@@ -33,5 +33,4 @@ GIF가 대화에서 예상대로 작동하지 Teams 다음을 확인 합니다.
 
 [선택적 연결된 환경을](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) 사용하도록 설정해야 Giphy URL에 액세스할 수 있습니다.
 
-> [!NOTE]
-> 테넌트에 대해 여러 Teams 메시징 정책을 구성한 경우 PowerShell 명령 [Get-CsOnlineUser -Identity를](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) 사용하여 영향을 받을 사용자에게 할당된 정책의 ID를 확인할 <user@domain.com> 수 | TeamsMessagingPolicy를 선택합니다.
+**참고:** 테넌트에 대해 Teams 메시징 정책을 여러 개 구성한 경우 PowerShell 명령 [Get-CsOnlineUser -Identity를](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) 사용하여 영향을 받을 사용자에게 할당된 정책의 ID를 확인할 <user@domain.com> 수 | TeamsMessagingPolicy를 선택합니다.

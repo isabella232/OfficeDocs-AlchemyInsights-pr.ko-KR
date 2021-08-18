@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: df5acfc38095f03eeeff379d51a72332dcf366e3786ab0ff7ffcd655cbafd1cf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b19b3cf229fd67f1df2b58b387b1f74818e35f48
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967375"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324775"
 ---
 # <a name="publish-sensitivity-labels"></a>민감도 레이블 게시
 
@@ -29,8 +29,9 @@ ms.locfileid: "53967375"
 3. **레이블 게시** 를 클릭합니다.
 4. **민감도 레이블을 선택하여 게시** 를 클릭합니다. 
 5. 앱과 서비스에서 사용할 수 있도록 설정할 레이블을 선택한 다음 **추가** 를 클릭합니다.
-> [!IMPORTANT]
-> 하위 레이블을 선택한 경우 해당 상위 레이블도 선택해야 합니다.
+
+**중요**: 하위 레이블을 선택한 경우 해당 상위 레이블도 선택해야 합니다.
+
 6. 선택한 레이블을 검토합니다. 변경하려면 **편집** 단추를 클릭합니다. 그렇지 않은 경우 **다음** 을 클릭하세요.
 7. 프롬프트에 따라 정책 설정을 구성합니다.
 8. 여러 사용자나 위치에 대해 서로 다른 정책 설정이 필요한 경우에는 이 단계를 반복합니다. 예를 들어 사용자 그룹에 대한 추가 레이블이나 사용자 하위 집합에 대해 다른 기본 레이블을 원하는 경우가 해당됩니다.

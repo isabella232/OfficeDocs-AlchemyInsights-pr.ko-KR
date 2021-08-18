@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 63304667cce67c48fd8bbeee52ff6d61d033ea38fd8d4c4d96c240847dab2cab
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 607e27c883f83b4b29347e764b8f2273cf0f117e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118210"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325393"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Azure AD Connect에서 암호 쓰기 저장 사용
 
@@ -42,5 +42,4 @@ Azure AD Connect에서 암호 쓰기 저장이 사용하도록 설정되어 있�
 
 자세한 내용은 [온-프레미스 환경에서 Azure Active Directory 셀프 서비스 암호 재설정 쓰기 저장 사용](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)을 참조하세요.
 
-> [!NOTE]
->  관리자가 Azure Portal에서 사용자 암호를 다시 설정하는 경우 해당 사용자가 페더레이션 또는 암호 해시 동기화되면 암호가 온-프레미스에 다시 기록됩니다. 이 기능을 사용하려면 Azure Premium 라이선스(P1 또는 P2)가 필요하며 현재 Office 관리 포털에서 지원되지 않습니다.
+**참고**: 관리자가 Azure Portal에서 사용자 암호를 다시 설정하는 경우 해당 사용자가 페더레이션 또는 암호 해시 동기화되면 암호가 온-프레미스에 다시 기록됩니다. 이 기능을 사용하려면 Azure Premium 라이선스(P1 또는 P2)가 필요하며 현재 Office 관리 포털에서 지원되지 않습니다.

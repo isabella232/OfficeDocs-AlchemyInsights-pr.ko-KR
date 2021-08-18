@@ -14,17 +14,16 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3f3f52a5cedc8f065dbac59499cc087641e84682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868684"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323792"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>신용 카드 결제에서 송장으로 변경하는 방법
 
-> [!NOTE]
-> 구독 비용이 특정 금액 이상인 경우에만 송장으로 결제로 변경할 수 있습니다. 송장으로 결제하려면 먼저 신용 카드, 직불카드 또는 은행 계좌에서 미결제 잔액을 지불해야 합니다.
+**참고:** 구독 비용이 특정 금액보다 많은 경우 송장 결제로만 변경할 수 있습니다. 송장으로 결제하려면 먼저 신용 카드, 직불카드 또는 은행 계좌에서 미결제 잔액을 지불해야 합니다.
 
 1. 관리 센터에서 **빌링** > [제품](https://go.microsoft.com/fwlink/p/?linkid=842054)페이지로 이동합니다.
 2. **제품** 탭에서 대체 결제 방법으로 결제하려는 구독을 찾으세요.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11443"
 - "100001"
-ms.openlocfilehash: 874233d44c1151e4449d7735a9e4b30ded16ab772e9435f27684e640d1a8c263
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: e71a60aea8936fd1134c6c78b24ccb02c6ca73c0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57902110"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325505"
 ---
 # <a name="domain-health-status"></a>도메인 상태
 

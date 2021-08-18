@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: ae17caa4be7809b591be9f9c042186f67828aa3c36a3d17332806e4d92545dc6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: defc11265caf371ce0a62a10a5de1d8ff88a8e11
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898614"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325255"
 ---
 # <a name="issues-installing-microsoft-defender-on-mac-or-linux"></a>Mac 또는 Linux에 Microsoft Defender를 설치하는 문제
 

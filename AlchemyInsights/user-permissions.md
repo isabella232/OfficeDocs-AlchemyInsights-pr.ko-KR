@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 667fa9c7334169794ebc96152d7b58d4deb5dde9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908356"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324857"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>사용자 권한 및 SharePoint OneDrive
 
@@ -34,8 +34,7 @@ ms.locfileid: "53908356"
     
     클래식 팀 사이트의 경우 오른쪽 **위에 있는** 공유를 클릭합니다. 초대할 사람의 이름을 입력하거나 조직의 모든 사용자와 공유할 모든 사람을 입력합니다. **공유** 를 클릭합니다.
     
-> [!NOTE]
-> 사이트의 구성원이지만 소유자가 아닌 경우 사이트에 다른 사용자들을 초대할 수 있지만 초대는 사이트 소유자가 승인하거나 거부할 수 있는 액세스 요청을 생성합니다. 
+**참고:** 사이트의 구성원이지만 소유자가 아닌 경우 사이트에 다른 사용자들을 초대할 수 있지만 초대는 사이트 소유자가 승인하거나 거부할 수 있는 액세스 요청을 생성합니다. 
   
 [사용자와 파일 또는 폴더를 공유하는 방법 학습](https://go.microsoft.com/fwlink/?linkid=533408)
   

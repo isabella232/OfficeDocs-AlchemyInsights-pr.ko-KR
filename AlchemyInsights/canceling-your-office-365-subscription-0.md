@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "86"
 - "1400001"
-ms.openlocfilehash: 5c6b305fe61d20c706ff27db51607bcbdbdfdfe5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 5745ca1bde0722b4a758c239e06a838b2c5e942ac0e8a1f4e953fcccb978b41e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311441"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119917"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>구독을 Microsoft 365 취소하나요?
 
@@ -30,4 +30,4 @@ ms.locfileid: "58311441"
   
 **환불:** 일할 계산된 크레딧은 다음 대금 청구 주기 안에 반환됩니다.
 
-자세한 내용은 구독 [취소를 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+자세한 내용은 구독 [취소를 참조하세요.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

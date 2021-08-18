@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11937"
 - "9007099"
-ms.openlocfilehash: 7b8cb1d128805f3637e7491d7ed956aff534483714981ad1abbbaa1806fa1f68
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 98c2ba5283e9151bb3c01894e47e1541d0a35f23
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887624"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324473"
 ---
 # <a name="managing-review-dets-in-advanced-ediscovery"></a>Advanced eDiscovery에서 검토 분리 관리
 

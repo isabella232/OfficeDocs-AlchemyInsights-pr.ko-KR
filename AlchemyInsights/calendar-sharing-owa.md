@@ -13,20 +13,20 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: def2bf5181dc1a79fe8705091b31cc55bafdd3cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f21000033715dd1ea1637289ffe3527759b8ad03593e01ecee1a01369421f55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684452"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119926"
 ---
-# <a name="troubleshooting-issues-with-calendar-sharing"></a>일정 공유와 관련 된 문제 해결
+# <a name="troubleshooting-issues-with-calendar-sharing"></a>일정 공유 문제 해결
 
-- 사용 권한 문제를 진단 하려면 [Exchange 원격 연결 분석기 약속 있음/없음](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy)을 사용 하 여 매우 구체적인 오류 메시지를 제공 합니다.
-- Microsoft [365 용 Microsoft 지원 및 복구 도우미](https://diagnostics.office.com/) 를 사용 하 여 다양 한 일정 문제를 진단할 수도 있습니다. 
-- 사용자에 게 데스크톱 Outlook이 있는 경우 [outlook 용 일정 검사 도구](https://www.microsoft.com/download/details.aspx?id=28786) 를 사용 하 여 잠재적인 문제를 해결할 수 있습니다.
+- 사용 권한 문제를 진단하려면 매우 [Exchange](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy)메시지를 제공하는 원격 연결 분석기 사용 중 사용이 허가됩니다.
+- Microsoft 응용 지원 및 복구 도우미 [사용하여](https://diagnostics.office.com/) Microsoft 365 다양한 일정 문제를 진단할 수도 있습니다. 
+- 사용자에게 Desktop Outlook 있는 경우 사용자용 일정 Outlook [문제를](https://www.microsoft.com/download/details.aspx?id=28786) 해결할 수 있습니다.
 
 추가 방법 리소스:
 
 - [다른 사람과 Outlook 일정 공유](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [비즈니스용 웹용 Outlook에서 일정 공유](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [비즈니스용 웹용 Outlook 일정 공유](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)

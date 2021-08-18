@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: 4a4dbd60f98e86cf2a4d861a763f75ada04f9e500164c01cb858a1537148a62f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 97a8d4e7db9aac65e6a505c0bef8b41d2ea23353
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892805"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323924"
 ---
 # <a name="configure-endpoint-dlp"></a>끝점 DLP 구성
 

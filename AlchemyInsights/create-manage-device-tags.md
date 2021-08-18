@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11446"
 - "9003537"
-ms.openlocfilehash: c06fbd377159e55cf34c79ef0aa1e34f0412a908e8d4e3dec5ad088c9b8b818a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c06ed00d7cf4bcb23fdcee12f446953918075728
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898206"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325655"
 ---
 # <a name="create-and-manage-device-tags-or-groups"></a>디바이스 태그 또는 그룹 만들기 및 관리
 

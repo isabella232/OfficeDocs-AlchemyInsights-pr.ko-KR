@@ -13,12 +13,12 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 8f8b0780ebec2911b6698deee25e0fabe83bd9afef5fb3a6ef4c51cccd67fc7c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f02daad7d4b4a11f8d8bb1ef1467db5809cbd291
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898554"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324368"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>전자 메일을 보내도록 다기능 장치 또는 애플리케이션 설정
 

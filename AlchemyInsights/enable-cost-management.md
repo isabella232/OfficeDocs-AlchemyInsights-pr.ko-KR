@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003575"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325469"
 ---
 # <a name="enable-cost-management"></a>비용 관리 사용
 
@@ -34,8 +34,7 @@ Azure Portal에 로그인한 후 청구 API를 사용하여 프로그래밍식�
 2. 송장을 **선택한** 다음 **송장에 액세스 를 선택합니다.**
 3. 구독 범위 역할의 사용자가 송장을 다운로드할 수 있도록 액세스를 켜고 변경 내용을 저장합니다.
 
-> [!NOTE]
-> 계정 관리자는 전자 메일을 통해 송장을 보내도록 구성할 수도 있습니다. 자세한 내용은 전자 [메일로 송장 보기를 참조하세요.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
+**참고:** 계정 관리자는 전자 메일을 통해 송장을 보내도록 구성할 수도 있습니다. 자세한 내용은 전자 [메일로 송장 보기를 참조하세요.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
 
 **청구 독자 역할에 사용자를 추가하는 방법**
 

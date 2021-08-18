@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 8d91a9ec91c8e435993c7f9b6b310d153d022601eff5466ab30782f8e8f560ed
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 83af07910dff17cfe429736d3fb07ef6e748225e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900374"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324821"
 ---
 # <a name="create-a-sensitivity-label"></a>민감도 레이블 만들기
 
