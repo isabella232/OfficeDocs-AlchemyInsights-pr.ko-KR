@@ -16,12 +16,12 @@ ms.custom:
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: a04d6c23caecc8766d91bd8aa17ca9df870de03c221b8bc162dfe4a98d961f48
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7fed17e5021684d06d53dfb15e589611c68c88ca
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899582"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319842"
 ---
 # <a name="billing-or-invoice-faq"></a>대금 청구 또는 청구서 FAQ
 

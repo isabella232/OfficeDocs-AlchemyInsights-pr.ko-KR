@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 39b1a6cfccf85ee03a804045b043e25dbdb2d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087214"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319898"
 ---
 # <a name="your-payment-was-declined"></a>지불이 거부됨
 
@@ -35,8 +35,7 @@ Microsoft는 송장 날짜 후 3-4주 간 카드에 여러 번 청구를 시도�
 
 4. 기존 결제 방법을 사용하려는 경우, 드롭다운 목록에서 하나를 선택하고 **변경** 을 선택합니다.
 
-    > [!NOTE]
-    > 청구 프로필과 연결된 구독이 있는 경우, 신용 카드나 직불 카드로만 결제할 수 있습니다. **결제 방법** 페이지에 나열된 은행 계좌를 사용하는 경우, 드롭다운 목록에서 선택할 수 없습니다.
+    **참고**: 청구 프로필과 연결된 구독이 있는 경우, 신용 카드나 직불 카드로만 결제할 수 있습니다. **결제 방법** 페이지에 나열된 은행 계좌를 사용하는 경우, 드롭다운 목록에서 선택할 수 없습니다.
 
 5. 새 결제 방법을 추가하려면 **결제 방법 추가** 를 선택합니다.
 

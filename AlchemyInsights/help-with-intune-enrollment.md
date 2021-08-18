@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: c749286a2b97b9ff36c25de30838ae38a2d0939a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 57a7973d8d7a8daede01b86f8bf2261a5aa33328fa3fa4ac3b2e0a8967ee964b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811570"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116266"
 ---
 # <a name="help-with-intune-enrollment"></a>Intune 등록 도움말
 

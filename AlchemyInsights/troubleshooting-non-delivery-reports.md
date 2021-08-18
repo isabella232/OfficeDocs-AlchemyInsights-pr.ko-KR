@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11136"
 - "3100020"
-ms.openlocfilehash: f35803a26468ea5ee00241d5567505f303d4a058
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 0cc1e342493b9adee5bf29eefa33fbe435186226bb22070313cd0b127ffd0310
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233840"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092332"
 ---
 # <a name="troubleshooting-non-delivery-reports"></a>배달 못 함 보고서(NDR) 문제 해결
 

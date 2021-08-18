@@ -15,12 +15,12 @@ ms.custom:
 - "878"
 - "3500012"
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
-ms.openlocfilehash: 4becc3d62a98c730f66696d66e69ba77b55eb9b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ebb2e96962f70cb862d61e045c181efc20e6d927edea7c269a93ffa6a15ebbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800074"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092292"
 ---
 # <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a>다양한 유형의 공유 Outlook 일정 및 설정 방법
 

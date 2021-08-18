@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 71cbb52d73261d59732f42789997d0ee55e71906
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b302dbd6e894fef80756a4e77564845474a48affd2cfe1a944765189395f8f6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689852"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092425"
 ---
 # <a name="troubleshooting-intune-policy-and-profiles"></a>Intune 정책 및 프로필 문제 해결
 
-기존 정책을 확인 하 고 충돌을 해결 하 고 로그 데이터를 검토 하며 일반적인 질문과 문제를 확인 하려면 다음 가이드를 참조 하세요.
+기존 정책을 보고, 충돌을 해결하고, 로그 데이터를 검토하고, 일반적인 질문과 문제를 확인하려면 다음 가이드가 도움이 될 수 있습니다.
 
 - [Intune에서 정책 및 프로필 문제 해결](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
-- [Intune의 장치 정책 및 프로필에 대 한 일반적인 질문, 문제 및 해결 방법](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Intune에서 장치 정책 및 프로필에 대한 일반적인 질문, 문제 및 해결](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
 - [Intune에서 장치 구성 프로필 모니터링 및 충돌 보기](https://docs.microsoft.com/intune/device-profile-monitor)
 
@@ -34,6 +34,6 @@ ms.locfileid: "47689852"
 
 - [Intune에서 준수 정책 모니터링 및 충돌 보기](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Azure 저장소, 이벤트 허브 또는 로그 분석으로 Intune 로그 데이터 보내기](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Azure 저장소, 이벤트 허브 또는 로그 분석에 Intune 로그 데이터 보내기](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-[장치를 구성](https://docs.microsoft.com/intune/device-profiles) 하거나 [준수 정책을 사용](https://docs.microsoft.com/intune/device-compliance-get-started)하려면 개요를 참조 하세요.
+디바이스를 [구성하거나](https://docs.microsoft.com/intune/device-profiles) 규정 준수 정책을 [사용하는 개요를 참조하세요.](https://docs.microsoft.com/intune/device-compliance-get-started)

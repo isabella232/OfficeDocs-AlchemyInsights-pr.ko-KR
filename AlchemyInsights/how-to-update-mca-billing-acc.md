@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001514"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320036"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>MCA와 관련된 판매 및 청구지 주소 업데이트 - 권장 단계
 
 MCA(Microsoft 고객 계약)에 연결된 판매 및 청구서 주소를 업데이트할 수 있습니다. 
 
-> [!NOTE]
-> 사용자 프로필 정보는 사용자 Azure Active Directory 변경할 수 있습니다. 사용자 관리자 역할이 할당되지 않은 경우 사용자 관리자에게 문의하십시오. 사용자 프로필 변경에 대한 자세한 내용은 를 사용하여 사용자 프로필 정보 [추가 또는 Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+**참고:** 사용자 관리자만 사용자 프로필 정보를 변경할 Azure Active Directory 있습니다. 사용자 관리자 역할이 할당되지 않은 경우 사용자 관리자에게 문의하십시오. 사용자 프로필 변경에 대한 자세한 내용은 를 사용하여 사용자 프로필 정보 [추가 또는 Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **판매 주소** - 판매된 주소는 대금 청구 계정을 담당하는 조직 또는 개인의 주소 및 연락처 정보입니다. 청구 계정에 대해 생성된 모든 송장에 표시됩니다.
 

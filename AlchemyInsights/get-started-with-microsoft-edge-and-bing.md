@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge + Bing 시작
+title: Microsoft Edge + Bing
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8227"
-ms.openlocfilehash: 9130a20f36ae7631f6f72b55cdc5b341aaf51225
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 5c885492bc48017846195e13ee0b3626f5fbf1faa6602580b487141a6d21df9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116410"
 ---
-# <a name="get-started-with-microsoft-edge--bing"></a>Microsoft Edge + Bing 시작
+# <a name="get-started-with-microsoft-edge--bing"></a>Microsoft Edge + Bing
 
-Microsoft Edge + Bing을 시작하는 데 필요한 추가 설정은 없습니다. 작업 관련 정보를 찾으면 Microsoft Edge의 주소 표시줄에 쿼리를 입력하기만 합니다.
+추가 설정은 Microsoft Edge + Bing. 작업 관련 정보를 찾으면 쿼리를 작업의 주소 표시줄에 Microsoft Edge.
 
-자세한 내용은 [Microsoft Edge + Bing으로 자세히 보기를 참조합니다.](https://go.microsoft.com/fwlink/?linkid=2152963)
+자세한 내용은 자세한 내용은 [Microsoft Edge +](https://go.microsoft.com/fwlink/?linkid=2152963)Bing.
