@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: 0a160b0caba0098ce678872ae54df7b6ad69e78cba4eac85ac15567f2e75a8c7
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a99f93ef4858a19de2d134a882a34867795afd4e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891537"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327073"
 ---
 # <a name="change-payment-method-fromto"></a>(에서/로)결제 방법 변경
 

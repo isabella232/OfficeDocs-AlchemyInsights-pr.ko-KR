@@ -16,12 +16,12 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 9fc510bd8ab65e4e8670f16b530751bd35254da4d8c7c0feab3cfbf1d0e24303
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7b3f7dfaf9afffb689a3676910e1160276939397
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500994"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327257"
 ---
 # <a name="trying-to-find-a-trial"></a>평가판을 찾으려고 하나요?
 
@@ -31,8 +31,7 @@ ms.locfileid: "54500994"
 
 2. 요구 사항을 충족하는 구독을 선택한 다음 무료 평가판 **다운로드 를 선택합니다.**
 
-    > [!NOTE]
-    > 일부 구독은 평가판으로 사용할 수 없습니다. 구독을 마우스로 클릭할 때 무료 평가판 다운로드 단추가 없는 경우 평가판을 사용할 수 없습니다. 
+    **참고:** 모든 구독을 평가판으로 사용할 수 있는 것은 없습니다. 구독을 마우스로 클릭할 때 무료 평가판 다운로드 단추가 없는 경우 평가판을 사용할 수 없습니다. 
   
 3. 보안 조치로 추가 확인을 제공하기 위해 신용 카드 또는 기타 결제 방법을 입력해야 할 수 있습니다. 이 무료 평가판에는 요금이 청구되지 않습니다. 결제 정보는 파일에 보관하며 승인 없이는 구매에 사용하지 않습니다.
 

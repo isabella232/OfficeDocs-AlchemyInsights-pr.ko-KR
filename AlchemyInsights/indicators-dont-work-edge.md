@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2a48a49ec52a585e450edf448bc9203cd9c3f935
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887446"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326267"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>Edge 브라우저를 사용하여 표시기가 작동하지 않음
 

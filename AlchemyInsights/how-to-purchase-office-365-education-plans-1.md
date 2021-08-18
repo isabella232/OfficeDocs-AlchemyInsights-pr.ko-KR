@@ -16,12 +16,12 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: 62ab2fc121658b106eee4807edae6f291269cab3e4c844565acc3dbce949b3c0
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 450734781a0db054082535aff9b6af8417aeb24b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499914"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326303"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>계획 구매 Office 365 Education 방법
 

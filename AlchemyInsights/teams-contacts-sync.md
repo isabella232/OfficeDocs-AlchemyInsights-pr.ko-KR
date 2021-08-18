@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004610"
 - "11540"
-ms.openlocfilehash: 36273e998bbf97e261dbaa49b3b57aab17216e9f0e9bd29c5d2b9f6c0d9803e4
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: efc1f29c6e2f76d763f2f8102db7e9f6afb1f1be
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900770"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327339"
 ---
 # <a name="teams-contacts-sync"></a>Teams 연락처 동기화
 

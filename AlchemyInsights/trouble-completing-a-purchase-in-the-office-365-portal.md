@@ -16,12 +16,12 @@ ms.custom:
 - "483"
 - "1500029"
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 66dcf6ec531098f493597dc7ef6ce28cf90534ba3d241e3dc4066f6c9ff57b51
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 550d9884caaf47aa10eb4a9f5affd0ea61daf41b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500274"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327303"
 ---
 # <a name="trouble-completing-a-purchase-in-the-microsoft-365-admin-center"></a>Microsoft 365 관리 센터에서 구입을 완료하는 데 문제가 있습니다.
 

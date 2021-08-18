@@ -14,12 +14,12 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 525af0b29ffa291ddf69f6f2d97f505e93342989
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893409"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326681"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>사용자가 악성 이메일을 받았습니까?
 

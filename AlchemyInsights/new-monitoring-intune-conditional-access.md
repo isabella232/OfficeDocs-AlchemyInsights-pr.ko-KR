@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004636"
 - "8386"
-ms.openlocfilehash: 7f30202ff0a5b9475393cf26c0506bd6bec24f3d378052f24ebf7f327cf84689
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2c3a382671ac95ecbaec1b374bd8c474cf9690a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54025508"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327563"
 ---
 # <a name="monitor-intune-conditional-access"></a>Intune 조건부 액세스 모니터링
 
@@ -39,5 +39,4 @@ ms.locfileid: "54025508"
 - [문제 해결 정책](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 - [Intune 장치 준수 모니터링](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-> [!NOTE]
-> 이러한 단계는 조건부 액세스 기능의 Azure Active Directory 유용합니다. 또한 장치 정책을 사용하여 전자 메일 액세스를 차단하는 장치를 Exchange 있습니다. 장치 관리에 Exchange 자세한 내용은 에서 찾을 수 [**있습니다.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))
+**참고:** 이러한 단계는 조건부 액세스 기능의 Azure Active Directory 유용합니다. 또한 장치 정책을 사용하여 전자 메일 액세스를 차단하는 장치를 Exchange 있습니다. 장치 관리에 Exchange 자세한 내용은 에서 찾을 수 [**있습니다.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))

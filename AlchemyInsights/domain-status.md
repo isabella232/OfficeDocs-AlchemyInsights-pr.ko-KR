@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 1ddf6475e7cf466a39f76486e0f809097917657bc8f4ae7f7f2b516657308f39
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2247da07d60431edef5b5dea8a5c06d51579008c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53947449"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326583"
 ---
 # <a name="domain-status---no-services-selected"></a>도메인 상태 - 서비스가 선택되지 않았습니다.
 
@@ -32,5 +32,5 @@ ms.locfileid: "53947449"
     - Microsoft에서 DNS 레코드를 **추가하거나** 추가 옵션을 선택하면 사용 가능한 모든 서비스가 자동으로 제안되고   >   선택됩니다.
 1. 마법사를 계속 실행하여 DNS 설정 및 서비스 선택을 완료합니다.
  
-도메인 설정에 대한 추가 도움말은 도메인에 연결하기 [위해 DNS 레코드 추가를 참조합니다.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+도메인 설정에 대한 추가 도움말은 도메인에 연결하기 [위해 DNS 레코드 추가를 참조합니다.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 

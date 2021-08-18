@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12073"
 - "3000003"
-ms.openlocfilehash: e4d16a8d04b4d2fb4bfa8cf84308e29f2b499e0680f656cc239411d06e5b077c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2caa5d8ed9525129b66cc362b8b40149629006ba
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900882"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325981"
 ---
 # <a name="smtp-settings-for-the-microsoft-365-mail-service"></a>Microsoft 365 메일 서비스에 대한 SMTP 설정
 

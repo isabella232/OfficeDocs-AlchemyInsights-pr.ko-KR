@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 1d96cefc7918359e5d9006628d3eec723a39a77d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501822"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326395"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>구독에 대한 라이선스 추가 또는 제거
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501822"
 4. 라이선스를 구입하거나 제거하려면  총 라이선스  수량 상자에 이 구독에 대해 원하는 총 라이선스 수를 입력합니다. 예를 들어 라이선스가 100개인 경우 25개 이상을 추가하려는 경우 125를 입력합니다. 25개 라이선스를 제거하려면 75를 입력합니다.
 5. **저장** 을 선택합니다.
 
-라이선스를 할당하는 방법에 대한 자세한 내용은 사용자에게 라이선스 할당을 [참조하세요.](/microsoft-365/admin/manage/assign-licenses-to-users)
+라이선스를 할당하는 방법에 대한 자세한 내용은 사용자에게 라이선스 할당을 [참조하세요.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 **리소스**
   
-- [라이선스 구입 또는 제거](/microsoft-365/commerce/licenses/buy-licenses)
-- [비즈니스 Microsoft 365 취소](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [비즈니스용 Microsoft 365 사용해 보거나 구입](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [라이선스 구입 또는 제거](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [비즈니스 Microsoft 365 취소](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [비즈니스용 Microsoft 365 사용해 보거나 구입](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

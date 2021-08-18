@@ -15,12 +15,12 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: c9fa862fce7c5f60d3d654b490e5ed181ebbf52ec10e475c2fa4815d845a1d59
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 30bfec6c66b4ac9ae82704785c4739322b412726
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900926"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327491"
 ---
 # <a name="reactivate-a-microsoft-365-subscription"></a>구독을 Microsoft 365 다시 활성화
 

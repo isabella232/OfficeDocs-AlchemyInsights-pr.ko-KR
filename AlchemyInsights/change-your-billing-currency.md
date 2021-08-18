@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11544"
 - "9001671"
-ms.openlocfilehash: 1b4ae51e427db8024b8662f767778bb5eef09b35e6403fa2161365b75cb7f224
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 4238abfa07f301988b781ef3f72458d9e9d0a263
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895333"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327037"
 ---
 # <a name="change-your-microsoft-365-billing-currency"></a>Microsoft 365 청구 통화 변경
 
