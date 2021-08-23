@@ -1,8 +1,9 @@
 ---
 title: Project 구독 구입
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9002424"
 - "4708"
-ms.openlocfilehash: 6c3e777a8444a81a74a0bc4a0194fc9579525f04cd66c44424147cbd1454d196
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 59d6b2b4cb1e83b5101eb1fccecdde01c36f102b
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53911164"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450848"
 ---
 # <a name="purchase-project-subscription"></a>Project 구독 구입
 

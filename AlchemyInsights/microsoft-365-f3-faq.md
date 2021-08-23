@@ -3,7 +3,7 @@ title: Microsoft 365 F3 구독 라이선스 관리 FAQ
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002873"
 - "5472"
-ms.openlocfilehash: ed1f2d1cc4a25d8aada0eb4b6ad2c4c004408a3dde3acaf654f575f470391031
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 710ac8930b7184d230d37b599738aaa2dc541748
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54114286"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58452036"
 ---
 # <a name="microsoft-365-f3-subscription-and-license-management-faq"></a>Microsoft 365 F3 구독 라이선스 관리 FAQ
 

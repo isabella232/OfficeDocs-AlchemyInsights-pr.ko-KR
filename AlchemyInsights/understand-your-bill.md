@@ -1,8 +1,9 @@
 ---
 title: 청구서 이해
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,15 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: 652c9e5b51253b5ce3964b822be28f198ba289deb552984a3d124166484fa84d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 41fef2ca1d65b46e49b602b5cd03e19a4ab708fc
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908644"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451820"
 ---
 # <a name="understand-your-bill"></a>청구서 이해
 

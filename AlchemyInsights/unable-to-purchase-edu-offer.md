@@ -1,9 +1,9 @@
 ---
 title: EDU 제품을 구매할 수 없음
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/8/2020
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,14 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "5989"
 - "1500009"
-ms.openlocfilehash: 3c7fb0d8e85548a9bdeeac1d7d9c5722ceb24dd88ce7e97af55a2c38484f3bc2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/8/2020
+ms.openlocfilehash: 7871da6a81d74ea9a7305d7e02bf1a655f60ce15
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54091912"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451856"
 ---
 # <a name="unable-to-purchase-edu-offer"></a>EDU 제품을 구매할 수 없음
 

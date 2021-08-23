@@ -3,7 +3,7 @@ title: Microsoft 365 E5 구독 FAQ
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002658"
 - "5183"
-ms.openlocfilehash: 53f94337d3c6ad032e21bc4e8e9484ee937a0c3153543558e960c8f96c838569
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b3a0969b21b4a904b211b6fae135895e760d4290
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53925027"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450884"
 ---
 # <a name="microsoft-365-e5-subscription-and-license-management-faq"></a>Microsoft 365 E5 구독 및 라이선스 관리 FAQ
 

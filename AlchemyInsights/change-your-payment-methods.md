@@ -1,8 +1,9 @@
 ---
 title: 결제 방법을 추가, 업데이트 또는 제거
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "1500001"
 - "4858"
-ms.openlocfilehash: 9855b5c1db73ec0dca7f11c497b496da2155ba715c83bd1c9c169bdc14716491
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 99fe735c1976716a723f5d11792548aa79acfa1f
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54035408"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451964"
 ---
 # <a name="add-update-or-remove-your-payment-methods"></a>결제 방법을 추가, 업데이트 또는 제거
 

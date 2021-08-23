@@ -1,8 +1,9 @@
 ---
 title: Microsoft 365 구독 취소, 환불 또는 종료
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002914"
 - "5614"
-ms.openlocfilehash: 604107a6cdddf1b13fa3684fc6f235db54b5c8600f71fe8d42f26ee179abfe6e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b0edc8f3cf3c61e0b16983e171456cc5126f2b27
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071446"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450992"
 ---
 # <a name="cancelrefundclose-your-microsoft-365-subscription"></a>Microsoft 365 구독 취소/환불/종료
 

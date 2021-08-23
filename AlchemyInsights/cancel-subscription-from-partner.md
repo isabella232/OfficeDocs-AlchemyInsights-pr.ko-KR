@@ -1,8 +1,9 @@
 ---
 title: 파트너 구독 취소
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9001683"
 - "5078"
-ms.openlocfilehash: d9400a1dc52f1eecde925a31d13ec49c3eaeaa506e02d42a15c643259609ea24
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 907adaa12d960f0f5a54624b7fe9ee70a83f51d0
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54103666"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58452000"
 ---
 # <a name="cancel-subscription-from-partner"></a>파트너 구독 취소
 

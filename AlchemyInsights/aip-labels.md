@@ -1,6 +1,6 @@
 ---
 title: AIP(Azure Information Protection) 레이블
-ms.author: pebuam
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/19/2021
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10974"
 - "9004597"
-ms.openlocfilehash: d3c2455ffae869b840d0a33e3ffffa4d79a5aaf81b918acfd6122c3b4ec03712
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4b7f4c0fa86d78842edc757459ec008fca17daf7
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53951751"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451748"
 ---
 # <a name="azure-information-protection-aip-labels"></a>AIP(Azure Information Protection) 레이블
 
