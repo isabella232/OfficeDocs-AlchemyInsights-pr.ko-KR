@@ -3,7 +3,7 @@ title: Microsoft 365 A5 FAQ
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002872"
 - "5425"
-ms.openlocfilehash: 6728f7040df43cafcd16c6e8c798baa1e0f7e1b3dc828103fecaf1f69cd10111
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 868807e87106ed2f5e8361cceec66bdbadfd7014
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54027461"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58452171"
 ---
 # <a name="microsoft-365-a5-faq"></a>Microsoft 365 A5 FAQ
 

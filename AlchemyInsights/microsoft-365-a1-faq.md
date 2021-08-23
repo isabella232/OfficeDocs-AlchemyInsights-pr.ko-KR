@@ -3,7 +3,7 @@ title: Microsoft 365 A1 FAQ
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "4981"
 - "9002568"
-ms.openlocfilehash: c289f0f3e9c3ccbb5162b7cdcc80e48d73ffb59bc0457220595676f8ae6742a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76f09fd64c23912bcaa9db86859d276d7d817815
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976403"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58452108"
 ---
 # <a name="microsoft-365-a1-faq"></a>Microsoft 365 A1 FAQ
 

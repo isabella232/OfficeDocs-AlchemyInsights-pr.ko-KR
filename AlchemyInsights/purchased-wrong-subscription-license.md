@@ -1,8 +1,9 @@
 ---
 title: 잘못된 구독 라이선스 구입
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9002455"
 - "4793"
-ms.openlocfilehash: 9165e204aa4a8de59932881e310e62ce77a0cff129db2768faa464d4b2391159
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 59b3cc844dbc7fe39b1d645f173cf4533209393b
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54111118"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58452252"
 ---
 # <a name="purchased-wrong-subscription-license"></a>잘못된 구독 라이선스 구입
 
