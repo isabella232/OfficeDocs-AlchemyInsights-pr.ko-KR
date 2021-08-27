@@ -3,7 +3,6 @@ title: 사용자에게 라이선스 할당 또는 할당을 할당하지 않습�
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -17,12 +16,13 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 1a70fe2b468251f48eb3399e75dd414d3aa0fe02
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/27/2021
+ms.openlocfilehash: c820270c655c77f008dd53a3d123d65f9e5f788e
+ms.sourcegitcommit: 44081ba551e0424c7b78ba2304c5705b38567f3d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58319460"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58679305"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>사용자에게 라이선스 할당 또는 할당을 할당하지 않습니다.
 
