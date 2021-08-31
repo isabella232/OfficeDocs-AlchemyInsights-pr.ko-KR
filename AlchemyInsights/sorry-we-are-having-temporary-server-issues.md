@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: aa0d625856df1027146de5af57845224e3056d8c21d9ac4cefbd4a9c329f487c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 565f70d9a09c61bef84cdd1c23e9b0ed34bebe51
+ms.sourcegitcommit: b6dd6ae628a02ea6b997a993c49de083465bc2ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54021602"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58744673"
 ---
 # <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>앱 Microsoft 365 "죄송합니다. 일시적인 서버 문제가 있습니다." 메시지 수정
+
+참고: 이전 버전의 Windows(예: Windows 7 SP1, Windows Server 2008 R2)를 사용하는 경우 간단한 [](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) 수정을 사용하여 TLS 1.2를 기본값으로 사용하도록 설정하십시오. 자세한 내용은 [Windows의 WinHTTP에서 기본 보안 프로토콜로 TLS 1.1 및 TLS 1.2를 사용하도록 업데이트](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)를 참조하세요.
 
 이 메시지를 받으면 다음을 시도해 보아야 합니다.
 
