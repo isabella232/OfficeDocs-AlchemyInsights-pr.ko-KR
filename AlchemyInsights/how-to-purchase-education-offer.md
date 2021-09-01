@@ -3,7 +3,6 @@ title: 교육 제품을 구입하는 방법
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,12 +15,13 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.openlocfilehash: edaf127e4779c04ddf68742bd0428336c75b6f11
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 04/21/2020
+ms.openlocfilehash: 5e96f9f729402e24a4ba26ebce802b28a480a235
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58326349"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845796"
 ---
 # <a name="how-to-purchase-an-education-offer"></a>교육 제품을 구입하는 방법
 

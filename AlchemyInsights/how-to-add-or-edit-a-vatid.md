@@ -3,7 +3,6 @@ title: VatID를 추가하거나 편집하는 방법
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: tugu, jmueller
 ms.audience: ITPro
 ms.topic: article
@@ -14,13 +13,14 @@ ms.custom:
 - commerce_billing
 - "664"
 - "1500034"
+ms.date: 08/11/2021
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: e1b25562e75926ce71ad1b854a0bad0af7a4687f
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: a57f6adbd39f0bebb816978a2553ad825e1fd189
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58319506"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842520"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>VatID를 추가하거나 편집하는 방법
 

@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9001683"
 - "5064"
-ms.openlocfilehash: 676b4d0bfcb8575f026c03dcc4dcfd03b74bfd05
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 444911e00ed47cf095dd707a20c1f26e6e240859
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58450776"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845671"
 ---
 # <a name="remove-a-partner-from-a-subscription"></a>구독에서 파트너 삭제
 

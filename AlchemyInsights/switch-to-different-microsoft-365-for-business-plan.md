@@ -20,12 +20,13 @@ ms.custom:
 - "5160"
 - "9002663"
 - "5168"
-ms.openlocfilehash: eaa14aa85989cca00f43a862d7687b3c35b2b2e47562d498b630139985eaef6a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/30/2021
+ms.openlocfilehash: 9f9ee64dc2058b6504571fed7200f8de7ce91b48
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909184"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842664"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>다른 비즈니스용 Microsoft 365 요금제로 전환
 

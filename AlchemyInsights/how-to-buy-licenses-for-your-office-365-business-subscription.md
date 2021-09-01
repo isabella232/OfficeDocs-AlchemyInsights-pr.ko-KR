@@ -3,7 +3,6 @@ title: 사용자 구독에 대한 라이선스를 구입하는 비즈니스용 M
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: sinakassaw, nicholak
 ms.audience: ITPro
 ms.topic: article
@@ -14,12 +13,13 @@ ms.custom:
 - commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: aa7eb7f5d3136e158c13ee2948979a4545cae5a5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 2d02506ca538293c1a8e9f56518759b13eab20dc
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313117"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842484"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>사용자 구독에 대한 라이선스를 구입하는 비즈니스용 Microsoft 365 앱 방법
 

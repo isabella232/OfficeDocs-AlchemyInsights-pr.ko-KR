@@ -4,7 +4,6 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: drjones, jmueller
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_subscriptions
 - "472"
 - "1500026"
+ms.date: 07/30/2021
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 41188a73dc258706c955bd04a653547de264da2dc6a3c54521cddf82c254972a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5f76edcbf5573c141f592b06813f63b033262a5a
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045066"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58846084"
 ---
 # <a name="compare-upgrade-or-purchase-subscriptions"></a>구독 비교, 업그레이드 또는 구매
   

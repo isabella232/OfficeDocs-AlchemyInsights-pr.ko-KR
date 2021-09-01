@@ -3,7 +3,6 @@ title: 신용 카드 결제에서 송장으로 변경하는 방법
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +13,13 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 3f3f52a5cedc8f065dbac59499cc087641e84682
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 529a9f46c86453405220bfc47ad57a97ec818481
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323792"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845400"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>신용 카드 결제에서 송장으로 변경하는 방법
 

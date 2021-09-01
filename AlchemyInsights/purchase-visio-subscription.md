@@ -14,12 +14,13 @@ ms.custom:
 - commerce_purchase
 - "9002419"
 - "4694"
-ms.openlocfilehash: e190eaa89e7609125cc0cce7f4a6861424154dec
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: fbf246007f6c029da196a9674ca89380c7ae747e
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58451100"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58846012"
 ---
 # <a name="purchase-visio-subscription"></a>Visio 구독 구입
 

@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9002608"
 - "7594"
-ms.openlocfilehash: a1aaea58fb28ec6c25343a46047086e87fddf9f8
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 7c534709b959d36abc15dc845bca55d3a41e0b1e
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58450812"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845616"
 ---
 # <a name="switch-to-a-different-plan"></a>다른 요금제로 전환
 

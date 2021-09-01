@@ -3,7 +3,6 @@ title: 계획 구매 Office 365 Education 방법
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,13 +15,14 @@ ms.custom:
 - "330"
 - "370"
 - "1500009"
+ms.date: 04/21/2020
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 522d99d8ab131437c519321115fa2c47d3175530
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 1845b72fc9f1b0953c7c22156631199f8cba0ec2
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323118"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845292"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>계획 구매 Office 365 Education 방법
 

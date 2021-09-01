@@ -4,7 +4,6 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_subscriptions
 - "350"
 - "1500012"
+ms.date: 07/30/2021
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: bc6f6104afbde2424696e1f30f0a873216393ed609b7d6e6f8a651f30c01b7eb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d1379700b3d5da0f553d632d6f254e4bb5ee7dc8
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54099112"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845724"
 ---
 # <a name="manage-recurring-billing"></a>재발 대금 청구 관리
 

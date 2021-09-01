@@ -3,7 +3,6 @@ title: 신용 카드 또는 은행 계좌에 대한 요금을 식별하는 방�
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,13 +15,14 @@ ms.custom:
 - "451"
 - "1960"
 - "1500019"
+ms.date: 04/21/2020
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 82e14310556b46cec30c8ec861992a36930b6c2d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 44a8da7c2fa066582404576525c8e492b00a09c7
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58320843"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842448"
 ---
 # <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>신용 카드 또는 은행 계좌에 대한 요금을 식별하는 방법
 

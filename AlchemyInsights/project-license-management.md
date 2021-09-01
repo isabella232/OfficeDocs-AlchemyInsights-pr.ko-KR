@@ -3,7 +3,6 @@ title: Project 라이선스 관리
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "9002424"
 - "5105"
-ms.openlocfilehash: ba02d35b3983e3734167d2603d3ebe45686f2ba960c88e8dd989289af4c54d08
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/10/2021
+ms.openlocfilehash: 347953e92682bed40c121a2a821f630507d9ae64
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901886"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845220"
 ---
 # <a name="project-license-management"></a>Project 라이선스 관리
 
