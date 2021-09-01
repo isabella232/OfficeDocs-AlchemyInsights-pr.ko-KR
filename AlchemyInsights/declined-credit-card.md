@@ -3,7 +3,6 @@ title: 거절된 신용 카드
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_billing
 - "443"
 - "1500018"
+ms.date: 08/10/2021
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 30d8820d5074aa00de95263301464f7e5259acb4
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: a40278ea828bca2066a2e3023612c7728dd078d5
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321117"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841583"
 ---
 # <a name="declined-credit-card"></a>신용 카드 거부
 

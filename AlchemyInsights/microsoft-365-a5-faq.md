@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9002872"
 - "5425"
-ms.openlocfilehash: 868807e87106ed2f5e8361cceec66bdbadfd7014
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 07/30/2021
+ms.openlocfilehash: 592972353e291fdcdbb45726f7d90710081930ea
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58452171"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836903"
 ---
 # <a name="microsoft-365-a5-faq"></a>Microsoft 365 A5 FAQ
 

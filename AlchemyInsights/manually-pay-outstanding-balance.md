@@ -3,7 +3,6 @@ title: 미지불 잔액 정산
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 audience: ITPro
 ms.topic: article
@@ -19,12 +18,13 @@ ms.custom:
 - "9689"
 - "1500018"
 - "9690"
-ms.openlocfilehash: 07865696104f54eafefe5634a52db343f47bdec2
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 65621eae4c201a07983853f589caa5169a85660f
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329704"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836687"
 ---
 # <a name="manually-pay-an-outstanding-balance"></a>미지불 잔액 정산
 

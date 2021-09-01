@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9002873"
 - "5472"
-ms.openlocfilehash: 710ac8930b7184d230d37b599738aaa2dc541748
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 07/30/2021
+ms.openlocfilehash: 4aa2ca755a7f7495b21ef5a526d0965f050c2da6
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58452036"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836651"
 ---
 # <a name="microsoft-365-f3-subscription-and-license-management-faq"></a>Microsoft 365 F3 구독 라이선스 관리 FAQ
 

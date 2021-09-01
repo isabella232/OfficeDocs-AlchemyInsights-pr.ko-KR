@@ -15,12 +15,13 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 965e9d0a35ed2d220fd3750cfb59b0cd17f82601
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: dc8d794788caa73b91cc2cdd7b2104a4274122a3
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58328868"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836939"
 ---
 # <a name="manage-subscription-renewal"></a>구독 갱신 관리
 

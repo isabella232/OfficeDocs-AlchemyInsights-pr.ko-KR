@@ -3,7 +3,6 @@ title: Microsoft 365 관리 센터에서 구입을 완료하는 데 문제가 �
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_purchase
 - "483"
 - "1500029"
+ms.date: 04/21/2020
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 550d9884caaf47aa10eb4a9f5affd0ea61daf41b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 66686f68e75a8de4f3dbd0076a646a7e936b1fcf
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58327303"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836615"
 ---
 # <a name="trouble-completing-a-purchase-in-the-microsoft-365-admin-center"></a>Microsoft 365 관리 센터에서 구입을 완료하는 데 문제가 있습니다.
 

@@ -3,7 +3,6 @@ title: 신용/환불
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: jkinma, jmueller
 ms.audience: ITPro
 ms.topic: article
@@ -14,13 +13,14 @@ ms.custom:
 - commerce_billing
 - "897"
 - "1500035"
+ms.date: 04/21/2020
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 4e38e7c25b1ab0d7435f5e7321b8b7a466b2c9f4
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: dc0fc34552e8c2fd97c06c674bf119946c4b9a8e
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58320316"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841619"
 ---
 # <a name="creditrefund"></a>신용/환불
 

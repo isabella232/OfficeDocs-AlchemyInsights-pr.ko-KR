@@ -3,7 +3,6 @@ title: 결제 방법 변경
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f31352aa920720edb4d8091e01c8a8cddcb602fc
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 924c3afce5ceda57175de1f638a2a4012b2ba96b
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324042"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836831"
 ---
 # <a name="change-payment-method"></a>결제 방법 변경
 
@@ -30,7 +30,7 @@ ms.locfileid: "58324042"
 2. 변경할 결제 방법의 행을 선택합니다. 오른쪽 창에는 선택한 결제 방법을 사용하는 모든 청구 프로필 및 개인 구독이 표시됩니다.
 3. 오른쪽 창에서 **모든 항목에 대해 결제 방법 변경** 을 선택합니다.
 4. 기존 결제 방법을 사용하려는 경우, 드롭다운 목록에서 하나를 선택하고 **변경** 을 선택합니다.
-    **참고:** 청구 프로필과 연결된 구독이 있는 경우 신용 카드 또는 직불 카드만 사용하여 결제할 수 있습니다. **결제 방법** 페이지에 나열된 은행 계좌를 사용하는 경우, 드롭다운 목록에서 선택할 수 없습니다.
+    **참고**: 청구 프로필과 연결된 구독이 있는 경우, 신용 카드나 직불 카드로만 결제할 수 있습니다. **결제 방법** 페이지에 나열된 은행 계좌를 사용하는 경우, 드롭다운 목록에서 선택할 수 없습니다.
 5. 새 결제 방법을 추가하려면 **결제 방법 추가** 를 선택합니다.
 6. **결제 방법 추가** 창에서 계좌 정보를 입력하고 **저장** 을 선택합니다. 테넌트와 동일한 국가의 결제 방법을 사용해야 합니다.
 7. 드롭다운 목록에 새 결제 방법이 이미 선택되어 있습니다. **변경** 을 선택합니다.
