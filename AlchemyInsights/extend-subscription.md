@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "1400006"
 - "5832"
-ms.openlocfilehash: 9641edb674b90a97a617349250494d053a9e0518bbb13c171d5f164a117abf3d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/30/2021
+ms.openlocfilehash: 0159b028e1ad587ef81e14a3374ee272bd0e66e3
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54117706"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844464"
 ---
 # <a name="what-are-my-options-to-extend"></a>연장하기 위한 내 옵션은 무엇인가요?
 

@@ -14,12 +14,13 @@ ms.custom:
 - commerce_purchase
 - "9002424"
 - "4708"
-ms.openlocfilehash: 59d6b2b4cb1e83b5101eb1fccecdde01c36f102b
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 213eab5723c0183ef45aac53478c9a8ca2a07f29
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58450848"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844896"
 ---
 # <a name="purchase-project-subscription"></a>Project 구독 구입
 

@@ -3,7 +3,6 @@ title: 라이선스가 없거나 관리 센터에서 사라짐
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "9003038"
 - "5800"
-ms.openlocfilehash: 7094fb4ee17fd4d609ea0739269cf6b3780f4355
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/05/2021
+ms.openlocfilehash: b2e9290806465bf0d1f862ed4e91a9bfd6a84b88
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58295805"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844536"
 ---
 # <a name="license-missing-or-disappears-from-the-admin-center"></a>라이선스가 없거나 관리 센터에서 사라짐
 

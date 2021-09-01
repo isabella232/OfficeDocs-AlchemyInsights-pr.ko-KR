@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: dae66f9bb40262a9fc0d643ca9585ec90adae399
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330178"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844788"
 ---
 # <a name="canceling-your-subscription"></a>구독 취소
 

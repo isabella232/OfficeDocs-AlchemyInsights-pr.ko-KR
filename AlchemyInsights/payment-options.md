@@ -3,7 +3,6 @@ title: 결제 옵션
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: ITPro
 ms.topic: article
@@ -14,12 +13,13 @@ ms.custom:
 - commerce_billing
 - "1639"
 - "9000134"
-ms.openlocfilehash: ee601c667a0d2aefb8ced7444fd5e2319924dc13
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 5ba7e3ea21fa85e8674782d43e802a137126fc4a
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324404"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844716"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>비즈니스용 Microsoft 365 구독에 대한 결제 옵션
   

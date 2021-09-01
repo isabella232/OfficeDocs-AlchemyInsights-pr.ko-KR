@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9002449"
 - "4748"
-ms.openlocfilehash: 4e17165d1133811418e5f4b0a5fa3b352dec20c9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 431aac382555b43f95b0dcc6f053d114c2d51fee
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58319190"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844824"
 ---
 # <a name="unable-to-access-my-account"></a>내 계정에 액세스할 수 없음
 

@@ -3,7 +3,6 @@ title: 라이선스가 너무 많나요?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: bad24eee4ea93b7fcb604202bcedbfee018a7e34
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 86f81fd0dc307d6f8317e8c726a4a5060396fd66
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321565"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844644"
 ---
 # <a name="too-many-licenses"></a>라이선스가 너무 많나요?
 

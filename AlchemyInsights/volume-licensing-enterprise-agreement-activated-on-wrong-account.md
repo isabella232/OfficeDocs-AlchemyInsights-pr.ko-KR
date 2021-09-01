@@ -3,7 +3,6 @@ title: 잘못된 계정에서 정품 인증된 볼륨 라이선스 엔터프라�
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "463"
 - "1500021"
-ms.openlocfilehash: e1885ffba9d1df1fba0fcca2f2b792bc218f7ab2
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/05/2021
+ms.openlocfilehash: 64073e8133d0a88a56a74cc6934025451e312205
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323490"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843960"
 ---
 # <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>잘못된 계정에서 정품 인증되거나 한 계정에서 다른 계정으로 라이선스를 전송하는 볼륨 라이선스 엔터프라이즈 계약
 

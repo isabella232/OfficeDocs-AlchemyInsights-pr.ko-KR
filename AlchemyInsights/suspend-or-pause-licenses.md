@@ -3,7 +3,6 @@ title: 라이선스 일시 중단 또는 일시 중지
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: sinakassaw, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: b56a623a70f1a51e501291c0babf7d45eecee4eb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 4c6c265ca3f06e4fe15cba5d6448f48c38341296
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321687"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844032"
 ---
 # <a name="suspend-or-pause-licenses"></a>라이선스 일시 중단 또는 일시 중지
 

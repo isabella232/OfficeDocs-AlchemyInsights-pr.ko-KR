@@ -3,6 +3,7 @@ title: 라이선스가 작동하지 않음
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9002459"
 - "4764"
-ms.openlocfilehash: bde8395d78951087e482848c823d985163b9de3a
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 9d090a74293dd45b4468731f847e9347ba00c440
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58452216"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845004"
 ---
 # <a name="license-not-working"></a>라이선스가 작동하지 않음
 

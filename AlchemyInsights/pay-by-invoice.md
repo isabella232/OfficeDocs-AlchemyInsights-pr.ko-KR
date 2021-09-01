@@ -3,7 +3,6 @@ title: 송장으로 결제
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +13,13 @@ ms.custom:
 - commerce_billing
 - "492"
 - "1500024"
-ms.openlocfilehash: 4773604b6779c2995e055be18e616552dcdf54ea
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 786e6e19d5d4fdd2dfe4388cdac1c7ff70fb7c7a
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317518"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844320"
 ---
 # <a name="pay-by-invoice"></a>송장으로 결제
 

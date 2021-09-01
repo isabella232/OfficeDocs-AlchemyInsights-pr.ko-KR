@@ -3,7 +3,6 @@ title: Microsoft Defender for Office 365 라이선스 관리
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5782"
-ms.openlocfilehash: 515263d56b147f0f0e0f47b779394f5bec50df89ab1ea93fc1042384270a2ba3
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/10/2021
+ms.openlocfilehash: 063067f35ba764a784b6e0f1a701de923c89eb74
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894601"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845148"
 ---
 # <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defender for Office 365 라이선스 관리
 
