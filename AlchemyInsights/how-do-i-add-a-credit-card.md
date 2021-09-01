@@ -3,7 +3,6 @@ title: 신용 카드를 추가하려면 어떻게 해야 하나요?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_billing
 - "432"
 - "1500001"
+ms.date: 04/21/2020
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 6af7a3ac9554e48b83e2582f3724577273104a5b8b7fefdc41b15977ec0e1abb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: cb89856a33d9ae30b6799132f1b769493df88633
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896565"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843780"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>신용 카드를 추가하려면 어떻게 해야 하나요?
 

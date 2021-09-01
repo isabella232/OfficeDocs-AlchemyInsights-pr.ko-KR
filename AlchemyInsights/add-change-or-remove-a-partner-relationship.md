@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9001683"
 - "3748"
-ms.openlocfilehash: 4a2c26c3850d99aeb19cc3c47116faffa879edfa
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 0f6e5cdfb678642b11c1375db47f0a988e4beb24
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58450956"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842844"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>파트너 관계 추가, 변경 또는 제거
 

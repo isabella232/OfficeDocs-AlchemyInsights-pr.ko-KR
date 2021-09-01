@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9002871"
 - "5417"
-ms.openlocfilehash: b6a28607d2cb92740885ca6013b3d8f1bebf40e7
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 07/30/2021
+ms.openlocfilehash: 574aa753f29158adfa4201d2c88322ed72c75b27
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58451892"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843564"
 ---
 # <a name="microsoft-365-a3-faq"></a>Microsoft 365 A3 FAQ
 

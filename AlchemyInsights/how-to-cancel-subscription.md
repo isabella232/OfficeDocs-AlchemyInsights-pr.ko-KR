@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9003797"
 - "6836"
-ms.openlocfilehash: 7c25c2b782bdffadd5239aeeb7e0aba5386aeef42a7b5236c7d282ac3ba26a55
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/30/2021
+ms.openlocfilehash: 7c3d346826f6ab0385fde20b97e36f1ef6febdc6
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029342"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843672"
 ---
 # <a name="how-to-cancel-a-subscription"></a>구독을 취소하는 방법
 

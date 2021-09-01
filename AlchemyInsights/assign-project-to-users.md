@@ -3,7 +3,6 @@ title: 사용자에게 Project 할당하기
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "9002424"
 - "5103"
-ms.openlocfilehash: 49f0b0fe500f496d56aea6ff74f682edc2cc3e8b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: f8c0ee53cadb8559eab349cf78cd8caf86341557
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329194"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842808"
 ---
 # <a name="assign-project-to-users"></a>사용자에게 Project 할당하기
 

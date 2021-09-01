@@ -14,12 +14,13 @@ ms.custom:
 - commerce_purchase
 - "1400006"
 - "5479"
-ms.openlocfilehash: 3d95410f98b10ba2fa11c1f2d35e6bbc939df3d9
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: ccd320cacf5f45767382f86605921cbd2772cad9
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58452288"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843708"
 ---
 # <a name="grace-period-for-microsoft-365-free-trial"></a>Microsoft 365 무료 평가판 유예 기간
 

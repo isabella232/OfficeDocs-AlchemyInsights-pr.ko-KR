@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9001683"
 - "5078"
-ms.openlocfilehash: 907adaa12d960f0f5a54624b7fe9ee70a83f51d0
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: ed145cdd0f5e5c4926b423b60fa90a223f442e27
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58452000"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843348"
 ---
 # <a name="cancel-subscription-from-partner"></a>파트너 구독 취소
 

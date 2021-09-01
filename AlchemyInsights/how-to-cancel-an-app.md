@@ -4,7 +4,6 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9000566"
 - "2424"
-ms.openlocfilehash: 504d0af989d93130bca0d91183cbfe608b76fd95d88f46af465e87cff1f052df
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/30/2021
+ms.openlocfilehash: 1005828c1dda92ff310f7f2d956e64954f65d673
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926467"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843276"
 ---
 # <a name="how-to-cancel-software-as-a-service-apps"></a>서비스 앱으로 소프트웨어를 취소하는 방법
 

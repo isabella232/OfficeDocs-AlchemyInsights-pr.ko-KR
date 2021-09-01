@@ -15,12 +15,13 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 29d543859717e52bd625395429a49b785b35d3ff
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318956"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843420"
 ---
 # <a name="cancel-power-bi"></a>취소 Power BI
 
