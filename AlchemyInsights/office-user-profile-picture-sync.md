@@ -9,33 +9,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 67d041da543dc1ac3668190faacefe4207d6c8eb30af4c19a5ff0833a3b46538
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea00bfb368cca514c2b4732667cfb55509f9a3f5
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985595"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923740"
 ---
 # <a name="sync-a-users-profile-picture"></a>사용자의 프로필 사진 동기화
 
-you can add or change your profile photo in Microsoft 365 from Office.com, while using Microsoft applications on your computer or in a browser on your phone. 사진은 프로필 사진 원이 있는 모든 곳에서 Microsoft 365.
-
-비즈니스용 프로필에 프로필 사진을 Microsoft 365:
-
-1. 사용할 사진을 찾아 컴퓨터, OneDrive 또는 다른 위치에 저장합니다.
-
-2. 에서 Microsoft 365 또는 학교 계정으로 로그인합니다 office.com. [](https://www.office.com)
-
-3. 페이지의 오른쪽 위 모서리에 있는 이니셜이나 사람의 아이콘을 표시하는 원을 선택합니다.
-
-4. My accounts(내 계정) 창에서 이니셜이나 사람의 아이콘을 표시하는 원을 선택합니다. 나타나는 팝업에서 사진을 변경합니다.
-
-**참고:** 사용자 프로필 사진이 다른 Microsoft 응용 프로그램과 SharePoint 다른 경우 사용자가 다음 단계를 완료하도록 합니다.
-
-1. 개인(InPrivate/incognito) 브라우저 세션을 열 수 있습니다.
-1. 으로 [Microsoft Office 365.](https://www.office.com)
-1. 선택 SharePoint 선택합니다.
-1. 사진이 업데이트되지 않은 사이트 또는 페이지 또는 사용자가 사용자 웹 파트에 포함된 페이지로 이동합니다.
+온라인 SharePoint 사진이 SharePoint 또는 사용자 웹 파트에 표시되지 않습니다. 프로필 사진을 표시하려면 SharePoint Online에 표시되지 않는 [프로필 사진의 단계를 따릅니다.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/profile-picture-not-showing)
 
 자세한 내용은 에서 프로필 사진 [동기화에 대한](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)Microsoft 365.
 
