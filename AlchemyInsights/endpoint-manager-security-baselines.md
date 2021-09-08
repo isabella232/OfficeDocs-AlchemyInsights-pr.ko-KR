@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978167"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923560"
 ---
 # <a name="endpoint-manager---security-baselines"></a>Endpoint Manager - 보안 기준
 
@@ -37,6 +37,8 @@ ms.locfileid: "53978167"
 배포된 기준의 버전을 가장 효과적으로 변경하는 방법에 대한 지침은 [Microsoft Intune에서 보안 기준 프로필 관리](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure)를 참조하세요.
 
 보안 기준을 배포한 후 배포 상태를 모니터링하고 장치 기준에 따라 설정을 검토할 수 있습니다.
+
+보안 기준에는 많은 설정이 포함되어 있으므로 구성 변경을 검토하고 모든 설정이 장치 및 비즈니스 요구 사항에 적합한지 테스트를 수행하는 것이 중요합니다.
 
 **참고:** 기준에 대한 데이터를 보고하는 경우 초기 배포에서 장치에 표시되는 데 최대 24시간, 추가 업데이트에 최대 6시간이 걸릴 수 있습니다. 
 
