@@ -15,12 +15,12 @@ ms.custom:
 - "13810"
 - "13812"
 - "9008619"
-ms.openlocfilehash: 16aa4f052c934421423c73244f03a20aa38e4785
-ms.sourcegitcommit: 76c61dec041b93d0039764fae38107108da324aa
+ms.openlocfilehash: ff8eac6487ef544277c5ce2c0c0b7068c9d400ca
+ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2021
-ms.locfileid: "58896349"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327820"
 ---
 # <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Microsoft 365 관리 센터의 보고서에 읽을 수 있는 사용자 이름이 표시되지 않음
 
@@ -30,5 +30,5 @@ Microsoft 365 관리 센터의 보고서에 사용자 이름이 표시되지 않
 
 전역 관리자는 조직 개인 정보 보호 관행이 허용하는 경우 테넌트에 대해 이 변경 사항을 되돌리고 식별 가능한 사용자 정보를 표시할 수 있습니다. 테넌트의 변경 내용을 되돌리려면 다음을 수행합니다.
 
-1. 관리 센터에서 **설정** > **조직 설정** > [**서비스**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services)로 이동하고 **보고서** 를 선택합니다. 
+1. 관리 센터에서 **설정** > **조직 설정** > [**서비스**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services )로 이동하고 **보고서** 를 선택합니다. 
 1. **사용자 정보 표시 방법 선택** 에서 **보고서에 식별 가능한 사용자 정보 표시** 를 선택한 다음 보고서를 다시 실행합니다.
