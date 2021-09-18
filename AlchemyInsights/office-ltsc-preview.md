@@ -1,9 +1,9 @@
 ---
-title: Office LTSC 미리 보기
+title: Office LTSC
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 04/23/2020
+ms.date: 09/17/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -23,25 +23,27 @@ ms.custom:
 - "2000021"
 - "2000020"
 - "9002483"
-ms.openlocfilehash: 9102102ffc4a260aed74f11ad343afddd7872f1a3bcfb061f1961aef49e6e841
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 52352c6651b3268445d01a50bcfdd73d1075523f
+ms.sourcegitcommit: 1e174b64d290ffa99d400480efe5d63ed846581c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076423"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59447101"
 ---
-# <a name="office-ltsc-preview"></a>Office LTSC 미리 보기
+# <a name="office-ltsc"></a>Office LTSC
 
-Microsoft Office Mac용 Windows 및 Office 2021용 LTSC(장기 서비스 채널)는 현재 공개 미리 보기에서 사용할 수 있습니다. 자세한 내용은 다음 항목을 참조하세요.
+Office LTSC(장기 서비스 채널) 2021은 VLSC(볼륨 라이선스 서비스 센터)에서 일반적으로 사용할 수 있습니다.
 
-- [LTSC Office 개요](https://docs.microsoft.com/deployoffice/office2021/overview-ltsc-preview)
+**중요:** Office LTSC 2021은 Office(또는 Office 365 Microsoft 365) 계획을 통해 사용할 수 있는 Office 365 별개입니다. 예를 들어 조직의 사용자에게 엔터프라이즈용 Microsoft 365 앱(Office 365 ProPlus)를 배포한 경우 LTSC 2021을 Office 필요가 없습니다. 이미 Office LTSC 2021에 포함된 모든 기능과 LTSC 2021에서 사용할 수 없는 더 많은 기능이 Office 있습니다.
 
-- [LTSC Office 설치](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview)
+자세한 정보 및 배포 고려 사항은 다음을 참조하세요.
 
-- [Mac용 Office 2021 Standard 개요(미리 보기)](https://docs.microsoft.com/deployoffice/office2021/overview-mac-preview)
+[LTSC Office 개요](https://docs.microsoft.com/deployoffice/ltsc2021/overview)  
 
-- [Office LTSC Commercial Preview FAQ](https://answers.microsoft.com/msoffice/forum/all/office-ltsc-commercial-preview-faq/0fcf5976-f87f-4be1-81af-9f6d6141bc3a)  
+[Office LTSC for Windows 및 Mac FAQ](https://support.microsoft.com/office/office-ltsc-for-windows-and-mac-faq-d574cf0b-3ebc-42cf-9035-a3b837e0463c)  
 
-**참고:** 현재 엔터프라이즈용 Microsoft 365 앱 또는 비즈니스용 Microsoft 365 앱 실행 중인 경우 Office LTSC 2021 또는 Office 2021 for Mac에서 사용할 수 있는 기능이 이미 있으며 미리 보기에 참여할 필요가 없습니다.
+[Office LTSC 2021 시스템 요구 사항](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources?rtc=1#coreui-heading-kg69bnh)
 
-미리 보기 중에 Office 도움이 필요한 경우 지원 및 피드백 제공을 [참조하세요.](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview#getting-support-and-providing-feedback)
+[LTSC 2021 Office 배포](https://docs.microsoft.com/deployoffice/ltsc2021/deploy)
+
+[LTSC Office 2021 Preview를 LTSC 2021로 Office 업데이트](https://docs.microsoft.com/deployoffice/ltsc2021/update-from-preview)
