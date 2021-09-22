@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 4e753ec1c6cf8a6512150ccd8c5e881fe7c11704ff21ca15685a505a8f106da2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0eaf4a257a596bfe3f5d6c969d9bb59848cbb383
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53995405"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475439"
 ---
 # <a name="about-built-in-alerts"></a>기본 제공 알림
 
