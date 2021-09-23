@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: eb584743a717246f761b9d9c3d40dd546e4b9630b852c70b45165edcc29e5859
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7078f3d1604fa34533b8eb0c0b9430ba3637ed
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54032528"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475259"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>민감도 레이블을 만드는 방법
 
@@ -35,3 +35,5 @@ ms.locfileid: "54032528"
 1. 필요한 레이블을 모두 만든 경우 해당 주문을 검토하고 필요한 경우 해당 항목을 위나 아래로 이동합니다. 
     
     레이블 순서를 변경하려면 세 개의 점(추가 작업)을 선택한 다음 **위로 이동** 또는 **아래로 이동** 을 선택합니다.
+
+자세한 내용은 [민감도 레이블 및 해당 정책 생성 및 구성](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)을 참조하세요.

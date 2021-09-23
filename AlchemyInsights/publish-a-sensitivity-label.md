@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 1fe426683a8c39d07e59bb4121131ecacf1832075f626b26982ec0ede3c24698
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b9025092c154f2734f74dc547de877e70caac2e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062878"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475223"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>민담도 레이블을 게시하는 방법
 
@@ -39,3 +39,5 @@ ms.locfileid: "54062878"
 1. 사용자 또는 위치에 충돌이 발생할 수 있는 레이블 정책을 여러 개 만드는 경우에는 정책 순서를 검토하고 필요한 경우 해당 항목을 위나 아래로 이동합니다. 레이블 정책의 순서를 변경하려면 세 개의 점(추가 작업)을 선택한 다음 **위로 이동** 또는 **아래로 이동** 을 선택합니다.
 
 마법사를 완료하면 레이블 정책이 자동으로 게시됩니다.
+
+자세한 내용은 [민감도 레이블 및 해당 정책 생성 및 구성](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)을 참조하세요.
