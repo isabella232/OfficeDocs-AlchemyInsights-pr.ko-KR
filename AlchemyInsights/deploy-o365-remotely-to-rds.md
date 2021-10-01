@@ -1,5 +1,5 @@
 ---
-title: RDS엔터프라이즈용 Microsoft 365 앱 터미널 서버 또는 VDI에서 공유하기 위해 배포
+title: RDS Microsoft 365 앱 터미널 서버 또는 VDI에서 공유하기 위해 배포
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
-ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
+ms.openlocfilehash: 81183cf1823480c1b15eba9ba9f519b4e3746b52
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 10/01/2021
-ms.locfileid: "60041012"
+ms.locfileid: "60077256"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>RDS엔터프라이즈용 Microsoft 365 앱 터미널 서버 또는 VDI에서 공유하기 위해 배포
+# <a name="deploying-microsoft-365-apps-for-shared-use-on-rds-terminal-server-or-vdi"></a>RDS Microsoft 365 앱 터미널 서버 또는 VDI에서 공유하기 위해 배포
 
 이전의 Microsoft 365 앱(원격 데스크톱 서비스)를 사용하여 배포하려면 다음을 해야 합니다.
 
@@ -28,7 +28,7 @@ ms.locfileid: "60041012"
 - 추가(이전에는 엔터프라이즈용 Microsoft 365 앱 Plus)를 포함하는 Office 365 있습니다. 예를 들어 Office 365 E3 Microsoft 365 E5 또는 Project 또는 Visio 데스크톱 버전(예: Project 플랜 3 또는 Visio 플랜 2) 또는 Microsoft 365 Business Premium 계획(비즈니스용 Microsoft 365 앱.
 - 공유 컴퓨터 활성화를 사용하도록 설정 자세한 내용은 Overview [of shared computer activation for Microsoft 365 앱.](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation)
 
-**참고:** 공유 컴퓨터 Microsoft 365 앱 모드로 설치하려면 [Microsoft](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds)지원 및 복구 도우미. Office 배포 도구를 사용하여 설치를 사용자 지정하는 선행 요구 사항, 설정 지침 및 지침에 대한 자세한 내용은 [Deploy Microsoft 365 앱 by using Remote Desktop Services를 참조하십시오.](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)
+**참고:** 공유 컴퓨터 Microsoft 365 앱 모드로 설치하려면 [Microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal)지원 및 복구 도우미. Office 배포 도구를 사용하여 설치를 사용자 지정하는 선행 요구 사항, 설정 지침 및 지침에 대한 자세한 내용은 [Deploy Microsoft 365 앱 by using Remote Desktop Services를 참조하십시오.](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)
 
 공유 컴퓨터 활성화와 관련된 오류를 해결하려면 다음을 참조합니다.
 
